@@ -9,7 +9,7 @@ open:
       postmates: https://postmates.com/merchant/alta-calidad-brooklyn
       seamless: https://www.seamless.com/menu/alta-calidad-552-vanderbilt-ave-brooklyn/460349
       caviar: https://www.trycaviar.com/m/alta-calidad-5914
-    notes: All take-out orders come with a free to-go margarita. Pick-up also available <a href="https://www.toasttab.com/alta-calidad/v3">here</a.
+    notes: All take-out orders come with a free to-go margarita. Pick-up also available <a href="https://www.toasttab.com/alta-calidad/v3">here.</a>
     links:
       - title: Employee Relief Fund
         url: https://www.gofundme.com/f/alta-calidad-employee-relief-fund
@@ -81,6 +81,19 @@ open:
     hours: 12 - 9PM (Sun/Wed), 12 - 10PM (Thu - Sat)
     notes: Drafts, cans, and food to go. Bring a growler/thermos/water bottle/etc.
     last_updated: 3/18
+
+  - name: Faun
+    url: https://faun.nyc
+    instagram: https://www.instagram.com/faun.nyc/
+    phone: (718) 576-6120
+    delivery:
+      caviar: https://www.trycaviar.com/m/faun-17403
+    links:
+      - title: Staff Relief Fund
+        url: https://www.gofundme.com/f/faun-staff-relief-fund
+      - title: Gift cards (25% off)
+        url: https://faun.nyc/gift-cards
+    last_updated: 3/16
 
   - name: Gold Star Beer Counter
     url: http://goldstarbeercounter.com

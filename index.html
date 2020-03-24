@@ -58,11 +58,10 @@ title: Help Prospect Heights
             <div class="f7 lh-copy black-70"><a class="link dim purple" href="tel:{{ place.phone }}">{{ place.phone }}</a></div>
             {% endif %} {% if place.hours %}
             <div class="f7 lh-copy black-70">{{ place.hours}}</div>
-            {% endif %} {% if place.notes %}
+            {% endif %}
             <div>
               <p class="i f6 lh-copy">{{ place.notes }}</p>
             </div>
-            {% endif %}
             <div class="mb1">
               {% if place.delivery.caviar %}
               <a href="{{ place.delivery.caviar }}"><img class="delivery_icon" src="icons/caviar.png"/></a>
