@@ -2,7 +2,7 @@ open:
   - name: Amorina Pizza
     url: http://www.amorinapizza.com/
     instagram: https://www.instagram.com/amorinapizza/
-    hours: 5 - 11PM (Thu-Sat), 5-10PM (Sun)
+    hours: 5 - 11PM (Thu-Sat), 5 - 10PM (Sun)
     phone: (917) 905-2279
     notes: Call or order take-out or delivery on Seamless. Days and hours may change based on demand.
     delivery:
@@ -47,6 +47,16 @@ open:
     hours: 11AM - 9PM
     notes: Beer and cider to go. Check website and <a href="https://untappd.com/v/gold-star-beer-counter/3171446">Untappd</a> for inventory. Accepting credit cards and Venmo.
     last_updated: 3/16
+
+  - name: Hungry Ghost
+    hours: 7AM - 5PM
+    url: https://www.hungryghostcoffee.com/
+    instagram: https://www.instagram.com/hungryghostcoffee/
+    notes: Serving take-out
+    links:
+      - title: Gift cards (20% off)
+        url: https://squareup.com/gift/86HHGQC7C1RMH/order
+    last_updated: 3/23
 
   - name: James
     url: http://www.jamesrestaurantny.com
@@ -118,6 +128,17 @@ open:
     delivery:
       chownow: https://direct.chownow.com/order/18159/locations/26047
     last_updated: 3/23
+
+  - name: White Tiger
+    hours: 5 – 10PM (11PM Fri/Sat)
+    url: http://www.whitetiger.nyc
+    instagram: https://www.instagram.com/whitetigerbklyn/
+    phone: (718) 552-2272
+    delivery:
+      seamless: https://www.seamless.com/menu/white-tiger-601-vanderbilt-ave-brooklyn/1981045
+      doordash: https://www.doordash.com/store/white-tiger-brooklyn-132915/en-US
+    notes: Delivery through Seamless/DoorDash. Call for pick-up.
+    last_updated: 3/16
 
 closed:
   - name: Ample Hills
