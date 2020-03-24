@@ -1,0 +1,104 @@
+---
+title: Help Prospect Heights
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Help Prospect Heights</title>
+    <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Yellowtail" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+  </head>
+  <body class="w-100 sans-serif bg-black-10 code">
+    <main class="black-70 mh5-ns mh2-m mh2">
+      <h1 class="f1 lh-title tc yellowtail green">Help Prospect Heights!</h1>
+      <p class="f5 lh-copy tc">
+        Things are moving fast – please follow each business on Instagram for their latest updates.
+      </p>
+      <p class="f7 lh-copy tc">Have a correction or addition? Please <a href="">contribute here</a>.</p>
+      <div class="flex flex-wrap center cf">
+        {% for place in site.data.places.open %}
+
+        <div class="w-100 w-100-m w-third-ns pa2">
+          <div class="bg-white shadow-4 br2 h-100 pa3">
+            <div class="f4 lh-copy mv0 pa0 ttu">
+              {% if place.url %}
+              <a class="link dim dark-blue" href="{{ place.url }}">{{ place.name }}</a>{% else %} {{ place.name }} {% endif %} {% if
+              place.instagram %}<a class="v-mid" href="{{ place.instagram }}"><img class="social_icon" src="icons/instagram.png"/></a>{%
+              endif %} {% if place.untappd %}<a class="v-mid" href="{{ place.untappd }}"
+                ><img class="social_icon" src="icons/untappd.png"/></a
+              >{% endif %}
+            </div>
+            {% if place.phone %}
+            <div class="f7 lh-copy black-70"><a class="link dim purple" href="tel:{{ place.phone }}">{{ place.phone }}</a></div>
+            {% endif %} {% if place.hours %}
+            <div class="f7 lh-copy black-70">{{ place.hours}}</div>
+            {% endif %} {% if place.notes %}
+            <div>
+              <p class="i f6 lh-copy">{{ place.notes }}</p>
+            </div>
+            {% endif %}
+            <div class="mb1">
+              {% if place.delivery.caviar %}
+              <a href="{{ place.delivery.caviar }}"><img class="delivery_icon" src="icons/caviar.png"/></a>
+              {% endif %} {% if place.delivery.chownow %}
+              <a href="{{ place.delivery.chownow }}"><img class="delivery_icon" src="icons/chownow.png"/></a>
+              {% endif %} {% if place.delivery.doordash%}
+              <a href="{{ place.delivery.doordash }}"><img class="delivery_icon" src="icons/doordash.jpg"/></a>
+              {% endif %} {% if place.delivery.seamless %}
+              <a href="{{ place.delivery.seamless }}"><img class="delivery_icon" src="icons/seamless.png"/></a>
+              {% endif %} {% if place.delivery.uber_eats %}
+              <a href="{{ place.delivery.uber_eats }}"><img class="delivery_icon" src="icons/uber_eats.png"/></a>
+              {% endif %}
+            </div>
+
+            {% for link in place.links %}
+            <p><a class="f6 link dim dark-green" href="{{ link.url }}">{{ link.title }}</a></p>
+            {% endfor %} {% if place.last_updated %}
+            <div class="mb0 pb0 f7 lh-copy black-40">Last updated: {{ place.last_updated}}</div>
+            {% endif %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+
+      <div class="flex flex-wrap center cf">
+        <div class="w-100">
+          <h1 class="f3 lh-copy ttu tc light-red">Closed</h1>
+        </div>
+        {% for place in site.data.places.closed %}
+
+        <div class="w-100 w-100-m w-third-ns pa2">
+          <div class="bg-white shadow-4 br2 h-100 pa3">
+            <div class="f4 lh-copy mv0 pa0 ttu">
+              {% if place.url %}
+              <a class="link dim dark-blue" href="{{ place.url }}">{{ place.name }}</a>{% else %} {{ place.name }} {% endif %} {% if
+              place.instagram %}<a class="v-mid" href="{{ place.instagram }}"><img class="social_icon" src="icons/instagram.png"/></a>{%
+              endif %} {% if place.untappd %}<a class="v-mid" href="{{ place.untappd }}"
+                ><img class="social_icon" src="icons/untappd.png"/></a
+              >{% endif %}
+            </div>
+            {% if place.notes %}
+            <div>
+              <p class="i f6 lh-copy">{{ place.notes }}</p>
+            </div>
+            {% endif %} {% for link in place.links %}
+            <p><a class="f6 link dim dark-green" href="{{ link.url }}">{{ link.title }}</a></p>
+            {% endfor %} {% if place.last_updated %}
+            <div class="mb0 pb0 f7 lh-copy black-40">Last updated: {{ place.last_updated}}</div>
+            {% endif %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </main>
+  </body>
+</html>

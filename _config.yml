@@ -1,0 +1,14 @@
+# Setup
+title: Help Prospect Heights
+url: http://irace.me/prospect-heights
+
+# Custom vars
+github:
+  repo: https://github.com/irace/prospect-heights
+
+sass:
+  # Where you keep your scss files
+  sass_dir: /
+  # Where SASS should look for other SCSS
+  load_paths:
+    - node_modules/

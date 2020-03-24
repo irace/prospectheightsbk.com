@@ -1,0 +1,29 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@import "node_modules/tachyons-sass/tachyons.scss";
+
+.logo {
+  @extend .v-mid, .br3;
+
+  // display: inline-block;
+  width: 30px;
+  height: 30px;
+}
+
+.yellowtail {
+  font-family: "Yellowtail", cursive;
+}
+
+.social_icon {
+  @extend .br3;
+
+  width: 25px;
+}
+
+.delivery_icon {
+  @extend .br3;
+
+  width: 35px;
+}
