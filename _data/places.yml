@@ -15,10 +15,34 @@ open:
     untappd: https://untappd.com/v/beer-street-south/9792005
     hours: 2 - 8PM
     notes: Pick-up available now, pre-orders and delivery available soon.
-    last_updated: 3/23
     links:
       - title: Gift cards
         url: https://squareup.com/gift/C3K54BY60YNAP/order
+    last_updated: 3/23
+
+  - name: BKLYN Larder
+    url: https://www.bklynlarder.com
+    instagram: https://www.instagram.com/bklynlarder/
+    phone: (718) 783-1250
+    notes: “Call us to get all of your groceries and Larder goods delivered… including beer! We can walk you through what’s available and we can even FaceTime you if you’d like to shop through video.”
+    last_updated: 3/23
+
+  - name: Blue Marble
+    url: https://www.bluemarbleicecream.com
+    instagram: https://www.instagram.com/bluemarblebk/
+    hours: 8AM - 4PM
+    phone: (718) 399-6926
+    notes: Coffee, pastries, pints, and cups available from the take-out window or for delivery via Postmates. “Our hours and offerings may vary, but we will post daily.”
+    delivery:
+      postmates: https://postmates.com/merchant/blue-marble-brooklyn
+    last_updated: 3/22
+
+  - name: Cheryl’s Global Soul
+    url: https://www.cherylsglobalsoul.com
+    hours: 12 - 8PM
+    phone: (347) 529-2855
+    notes: Call for pickup and delivery. <a href="https://12fcfcc5-9c0c-71b4-d2e6-789a72c3925c.filesusr.com/ugd/370d25_c8eae6a23a7944f28114f5f0b83f4f3a.pdf">Delivery menu here</a>.
+    last_updated: 3/19
 
   - name: Chuko
     url: http://www.chukobk.com

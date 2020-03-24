@@ -70,6 +70,8 @@ title: Help Prospect Heights
               <a href="{{ place.delivery.chownow }}"><img class="delivery_icon" src="icons/chownow.png"/></a>
               {% endif %} {% if place.delivery.doordash%}
               <a href="{{ place.delivery.doordash }}"><img class="delivery_icon" src="icons/doordash.jpg"/></a>
+              {% endif %} {% if place.delivery.postmates%}
+              <a href="{{ place.delivery.postmates }}"><img class="delivery_icon" src="icons/postmates.jpg"/></a>
               {% endif %} {% if place.delivery.seamless %}
               <a href="{{ place.delivery.seamless }}"><img class="delivery_icon" src="icons/seamless.png"/></a>
               {% endif %} {% if place.delivery.uber_eats %}
