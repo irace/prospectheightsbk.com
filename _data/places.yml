@@ -95,6 +95,14 @@ open:
         url: https://faun.nyc/gift-cards
     last_updated: 3/16
 
+  - name: Geido
+    url: https://geido.nyc
+    hours: 5:30 - 10PM (Wed-Sun), 12:30-3PM (Sat-Sun)
+    phone: (718) 638-8866
+    notes: Accepting walk-ins for take-out and calls/online orders for pickup. Delivery coming soon.
+    delivery:
+      chownow: https://direct.chownow.com/order/13995/locations/19649
+
   - name: Gen Sushi
     url: http://www.genbrooklyn.com
     phone: (718) 398-3550
@@ -199,6 +207,17 @@ open:
     phone: (212) 864-6137
     notes: Open for pick-up and delivery (I’m unable to find on DoorDash but they claim to be available there)
     last_updated: 3/17
+
+  - name: Van Leeuwen Ice Cream
+    url: https://vanleeuwenicecream.com/location/prospect-heights/
+    instagram: https://www.instagram.com/vanleeuwenicecream/
+    hours: 11AM - 11PM (12AM Fri/Sat)
+    phone: (347) 240-7453
+    notes: Order online for delivery or pick-up
+    delivery:
+      caviar: https://trycaviar.app.link/7jIqsTuzjW
+      uber_eats: https://www.ubereats.com/en-US/new-york/food-delivery/van-leeuwen-artisan-ice-cream-prospect-heights/lRdl_U-mS8yow9R-xiO2ZQ/
+      postmates: https://postmates.com/merchant/van-leeuwen-ice-cream-brooklyn
 
   - name: White Tiger
     hours: 5 – 10PM (11PM Fri/Sat)
