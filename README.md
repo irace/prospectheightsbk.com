@@ -2,9 +2,9 @@
 
 **CONTRIBUTIONS WELCOME**, both in terms of content and design/features.
 
-## Implementation
+Content is all managed within `_data/places.yml`.
 
-This website is built using [Jekyll](https://jekyllrb.com) and [Tachyons](http://tachyons.io) and served using GitHub pages.
+This website is built using [Jekyll](https://jekyllrb.com) and [Tachyons](http://tachyons.io) and served using GitHub Pages.
 
 # License
 
