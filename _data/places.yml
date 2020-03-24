@@ -95,6 +95,15 @@ open:
         url: https://faun.nyc/gift-cards
     last_updated: 3/16
 
+  - name: Gen Sushi
+    url: http://www.genbrooklyn.com
+    phone: (718) 398-3550
+    hours: 5 - 9PM
+    notes: Open for pick-up and delivery (please call if you have dietary restrictions). Specific days of operation TBD.
+    delivery:
+      upserve: https://app.upserve.com/s/gen-brooklyn
+    last_updated: 2/24
+
   - name: Gold Star Beer Counter
     url: http://goldstarbeercounter.com
     instagram: https://www.instagram.com/goldstarbeercounter/
@@ -183,6 +192,13 @@ open:
     delivery:
       chownow: https://direct.chownow.com/order/18159/locations/26047
     last_updated: 3/23
+
+  - name: Tom’s Restaurant
+    url: https://tomsbrooklyn.com
+    instagram: https://www.instagram.com/tomsrestaurantnyc/
+    phone: (212) 864-6137
+    notes: Open for pick-up and delivery (I’m unable to find on DoorDash but they claim to be available there)
+    last_updated: 3/17
 
   - name: White Tiger
     hours: 5 – 10PM (11PM Fri/Sat)
