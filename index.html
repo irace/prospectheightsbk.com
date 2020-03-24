@@ -98,10 +98,10 @@ title: Help Prospect Heights
             <div class="f4 lh-copy mv0 pa0 ttu">
               {% if place.url %}
               <a class="link dim dark-blue" href="{{ place.url }}">{{ place.name }}</a>{% else %} {{ place.name }} {% endif %} {% if
-              place.instagram %}<img style="width: 25px;" src="icons/instagram.png" />{% endif %} {% if place.untappd %}<a
+              place.instagram %}<a class="v-mid" href="{{ place.instagram }}"><img style="width: 25px;" src="icons/instagram.png" /></a>{% endif %} {% if place.untappd %}<a
                 class="v-mid"
                 href="{{ place.untappd }}"
-                ><img style="width: 25px;" src="icons/untappd.png"/></a
+                ><a class="v-mid" href="{{ place.instagram }}"><img style="width: 25px;" src="icons/untappd.png"/></a
               >{% endif %}
             </div>
             {% if place.notes %}
@@ -126,7 +126,7 @@ title: Help Prospect Heights
       </div>
     </main>
 
-    <a href="https://github.com/irace/help-prospect-heights" class="github-corner" aria-label="View source on GitHub"
+    <a href="https://github.com/irace/prospectheightsbk.com" class="github-corner" aria-label="View source on GitHub"
       ><svg
         width="80"
         height="80"
