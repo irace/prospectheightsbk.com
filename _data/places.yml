@@ -222,6 +222,24 @@ closed:
         url: https://www.gofundme.com/f/fausto-employee-fund
     last_updated: 3/21
 
+  - name: LaLou
+    url: https://laloubrooklyn.com
+    instagram: https://www.instagram.com/laloubrooklyn/
+    notes: Closed until further notice
+    links:
+      - title: Staff Relief Fund
+        url: https://www.gofundme.com/f/lalou-employee-fund
+    last_updated: 3/16
+
+  - name: Maison Yaki
+    url: http://www.maisonyaki.com/
+    instagram: https://www.instagram.com/maisonyaki/
+    notes: Closed until further notice
+    links:
+      - title: Staff Relief Fund
+        url: https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund
+    last_updated: 3/18
+
   - name: Olmsted
     url: http://olmstednyc.com/
     instagram: https://www.instagram.com/olmstednyc/
@@ -231,15 +249,6 @@ closed:
         url: https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund
       - title: Gift cards
         url: https://ecommerce.custcon.com/Purchase/Select?c=3e6823e0-52c7-4c1b-af3d-1bb13862c508
-    last_updated: 3/18
-
-  - name: Maison Yaki
-    url: http://www.maisonyaki.com/
-    instagram: https://www.instagram.com/maisonyaki/
-    notes: Closed until further notice
-    links:
-      - title: Staff Relief Fund
-        url: https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund
     last_updated: 3/18
 
   - name: Weather Up
