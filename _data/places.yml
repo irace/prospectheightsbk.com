@@ -251,6 +251,17 @@ closed:
         url: https://ecommerce.custcon.com/Purchase/Select?c=3e6823e0-52c7-4c1b-af3d-1bb13862c508
     last_updated: 3/18
 
+  - name: Sweet Polly
+    instagram: https://www.instagram.com/sweetpollynyc/
+    url: http://www.esweetpollynyc.com
+    notes: Closed until further notice
+    links:
+      - title: Staff Relief Fund
+        url: https://www.gofundme.com/f/sweet-polly-team-relief-fund
+      - title: Gift cards (20% off)
+        url: https://squareup.com/gift/89TMFJQFPZE0N/order
+    last_updated: 3/22
+
   - name: Weather Up
     url: http://www.weatherupnyc.com/
     notes: Closed until further notice
