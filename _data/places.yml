@@ -335,6 +335,15 @@ closed:
         url: https://www.bklynclay.com/gift-certificates
     last_updated: 3/24
 
+  - name: Brooklyn Metal Works
+    url: http://bkmetalworks.com
+    instagram: https://www.instagram.com/brooklynmetalworks/
+    notes: Closed until further notice. Shop online or buy gift certificates.
+    last_updated: 3/24
+    links:
+      - title: Gift cards
+        url: https://shop.bkmetalworks.com/product/gift-certificates
+
   - name: Ciao, Gloria
     url: https://www.ciaogloria.com
     instagram: https://www.instagram.com/ciaoglorianyc/
@@ -408,10 +417,19 @@ closed:
     url: http://sitandwonder.net/index.html
     instagram: https://www.instagram.com/sitandwondercoffeeshop/
     notes: Closed until further notice
-    last_updated: 3/22
     links:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/for-our-amazing-baristas
+    last_updated: 3/22
+
+  - name: Specific Gravity
+    url: https://specificgravitynyc.com
+    instagram: https://www.instagram.com/specific_gravity/
+    notes: Shop online or buy gift certificates
+    links:
+      - title: Gift cards
+        url: https://specificgravitynyc.com/products/gift-card-1
+    last_updated: 3/24
 
   - name: Sweet Polly
     instagram: https://www.instagram.com/sweetpollynyc/
