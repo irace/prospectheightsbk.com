@@ -38,6 +38,18 @@ open:
         url: https://squareup.com/gift/C3K54BY60YNAP/order
     last_updated: 3/23
 
+  - name: Bierwax
+    url: https://www.bierwaxnyc.com
+    instagram: https://www.instagram.com/bierwax/
+    untappd: https://untappd.com/v/bierwax/7133448
+    phone: (347) 533-8449
+    hours: 2-7 PM
+    notes: <a href="https://www.bierwaxnyc.com/beerlist">View the menu online</a>. ⁣Call ahead and they will get your order ready. Credit cards only.
+    links:
+      - title: Gift cards
+        url: https://squareup.com/gift/MY2KY2405T5NT/order
+    last_updated: 3/24
+
   - name: BKLYN Larder
     url: https://www.bklynlarder.com
     instagram: https://www.instagram.com/bklynlarder/
