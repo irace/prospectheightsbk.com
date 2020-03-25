@@ -83,6 +83,16 @@ open:
       postmates: https://postmates.com/merchant/born-thai-brooklyn
     last_updated: 3/16
 
+  - name: Burrito Bar & Kitchen
+    url: https://www.burritobarbrooklyn.com
+    instagram: https://www.instagram.com/burritobarbk
+    phone: (718) 230-8646
+    hours: 12 - 10PM
+    notes: Offering curbside carry-out and delivery (alcohol included)
+    delivery:
+      chownow: https://direct.chownow.com/order/7878/locations/10581
+    last_updated: 3/20
+
   - name: Cheryl’s Global Soul
     url: https://www.cherylsglobalsoul.com
     hours: 12 - 8PM
@@ -425,6 +435,15 @@ closed:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/milk-bar-brunswick-team-relief-fund
     last_updated: 3/25
+
+  - name: Ogliastro Pizza Bar
+    url: https://ogliastropizza.com
+    instagram: https://www.instagram.com/ogliastro.brooklyn/
+    notes: Closed until further notice. “We will be starting a GoFundMe for our staff soon”
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/please-help-the-ogliostro-staff
+    last_updated: 3/24
 
   - name: Olmsted
     url: http://olmstednyc.com/
