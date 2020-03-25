@@ -324,6 +324,17 @@ closed:
     notes: Hoping to reopen “on or around April 9th”
     last_updated: 3/18
 
+  - name: BKLYN Clay
+    url: https://bklynclay.com
+    instagram: https://www.instagram.com/bklynclay/
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.bklynclay.com/checkout/donate?donatePageId=5e795b6604497b59a692c207
+      - title: Gift cards
+        url: https://www.bklynclay.com/gift-certificates
+    last_updated: 3/24
+
   - name: Ciao, Gloria
     url: https://www.ciaogloria.com
     instagram: https://www.instagram.com/ciaoglorianyc/
