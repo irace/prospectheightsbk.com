@@ -186,6 +186,13 @@ open:
       caviar: https://www.trycaviar.com/m/lincoln-station-758
     last_updated: 3/20
 
+  - name: Little Cupcake Bakeshop
+    phone: (718) 783-0770
+    url: http://www.littlecupcakebakeshop.com
+    instagram: https://www.instagram.com/littlecupcakebakeshop/
+    notes: Open for take-out
+    last_updated: 3/25
+
   - name: MeMe’s Diner
     url: https://www.memesdiner.com
     hours: 10AM - 4PM
@@ -200,6 +207,19 @@ open:
         url: https://www.memesdiner.com/covid-19-staff-fund-donation
       - title: Gift cards
         url: https://www.memesdiner.com/gift-certificates
+
+  - name: Lowerline
+    hours: 12 - 8PM
+    url: https://www.lowerlinebk.com
+    instagram: https://www.instagram.com/lowerline/
+    phone: (347) 533-7110
+    notes: Pick-up and delivery via Caviar (although preference for calling directly)
+    delivery:
+      caviar: https://www.trycaviar.com/m/lowerline-11359
+    links:
+      - title: Gift cards
+        url: https://squareup.com/gift/W0XRH9R9BY895/order
+    last_updated: 3/25
 
   - name: Morgan’s BBQ
     url: https://www.morgansbrooklynbarbecue.com
@@ -396,6 +416,15 @@ closed:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund
     last_updated: 3/18
+
+  - name: Milk Bar
+    url: https://www.instagram.com/milkbarbrooklyn/
+    instagram: https://www.milkbarbrooklyn.com
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/milk-bar-brunswick-team-relief-fund
+    last_updated: 3/25
 
   - name: Olmsted
     url: http://olmstednyc.com/
