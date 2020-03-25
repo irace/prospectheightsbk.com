@@ -175,6 +175,17 @@ open:
         url: http://www.jamesrestaurantny.com/shop
     last_updated: 3/22
 
+  - name: Lincoln Station
+    url: https://www.stationfoods.com
+    instagram: https://instagram.com/lincolnstationbk
+    hours: 7AM - 9PM (Mon-Fri), 8AM - 9PM (Sat-Sun)
+    phone: (718) 399-2211
+    notes: Open for pick-up and delivery
+    delivery:
+      seamless: https://www.seamless.com/menu/lincoln-station-409-lincoln-pl-brooklyn/315738
+      caviar: https://www.trycaviar.com/m/lincoln-station-758
+    last_updated: 3/20
+
   - name: MeMe’s Diner
     url: https://www.memesdiner.com
     hours: 10AM - 4PM
@@ -370,6 +381,17 @@ closed:
       - title: Gift cards
         url: https://ecommerce.custcon.com/Purchase/Select?c=3e6823e0-52c7-4c1b-af3d-1bb13862c508
     last_updated: 3/18
+
+  - name: Oxalis
+    url: https://www.oxalisnyc.com
+    instagram: https://www.instagram.com/oxalisnyc/
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/oxalis-employee-relief-fund
+      - title: Gift cards
+        url: https://www.oxalisnyc.com/store/gift-cards/
+    last_updated: 3/16
 
   - name: Sit & Wonder
     url: http://sitandwonder.net/index.html
