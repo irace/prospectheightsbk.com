@@ -11,7 +11,7 @@ open:
       caviar: https://www.trycaviar.com/m/alta-calidad-5914
     notes: All take-out orders come with a free to-go margarita. Pick-up also available <a href="https://www.toasttab.com/alta-calidad/v3">here.</a>
     links:
-      - title: Employee Relief Fund
+      - title: Staff relief fund
         url: https://www.gofundme.com/f/alta-calidad-employee-relief-fund
       - title: Gift cards
         url: https://www.toasttab.com/alta-calidad/giftcards
@@ -43,6 +43,9 @@ open:
     instagram: https://www.instagram.com/bklynlarder/
     phone: (718) 783-1250
     notes: “Call us to get all of your groceries and Larder goods delivered… including beer! We can walk you through what’s available and we can even FaceTime you if you’d like to shop through video.”
+    links:
+      - title: Gift cards
+        url: https://www.bklynlarder.com/gift-cards/
     last_updated: 3/23
 
   - name: Blue Marble
@@ -68,7 +71,7 @@ open:
     phone: (347) 425-9570
     hours: 5:30 - 9PM
     last_updated: 3/22
-    notes: Beer, wine, and sake to-go. Call or order online.
+    notes: Beer, wine, and sake to-go (20% off). Call or order online.
     delivery:
       caviar: https://www.trycaviar.com/m/chuko-ramen-3843
       doordash: https://www.doordash.com/store/chuko-ramen-brooklyn-22335/en-US
@@ -89,7 +92,7 @@ open:
     delivery:
       caviar: https://www.trycaviar.com/m/faun-17403
     links:
-      - title: Staff Relief Fund
+      - title: Staff relief fund
         url: https://www.gofundme.com/f/faun-staff-relief-fund
       - title: Gift cards (25% off)
         url: https://faun.nyc/gift-cards
@@ -137,8 +140,10 @@ open:
     hours: 12 - 8PM
     notes: Take-out and provisions (including batch cocktails). Pay over the phone and they will bring your bag outside for you. Delivery coming soon via Caviar.
     links:
-      - title: Staff Relief Fund
+      - title: Staff relief fund
         url: https://www.gofundme.com/f/james-staff-emergency-relief-fund
+      - title: Gift cards and shop
+        url: http://www.jamesrestaurantny.com/shop
     last_updated: 3/22
 
   - name: MeMe’s Diner
@@ -151,8 +156,10 @@ open:
     notes: Order brunch delivery via Caviar or by calling. Wine/beer/liquor available (some at retail prices).
     last_updated: 3/22
     links:
-      - title: Staff Relief Fund
+      - title: Staff relief fund
         url: https://www.memesdiner.com/covid-19-staff-fund-donation
+      - title: Gift cards
+        url: https://www.memesdiner.com/gift-certificates
 
   - name: Morgan’s BBQ
     url: https://www.morgansbrooklynbarbecue.com
@@ -168,6 +175,8 @@ open:
     links:
       - title: Gift cards
         url: https://www.morgansbrooklynbarbecue.com/store/gift-cards/
+      - title: Merchandise
+        url: https://www.morgansbrooklynbarbecue.com/store/
     last_updated: 3/23
 
   - name: Nourish Thai
@@ -188,7 +197,7 @@ open:
     notes: Call to order. Menu changes daily with burger kits and cocktails to go. Cash and Venmo accepted, gift cards purchasable via credit card.
     last_updated: 3/18
     links:
-      - title: Staff Relief Fund
+      - title: Staff relief fund
         url: https://www.gofundme.com/f/rose039s-staff-assistance-fund
 
   - name: Stocked
@@ -246,6 +255,9 @@ closed:
     url: https://www.doughnutplant.com
     instagram: https://www.instagram.com/doughnutplant/
     notes: Closed Monday/Tuesday/Wednesday. “We promise this is not goodbye, and we will update you on Wednesday.”
+    links:
+      - title: Gift cards
+        url: https://www.doughnutplant.com/store/gift-cards/
     last_updated: 3/22
 
   - name: Fausto
@@ -253,7 +265,7 @@ closed:
     instagram: https://www.instagram.com/faustobrooklyn/
     notes: Closed until further notice.
     links:
-      - title: Staff Relief Fund
+      - title: Staff relief fund
         url: https://www.gofundme.com/f/fausto-employee-fund
     last_updated: 3/21
 
@@ -262,7 +274,7 @@ closed:
     instagram: https://www.instagram.com/laloubrooklyn/
     notes: Closed until further notice
     links:
-      - title: Staff Relief Fund
+      - title: Staff relief fund
         url: https://www.gofundme.com/f/lalou-employee-fund
     last_updated: 3/16
 
@@ -271,7 +283,7 @@ closed:
     instagram: https://www.instagram.com/maisonyaki/
     notes: Closed until further notice
     links:
-      - title: Staff Relief Fund
+      - title: Staff relief fund
         url: https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund
     last_updated: 3/18
 
@@ -280,7 +292,7 @@ closed:
     instagram: https://www.instagram.com/olmstednyc/
     notes: Closed until further notice
     links:
-      - title: Staff Relief Fund
+      - title: Staff relief fund
         url: https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund
       - title: Gift cards
         url: https://ecommerce.custcon.com/Purchase/Select?c=3e6823e0-52c7-4c1b-af3d-1bb13862c508
@@ -291,7 +303,7 @@ closed:
     url: http://www.esweetpollynyc.com
     notes: Closed until further notice
     links:
-      - title: Staff Relief Fund
+      - title: Staff relief fund
         url: https://www.gofundme.com/f/sweet-polly-team-relief-fund
       - title: Gift cards (20% off)
         url: https://squareup.com/gift/89TMFJQFPZE0N/order
@@ -303,5 +315,5 @@ closed:
     instagram: https://www.instagram.com/weatherupbars/
     links:
       - url: https://www.gofundme.com/f/weather-up-staff-relief
-        title: Staff Relief Fund
+        title: Staff relief fund
     last_updated: 3/16
