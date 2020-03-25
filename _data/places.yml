@@ -121,11 +121,15 @@ open:
 
   - name: Gen Sushi
     url: http://www.genbrooklyn.com
+    instagram: https://www.instagram.com/gen.brooklyn/
     phone: (718) 398-3550
     hours: 5 - 9PM
     notes: Open for pick-up and delivery (please call if you have dietary restrictions). Specific days of operation TBD.
     delivery:
       upserve: https://app.upserve.com/s/gen-brooklyn
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/gen-restaurant-employee-fund
     last_updated: 2/24
 
   - name: Gold Star Beer Counter
