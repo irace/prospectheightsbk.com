@@ -58,6 +58,19 @@ open:
       postmates: https://postmates.com/merchant/blue-marble-brooklyn
     last_updated: 3/22
 
+  - name: Born Thai
+    phone: (347) 663-3674
+    hours: 12 - 9:30PM
+    url: https://www.bornbklyn.com/
+    instagram: https://www.instagram.com/bornthaibklyn/
+    notes: Take-out and delivery
+    delivery:
+      doordash: https://www.doordash.com/store/bergen-bagels-brooklyn-312992/en-US
+      seamless: https://www.seamless.com/menu/born-thai-293-flatbush-ave-brooklyn/1152911
+      uber_eats: https://www.ubereats.com/new-york/food-delivery/born-thai/GwItgnPZQ8uqjmzCyDQ0JA
+      postmates: https://postmates.com/merchant/born-thai-brooklyn
+    last_updated: 3/16
+
   - name: Cheryl’s Global Soul
     url: https://www.cherylsglobalsoul.com
     hours: 12 - 8PM
@@ -166,7 +179,7 @@ open:
     instagram: https://www.instagram.com/morgansbrooklynbbq/
     phone: (718) 622-2224
     hours: 4 - 10PM (Mon - Fri), 12 - 10PM (Sat - Sun)
-    notes: We now deliver beer along with food delivery or take out orders.
+    notes: We now deliver beer along with food delivery or take-out orders.
     delivery:
       caviar: https://www.trycaviar.com/m/morgans-brooklyn-bbq-11362?_branch_match_id=652587222868224742&cav_medium=widget&cav_source=mer-_HNorLt-e21sQo8-1Lttcg&how=delivery&merchant_token=mer-_HNorLt-e21sQo8-1Lttcg&utm_campaign=link&utm_content=morgans-brooklyn-barbecue-11362&utm_medium=restaurant_partners&utm_source=widget&utm_term=brooklyn-queens
       seamless: https://www.seamless.com/menu/morgans-brooklyn-barbecue-267-flatbush-ave-brooklyn/317192
@@ -188,6 +201,17 @@ open:
     delivery:
       caviar: https://www.trycaviar.com/m/nourish-thai-12825
     last_updated: 3/17
+
+  - name: R&D Foods
+    url: https://www.rdfoodsbklyn.com/
+    instagram: https://www.instagram.com/rdfoods/
+    phone: (347) 915-1196
+    hours: 8AM – 7PM
+    notes: Planning to reopen “next week” with online order for pickup and delivery of prepared foods and groceries
+    last_updated: 3/24
+    links:
+      - title: Gift cards
+        url: https://www.rdfoodsbklyn.com/gifts
 
   - name: Rose’s
     phone: (718) 230-0427
@@ -217,6 +241,19 @@ open:
     notes: Open for pick-up and delivery (I’m unable to find on DoorDash but they claim to be available there)
     last_updated: 3/17
 
+  - name: Underhill Greek Eatery
+    phone: (718) 484-3744
+    hours: 3:30PM - 9:30PM
+    url: https://underhillbrooklyn.com/
+    instagram: https://www.instagram.com/underhillgreekeatery/
+    notes: 10% off takeout orders of $50+
+    delivery:
+      caviar: https://www.trycaviar.com/m/underhill-cafe-and-grill-10596
+      doordash: https://www.doordash.com/store/underhill-cafe-and-grill-brooklyn-312894/en-US
+      seamless: https://www.seamless.com/menu/view/768940
+      uber_eats: https://www.ubereats.com/new-york/food-delivery/underhill-cafe-%26-grill/a9MCFJrEQKy95yjuR4e4Rg
+      postmates: https://postmates.com/merchant/underhill-cafe-grill-brooklyn
+
   - name: Van Leeuwen Ice Cream
     url: https://vanleeuwenicecream.com/location/prospect-heights/
     instagram: https://www.instagram.com/vanleeuwenicecream/
@@ -238,6 +275,15 @@ open:
       doordash: https://www.doordash.com/store/white-tiger-brooklyn-132915/en-US
     notes: Delivery through Seamless/DoorDash. Call for pick-up.
     last_updated: 3/16
+
+  - name: Zaytoons
+    phone: (718) 230-3200
+    url: https://zaytoons.com
+    instagram: https://www.instagram.com/zaytoonsrestaurant/
+    notes: Take-out and delivery
+    delivery:
+      caviar: https://www.trycaviar.com/m/zaytoons-12972
+    last_updated: 3/17
 
 closed:
   - name: Ample Hills
@@ -297,6 +343,15 @@ closed:
       - title: Gift cards
         url: https://ecommerce.custcon.com/Purchase/Select?c=3e6823e0-52c7-4c1b-af3d-1bb13862c508
     last_updated: 3/18
+
+  - name: Sit & Wonder
+    url: http://sitandwonder.net/index.html
+    instagram: https://www.instagram.com/sitandwondercoffeeshop/
+    notes: Closed until further notice
+    last_updated: 3/22
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/for-our-amazing-baristas
 
   - name: Sweet Polly
     instagram: https://www.instagram.com/sweetpollynyc/
