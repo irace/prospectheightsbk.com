@@ -184,6 +184,15 @@ open:
         url: https://squareup.com/gift/86HHGQC7C1RMH/order
     last_updated: 3/23
 
+  - name: The Islands
+    phone: (718) 398-3575
+    hours: 2 - 10:30PM (Tue-Thu), 1 - 10:30PM (Fri), 12 - 10:30PM (Sat/Sun)
+    notes: Open for pick-up and delivery
+    delivery:
+      postmates: https://postmates.com/merchant/the-islands-brooklyn-1
+      uber_eats: https://www.ubereats.com/new-york/food-delivery/the-islands/9jFnKcjVRBuUOpsVlzSgsg
+    last_updated: 3/25
+
   - name: James
     url: http://www.jamesrestaurantny.com
     instagram: https://www.instagram.com/jamesbklyn/
@@ -230,6 +239,19 @@ open:
       - title: Gift cards
         url: https://www.memesdiner.com/gift-certificates
 
+  - name: Mexicocina Agaveria
+    url: https://mexicocinanyc.com
+    instagram: https://www.instagram.com/mexicocina_agaveria/
+    phone: (347) 663-2951
+    hours: 9AM - 11PM (12AM Fri/Sat)
+    notes: Open for pick-up and delivery
+    delivery:
+      seamless: https://www.seamless.com/menu/mexicocina-agaveria-708-washington-ave-brooklyn/1136372
+      caviar: https://www.trycaviar.com/m/mexicocina-agaveria-12562
+      postmates: https://postmates.com/merchant/mexicocina-agaveria-brooklyn
+      ubereats: https://www.ubereats.com/new-york/food-delivery/mexicocina-agaveria/GDr95U2KSjmDvI-oJF323g
+    last_updated: 3/25
+
   - name: Lowerline
     hours: 12 - 8PM
     url: https://www.lowerlinebk.com
@@ -266,7 +288,7 @@ open:
     phone: (718) 789-3981
     url: https://www.nourishthai.com
     instagram: https://www.instagram.com/nourishthai/
-    notes: Take-out and delivery
+    notes: Open for pick-up and delivery
     delivery:
       caviar: https://www.trycaviar.com/m/nourish-thai-12825
     last_updated: 3/17
@@ -461,6 +483,14 @@ closed:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/milk-bar-brunswick-team-relief-fund
     last_updated: 3/25
+
+  - name: Mille-Feuille
+    url: https://www.millefeuille-nyc.com
+    instagram: https://www.instagram.com/millefeuillenyc/
+    notes: Closed until further notice
+    links:
+      - title: Gift cards
+        url: https://www.millefeuille-nyc.com/pages/gift-card
 
   - name: Ogliastro Pizza Bar
     url: https://ogliastropizza.com
