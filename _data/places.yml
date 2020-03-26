@@ -188,6 +188,15 @@ open:
         url: http://www.jamesrestaurantny.com/shop
     last_updated: 3/22
 
+  - name: Joyce Bakeshop
+    url: http://www.joycebakeshop.com
+    instagram: https://www.instagram.com/joycebakeshop/
+    phone: (718) 623-7470
+    hours: 7:30:AM - 7:30PM (Mon-Fri), 9AM - 6PM (Sat/Sun)
+    notes: Take-out
+    links:
+    last_updated: 3/26
+
   - name: Kulushkat
     url: https://kulushkat.com
     hours: 11AM - 11:30PM (Mon/Fri), 12 - 11:30PM (Sat/Sun)
@@ -215,6 +224,29 @@ open:
     instagram: https://www.instagram.com/littlecupcakebakeshop/
     notes: Open for take-out
     last_updated: 3/25
+
+  - name: Lowerline
+    hours: 12 - 8PM
+    url: https://www.lowerlinebk.com
+    instagram: https://www.instagram.com/lowerline/
+    phone: (347) 533-7110
+    notes: Pick-up and delivery via Caviar (although preference for calling directly)
+    delivery:
+      caviar: https://www.trycaviar.com/m/lowerline-11359
+    links:
+      - title: Gift cards
+        url: https://squareup.com/gift/W0XRH9R9BY895/order
+    last_updated: 3/25
+
+  - name: Maya Taqueria
+    url: https://www.mayataqueria.com
+    hours: 11AM - 12AM
+    phone: (732) 535-2717
+    notes: Open for pick-up and delivery
+    delivery:
+      seamless: https://www.seamless.com/menu/maya-taqueria-prospect-heights-637-vanderbilt-ave-brooklyn/80416
+      chownow: https://direct.chownow.com/order/7470/locations/10000
+    last_updated: 3/26
 
   - name: MeMe’s Diner
     url: https://www.memesdiner.com
@@ -251,19 +283,6 @@ open:
       ubereats: https://www.ubereats.com/new-york/food-delivery/mexicocina-agaveria/GDr95U2KSjmDvI-oJF323g
     last_updated: 3/25
 
-  - name: Lowerline
-    hours: 12 - 8PM
-    url: https://www.lowerlinebk.com
-    instagram: https://www.instagram.com/lowerline/
-    phone: (347) 533-7110
-    notes: Pick-up and delivery via Caviar (although preference for calling directly)
-    delivery:
-      caviar: https://www.trycaviar.com/m/lowerline-11359
-    links:
-      - title: Gift cards
-        url: https://squareup.com/gift/W0XRH9R9BY895/order
-    last_updated: 3/25
-
   - name: Morgan’s BBQ
     url: https://www.morgansbrooklynbarbecue.com
     instagram: https://www.instagram.com/morgansbrooklynbbq/
@@ -291,6 +310,16 @@ open:
     delivery:
       caviar: https://www.trycaviar.com/m/nourish-thai-12825
     last_updated: 3/17
+
+  - name: Olde Brooklyn Bagel Shoppe
+    url: http://www.oldebrooklynbagelshop.com
+    instagram: https://www.instagram.com/oldebkbagels/
+    hours: 8AM - 6PM (delivery until 5PM)
+    phone: (718) 622-6227
+    delivery:
+      seamless: https://www.seamless.com/menu/olde-brooklyn-bagel-shoppe-645-vanderbilt-ave-brooklyn/263151
+    notes: Open for pick-up and delivery
+    last_updated: 3/26
 
   - name: Private Yoga Lessons
     url: https://www.privateyogasoho.com
