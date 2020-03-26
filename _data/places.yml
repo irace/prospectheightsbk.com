@@ -311,9 +311,11 @@ open:
 
   - name: Tom’s Restaurant
     url: https://tomsbrooklyn.com
-    instagram: https://www.instagram.com/tomsrestaurantnyc/
+    instagram: https://www.instagram.com/tomsbrooklyn/
     phone: (212) 864-6137
-    notes: Open for pick-up and delivery (I’m unable to find on DoorDash but they claim to be available there)
+    notes: Open for pick-up and delivery
+    delivery:
+      seamless: https://www.seamless.com/menu/toms-restaurant-782-washington-ave-brooklyn/297390
     last_updated: 3/17
 
   - name: Underhill Greek Eatery
