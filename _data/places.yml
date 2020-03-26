@@ -349,15 +349,15 @@ open:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/rose039s-staff-assistance-fund
 
-  - name: Stocked
-    url: https://www.stockedbrooklyn.com/cafe
-    instagram: https://www.instagram.com/stockedbrooklyn/
-    hours: 9AM - 3PM (Mon-Fri), 9AM - 6PM (Sat-Sun)
-    phone: (929) 234-6554
-    notes: Curbside pick-up and delivery. “Please call the restaurant when you arrive and we will bring out your food.”
+  - name: Stocked Burger
+    url: https://www.stockedbrooklyn.com/burgers
+    instagram: http://instagram.com/stockedburger
+    hours: 3 - 9PM
+    phone: (718) 872-5304
+    notes: Open for pick-up and delivery
     delivery:
-      chownow: https://direct.chownow.com/order/18159/locations/26047
-    last_updated: 3/23
+      chownow: https://direct.chownow.com/order/18160/locations/26048
+    last_updated: 3/26
 
   - name: Tom’s Restaurant
     url: https://tomsbrooklyn.com
@@ -596,6 +596,16 @@ closed:
       - title: Gift cards
         url: https://specificgravitynyc.com/products/gift-card-1
     last_updated: 3/24
+
+  - name: Stocked
+    url: https://www.stockedbrooklyn.com/cafe
+    instagram: https://www.instagram.com/stockedbrooklyn/
+    hours: 9AM - 3PM (Mon-Fri), 9AM - 6PM (Sat-Sun)
+    phone: (929) 234-6554
+    notes: Closed “for a couple of days.”
+    delivery:
+      chownow: https://direct.chownow.com/order/18159/locations/26047
+    last_updated: 3/26
 
   - name: Sweet Polly
     instagram: https://www.instagram.com/sweetpollynyc/
