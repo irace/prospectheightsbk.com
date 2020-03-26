@@ -231,6 +231,13 @@ open:
       - title: Gift cards
         url: https://www.memesdiner.com/gift-certificates
 
+  - name: Mermaid’s Garden
+    url: https://www.mermaidsgardennyc.com
+    instagram: https://www.instagram.com/mgfishnyc/
+    phone: (718) 638-1910
+    notes: Delivery available via <a href="https://www.mercato.com/shop/mermaids-garden">Mercato</a>
+    last_updated: 3/21
+
   - name: Mexicocina Agaveria
     url: https://mexicocinanyc.com
     instagram: https://www.instagram.com/mexicocina_agaveria/
