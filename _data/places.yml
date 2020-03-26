@@ -1,22 +1,4 @@
 open:
-  - name: Alta Calidad
-    url: https://altacalidadbk.com
-    instagram: https://www.instagram.com/altacalidadbk/
-    hours: 11AM - 10PM⁣
-    delivery:
-      uber_eats: https://www.ubereats.com/new-york/food-delivery/alta-calidad/L0ktkVRjQbOkllv7UWe1fQ
-      doordash: https://www.doordash.com/store/alta-calidad-brooklyn-133126/
-      postmates: https://postmates.com/merchant/alta-calidad-brooklyn
-      seamless: https://www.seamless.com/menu/alta-calidad-552-vanderbilt-ave-brooklyn/460349
-      caviar: https://www.trycaviar.com/m/alta-calidad-5914
-    notes: All take-out orders come with a free to-go margarita. Pick-up also available <a href="https://www.toasttab.com/alta-calidad/v3">here.</a>
-    links:
-      - title: Staff relief fund
-        url: https://www.gofundme.com/f/alta-calidad-employee-relief-fund
-      - title: Gift cards
-        url: https://www.toasttab.com/alta-calidad/giftcards
-    last_updated: 3/23
-
   - name: Amorina Pizza
     url: http://www.amorinapizza.com/
     instagram: https://www.instagram.com/amorinapizza/
@@ -385,6 +367,25 @@ open:
     last_updated: 3/17
 
 closed:
+  - name: Alta Calidad
+    url: https://altacalidadbk.com
+    instagram: https://www.instagram.com/altacalidadbk/
+    hours: 11AM - 10PM⁣
+    delivery:
+      uber_eats: https://www.ubereats.com/new-york/food-delivery/alta-calidad/L0ktkVRjQbOkllv7UWe1fQ
+      doordash: https://www.doordash.com/store/alta-calidad-brooklyn-133126/
+      postmates: https://postmates.com/merchant/alta-calidad-brooklyn
+      seamless: https://www.seamless.com/menu/alta-calidad-552-vanderbilt-ave-brooklyn/460349
+      caviar: https://www.trycaviar.com/m/alta-calidad-5914
+      toast: https://www.toasttab.com/alta-calidad/v3
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/alta-calidad-employee-relief-fund
+      - title: Gift cards
+        url: https://www.toasttab.com/alta-calidad/giftcards
+    last_updated: 3/25
+
   - name: Ample Hills
     url: https://www.amplehills.com
     instagram: https://www.instagram.com/amplehills/
@@ -522,6 +523,15 @@ closed:
       - title: Gift cards
         url: https://www.oxalisnyc.com/store/gift-cards/
     last_updated: 3/16
+
+  - name: Shaka Shaka Tiki
+    url: https://www.companioncafebk.com
+    instagram: https://www.instagram.com/shakashakatiki/
+    notes: Closed until further notice
+    links:
+      - title: Gift cards
+        url: https://squareup.com/gift/ED4WJ2F6HECQZ/order
+    last_updated: 3/15
 
   - name: Sit & Wonder
     url: http://sitandwonder.net/index.html
