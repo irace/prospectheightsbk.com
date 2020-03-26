@@ -38,6 +38,16 @@ open:
         url: https://squareup.com/gift/C3K54BY60YNAP/order
     last_updated: 3/23
 
+  - name: Bergen Bagels
+    url: http://www.bergenbagels.com/
+    instagram: https://www.instagram.com/bergen_bagels/
+    hours: 8AM - 2PM
+    notes: Open for pick-up and delivery.
+    delivery:
+      doordash: https://www.doordash.com/store/bergen-bagels-brooklyn-312992/en-US
+      seamless: https://www.seamless.com/menu/bergen-bagels-on-bergen-473-bergen-st-brooklyn/549250
+    last_updated: 3/25
+
   - name: Bierwax
     url: https://www.bierwaxnyc.com
     instagram: https://www.instagram.com/bierwax/
