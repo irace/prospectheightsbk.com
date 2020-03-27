@@ -14,7 +14,7 @@ open:
     instagram: https://www.instagram.com/beerstreetsouth/
     untappd: https://untappd.com/v/beer-street-south/9792005
     hours: 2 - 8PM
-    notes: Pick-up available now, pre-orders and delivery available soon.
+    notes: Pick-up available now, pre-orders and delivery available soon. Please check <a href="https://untappd.com/v/beer-street-south/9792005">Untappd</a> for the latest menu.
     links:
       - title: Gift cards
         url: https://squareup.com/gift/C3K54BY60YNAP/order
@@ -43,16 +43,6 @@ open:
       - title: Gift cards
         url: https://squareup.com/gift/MY2KY2405T5NT/order
     last_updated: 3/24
-
-  - name: BKLYN Larder
-    url: https://www.bklynlarder.com
-    instagram: https://www.instagram.com/bklynlarder/
-    phone: (718) 783-1250
-    notes: “Call us to get all of your groceries and Larder goods delivered… including beer! We can walk you through what’s available and we can even FaceTime you if you’d like to shop through video.”
-    links:
-      - title: Gift cards
-        url: https://www.bklynlarder.com/gift-cards/
-    last_updated: 3/23
 
   - name: Blue Marble
     url: https://www.bluemarbleicecream.com
@@ -175,19 +165,6 @@ open:
       uber_eats: https://www.ubereats.com/new-york/food-delivery/the-islands/9jFnKcjVRBuUOpsVlzSgsg
     last_updated: 3/25
 
-  - name: James
-    url: http://www.jamesrestaurantny.com
-    instagram: https://www.instagram.com/jamesbklyn/
-    phone: (718) 942-4255
-    hours: 12 - 8PM
-    notes: Take-out and provisions (including batch cocktails). Pay over the phone and they will bring your bag outside for you. Delivery coming soon via Caviar.
-    links:
-      - title: Staff relief fund
-        url: https://www.gofundme.com/f/james-staff-emergency-relief-fund
-      - title: Gift cards and shop
-        url: http://www.jamesrestaurantny.com/shop
-    last_updated: 3/22
-
   - name: Joyce Bakeshop
     url: http://www.joycebakeshop.com
     instagram: https://www.instagram.com/joycebakeshop/
@@ -255,8 +232,8 @@ open:
     phone: (718) 636-2900
     delivery:
       caviar: https://www.trycaviar.com/m/memes-diner-10883
-    notes: Order brunch delivery via Caviar or by calling. Wine/beer/liquor available (some at retail prices).
-    last_updated: 3/22
+    notes: “New tonight (3/27) for delivery = we made you some slice-and-bake chocolate chip cookies! We’ll even send the instructions along. Give us a call, or order on Caviar, from 5-10. And yeah, we’re doing brunch delivery again tomorrow (3/28)!”
+    last_updated: 3/27
     links:
       - title: Staff relief fund
         url: https://www.memesdiner.com/covid-19-staff-fund-donation
@@ -348,6 +325,19 @@ open:
     delivery:
       chownow: https://direct.chownow.com/order/18160/locations/26048
     last_updated: 3/26
+
+  - name: Sweet Polly
+    instagram: https://www.instagram.com/sweetpollynyc/
+    url: http://www.sweetpollynyc.com
+    phone: 718-484-9600
+    hours: 5 - 10PM, Friday and Saturday 3/27 - 3/28
+    notes: “We will be serving to-go cocktails and cooked goods for your weekend isolation game. Please call in for orders. Payment over the phone will be accepted. <a href="http://www.sweetpollynyc.com/menus/">Our menu</a> will be available online at our website and <a href="https://www.instagram.com/sweetpollynyc/">@sweetpollynyc</a> and delivery will be available for orders over $75.”
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/sweet-polly-team-relief-fund
+      - title: Gift cards (20% off)
+        url: https://squareup.com/gift/89TMFJQFPZE0N/order
+    last_updated: 3/27
 
   - name: Tom’s Restaurant
     url: https://tomsbrooklyn.com
@@ -466,6 +456,16 @@ closed:
         url: https://www.blackironburger.com/gift-cards/
     last_updated: 3/25
 
+  - name: BKLYN Larder
+    url: https://www.bklynlarder.com
+    instagram: https://www.instagram.com/bklynlarder/
+    phone: (718) 783-1250
+    notes: “We have decided to go on hiatus and close for a few weeks in the interest of our staff’s health and well-being. We need your support, now more than ever, so we can return strong. It would mean the world to us if you stocked up on perishable items and Larder goods today and tomorrow. We are open today (3/27) till 7pm and tomorrow (3/28) from 10-7pm. More updates to follow & more information at the link in our bio.”
+    links:
+      - title: Gift cards
+        url: https://www.bklynlarder.com/gift-cards/
+    last_updated: 3/27
+
   - name: Brooklyn Metal Works
     url: http://bkmetalworks.com
     instagram: https://www.instagram.com/brooklynmetalworks/
@@ -503,6 +503,19 @@ closed:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/fausto-employee-fund
     last_updated: 3/21
+
+  - name: James
+    url: http://www.jamesrestaurantny.com
+    instagram: https://www.instagram.com/jamesbklyn/
+    phone: (718) 942-4255
+    hours: 12 - 8PM
+    notes: “We’ll be back April 3rd with new nourishing dishes, provisions and market produce.”
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/james-staff-emergency-relief-fund
+      - title: Gift cards and shop
+        url: http://www.jamesrestaurantny.com/shop
+    last_updated: 3/27
 
   - name: LaLou
     url: https://laloubrooklyn.com
@@ -626,17 +639,6 @@ closed:
     delivery:
       chownow: https://direct.chownow.com/order/18159/locations/26047
     last_updated: 3/26
-
-  - name: Sweet Polly
-    instagram: https://www.instagram.com/sweetpollynyc/
-    url: http://www.esweetpollynyc.com
-    notes: Closed until further notice
-    links:
-      - title: Staff relief fund
-        url: https://www.gofundme.com/f/sweet-polly-team-relief-fund
-      - title: Gift cards (20% off)
-        url: https://squareup.com/gift/89TMFJQFPZE0N/order
-    last_updated: 3/22
 
   - name: Weather Up
     url: http://www.weatherupnyc.com/
