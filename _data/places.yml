@@ -391,6 +391,9 @@ open:
       caviar: https://trycaviar.app.link/7jIqsTuzjW
       uber_eats: https://www.ubereats.com/en-US/new-york/food-delivery/van-leeuwen-artisan-ice-cream-prospect-heights/lRdl_U-mS8yow9R-xiO2ZQ/
       postmates: https://postmates.com/merchant/van-leeuwen-ice-cream-brooklyn
+    links:
+      - title: Gift cards
+        url: https://squareup.com/gift/FR6ZMQGP6CJ1S/order?external_source=giveandgetlocal
 
   - name: White Tiger
     hours: 5 – 10PM (11PM Fri/Sat)
@@ -402,6 +405,13 @@ open:
       doordash: https://www.doordash.com/store/white-tiger-brooklyn-132915/en-US
     notes: Delivery through Seamless/DoorDash. Call for pick-up.
     last_updated: 3/16
+
+  - name: The Winey Neighbor
+    url: https://wineyneighbor.com
+    instagram: https://www.instagram.com/wineyneighbor/
+    phone: (347) 715-6693
+    notes: Open for delivery and curbside pickup (order through their <a href="https://wineyneighbor.com/#&StoreFrontLocationHash=%23%2Fwidget%2F5a6f49faf4a6613ee3696dbb%2Fcontainers">website</a>)
+    last_updated: 3/26
 
   - name: Zaytoons
     phone: (718) 230-3200
@@ -523,8 +533,8 @@ closed:
     last_updated: 3/18
 
   - name: Milk Bar
-    url: https://www.instagram.com/milkbarbrooklyn/
-    instagram: https://www.milkbarbrooklyn.com
+    url: https://www.milkbarbrooklyn.com
+    instagram: https://www.instagram.com/milkbarbrooklyn/
     notes: Closed until further notice
     links:
       - title: Staff relief fund
@@ -559,6 +569,16 @@ closed:
         url: https://ecommerce.custcon.com/Purchase/Select?c=3e6823e0-52c7-4c1b-af3d-1bb13862c508
     last_updated: 3/18
 
+  - name: Ovenly
+    url: https://www.oven.ly
+    instagram: https://www.instagram.com/ovenly/
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/ovenly-employee-fund
+      - title: Gift cards
+        url: https://squareup.com/gift/8BW3A1HN5907S/order
+    last_updated: 3/19
+
   - name: Oxalis
     url: https://www.oxalisnyc.com
     instagram: https://www.instagram.com/oxalisnyc/
@@ -570,7 +590,7 @@ closed:
         url: https://www.oxalisnyc.com/store/gift-cards/
     last_updated: 3/16
 
-  - name: Shaka Shaka Tiki
+  - name: Shaka Shaka Tiki/Companion Cafe
     url: https://www.companioncafebk.com
     instagram: https://www.instagram.com/shakashakatiki/
     notes: Closed until further notice
