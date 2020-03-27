@@ -301,16 +301,6 @@ open:
         url: https://www.morgansbrooklynbarbecue.com/store/
     last_updated: 3/23
 
-  - name: Nourish Thai
-    hours: 12 - 10:30PM
-    phone: (718) 789-3981
-    url: https://www.nourishthai.com
-    instagram: https://www.instagram.com/nourishthai/
-    notes: Open for pick-up and delivery
-    delivery:
-      caviar: https://www.trycaviar.com/m/nourish-thai-12825
-    last_updated: 3/17
-
   - name: Olde Brooklyn Bagel Shoppe
     url: http://www.oldebrooklynbagelshop.com
     instagram: https://www.instagram.com/oldebkbagels/
@@ -548,6 +538,16 @@ closed:
     links:
       - title: Gift cards
         url: https://www.millefeuille-nyc.com/pages/gift-card
+
+  - name: Nourish Thai
+    hours: 12 - 10:30PM
+    phone: (718) 789-3981
+    url: https://www.nourishthai.com
+    instagram: https://www.instagram.com/nourishthai/
+    notes: Closed until further notice
+    delivery:
+      caviar: https://www.trycaviar.com/m/nourish-thai-12825
+    last_updated: 3/27
 
   - name: Ogliastro Pizza Bar
     url: https://ogliastropizza.com
