@@ -44,6 +44,16 @@ open:
         url: https://squareup.com/gift/MY2KY2405T5NT/order
     last_updated: 3/24
 
+  - name: BKLYN Larder
+    url: https://www.bklynlarder.com
+    instagram: https://www.instagram.com/bklynlarder/
+    phone: (718) 783-1250
+    notes: “We have decided to go on hiatus and close for a few weeks in the interest of our staff’s health and well-being. We need your support, now more than ever, so we can return strong. It would mean the world to us if you stocked up on perishable items and Larder goods today and tomorrow. We are open today (3/27) till 7pm and tomorrow (3/28) from 10-7pm. More updates to follow & <a href="https://mailchi.mp/e542120e9b5a/two-days-left-to-shop-before-we-go-on-hiatus">more information at the link in our bio.</a>”
+    links:
+      - title: Gift cards
+        url: https://www.bklynlarder.com/gift-cards/
+    last_updated: 3/27
+
   - name: Blue Marble
     url: https://www.bluemarbleicecream.com
     instagram: https://www.instagram.com/bluemarblebk/
@@ -455,16 +465,6 @@ closed:
       - title: Gift cards
         url: https://www.blackironburger.com/gift-cards/
     last_updated: 3/25
-
-  - name: BKLYN Larder
-    url: https://www.bklynlarder.com
-    instagram: https://www.instagram.com/bklynlarder/
-    phone: (718) 783-1250
-    notes: “We have decided to go on hiatus and close for a few weeks in the interest of our staff’s health and well-being. We need your support, now more than ever, so we can return strong. It would mean the world to us if you stocked up on perishable items and Larder goods today and tomorrow. We are open today (3/27) till 7pm and tomorrow (3/28) from 10-7pm. More updates to follow & more information at the link in our bio.”
-    links:
-      - title: Gift cards
-        url: https://www.bklynlarder.com/gift-cards/
-    last_updated: 3/27
 
   - name: Brooklyn Metal Works
     url: http://bkmetalworks.com
