@@ -44,6 +44,19 @@ open:
         url: https://squareup.com/gift/MY2KY2405T5NT/order
     last_updated: 3/24
 
+  - name: BKLYN Crepe & Juice
+    url: http://brooklyncrepe.com
+    instagram: https://www.instagram.com/bklyncrepe/
+    hours: 10AM - 8PM
+    notes: Open for pickup and delivery
+    delivery:
+      caviar: https://www.trycaviar.com/m/brooklyn-crepe--juice-14085
+      uber_eats: https://www.ubereats.com/new-york/food-delivery/brooklyn-crepe-%26-juice-park-slope/7x5ubkWWQYiRliRSAiuF4Q
+      postmates: https://postmates.com/merchant/brooklyn-crepe-juice-brooklyn
+      seamless: https://www.seamless.com/menu/brooklyn-crepe--juice-274-flatbush-ave-brooklyn/310415
+      doordash: https://www.doordash.com/store/brooklyn-crepe-juice-brooklyn-32612/en-US
+    last_updated: 3/25
+
   - name: BKLYN Larder
     url: https://www.bklynlarder.com
     instagram: https://www.instagram.com/bklynlarder/
