@@ -57,16 +57,6 @@ open:
       doordash: https://www.doordash.com/store/brooklyn-crepe-juice-brooklyn-32612/en-US
     last_updated: 3/25
 
-  - name: BKLYN Larder
-    url: https://www.bklynlarder.com
-    instagram: https://www.instagram.com/bklynlarder/
-    phone: (718) 783-1250
-    notes: “We have decided to go on hiatus and close for a few weeks in the interest of our staff’s health and well-being. We need your support, now more than ever, so we can return strong. It would mean the world to us if you stocked up on perishable items and Larder goods today and tomorrow. We are open today (3/27) till 7pm and tomorrow (3/28) from 10-7pm. More updates to follow & <a href="https://mailchi.mp/e542120e9b5a/two-days-left-to-shop-before-we-go-on-hiatus">more information at the link in our bio.</a>”
-    links:
-      - title: Gift cards
-        url: https://www.bklynlarder.com/gift-cards/
-    last_updated: 3/27
-
   - name: Blue Marble
     url: https://www.bluemarbleicecream.com
     instagram: https://www.instagram.com/bluemarblebk/
@@ -187,15 +177,6 @@ open:
       postmates: https://postmates.com/merchant/the-islands-brooklyn-1
       uber_eats: https://www.ubereats.com/new-york/food-delivery/the-islands/9jFnKcjVRBuUOpsVlzSgsg
     last_updated: 3/25
-
-  - name: Joyce Bakeshop
-    url: http://www.joycebakeshop.com
-    instagram: https://www.instagram.com/joycebakeshop/
-    phone: (718) 623-7470
-    hours: 7:30:AM - 7:30PM (Mon-Fri), 9AM - 6PM (Sat/Sun)
-    notes: Take-out
-    links:
-    last_updated: 3/26
 
   - name: Kulushkat
     url: https://kulushkat.com
@@ -469,6 +450,16 @@ closed:
         url: https://www.bklynclay.com/gift-certificates
     last_updated: 3/24
 
+  - name: BKLYN Larder
+    url: https://www.bklynlarder.com
+    instagram: https://www.instagram.com/bklynlarder/
+    phone: (718) 783-1250
+    notes: “We have decided to go on hiatus and close for a few weeks in the interest of our staff’s health and well-being.”
+    links:
+      - title: Gift cards
+        url: https://www.bklynlarder.com/gift-cards/
+    last_updated: 3/27
+
   - name: Black Iron Burger
     url: https://www.blackironburger.com/location/black-iron-burger-park-slope/
     instagram: https://www.instagram.com/blackironburger
@@ -531,6 +522,18 @@ closed:
       - title: Gift cards and shop
         url: http://www.jamesrestaurantny.com/shop
     last_updated: 3/27
+
+  - name: Joyce Bakeshop
+    url: http://www.joycebakeshop.com
+    instagram: https://www.instagram.com/joycebakeshop/
+    facebook: https://www.facebook.com/Joyce-Bakeshop-107322189660/
+    phone: (718) 623-7470
+    hours: 7:30:AM - 7:30PM (Mon-Fri), 9AM - 6PM (Sat/Sun)
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/Audrey-Coworker-Disaster-Relief
+    last_updated: 3/29
 
   - name: LaLou
     url: https://laloubrooklyn.com
@@ -600,6 +603,7 @@ closed:
   - name: Ovenly
     url: https://www.oven.ly
     instagram: https://www.instagram.com/ovenly/
+    notes: Closed until further notice
     links:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/ovenly-employee-fund
