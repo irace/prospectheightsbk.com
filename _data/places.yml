@@ -659,6 +659,13 @@ closed:
       chownow: https://direct.chownow.com/order/18159/locations/26047
     last_updated: 3/26
 
+  - name: Unnameable Books
+    phone: (718) 789-1534
+    url: http://unnameablebooks.blogspot.com
+    instagram: https://www.instagram.com/unnameablebooks/
+    notes: Closed but selling gift certificates at a 20% discount. “PayPal money to <a href="mailto:unnameablebooks@earthlink.net">unnameablebooks@earthlink.net</a> and we will issue a certificate in your name!”
+    last_updated: 3/25
+
   - name: Weather Up
     url: http://www.weatherupnyc.com/
     notes: Closed until further notice
