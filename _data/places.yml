@@ -170,6 +170,30 @@ open:
     notes: Beer and cider to go. Check website and <a href="https://untappd.com/v/gold-star-beer-counter/3171446">Untappd</a> for inventory. Accepting credit cards and Venmo.
     last_updated: 3/16
 
+  - name: Gran Caffe De Martini
+    hours: 9AM – 6PM (Mon-Fri), 8AM – 6PM (Sat/Sun)
+    url: https://www.caffedemartini.com
+    instagram: https://www.instagram.com/grancaffedemartini/
+    notes: “Espresso beans, bread, focaccia available to-go. We also have all our food menu for delivery.”
+    delivery:
+      caviar: https://www.trycaviar.com/m/gran-caffe-de-martini-19266
+      seamless: https://www.seamless.com/menu/gran-caffe-de-martini-609-vanderbilt-ave-brooklyn/1008604
+    links:
+      - title: Employee relief fund
+        url: https://www.gofundme.com/f/gran-caffe-de-martini-fund
+      - title: Gift cards
+        url: https://www.caffedemartini.com/product/gift-card/
+    last_updated: 3/29
+
+  - name: Homeslice Pizzeria
+    url: https://www.brooklynshomeslicepizza.com
+    instagram: https://www.instagram.com/brooklyns_homeslice/
+    phone: (347) 632-9824
+    hours: 11:30 - 12:00AM (Mon-Thu), 11:30 - 2:30AM (Fri/Sat), 11:30 - 12:00AM (Sun)
+    delivery:
+      slice: https://slicelife.com/restaurants/ny/brooklyn/11238/brooklyn-s-homeslice-pizzeria/menu
+    last_updated: 3/30
+
   - name: Hungry Ghost
     hours: 7AM - 5PM
     url: https://www.hungryghostcoffee.com/
