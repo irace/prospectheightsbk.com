@@ -9,6 +9,17 @@ open:
       seamless: https://www.seamless.com/menu/amorina-cucina-rustica-624-vanderbilt-ave-brooklyn/292222
     last_updated: 3/18
 
+  - name: Antonio’s Pizza
+    url: https://www.antoniosbrooklyn.com
+    instagram: https://www.instagram.com/antonios_pizza_/
+    phone: ‭(718) 398-2300‬
+    hours: 11AM - 9PM
+    notes: Open for pick-up and delivery
+    delivery:
+      seamless: https://www.seamless.com/menu/antonios-pizzeria--restaurant-318-flatbush-ave-brooklyn/66813
+      slice: https://slicelife.com/restaurants/ny/brooklyn/11238/antonio-s-pizza/menu
+    last_updated: 3/30
+
   - name: Beer Street South
     url: https://www.beerstreetny.com
     instagram: https://www.instagram.com/beerstreetsouth/
@@ -24,7 +35,7 @@ open:
     url: http://www.bergenbagels.com/
     instagram: https://www.instagram.com/bergen_bagels/
     hours: 8AM - 2PM
-    notes: Open for pick-up and delivery.
+    notes: Open for pick-up and delivery
     delivery:
       doordash: https://www.doordash.com/store/bergen-bagels-brooklyn-312992/en-US
       seamless: https://www.seamless.com/menu/bergen-bagels-on-bergen-473-bergen-st-brooklyn/549250
@@ -380,6 +391,14 @@ open:
     links:
       - title: Gift cards
         url: https://squareup.com/gift/FR6ZMQGP6CJ1S/order?external_source=giveandgetlocal
+
+  - name: Washington Ave. Cafe
+    phone: (718) 230-3734
+    hours: 5:30AM - 4:00PM
+    notes: Open for pick-up and delivery
+    delivery:
+      seamless: https://www.seamless.com/menu/washington-avenue-cafe-621-washington-ave-brooklyn/900005
+    last_updated: 3/29
 
   - name: White Tiger
     hours: 5 – 10PM (11PM Fri/Sat)
