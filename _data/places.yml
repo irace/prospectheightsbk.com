@@ -21,15 +21,15 @@ open:
     last_updated: 3/30
 
   - name: Beer Street South
-    url: https://www.beerstreetny.com
+    url: https://beerstreetsouth550.com
     instagram: https://www.instagram.com/beerstreetsouth/
     untappd: https://untappd.com/v/beer-street-south/9792005
     hours: 2 - 8PM
-    notes: Pick-up available now, pre-orders and delivery available soon. Please check <a href="https://untappd.com/v/beer-street-south/9792005">Untappd</a> for the latest menu.
+    notes: Our online store is live!⁣ Head to <a href="https://beerstreetsouth550.com">beerstreetsouth550.com</a> to place pick up orders that will be ready for you within half an hour!⁣
     links:
       - title: Gift cards
         url: https://squareup.com/gift/C3K54BY60YNAP/order
-    last_updated: 3/23
+    last_updated: 3/31
 
   - name: Bergen Bagels
     url: http://www.bergenbagels.com/
@@ -305,8 +305,8 @@ open:
     url: https://www.morgansbrooklynbarbecue.com
     instagram: https://www.instagram.com/morgansbrooklynbbq/
     phone: (718) 622-2224
-    hours: 4 - 10PM (Mon - Fri), 12 - 10PM (Sat - Sun)
-    notes: We now deliver beer along with food delivery or take-out orders.
+    hours: 4:30 - 10:30PM (Mon - Thu), 4:30 - 11PM (Fri), 12 - 11PM (Sat), 12PM - 10:30PM (Sun)
+    notes: “We now deliver beer along with food delivery or take-out orders.”
     delivery:
       caviar: https://www.trycaviar.com/m/morgans-brooklyn-bbq-11362?_branch_match_id=652587222868224742&cav_medium=widget&cav_source=mer-_HNorLt-e21sQo8-1Lttcg&how=delivery&merchant_token=mer-_HNorLt-e21sQo8-1Lttcg&utm_campaign=link&utm_content=morgans-brooklyn-barbecue-11362&utm_medium=restaurant_partners&utm_source=widget&utm_term=brooklyn-queens
       seamless: https://www.seamless.com/menu/morgans-brooklyn-barbecue-267-flatbush-ave-brooklyn/317192
@@ -317,7 +317,7 @@ open:
         url: https://www.morgansbrooklynbarbecue.com/store/gift-cards/
       - title: Merchandise
         url: https://www.morgansbrooklynbarbecue.com/store/
-    last_updated: 3/23
+    last_updated: 3/31
 
   - name: Olde Brooklyn Bagel Shoppe
     url: http://www.oldebrooklynbagelshop.com
@@ -682,6 +682,17 @@ closed:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/for-our-amazing-baristas
     last_updated: 3/22
+
+  - name: Sofreh
+    url: https://www.sofrehnyc.com
+    instagram: https://www.instagram.com/sofreh_brooklyn/
+    notes: Closed until furthr notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/sofreh-employee-emergency-relief-fund
+      - title: Gift cards
+        url: https://www.sofrehnyc.com/giftcards
+    last_updated: 3/20
 
   - name: Specific Gravity
     url: https://specificgravitynyc.com
