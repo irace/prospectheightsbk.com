@@ -96,7 +96,7 @@ open:
     instagram: https://www.instagram.com/burritobarbk
     phone: (718) 230-8646
     hours: 12 - 10PM
-    notes: Offering curbside carry-out and delivery (alcohol included)
+    notes: Offering curbside carry-out and delivery (alcohol included). Cash only for take-out.
     delivery:
       chownow: https://direct.chownow.com/order/7878/locations/10581
     last_updated: 3/20
@@ -179,7 +179,7 @@ open:
       caviar: https://www.trycaviar.com/m/gran-caffe-de-martini-19266
       seamless: https://www.seamless.com/menu/gran-caffe-de-martini-609-vanderbilt-ave-brooklyn/1008604
     links:
-      - title: Employee relief fund
+      - title: Staff relief fund
         url: https://www.gofundme.com/f/gran-caffe-de-martini-fund
       - title: Gift cards
         url: https://www.caffedemartini.com/product/gift-card/
@@ -249,6 +249,7 @@ open:
     notes: Pick-up and delivery via Caviar (although preference for calling directly)
     delivery:
       caviar: https://www.trycaviar.com/m/lowerline-11359
+      doordash: https://www.doordash.com/store/lowerline-brooklyn-524902/
     links:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/help-lowerline-keep-nola-cuisine-alive-in-brooklyn
