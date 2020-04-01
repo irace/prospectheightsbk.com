@@ -248,17 +248,6 @@ open:
       chownow: https://direct.chownow.com/order/8549/locations/11540
     last_updated: 3/21
 
-  - name: Lincoln Station
-    url: https://www.stationfoods.com
-    instagram: https://instagram.com/lincolnstationbk
-    hours: 7AM - 9PM (Mon-Fri), 8AM - 9PM (Sat-Sun)
-    phone: (718) 399-2211
-    notes: Open for pick-up and delivery
-    delivery:
-      seamless: https://www.seamless.com/menu/lincoln-station-409-lincoln-pl-brooklyn/315738
-      caviar: https://www.trycaviar.com/m/lincoln-station-758
-    last_updated: 3/20
-
   - name: Little Cupcake Bakeshop
     phone: (718) 783-0770
     url: http://www.littlecupcakebakeshop.com
@@ -649,6 +638,17 @@ closed:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/lalou-employee-fund
     last_updated: 3/16
+
+  - name: Lincoln Station
+    url: https://www.stationfoods.com
+    instagram: https://instagram.com/lincolnstationbk
+    hours: 7AM - 9PM (Mon-Fri), 8AM - 9PM (Sat-Sun)
+    phone: (718) 399-2211
+    notes: Closed until further notice
+    delivery:
+      seamless: https://www.seamless.com/menu/lincoln-station-409-lincoln-pl-brooklyn/315738
+      caviar: https://www.trycaviar.com/m/lincoln-station-758
+    last_updated: 4/1
 
   - name: Maison Yaki
     url: http://www.maisonyaki.com/
