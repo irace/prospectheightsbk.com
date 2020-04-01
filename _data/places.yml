@@ -47,7 +47,7 @@ open:
     untappd: https://untappd.com/v/bierwax/7133448
     phone: (347) 533-8449
     hours: 2-7 PM
-    notes: <a href="https://www.bierwaxnyc.com/beerlist">View the menu online</a>. ⁣Call ahead and they will get your order ready. Credit cards only.
+    notes: The <a href="https://my-site-100819-102620.square.site">Bierwax Online Shop</a> has now launched. Cans, bottles and/or mason jars ready for a quick handoff. ⁣Call ahead for a curbside pick up after placing an order.
     links:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/covid19-relief-fund-for-bierwax-staff
@@ -434,6 +434,14 @@ open:
     delivery:
       seamless: https://www.seamless.com/menu/toms-restaurant-782-washington-ave-brooklyn/297390
     last_updated: 3/17
+
+  - name: Udom Thai
+    url: https://www.udomthai.com
+    instagram: https://www.instagram.com/udomthai/
+    phone: (718) 622-8424
+    hours: 11AM - 10:15PM
+    notes: <a href="https://www.opendining.net/menu/4fd8ca07000d972008000172#ordering-for-prompt">Order online</a> for pick-up and delivery
+    last_updated: 3/30
 
   - name: Underhill Greek Eatery
     phone: (718) 484-3744
