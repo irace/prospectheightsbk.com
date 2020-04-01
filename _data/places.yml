@@ -271,16 +271,6 @@ open:
         url: https://squareup.com/gift/W0XRH9R9BY895/order
     last_updated: 3/25
 
-  - name: Maya Taqueria
-    url: https://www.mayataqueria.com
-    hours: 11AM - 12AM
-    phone: (732) 535-2717
-    notes: Open for pick-up and delivery
-    delivery:
-      seamless: https://www.seamless.com/menu/maya-taqueria-prospect-heights-637-vanderbilt-ave-brooklyn/80416
-      chownow: https://direct.chownow.com/order/7470/locations/10000
-    last_updated: 3/26
-
   - name: MeMe’s Diner
     url: https://www.memesdiner.com
     hours: 10AM - 4PM
@@ -658,6 +648,16 @@ closed:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund
     last_updated: 3/18
+
+  - name: Maya Taqueria
+    url: https://www.mayataqueria.com
+    hours: 11AM - 12AM
+    phone: (732) 535-2717
+    notes: Closed until further notice
+    delivery:
+      seamless: https://www.seamless.com/menu/maya-taqueria-prospect-heights-637-vanderbilt-ave-brooklyn/80416
+      chownow: https://direct.chownow.com/order/7470/locations/10000
+    last_updated: 4/1
 
   - name: Milk Bar
     url: https://www.milkbarbrooklyn.com
