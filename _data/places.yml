@@ -520,13 +520,22 @@ closed:
   - name: Ample Hills
     url: https://www.amplehills.com
     instagram: https://www.instagram.com/amplehills/
+    notes: Hoping to reopen “on or around April 9th”
     delivery:
       caviar: https://www.trycaviar.com/m/ample-hills--prospect-heights-1722
       seamless: https://www.seamless.com/menu/ample-hills---prospect-heights-623-vanderbilt-ave-brooklyn/1711574
       uber_eats:
       postmates:
-    notes: Hoping to reopen “on or around April 9th”
     last_updated: 3/18
+
+  - name: Bilt Bar
+    instagram: https://www.instagram.com/biltbar/
+    facebook: https://www.facebook.com/pages/category/Lounge/Bilt-Bar-100153434688553/
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/bilt-bar-bartenders-relief-fund
+    last_updated: 3/25
 
   - name: BKLYN Clay
     url: https://bklynclay.com
