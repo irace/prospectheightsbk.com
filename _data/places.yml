@@ -91,6 +91,21 @@ open:
       postmates: https://postmates.com/merchant/born-thai-brooklyn
     last_updated: 3/16
 
+  - name: Branded Saloon
+    url: https://www.brandedsaloon.com
+    instagram: https://www.instagram.com/brandedsaloon/
+    phone: (718) 484-8704
+    hours: 5 - 11:45PM
+    notes: Food and drink take-out and delivery (catering via <a href="https://www.ezcater.com/catering/branded-saloon-3">EZCater</a>). You can also Venmo @Alex-Savoie directly.
+    delivery:
+      doordash: https://www.doordash.com/store/branded-cattle-saloon-inc-brooklyn-893199/1318299/en-US
+      seamless: https://www.seamless.com/menu/branded-saloon-603-vanderbilt-ave-brooklyn/298472
+      caviar: https://www.trycaviar.com/m/branded-saloon-19621
+    links:
+      - title: Merchandise
+        url: https://www.brandedsaloon.com/support-branded
+    last_updated: 3/28
+
   - name: Burrito Bar & Kitchen
     url: https://www.burritobarbrooklyn.com
     instagram: https://www.instagram.com/burritobarbk
@@ -213,6 +228,16 @@ open:
       uber_eats: https://www.ubereats.com/new-york/food-delivery/the-islands/9jFnKcjVRBuUOpsVlzSgsg
     last_updated: 3/25
 
+  - name: Kimchi Grill
+    url: https://www.kimchigrill.com
+    instagram: https://www.instagram.com/kimchigrill/
+    phone: (718) 360-1839
+    hours: 11:30AM - 10:00PM (10:30PM Fri/Sat)
+    notes: Open for pick-up and delivery
+    delivery:
+      chownow: https://direct.chownow.com/order/11256/locations/15554
+    last_updated: 4/1
+
   - name: Kulushkat
     url: https://kulushkat.com
     hours: 11AM - 11:30PM (Mon/Fri), 12 - 11:30PM (Sat/Sun)
@@ -320,15 +345,35 @@ open:
         url: https://www.morgansbrooklynbarbecue.com/store/
     last_updated: 3/31
 
+  - name: Nûrish
+    url: https://www.nurishbk.com
+    instagram: https://www.instagram.com/nurishbk/
+    phone: (718) 484-1122
+    hours: 7AM - 8PM (6PM Sun)
+    notes: Open for pick-up and delivery
+    delivery:
+      seamless: https://www.seamless.com/menu/nurish-637-washington-ave-brooklyn/1540554
+    last_updated: 3/21
+
   - name: Olde Brooklyn Bagel Shoppe
     url: http://www.oldebrooklynbagelshop.com
     instagram: https://www.instagram.com/oldebkbagels/
     hours: 8AM - 6PM (delivery until 5PM)
     phone: (718) 622-6227
+    notes: Open for pick-up and delivery
     delivery:
       seamless: https://www.seamless.com/menu/olde-brooklyn-bagel-shoppe-645-vanderbilt-ave-brooklyn/263151
-    notes: Open for pick-up and delivery
     last_updated: 3/26
+
+  - name: Patsy’s Pizzeria
+    url: https://parkslope.patsyspizza.nyc
+    instagram: https://www.instagram.com/patsyspizzabk/
+    phone: (718) 622-2268
+    hours: 12PM - 10PM (11PM Fri/Sat)
+    notes: <a href="https://eat.9fold.me/index.html#/10769">Order online</a> for pick-up or delivery
+    delivery:
+      seamless: https://www.seamless.com/menu/patsys-pizzeria-450-dean-st-brooklyn/320844
+    last_updated: 4/1
 
   - name: Private Yoga Lessons
     url: https://www.privateyogasoho.com
@@ -713,6 +758,15 @@ closed:
     delivery:
       chownow: https://direct.chownow.com/order/18159/locations/26047
     last_updated: 3/26
+
+  - name: Sunshine & Co.
+    url: http://www.sunshinecobk.com
+    instagram: https://www.instagram.com/sunshinecobk/
+    notes: Closed until further notice. Please email <a href="mailto:sunshineco780@gmail.com">sunshineco780@gmail.com</a> to purchase gift certificates.
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/sunshine-co-staff
+    last_updated: 3/16
 
   - name: Unnameable Books
     phone: (718) 789-1534
