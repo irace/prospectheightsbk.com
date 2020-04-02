@@ -391,10 +391,17 @@ open:
     instagram: https://www.instagram.com/rosesbklyn/
     hours: 12 - 6 PM
     notes: Call to order. Menu changes daily with burger kits and cocktails to go. Cash and Venmo accepted, gift cards purchasable via credit card.
-    last_updated: 3/18
     links:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/rose039s-staff-assistance-fund
+    last_updated: 3/18
+
+  - name: Sugarcane
+    url: http://www.sugarcanerestaurant.com
+    phone: (718) 230-3954
+    notes: Call to order
+    instagram: https://www.instagram.com/sugarcane_restaurant/
+    last_updated: 3/29
 
   - name: Stocked Burger
     url: https://www.stockedbrooklyn.com/burgers
