@@ -336,6 +336,17 @@ open:
         url: https://www.morgansbrooklynbarbecue.com/store/
     last_updated: 3/31
 
+  - name: Nacho Macho Taco
+    url: http://www.nachomachotaco.net
+    instagram: https://www.instagram.com/nachomachotacobk/
+    facebook: https://www.facebook.com/NachoMachoTacoBK/
+    phone: (718) 622-2727
+    hours: 11AM – 10PM
+    notes: Open for pick-up and delivery
+    delivery:
+      seamless: https://www.seamless.com/menu/nacho-macho-taco-prospect-pl-417-prospect-pl-brooklyn/302901
+    last_updated: 3/18
+
   - name: Nûrish
     url: https://www.nurishbk.com
     instagram: https://www.instagram.com/nurishbk/
@@ -417,14 +428,14 @@ open:
     instagram: https://www.instagram.com/sweetpollynyc/
     url: http://www.sweetpollynyc.com
     phone: 718-484-9600
-    hours: 5 - 10PM, Friday and Saturday 3/27 - 3/28
-    notes: “We will be serving to-go cocktails and cooked goods for your weekend isolation game. Please call in for orders. Payment over the phone will be accepted. <a href="http://www.sweetpollynyc.com/menus/">Our menu</a> will be available online at our website and <a href="https://www.instagram.com/sweetpollynyc/">@sweetpollynyc</a> and delivery will be available for orders over $75.”
+    hours: 3 - 8PM
+    notes: “Contactless takeout today (Thursday, 4/2)! Call ahead (718-484-9600) to place an order and bring some joy to your Thursday!”
     links:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/sweet-polly-team-relief-fund
       - title: Gift cards (20% off)
         url: https://squareup.com/gift/89TMFJQFPZE0N/order
-    last_updated: 3/27
+    last_updated: 4/2
 
   - name: Tom’s Restaurant
     url: https://tomsbrooklyn.com
@@ -766,6 +777,15 @@ closed:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/for-our-amazing-baristas
     last_updated: 3/22
+
+  - name: Soda Bar
+    instagram: https://www.instagram.com/sodabarbrooklyn/
+    facebook: https://www.facebook.com/Soda-Bar-111725295530380/
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/soda-bar-staff-donation
+    last_updated: 3/19
 
   - name: Sofreh
     url: https://www.sofrehnyc.com
