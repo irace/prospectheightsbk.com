@@ -155,6 +155,16 @@ open:
     notes: Drafts, cans, and food to go. Bring a growler/thermos/water bottle/etc.
     last_updated: 3/18
 
+  - name: Dickey’s BBQ Pit
+    url: https://orders.dickeys.com/quote/location
+    instagram: https://www.instagram.com/dickeys.bk/
+    phone: (347) 889-5400
+    hours: 10AM - 10PM
+    notes: Open for pick-up and delivery
+    delivery:
+      seamless: https://www.seamless.com/menu/dickeys-barbecue-pit-196-a-flatbush-ave-brooklyn/736492
+    last_updated: 4/2
+
   - name: Faun
     url: https://faun.nyc
     instagram: https://www.instagram.com/faun.nyc/
