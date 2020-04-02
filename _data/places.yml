@@ -123,6 +123,18 @@ open:
     notes: Call for pickup and delivery. <a href="https://12fcfcc5-9c0c-71b4-d2e6-789a72c3925c.filesusr.com/ugd/370d25_c8eae6a23a7944f28114f5f0b83f4f3a.pdf">Delivery menu here</a>.
     last_updated: 3/19
 
+  - name: Chick-P
+    url: https://www.chick-p.com
+    instagram: https://www.instagram.com/chickpbrooklyn/
+    phone: (718) 783-1525
+    hours: 11AM - 10PM (9PM Sun)
+    notes: 10% off when ordering directly from <a href="https://eat.9fold.me/index.html#/10955">their website</a>
+    delivery:
+      doordash: https://www.doordash.com/store/chick-p-brooklyn-28639/en-US
+      postmates: https://postmates.com/merchant/chick-p-brooklyn
+      seamless: https://www.seamless.com/menu/chick-p-490-bergen-st-brooklyn/262480
+    last_updated: 3/31
+
   - name: Chuko
     url: http://www.chukobk.com
     instagram: https://www.instagram.com/chukobk/
