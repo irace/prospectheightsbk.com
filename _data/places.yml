@@ -406,17 +406,6 @@ open:
         url: https://www.rdfoodsbklyn.com/gifts
     last_updated: 4/2
 
-  - name: Rose’s
-    phone: (718) 230-0427
-    url: http://www.rosesbklyn.com
-    instagram: https://www.instagram.com/rosesbklyn/
-    hours: 12 - 6 PM
-    notes: Call to order. Menu changes daily with burger kits and cocktails to go. Cash and Venmo accepted, gift cards purchasable via credit card.
-    links:
-      - title: Staff relief fund
-        url: https://www.gofundme.com/f/rose039s-staff-assistance-fund
-    last_updated: 3/18
-
   - name: Sugarcane
     url: http://www.sugarcanerestaurant.com
     phone: (718) 230-3954
@@ -769,6 +758,18 @@ closed:
       - title: Gift cards
         url: https://www.oxalisnyc.com/store/gift-cards/
     last_updated: 3/16
+    
+  - name: Rose’s
+    phone: (718) 230-0427
+    url: http://www.rosesbklyn.com
+    instagram: https://www.instagram.com/rosesbklyn/
+    hours: 12 - 6 PM
+    notes: “Rose’s is closed indefinitely.”
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/rose039s-staff-assistance-fund
+    last_updated: 3/18
+
 
   - name: Shaka Shaka Tiki/Companion Cafe
     url: https://www.companioncafebk.com
