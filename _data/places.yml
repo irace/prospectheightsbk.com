@@ -236,7 +236,7 @@ open:
       postmates: https://postmates.com/merchant/the-islands-brooklyn-1
       uber_eats: https://www.ubereats.com/new-york/food-delivery/the-islands/9jFnKcjVRBuUOpsVlzSgsg
     last_updated: 3/25
- 
+
   - name: James
     url: http://www.jamesrestaurantny.com
     instagram: https://www.instagram.com/jamesbklyn/
@@ -261,6 +261,15 @@ open:
     delivery:
       chownow: https://direct.chownow.com/order/11256/locations/15554
     last_updated: 4/1
+
+  - name: Konditori
+    instagram: https://www.instagram.com/konditori/
+    notes: Takeout only
+    phone: (773) 797-2118
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/help-our-staff-at-konditori
+    last_updated: 4/2
 
   - name: Kulushkat
     url: https://kulushkat.com
@@ -294,21 +303,6 @@ open:
       - title: Gift cards
         url: https://squareup.com/gift/W0XRH9R9BY895/order
     last_updated: 3/25
-
-  - name: MeMe’s Diner
-    url: https://www.memesdiner.com
-    hours: 10AM - 4PM
-    instagram: https://www.instagram.com/memesdiner/
-    phone: (718) 636-2900
-    delivery:
-      caviar: https://www.trycaviar.com/m/memes-diner-10883
-    notes: “New tonight (3/27) for delivery = we made you some slice-and-bake chocolate chip cookies! We’ll even send the instructions along. Give us a call, or order on Caviar, from 5-10. And yeah, we’re doing brunch delivery again tomorrow (3/28)!”
-    last_updated: 3/27
-    links:
-      - title: Staff relief fund
-        url: https://www.memesdiner.com/covid-19-staff-fund-donation
-      - title: Gift cards
-        url: https://www.memesdiner.com/gift-certificates
 
   - name: Mermaid’s Garden
     url: https://www.mermaidsgardennyc.com
@@ -641,7 +635,7 @@ closed:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/fausto-employee-fund
     last_updated: 3/21
-    
+
   - name: Fermented Grapes
     url: http://www.fermentedgrapes.net
     instagram: https://www.instagram.com/fermentedgrapesbk/
@@ -700,6 +694,21 @@ closed:
       seamless: https://www.seamless.com/menu/maya-taqueria-prospect-heights-637-vanderbilt-ave-brooklyn/80416
       chownow: https://direct.chownow.com/order/7470/locations/10000
     last_updated: 4/1
+
+  - name: MeMe’s Diner
+    url: https://www.memesdiner.com
+    hours: 10AM - 4PM
+    instagram: https://www.instagram.com/memesdiner/
+    phone: (718) 636-2900
+    delivery:
+      caviar: https://www.trycaviar.com/m/memes-diner-10883
+    notes: “We're closed, for now. Follow us [on Instagram] for updates. Stay home and stay healthy!”
+    last_updated: 3/28
+    links:
+      - title: Staff relief fund
+        url: https://www.memesdiner.com/covid-19-staff-fund-donation
+      - title: Gift cards
+        url: https://www.memesdiner.com/gift-certificates
 
   - name: Milk Bar
     url: https://www.milkbarbrooklyn.com
@@ -771,7 +780,7 @@ closed:
       - title: Gift cards
         url: https://www.oxalisnyc.com/store/gift-cards/
     last_updated: 3/16
-    
+
   - name: Rose’s
     phone: (718) 230-0427
     url: http://www.rosesbklyn.com
@@ -782,7 +791,6 @@ closed:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/rose039s-staff-assistance-fund
     last_updated: 4/3
-
 
   - name: Shaka Shaka Tiki/Companion Cafe
     url: https://www.companioncafebk.com
