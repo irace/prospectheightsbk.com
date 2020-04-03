@@ -243,6 +243,8 @@ open:
     phone: (718) 942-4255
     hours: 4 - 9PM
     notes: “Call us at 718-942.4255 to place an order for take out and delivery available via Caviar.”
+    delivery:
+      caviar: https://www.trycaviar.com/m/james-19693
     links:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/james-staff-emergency-relief-fund
