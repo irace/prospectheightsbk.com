@@ -34,12 +34,12 @@ open:
   - name: Bergen Bagels
     url: http://www.bergenbagels.com/
     instagram: https://www.instagram.com/bergen_bagels/
-    hours: 8AM - 2PM
+    hours: 7AM - 3PM
     notes: Open for pick-up and delivery
     delivery:
       doordash: https://www.doordash.com/store/bergen-bagels-brooklyn-312992/en-US
       seamless: https://www.seamless.com/menu/bergen-bagels-on-bergen-473-bergen-st-brooklyn/549250
-    last_updated: 3/25
+    last_updated: 4/3
 
   - name: Bierwax
     url: https://www.bierwaxnyc.com
@@ -768,7 +768,7 @@ closed:
     links:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/rose039s-staff-assistance-fund
-    last_updated: 3/18
+    last_updated: 4/3
 
 
   - name: Shaka Shaka Tiki/Companion Cafe
