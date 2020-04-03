@@ -165,19 +165,6 @@ open:
       seamless: https://www.seamless.com/menu/dickeys-barbecue-pit-196-a-flatbush-ave-brooklyn/736492
     last_updated: 4/2
 
-  - name: Faun
-    url: https://faun.nyc
-    instagram: https://www.instagram.com/faun.nyc/
-    phone: (718) 576-6120
-    delivery:
-      caviar: https://www.trycaviar.com/m/faun-17403
-    links:
-      - title: Staff relief fund
-        url: https://www.gofundme.com/f/faun-staff-relief-fund
-      - title: Gift cards (25% off)
-        url: https://faun.nyc/gift-cards
-    last_updated: 3/16
-
   - name: Geido
     url: https://geido.nyc
     hours: 5:30 - 10PM (Wed-Sun), 12:30-3PM (Sat-Sun)
@@ -616,6 +603,19 @@ closed:
       - title: Gift cards
         url: https://www.doughnutplant.com/store/gift-cards/
     last_updated: 3/25
+
+  - name: Faun
+    url: https://faun.nyc
+    instagram: https://www.instagram.com/faun.nyc/
+    phone: (718) 576-6120
+    delivery:
+      caviar: https://www.trycaviar.com/m/faun-17403
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/faun-staff-relief-fund
+      - title: Gift cards (25% off)
+        url: https://faun.nyc/gift-cards
+    last_updated: 4/3
 
   - name: Fausto
     url: https://www.faustobrooklyn.com
