@@ -236,6 +236,19 @@ open:
       postmates: https://postmates.com/merchant/the-islands-brooklyn-1
       uber_eats: https://www.ubereats.com/new-york/food-delivery/the-islands/9jFnKcjVRBuUOpsVlzSgsg
     last_updated: 3/25
+ 
+  - name: James
+    url: http://www.jamesrestaurantny.com
+    instagram: https://www.instagram.com/jamesbklyn/
+    phone: (718) 942-4255
+    hours: 4 - 9PM
+    notes: “Call us at 718-942.4255 to place an order for take out and delivery available via Caviar.”
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/james-staff-emergency-relief-fund
+      - title: Gift cards and shop
+        url: http://www.jamesrestaurantny.com/shop
+    last_updated: 4/3
 
   - name: Kimchi Grill
     url: https://www.kimchigrill.com
@@ -625,19 +638,6 @@ closed:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/fausto-employee-fund
     last_updated: 3/21
-
-  - name: James
-    url: http://www.jamesrestaurantny.com
-    instagram: https://www.instagram.com/jamesbklyn/
-    phone: (718) 942-4255
-    hours: 12 - 8PM
-    notes: “We’ll be back April 3rd with new nourishing dishes, provisions and market produce.”
-    links:
-      - title: Staff relief fund
-        url: https://www.gofundme.com/f/james-staff-emergency-relief-fund
-      - title: Gift cards and shop
-        url: http://www.jamesrestaurantny.com/shop
-    last_updated: 3/27
 
   - name: Joyce Bakeshop
     url: http://www.joycebakeshop.com
