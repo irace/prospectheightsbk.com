@@ -60,8 +60,11 @@ title: Help Prospect Heights
         <a href="https://www.seriouseats.com/2020/03/food-safety-and-coronavirus-a-comprehensive-guide.html"
           >Food Safety and Coronavirus: A Comprehensive Guide</a
         ></p>
+
+      {% assign places = site.places | sort: "name" %}
+
       <div class="flex flex-wrap center">
-        {% for place in site.places %}
+        {% for place in places %}
 
         {% if place.status == "open" %}
 
@@ -121,7 +124,7 @@ title: Help Prospect Heights
         <div class="w-100">
           <h1 class="f3 lh-copy ttu tc light-red">Temporarily closed 😢</h1>
         </div>
-        {% for place in site.places %}
+        {% for place in places %}
 
         {% if place.status == "closed" %}
 
