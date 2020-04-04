@@ -1,10 +1,14 @@
 # Setup
 title: Help Prospect Heights
-url: http://irace.me/prospect-heights
+url: https://prospectheightsbk.com/
+
+collections:
+  places:
+    sort_by: name
 
 # Custom vars
 github:
-  repo: https://github.com/irace/prospect-heights
+  repo: https://github.com/irace/prospectheightsbk.com
 
 sass:
   # Where you keep your scss files
