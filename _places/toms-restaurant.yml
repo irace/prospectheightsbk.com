@@ -1,0 +1,11 @@
+---
+name: Tom’s Restaurant
+status: open
+href: https://tomsbrooklyn.com
+instagram: https://www.instagram.com/tomsbrooklyn/
+phone: (212) 864-6137
+notes: Open for pick-up and delivery
+delivery:
+  seamless: https://www.seamless.com/menu/toms-restaurant-782-washington-ave-brooklyn/297390
+last_updated: 3/17
+---

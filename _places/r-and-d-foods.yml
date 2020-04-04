@@ -1,0 +1,15 @@
+---
+name: R&D Foods
+status: open
+href: https://www.rdfoodsbklyn.com/
+instagram: https://www.instagram.com/rdfoods/
+phone: (347) 915-1196
+hours: 10AM - 4PM (Thurs - Sun)
+notes: Order via ChowNow. Pick-up and deliveries only between 12 - 4PM. Call with questions. “We are not making sandwiches or coffee right now & we have no eggs for purchase.”
+delivery:
+  chownow: https://ordering.chownow.com/order/11145/locations
+links:
+  - title: Gift cards
+    url: https://www.rdfoodsbklyn.com/gifts
+last_updated: 4/2
+---

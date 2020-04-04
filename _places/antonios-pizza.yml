@@ -1,0 +1,13 @@
+---
+name: Antonio’s Pizza
+status: open
+href: https://www.antoniosbrooklyn.com
+instagram: https://www.instagram.com/antonios_pizza_/
+phone: ‭(718) 398-2300‬
+hours: 11AM - 9PM
+notes: Open for pick-up and delivery
+delivery:
+  seamless: https://www.seamless.com/menu/antonios-pizzeria--restaurant-318-flatbush-ave-brooklyn/66813
+  slice: https://slicelife.com/restaurants/ny/brooklyn/11238/antonio-s-pizza/menu
+last_updated: 3/30
+---
