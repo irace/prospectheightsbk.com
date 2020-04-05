@@ -406,15 +406,15 @@ open:
   - name: Sweet Polly
     instagram: https://www.instagram.com/sweetpollynyc/
     url: http://www.sweetpollynyc.com
-    phone: 718-484-9600
-    hours: 3 - 8PM
-    notes: “Contactless takeout today (Thursday, 4/2)! Call ahead (718-484-9600) to place an order and bring some joy to your Thursday!”
+    phone: (718) 484-9600
+    hours: 2 - 8PM (Thurs - Sun)
+    notes: “Call ahead to place an order for pickup”
     links:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/sweet-polly-team-relief-fund
       - title: Gift cards (20% off)
         url: https://squareup.com/gift/89TMFJQFPZE0N/order
-    last_updated: 4/2
+    last_updated: 4/4
 
   - name: Tom’s Restaurant
     url: https://tomsbrooklyn.com
