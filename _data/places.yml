@@ -195,10 +195,10 @@ open:
     last_updated: 3/16
 
   - name: Gran Caffe De Martini
-    hours: 9AM – 6PM (Mon-Fri), 8AM – 6PM (Sat/Sun)
+    hours: 9AM – 5PM (Fri-Mon, closed Tue-Thur)
     url: https://www.caffedemartini.com
     instagram: https://www.instagram.com/grancaffedemartini/
-    notes: “Espresso beans, bread, focaccia available to-go. We also have all our food menu for delivery.”
+    notes: “Our menu is available on Caviar and Seamless. Also, you can give us a free call to place your order and set the time of the pick up”
     delivery:
       caviar: https://www.trycaviar.com/m/gran-caffe-de-martini-19266
       seamless: https://www.seamless.com/menu/gran-caffe-de-martini-609-vanderbilt-ave-brooklyn/1008604
@@ -207,7 +207,7 @@ open:
         url: https://www.gofundme.com/f/gran-caffe-de-martini-fund
       - title: Gift cards
         url: https://www.caffedemartini.com/product/gift-card/
-    last_updated: 3/29
+    last_updated: 4/5
 
   - name: Homeslice Pizzeria
     url: https://www.brooklynshomeslicepizza.com
@@ -577,6 +577,12 @@ closed:
       - title: Gift cards
         url: https://shop.bkmetalworks.com/product/gift-certificates
 
+  - name: Cataldo’s
+    url: http://www.cataldos54.com
+    instagram: https://www.instagram.com/cataldosbk/
+    notes: Closed until further notice
+    last_updated: 3/16
+
   - name: Ciao, Gloria
     url: https://www.ciaogloria.com
     instagram: https://www.instagram.com/ciaoglorianyc/
@@ -626,6 +632,11 @@ closed:
     phone: (718) 230-3216
     notes: “We plan to re-open in a few weeks but will re-assess the situation on a weekly basis. Please check our website for future updates.”
     last_updated: 4/3
+
+  - name: Inaka Asian Cuisine
+    url: http://inakany.com
+    notes: Closed until further notice
+    last_updated: 4/5
 
   - name: Joyce Bakeshop
     url: http://www.joycebakeshop.com
