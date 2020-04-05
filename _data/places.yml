@@ -288,22 +288,6 @@ open:
     notes: Open for take-out
     last_updated: 3/25
 
-  - name: Lowerline
-    hours: 12 - 8PM
-    url: https://www.lowerlinebk.com
-    instagram: https://www.instagram.com/lowerline/
-    phone: (347) 533-7110
-    notes: Pick-up and delivery via Caviar (although preference for calling directly)
-    delivery:
-      caviar: https://www.trycaviar.com/m/lowerline-11359
-      doordash: https://www.doordash.com/store/lowerline-brooklyn-524902/
-    links:
-      - title: Staff relief fund
-        url: https://www.gofundme.com/f/help-lowerline-keep-nola-cuisine-alive-in-brooklyn
-      - title: Gift cards
-        url: https://squareup.com/gift/W0XRH9R9BY895/order
-    last_updated: 3/25
-
   - name: Mermaid’s Garden
     url: https://www.mermaidsgardennyc.com
     instagram: https://www.instagram.com/mgfishnyc/
@@ -674,6 +658,22 @@ closed:
       seamless: https://www.seamless.com/menu/lincoln-station-409-lincoln-pl-brooklyn/315738
       caviar: https://www.trycaviar.com/m/lincoln-station-758
     last_updated: 4/1
+
+  - name: Lowerline
+    hours: 12 - 8PM
+    url: https://www.lowerlinebk.com
+    instagram: https://www.instagram.com/lowerline/
+    phone: (347) 533-7110
+    notes: Closed until further notice
+    delivery:
+      caviar: https://www.trycaviar.com/m/lowerline-11359
+      doordash: https://www.doordash.com/store/lowerline-brooklyn-524902/
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/help-lowerline-keep-nola-cuisine-alive-in-brooklyn
+      - title: Gift cards
+        url: https://squareup.com/gift/W0XRH9R9BY895/order
+    last_updated: 4/4
 
   - name: Maison Yaki
     url: http://www.maisonyaki.com/
