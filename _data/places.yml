@@ -281,13 +281,6 @@ open:
       chownow: https://direct.chownow.com/order/8549/locations/11540
     last_updated: 3/21
 
-  - name: Little Cupcake Bakeshop
-    phone: (718) 783-0770
-    url: http://www.littlecupcakebakeshop.com
-    instagram: https://www.instagram.com/littlecupcakebakeshop/
-    notes: Open for take-out
-    last_updated: 3/25
-
   - name: Mermaid’s Garden
     url: https://www.mermaidsgardennyc.com
     instagram: https://www.instagram.com/mgfishnyc/
@@ -378,13 +371,13 @@ open:
     instagram: https://www.instagram.com/rdfoods/
     phone: (347) 915-1196
     hours: 10AM - 4PM (Thurs - Sun)
-    notes: Order via ChowNow. Pick-up and deliveries only between 12 - 4PM. Call with questions. “We are not making sandwiches or coffee right now & we have no eggs for purchase.”
+    notes: “Limited prep foods menu plus grocery, no sandwiches, coffee, etc. <a href="https://ordering.chownow.com/order/11145/locations">Online orders</a> only (pickup or delivery). <a href="mailto:info@rdfoodsbklyn.com">Email</a> with questions – we aren’t here to answer the phone. <a href="https://www.instagram.com/rdfoods/">Follow on Instagram</a> for day-to-day updates.”
     delivery:
       chownow: https://ordering.chownow.com/order/11145/locations
     links:
       - title: Gift cards
         url: https://www.rdfoodsbklyn.com/gifts
-    last_updated: 4/2
+    last_updated: 4/5
 
   - name: Sugarcane
     url: http://www.sugarcanerestaurant.com
@@ -669,6 +662,13 @@ closed:
       seamless: https://www.seamless.com/menu/lincoln-station-409-lincoln-pl-brooklyn/315738
       caviar: https://www.trycaviar.com/m/lincoln-station-758
     last_updated: 4/1
+
+  - name: Little Cupcake Bakeshop
+    phone: (718) 783-0770
+    url: http://www.littlecupcakebakeshop.com
+    instagram: https://www.instagram.com/littlecupcakebakeshop/
+    notes: Closed until further notice
+    last_updated: 4/4
 
   - name: Lowerline
     hours: 12 - 8PM
