@@ -249,8 +249,8 @@ open:
     url: http://www.jamesrestaurantny.com
     instagram: https://www.instagram.com/jamesbklyn/
     phone: (718) 942-4255
-    hours: 4 - 9PM
-    notes: “Call us at 718-942.4255 to place an order for take out and delivery available via Caviar.”
+    hours: 4 - 9PM (Tues - Sat)
+    notes: Call to place an order for take out and delivery available via Caviar
     delivery:
       caviar: https://www.trycaviar.com/m/james-19693
     links:
@@ -258,7 +258,7 @@ open:
         url: https://www.gofundme.com/f/james-staff-emergency-relief-fund
       - title: Gift cards and shop
         url: http://www.jamesrestaurantny.com/shop
-    last_updated: 4/3
+    last_updated: 4/5
 
   - name: Kimchi Grill
     url: https://www.kimchigrill.com
