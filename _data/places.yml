@@ -616,6 +616,7 @@ closed:
     last_updated: 3/25
 
   - name: El Gran Castillo de Jagua
+    phone: (718) 622-8700
     notes: Closed until further notice
     url: https://www.elgrancastillo.com
     last_updated: 4/6
@@ -699,6 +700,20 @@ closed:
     instagram: https://www.instagram.com/littlecupcakebakeshop/
     notes: Closed until further notice
     last_updated: 4/4
+
+  - name: LOOK by Plant Love House
+    url: https://www.plantlovehouse.com/look
+    instagram: https://www.instagram.com/byplantlovehouse/
+    phone: (718) 622-0026
+    notes: Closed until further notice
+    delivery:
+      caviar: https://www.trycaviar.com/m/look-by-plant-love-house-11405
+      seamless: https://www.seamless.com/menu/look-by-plant-love-house-622-washington-ave-brooklyn/344210
+      uber_eats: https://www.ubereats.com/new-york/food-delivery/look-by-plant-love-house/IvIM_ZVuRniuCfOkMg9uXw
+    links:
+      - title: Gift cards
+        url: https://squareup.com/gift/C8B77ATQE673H/order
+    last_updated: 3/20
 
   - name: Lowerline
     hours: 12 - 8PM
