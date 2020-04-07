@@ -615,6 +615,11 @@ closed:
         url: https://www.doughnutplant.com/store/gift-cards/
     last_updated: 3/25
 
+  - name: El Gran Castillo de Jagua
+    notes: Closed until further notice
+    url: https://www.elgrancastillo.com
+    last_updated: 4/6
+
   - name: Faun
     url: https://faun.nyc
     instagram: https://www.instagram.com/faun.nyc/
@@ -662,6 +667,12 @@ closed:
         url: https://www.gofundme.com/f/Audrey-Coworker-Disaster-Relief
     last_updated: 3/29
 
+  - name: Ki Sushi
+    url: http://www.kisushigroup.com
+    instagram: https://www.instagram.com/ki_sushi_flatbush/
+    notes: Closed until further notice
+    last_updated: 4/6
+
   - name: LaLou
     url: https://laloubrooklyn.com
     instagram: https://www.instagram.com/laloubrooklyn/
@@ -704,6 +715,12 @@ closed:
       - title: Gift cards
         url: https://squareup.com/gift/W0XRH9R9BY895/order
     last_updated: 4/4
+
+  - name: Muse
+    instagram: https://www.instagram.com/musethai/
+    url: https://musebklyn.com
+    notes: Closed until further notice
+    last_updated: 4/7
 
   - name: Maison Yaki
     url: http://www.maisonyaki.com/
@@ -878,6 +895,12 @@ closed:
     links:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/sunshine-co-staff
+    last_updated: 3/16
+
+  - name: Taro Sushi
+    url: https://www.tarosushibrooklyn.com
+    instagram: https://www.instagram.com/tarosushi.bk/
+    notes: “We have decided to close the restaurant at this location permanently.” A note on the door says that they intend to open at a new location in the future.
     last_updated: 3/16
 
   - name: Unnameable Books
