@@ -1,14 +1,4 @@
 open:
-  - name: Amorina Pizza
-    url: http://www.amorinapizza.com/
-    instagram: https://www.instagram.com/amorinapizza/
-    hours: 5 - 11PM (Thu-Sat), 5 - 10PM (Sun)
-    phone: (917) 905-2279
-    notes: Call or order take-out or delivery on Seamless. Days and hours may change based on demand.
-    delivery:
-      seamless: https://www.seamless.com/menu/amorina-cucina-rustica-624-vanderbilt-ave-brooklyn/292222
-    last_updated: 3/18
-
   - name: Antonio’s Pizza
     url: https://www.antoniosbrooklyn.com
     instagram: https://www.instagram.com/antonios_pizza_/
@@ -524,6 +514,16 @@ closed:
       - title: Gift cards
         url: https://www.toasttab.com/alta-calidad/giftcards
     last_updated: 3/25
+
+  - name: Amorina Pizza
+    url: http://www.amorinapizza.com/
+    instagram: https://www.instagram.com/amorinapizza/
+    hours: 5 - 11PM (Thu-Sat), 5 - 10PM (Sun)
+    phone: (917) 905-2279
+    notes: “We have decided to take a little break. We will revisit opening in a couple weeks.”
+    delivery:
+      seamless: https://www.seamless.com/menu/amorina-cucina-rustica-624-vanderbilt-ave-brooklyn/292222
+    last_updated: 3/31
 
   - name: Ample Hills
     url: https://www.amplehills.com
