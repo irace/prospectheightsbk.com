@@ -1,0 +1,17 @@
+---
+name: Branded Saloon
+status: open
+href: https://www.brandedsaloon.com
+instagram: https://www.instagram.com/brandedsaloon/
+phone: (718) 484-8704
+hours: 5 - 11:45PM
+notes: Food and drink take-out and delivery (catering via <a href="https://www.ezcater.com/catering/branded-saloon-3">EZCater</a>). You can also Venmo @Alex-Savoie directly.
+delivery:
+  doordash: https://www.doordash.com/store/branded-cattle-saloon-inc-brooklyn-893199/1318299/en-US
+  seamless: https://www.seamless.com/menu/branded-saloon-603-vanderbilt-ave-brooklyn/298472
+  caviar: https://www.trycaviar.com/m/branded-saloon-19621
+links:
+  - title: Merchandise
+    url: https://www.brandedsaloon.com/support-branded
+last_updated: 3/28
+---

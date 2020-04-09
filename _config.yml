@@ -2,6 +2,10 @@
 title: Help Prospect Heights
 url: https://prospectheightsbk.com/
 
+collections:
+  places:
+    sort_by: name
+
 # Custom vars
 github:
   repo: https://github.com/irace/prospectheightsbk.com
