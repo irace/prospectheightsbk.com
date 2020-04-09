@@ -44,7 +44,7 @@ title: Help Prospect Heights
         Things are moving fast – please <a href="https://www.instagram.com/helpprospectheights/following/">follow each business on Instagram</a> for their latest updates.
       </p>
       <p class="f6 lh-copy tc mb3">
-        <a href="https://prospectheights.substack.com/subscribe">Subscribe to our weekly update email</a>&nbsp;✉️
+        <a href="https://prospectheights.substack.com/subscribe">Interested in a weekly update email?</a>&nbsp;✉️
       </p>
     
       <p class="f7 lh-copy tc">
@@ -72,7 +72,7 @@ title: Help Prospect Heights
           <div class="bg-white shadow-4 br2 h-100 pa3">
             <div class="f4 lh-copy mv0 pa0 ttu">
               {% if place.url %}
-              <a class="link dim dark-blue" }href="{{ place.url }}">{{ place.name }}</a> {% else %} {{ place.name }} {% endif %} {% if
+              <a class="link dim dark-blue" href="{{ place.url }}">{{ place.name }}</a> {% else %} {{ place.name }} {% endif %} {% if
               place.instagram %}<a class="v-mid" href="{{ place.instagram }}"><img style="width: 25px;" src="icons/instagram.png"/></a>{%
               endif %} {% if place.facebook %}<a class="v-mid" href="{{ place.facebook }}"><img style="width: 25px;" src="icons/facebook.jpg"/></a>{%
                 endif %} {% if place.untappd %}<a class="v-mid" href="{{ place.untappd }}"
@@ -110,7 +110,7 @@ title: Help Prospect Heights
             {% for link in place.links %}
             <p><a class="f6 link dim dark-green" href="{{ link.url }}">{{ link.title }}</a></p>
             {% endfor %} {% if place.last_updated %}
-            <div class="mb0 pb0 f7 lh-copy black-40">Last updated: {{ place.last_updated}}</div>
+            <div class="mb0 pb0 f7 lh-copy black-40">Last updated: {{ place.last_updated }}</div>
             {% endif %}
           </div>
         </div>
