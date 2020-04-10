@@ -66,7 +66,7 @@ title: Help Prospect Heights
       <div class="flex flex-wrap center">
         {% for place in places %}
 
-        {% if place.status == "open" %}
+        {% if place.status != "closed" %}
 
         <div class="w-100 w-100-m w-third-ns pa2">
           <div class="bg-white shadow-4 br2 h-100 pa3">
