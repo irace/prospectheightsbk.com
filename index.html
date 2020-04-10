@@ -60,8 +60,13 @@ title: Help Prospect Heights
         <a href="https://www.seriouseats.com/2020/03/food-safety-and-coronavirus-a-comprehensive-guide.html"
           >Food Safety and Coronavirus: A Comprehensive Guide</a
         ></p>
+
+      {% assign places = site.data.places | sort: "name" %}
+
       <div class="flex flex-wrap center">
-        {% for place in site.data.places.open %}
+        {% for place in places %}
+
+        {% if place.status != "closed" %}
 
         <div class="w-100 w-100-m w-third-ns pa2">
           <div class="bg-white shadow-4 br2 h-100 pa3">
@@ -105,10 +110,13 @@ title: Help Prospect Heights
             {% for link in place.links %}
             <p><a class="f6 link dim dark-green" href="{{ link.url }}">{{ link.title }}</a></p>
             {% endfor %} {% if place.last_updated %}
-            <div class="mb0 pb0 f7 lh-copy black-40">Last updated: {{ place.last_updated}}</div>
+            <div class="mb0 pb0 f7 lh-copy black-40">Last updated: {{ place.last_updated }}</div>
             {% endif %}
           </div>
         </div>
+
+        {% endif %}
+
         {% endfor %}
       </div>
 
@@ -116,7 +124,9 @@ title: Help Prospect Heights
         <div class="w-100">
           <h1 class="f3 lh-copy ttu tc light-red">Temporarily closed 😢</h1>
         </div>
-        {% for place in site.data.places.closed %}
+        {% for place in places %}
+
+        {% if place.status == "closed" %}
 
         <div class="w-100 w-100-m w-third-ns pa2">
           <div class="bg-white shadow-4 br2 h-100 pa3">
@@ -136,10 +146,13 @@ title: Help Prospect Heights
             {% endif %} {% for link in place.links %}
             <p><a class="f6 link dim dark-green" href="{{ link.url }}">{{ link.title }}</a></p>
             {% endfor %} {% if place.last_updated %}
-            <div class="mb0 pb0 f7 lh-copy black-40">Last updated: {{ place.last_updated}}</div>
+            <div class="mb0 pb0 f7 lh-copy black-40">Last updated: {{ place.last_updated }}</div>
             {% endif %}
           </div>
         </div>
+
+        {% endif %}
+
         {% endfor %}
 
         <div class="w-100 mv3">
