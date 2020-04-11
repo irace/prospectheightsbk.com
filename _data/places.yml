@@ -786,14 +786,14 @@
   url: https://www.rdfoodsbklyn.com/
   instagram: https://www.instagram.com/rdfoods/
   phone: (347) 915-1196
-  hours: 10AM - 4PM (Thurs - Sun)
-  notes: “Limited prep foods menu plus grocery, no sandwiches, coffee, etc. <a href="https://ordering.chownow.com/order/11145/locations">Online orders</a> only (pickup or delivery). <a href="mailto:info@rdfoodsbklyn.com">Email</a> with questions – we aren’t here to answer the phone. <a href="https://www.instagram.com/rdfoods/">Follow on Instagram</a> for day-to-day updates.”
+  hours: 12 - 4PM (Thurs - Sun)
+  notes: Use code KALE for $5 off delivery orders, which basically makes delivery free. “We are still encouraging healthy customers to pickup as the delivery folks are _slammed_ and need to be saved for those in need of delivery.” See their <a href="https://www.rdfoodsbklyn.com/open-during-corona">Open During Corona</a> page for more details.
   delivery:
     chownow: https://ordering.chownow.com/order/11145/locations
   links:
     - title: Gift cards
       url: https://www.rdfoodsbklyn.com/gifts
-  last_updated: 4/5
+  last_updated: 4/11
 
 - name: Rose’s
   status: closed
