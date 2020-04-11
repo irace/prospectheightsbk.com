@@ -423,14 +423,14 @@
   last_updated: 4/5
 
 - name: The Islands
-  status: open
+  status: closed
   phone: (718) 398-3575
   hours: 2 - 10:30PM (Tue-Thu), 1 - 10:30PM (Fri), 12 - 10:30PM (Sat/Sun)
-  notes: Open for pick-up and delivery
+  notes: An (undated) sign says that they are temporary closed for two weeks. Exact reopen date unknown.
   delivery:
     postmates: https://postmates.com/merchant/the-islands-brooklyn-1
     uber_eats: https://www.ubereats.com/new-york/food-delivery/the-islands/9jFnKcjVRBuUOpsVlzSgsg
-  last_updated: 3/25
+  last_updated: 4/10
 
 - name: James
   status: open
