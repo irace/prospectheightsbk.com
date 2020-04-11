@@ -603,10 +603,11 @@
 - name: Mermaid’s Garden
   status: open
   url: https://www.mermaidsgardennyc.com
+  hours: 12 - 6PM (Tues - Fri), 11AM - 6PM (Sat/Sun)
   instagram: https://www.instagram.com/mgfishnyc/
   phone: (718) 638-1910
   notes: Delivery available via <a href="https://www.mercato.com/shop/mermaids-garden">Mercato</a>
-  last_updated: 3/21
+  last_updated: 4/11
 
 - name: Mexicocina Agaveria
   status: open
@@ -683,15 +684,16 @@
   last_updated: 3/18
 
 - name: Nourish Thai
-  status: closed
   hours: 12 - 10:30PM
   phone: (718) 789-3981
   url: https://www.nourishthai.com
   instagram: https://www.instagram.com/nourishthai/
-  notes: Closed until further notice
+  notes: Open for pick-up and delivery
   delivery:
     caviar: https://www.trycaviar.com/m/nourish-thai-12825
-  last_updated: 3/27
+    seamless: https://www.seamless.com/menu/nourish-637a-vanderbilt-ave-brooklyn/429623
+    chownow: https://eat.chownow.com/discover/restaurant/11724
+  last_updated: 4/11
 
 - name: Nûrish
   status: open
