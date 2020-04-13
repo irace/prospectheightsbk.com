@@ -164,12 +164,12 @@
   status: open
   url: https://www.bluemarbleicecream.com
   instagram: https://www.instagram.com/bluemarblebk/
-  hours: 8AM - 4PM
+  hours: 8AM - 4PM (Mon - Thurs), 8AM - 6:30PM (Fri - Sun)
   phone: (718) 399-6926
   notes: Coffee, pastries, pints, and cups available from the take-out window or for delivery via Postmates. “Our hours and offerings may vary, but we will post daily.”
   delivery:
     postmates: https://postmates.com/merchant/blue-marble-brooklyn
-  last_updated: 3/22
+  last_updated: 4/13
 
 - name: Born Thai
   status: open
