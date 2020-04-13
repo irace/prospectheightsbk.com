@@ -1,3 +1,10 @@
+- name: Acme Pet Food Inc
+  instagram: https://www.instagram.com/acmepetfood/
+  phone: (718) 789-8062
+  hours: 10AM - 7PM (Mon - Fri), 10AM - 5PM (Sat), 11AM - 5PM (Sun)
+  notes: “Limit exposure to our staff and yourself, please wear a mask when visiting, wait outside if crowded. No contact curbside and local home delivery available.”
+  last_updated: 4/13
+
 - name: Alta Calidad
   status: closed
   url: https://altacalidadbk.com
