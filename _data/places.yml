@@ -1016,6 +1016,15 @@
     doordash: https://www.doordash.com/store/white-tiger-brooklyn-132915/en-US
   notes: Delivery through Seamless/DoorDash. Call for pick-up.
   last_updated: 3/16
+  
+- name: Wine Exchange
+  status: open
+  url: https://www.wineexchangebkn.com
+  phone: (718) 783-7500
+  instagram: https://www.instagram.com/wineexchangebkn/
+  notes: Available for delivery and pickup. In store limited to 5 people in store at a time.
+  last_updated: 4/14
+  
 
 - name: The Winey Neighbor
   status: open
