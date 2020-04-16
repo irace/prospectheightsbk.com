@@ -1007,14 +1007,14 @@
 
 - name: White Tiger
   status: open
-  hours: 5 – 10PM (11PM Fri/Sat)
+  hours: 5 – 9PM (Wed - Sun)
   url: http://www.whitetiger.nyc
   instagram: https://www.instagram.com/whitetigerbklyn/
   phone: (718) 552-2272
+  notes: “Call or order on <a href="http://www.whitetiger.nyc">website</a> for delivery and takeout, or use Seamless or DoorDash. Cocktail sits, Sake, soju, wine, beer also available to go.”
   delivery:
     seamless: https://www.seamless.com/menu/white-tiger-601-vanderbilt-ave-brooklyn/1981045
     doordash: https://www.doordash.com/store/white-tiger-brooklyn-132915/en-US
-  notes: Delivery through Seamless/DoorDash. Call for pick-up.
   last_updated: 3/16
 
 - name: The Winey Neighbor
