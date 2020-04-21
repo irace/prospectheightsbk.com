@@ -348,13 +348,14 @@
   last_updated: 4/3
 
 - name: Geido
-  status: open
+  status: closed
   url: https://geido.nyc
   hours: 5:30 - 10PM (Wed-Sun), 12:30-3PM (Sat-Sun)
   phone: (718) 638-8866
-  notes: Accepting walk-ins for take-out and calls/online orders for pickup. Delivery coming soon.
+  notes: “Temporarily closed (based on the sign on their window)”
   delivery:
     chownow: https://direct.chownow.com/order/13995/locations/19649
+  last_updated: 4/20
 
 - name: Gen Sushi
   status: open
@@ -502,10 +503,10 @@
   hours: 11 - 10PM (Tues - Sun)
   phone: (347) 799-1972
   instagram: https://www.instagram.com/kulushkat/
-  notes: 15% discount with code <strong>March20</strong>. Frozen food and beer also available for take-out and delivery
+  notes: 15% discount with code <strong>FalafelForever</strong>. Frozen food and beer also available for take-out and delivery
   delivery:
     chownow: https://direct.chownow.com/order/8549/locations/11540
-  last_updated: 4/13
+  last_updated: 4/20
 
 - name: LaLou
   status: closed
@@ -518,16 +519,16 @@
   last_updated: 3/16
 
 - name: Lincoln Station
-  status: closed
+  status: open
   url: https://www.stationfoods.com
   instagram: https://instagram.com/lincolnstationbk
-  hours: 7AM - 9PM (Mon-Fri), 8AM - 9PM (Sat-Sun)
+  hours: 5 - 9PM
   phone: (718) 399-2211
-  notes: Closed until further notice
+  notes: “Please call ahead for pickup through the front door. Online ordering and payment for pickup coming soon.”
   delivery:
     seamless: https://www.seamless.com/menu/lincoln-station-409-lincoln-pl-brooklyn/315738
     caviar: https://www.trycaviar.com/m/lincoln-station-758
-  last_updated: 4/1
+  last_updated: 4/20
 
 - name: Little Cupcake Bakeshop
   status: closed
@@ -580,16 +581,16 @@
   last_updated: 3/18
 
 - name: Maya Taqueria
-  status: closed
+  status: open
   url: https://www.mayataqueria.com
   instagram: https://www.instagram.com/mayataqueria/
   hours: 11AM - 12AM
   phone: (732) 535-2717
-  notes: Closed until further notice
+  notes: Open for takeout and delivery
   delivery:
     seamless: https://www.seamless.com/menu/maya-taqueria-prospect-heights-637-vanderbilt-ave-brooklyn/80416
     chownow: https://direct.chownow.com/order/7470/locations/10000
-  last_updated: 4/1
+  last_updated: 4/20
 
 - name: MeMe’s Diner
   status: closed
@@ -651,6 +652,12 @@
     - title: Gift cards
       url: https://www.millefeuille-nyc.com/pages/gift-card
   last_updated: 4/6
+
+- name: Mitchell’s Soul Food
+  phone: (718) 789-3212
+  status: open
+  notes: “Seems open for takeout”
+  last_updated: 4/20
 
 - name: Morgan’s BBQ
   status: open
@@ -1011,11 +1018,12 @@
   url: http://www.whitetiger.nyc
   instagram: https://www.instagram.com/whitetigerbklyn/
   phone: (718) 552-2272
-  notes: “Call or order on <a href="http://www.whitetiger.nyc">website</a> for delivery and takeout, or use Seamless or DoorDash. Cocktail sits, Sake, soju, wine, beer also available to go.”
+  notes: “Please <a href="https://www.toasttab.com/white-tiger/v3">order online directly with us!</a> Or we can take your orders for either pickup or delivery and your credit card payment over the phone! We are trying to cut out the expensive middle man, but of course, you can also use Seamless/GrubHub or DoorDash if that’s more convenient.” Contactless exchanges in a dedicated area at the front of the restaurant, sanitized after each visit.
   delivery:
+    toast: https://www.toasttab.com/white-tiger/v3
     seamless: https://www.seamless.com/menu/white-tiger-601-vanderbilt-ave-brooklyn/1981045
     doordash: https://www.doordash.com/store/white-tiger-brooklyn-132915/en-US
-  last_updated: 3/16
+  last_updated: 3/20
 
 - name: The Winey Neighbor
   status: open
