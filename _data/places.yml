@@ -834,7 +834,7 @@
 - name: Sharlene’s Bar
   status: closed
   instagram: https://www.instagram.com/sharlenesbar/
-  notes: “We have a Venmo account (@sharlenesbar), as well as a GoFundMe, set up and would greatly appreciate any donations that can be made. As always everything will be split evenly between your favorite, and least favorite, bartenders.”
+  notes: “We have a Venmo account (<a href="https://venmo.com/sharlenesbar">@sharlenesbar</a>), as well as a GoFundMe, set up and would greatly appreciate any donations that can be made. As always everything will be split evenly between your favorite, and least favorite, bartenders.”
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/sharlene039s-bar
