@@ -831,6 +831,15 @@
       url: https://squareup.com/gift/ED4WJ2F6HECQZ/order
   last_updated: 3/15
 
+- name: Sharlene’s Bar
+  status: closed
+  instagram: https://www.instagram.com/sharlenesbar/
+  notes: “We have a Venmo account (@sharlenesbar), as well as a GoFundMe, set up and would greatly appreciate any donations that can be made. As always everything will be split evenly between your favorite, and least favorite, bartenders.”
+  links:
+    - title: Staff relief fund
+      url: https://www.gofundme.com/f/sharlene039s-bar
+  last_updated: 3/19
+
 - name: Sit & Wonder
   status: closed
   url: http://sitandwonder.net/index.html
