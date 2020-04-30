@@ -539,12 +539,13 @@
   last_updated: 4/20
 
 - name: Little Cupcake Bakeshop
-  status: closed
+  status: open
   phone: (718) 783-0770
+  hours: 8AM-10PM (Sun - Thurs), 8AM - 11PM (Fri - Sat)
   url: http://www.littlecupcakebakeshop.com
   instagram: https://www.instagram.com/littlecupcakebakeshop/
-  notes: Closed until further notice
-  last_updated: 4/4
+  notes: Open for takeout. Also <a href="http://www.littlecupcakebakeshop.com">online ordering</a> from their website
+  last_updated: 4/30
 
 - name: LOOK by Plant Love House
   status: closed
