@@ -31,22 +31,22 @@
   instagram: https://www.instagram.com/amorinapizza/
   hours: 5 - 11PM (Thu-Sat), 5 - 10PM (Sun)
   phone: (917) 905-2279
-  notes: “We have decided to take a little break. We will revisit opening in a couple weeks.”
+  notes: “[We are] slowly reopening after ‘una piccola pausa’ to regroup. We will be offering weekly produce & pantry boxes for preorder with additional options to come. Stay tuned for details and included items. Ordering will be available through our website.”
   delivery:
     seamless: https://www.seamless.com/menu/amorina-cucina-rustica-624-vanderbilt-ave-brooklyn/292222
-  last_updated: 3/31
+  last_updated: 5/1
 
 - name: Ample Hills
   status: closed
   url: https://www.amplehills.com
   instagram: https://www.instagram.com/amplehills/
-  notes: Hoping to reopen “on or around April 9th”
+  notes: “Please drop by our OG scoop shop on Vanderbilt Ave. this Sunday from 1pm to 5pm. We’ll be selling pints and 1/2 pints from a table in front of the shop in as safe a way as possible. Bring your bank card and please wear a mask”
   delivery:
     caviar: https://www.trycaviar.com/m/ample-hills--prospect-heights-1722
     seamless: https://www.seamless.com/menu/ample-hills---prospect-heights-623-vanderbilt-ave-brooklyn/1711574
     uber_eats:
     postmates:
-  last_updated: 3/18
+  last_updated: 5/1
 
 - name: Antonio’s Pizza
   status: open
@@ -397,11 +397,11 @@
   last_updated: 4/5
 
 - name: El Gran Castillo de Jagua
-  status: closed
+  status: open
   phone: (718) 622-8700
-  notes: Closed until further notice
+  notes: Open with a limited menu for takeout and delivery
   url: https://www.elgrancastillo.com
-  last_updated: 4/6
+  last_updated: 4/30
 
 - name: Homeslice Pizzeria
   status: open
@@ -602,15 +602,15 @@
   last_updated: 4/20
 
 - name: MeMe’s Diner
-  status: closed
+  status: open
   url: https://www.memesdiner.com
-  hours: 10AM - 4PM
+  hours: 12 - 4PM
   instagram: https://www.instagram.com/memesdiner/
   phone: (718) 636-2900
   delivery:
     caviar: https://www.trycaviar.com/m/memes-diner-10883
-  notes: “We're closed, for now. Follow us [on Instagram] for updates. Stay home and stay healthy!”
-  last_updated: 3/28
+  notes: “THIS SATURDAY (5/2) our first baby steps back! We’re doing pick-up to-go cocktails and cake, from 12-4. Vietnamese Iced Coffee and Turmeric Margarita. Bottles of wine, too”
+  last_updated: 4/30
   links:
     - title: Staff relief fund
       url: https://www.memesdiner.com/covid-19-staff-fund-donation
@@ -754,13 +754,13 @@
   status: closed
   url: http://olmstednyc.com/
   instagram: https://www.instagram.com/olmstednyc/
-  notes: Closed until further notice
+  notes: “I’m excited to announce we plan to open the ‘Olmsted Trading Post’ out of our private dinning room. All I can say now is that it will be a mixed bag of ‘tasty stuff.’ MORE INFO TO COME”
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund
     - title: Gift cards
       url: https://ecommerce.custcon.com/Purchase/Select?c=3e6823e0-52c7-4c1b-af3d-1bb13862c508
-  last_updated: 3/18
+  last_updated: 5/1
 
 - name: Ovenly
   status: closed
@@ -850,14 +850,14 @@
   last_updated: 3/19
 
 - name: Sit & Wonder
-  status: closed
+  status: open
+  hours: 7:30AM - 2PM
   url: http://sitandwonder.net/index.html
   instagram: https://www.instagram.com/sitandwondercoffeeshop/
-  notes: Closed until further notice
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/for-our-amazing-baristas
-  last_updated: 3/22
+  last_updated: 5/1
 
 - name: Soda Bar
   status: closed
@@ -936,7 +936,7 @@
   instagram: https://www.instagram.com/sweetpollynyc/
   url: http://www.sweetpollynyc.com
   phone: (718) 484-9600
-  hours: 2 - 8PM (Thurs - Sun)
+  hours: 2 - 8PM (closed Tues)
   notes: “Call ahead to place an order for pickup”
   links:
     - title: Staff relief fund
@@ -1021,14 +1021,15 @@
   last_updated: 3/29
 
 - name: Weather Up
-  status: closed
+  status: open
+  hours: 3 - 8PM (Thurs - Sun)
   url: http://www.weatherupnyc.com/
-  notes: Closed until further notice
+  notes: Receive a menu and place an order by emailing <a href="mailto:brooklyn@weatherupnyc.com">brooklyn@weatherupnyc.com</a>. Pay via <a href="http://venmo.com/WU-BK">Venmo</a>. Delivery coming soon.
   instagram: https://www.instagram.com/weatherupbars/
   links:
     - url: https://www.gofundme.com/f/weather-up-staff-relief
       title: Staff relief fund
-  last_updated: 3/16
+  last_updated: 5/1
 
 - name: White Tiger
   status: open
