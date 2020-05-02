@@ -9,7 +9,7 @@
   status: closed
   url: https://altacalidadbk.com
   instagram: https://www.instagram.com/altacalidadbk/
-  hours: 11AM - 10PM⁣
+  hours: 11AM - 8PM⁣
   delivery:
     uber_eats: https://www.ubereats.com/new-york/food-delivery/alta-calidad/L0ktkVRjQbOkllv7UWe1fQ
     doordash: https://www.doordash.com/store/alta-calidad-brooklyn-133126/
@@ -17,13 +17,13 @@
     seamless: https://www.seamless.com/menu/alta-calidad-552-vanderbilt-ave-brooklyn/460349
     caviar: https://www.trycaviar.com/m/alta-calidad-5914
     toast: https://www.toasttab.com/alta-calidad/v3
-  notes: Closed until further notice
+  notes: “Just in time for #TacoTuesday, #TakeoutTuesday and #CincodeMayo, we’ll be back with contactless pickup on 5/5 from 11am-8pm! Head to our website to preorder your favorite tacos, guac and batched margaritas, and we’ll have it all ready and waiting on our patio at your designated pickup time on Tuesday. 🌮🥳🍹”
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/alta-calidad-employee-relief-fund
     - title: Gift cards
       url: https://www.toasttab.com/alta-calidad/giftcards
-  last_updated: 3/25
+  last_updated: 5/1
 
 - name: Amorina Pizza
   status: closed
@@ -275,13 +275,13 @@
   status: closed
   url: https://www.ciaogloria.com
   instagram: https://www.instagram.com/ciaoglorianyc/
-  notes: Closed until further notice
+  notes: Will be re-opening on 5/8
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/ciao-gloria-employee-fund
     - title: Gift cards
       url: https://squareup.com/gift/0TSZB8YWYDFH0/order
-  last_updated: 3/16
+  last_updated: 5/1
 
 - name: Covenhoven
   status: open
@@ -548,11 +548,12 @@
   last_updated: 4/30
 
 - name: LOOK by Plant Love House
-  status: closed
+  status: open
+  hours: 12 - 9PM (Tue - Sun)
   url: https://www.plantlovehouse.com/look
   instagram: https://www.instagram.com/byplantlovehouse/
   phone: (718) 622-0026
-  notes: Closed until further notice
+  notes: Open for takeout and delivery
   delivery:
     caviar: https://www.trycaviar.com/m/look-by-plant-love-house-11405
     seamless: https://www.seamless.com/menu/look-by-plant-love-house-622-washington-ave-brooklyn/344210
@@ -560,7 +561,7 @@
   links:
     - title: Gift cards
       url: https://squareup.com/gift/C8B77ATQE673H/order
-  last_updated: 3/20
+  last_updated: 5/1
 
 - name: Lowerline
   status: closed
