@@ -26,15 +26,15 @@
   last_updated: 5/1
 
 - name: Amorina Pizza
-  status: closed
+  status: open
   url: http://www.amorinapizza.com/
   instagram: https://www.instagram.com/amorinapizza/
-  hours: 5 - 11PM (Thu-Sat), 5 - 10PM (Sun)
+  hours:  4 - 8PM (Thurs - Sun)
   phone: (917) 905-2279
-  notes: “[We are] slowly reopening after ‘una piccola pausa’ to regroup. We will be offering weekly produce & pantry boxes for preorder with additional options to come. Stay tuned for details and included items. Ordering will be available through our website.”
+  notes: “Open for Take-Out and Delivery by phone or through Grubhub, Seamless, and soon directly from our site. Stay tuned“
   delivery:
     seamless: https://www.seamless.com/menu/amorina-cucina-rustica-624-vanderbilt-ave-brooklyn/292222
-  last_updated: 5/1
+  last_updated: 5/4
 
 - name: Ample Hills
   status: closed
@@ -59,6 +59,13 @@
     seamless: https://www.seamless.com/menu/antonios-pizzeria--restaurant-318-flatbush-ave-brooklyn/66813
     slice: https://slicelife.com/restaurants/ny/brooklyn/11238/antonio-s-pizza/menu
   last_updated: 3/30
+
+- name: The Bakery on Bergen
+  hours: 12 - 7PM (Tues - Sun)
+  url: https://thebakeryonbergennyc.com
+  instagram: https://www.instagram.com/thebakeryonbergen/
+  notes: “Delicious cookies, cupcakes and coffee. Also made to order cakes.” <a href="https://thebakeryonbergennyc.com/order-2">Online ordering form</a>.
+  last_updated: 5/1
 
 - name: The Bearded Lady
   status: closed
