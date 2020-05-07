@@ -584,6 +584,11 @@
   notes: Open for takeout. Also <a href="http://www.littlecupcakebakeshop.com">online ordering</a> from their website
   last_updated: 4/30
 
+- name: LittleMissMuffin N Her Stuffin
+  status: open
+  instagram: https://www.instagram.com/littlemissmuffinny/
+  last_updated: 5/7
+
 - name: LOOK by Plant Love House
   status: open
   hours: 12 - 9PM (Tue - Sun)
@@ -707,6 +712,7 @@
   last_updated: 4/20
 
 - name: Mokbar
+  status: open
   url: https://www.mokbar.com
   instagram: https://www.instagram.com/mokbar_nyc/
   phone: (347) 987-3042
@@ -736,6 +742,7 @@
   last_updated: 3/31
 
 - name: Mumbai Place
+  status: open
   phone: (718) 398-7776
   hours: 12 - 10:30PM
   delivery:
@@ -855,6 +862,15 @@
   delivery:
     seamless: https://www.seamless.com/menu/patsys-pizzeria-450-dean-st-brooklyn/320844
   last_updated: 4/1
+
+- name: Pennyhouse Cafe
+  url: http://www.pennyhousecafe.com
+  hours: 6AM - 6PM
+  phone: (347) 240-7281
+  notes: Open for takeout
+  instagram: https://www.instagram.com/pennyhousecafe/
+  status: open
+  last_updated: 5/7
 
 - name: Private Yoga Lessons
   status: open
