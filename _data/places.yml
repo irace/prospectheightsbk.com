@@ -704,6 +704,16 @@
   notes: “Seems open for takeout”
   last_updated: 4/20
 
+- name: Mokbar
+  url: https://www.mokbar.com
+  instagram: https://www.instagram.com/mokbar_nyc/
+  phone: (347) 987-3042
+  notes: “Dumplings for sale, as well as marinated meats, stews, soups, side dishes, kimchi and more.” Free delivery for orders over $75. Email <a href="mailto:orders@mokbar.com">orders@mokbar.com</a> to order.
+  links:
+    - title: Staff relief fund
+      url: https://www.gofundme.com/f/feed-our-warriors
+  last_updated: 5/6
+
 - name: Morgan’s BBQ
   status: open
   url: https://www.morgansbrooklynbarbecue.com
@@ -722,6 +732,13 @@
     - title: Merchandise
       url: https://www.morgansbrooklynbarbecue.com/store/
   last_updated: 3/31
+
+- name: Mumbai Place
+  phone: (718) 398-7776
+  hours: 12 - 10:30PM
+  delivery:
+    seamless: https://www.grubhub.com/restaurant/mumbai-place-655-vanderbilt-ave-brooklyn/334916
+  last_updated: 5/7
 
 - name: Muse
   status: closed
