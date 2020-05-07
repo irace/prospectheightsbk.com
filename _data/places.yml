@@ -1,3 +1,22 @@
+# - name: Example Eatery
+#   status: open
+#   phone: (212) 555-1234
+#   url: https://www.example.com/
+#   instagram: https://www.instagram.com/
+#   hours: 9AM - 5PM (Mon - Fri)
+#   notes: "Example text here"
+#   delivery:
+#     uber_eats:
+#     doordash:
+#     postmates:
+#     seamless:
+#     caviar: 
+#     toast:
+#   links:
+#     - title: Staff relief fund
+#       url: https://www.gofundme.com/
+#   last_updated: 5/7
+
 - name: Acme Pet Food Inc
   instagram: https://www.instagram.com/acmepetfood/
   phone: (718) 789-8062
@@ -17,19 +36,19 @@
     seamless: https://www.seamless.com/menu/alta-calidad-552-vanderbilt-ave-brooklyn/460349
     caviar: https://www.trycaviar.com/m/alta-calidad-5914
     toast: https://www.toasttab.com/alta-calidad/v3
-  notes: “Just in time for #TacoTuesday, #TakeoutTuesday and #CincodeMayo, we’ll be back with contactless pickup on 5/5 from 11am-8pm! Head to our website to preorder your favorite tacos, guac and batched margaritas, and we’ll have it all ready and waiting on our patio at your designated pickup time on Tuesday. 🌮🥳🍹”
+  notes: Launching Alta Calidad Mercado on May 13. Will sell prepared foods, specialty goods and pantry items.
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/alta-calidad-employee-relief-fund
     - title: Gift cards
       url: https://www.toasttab.com/alta-calidad/giftcards
-  last_updated: 5/1
+  last_updated: 5/7
 
 - name: Amorina Pizza
   status: open
   url: http://www.amorinapizza.com/
   instagram: https://www.instagram.com/amorinapizza/
-  hours:  4 - 8PM (Thurs - Sun)
+  hours:  4 - 8PM (Thu - Sun)
   phone: (917) 905-2279
   notes: “Open for Take-Out and Delivery by phone or through Grubhub, Seamless, and soon directly from our site. Stay tuned“
   delivery:
@@ -40,13 +59,13 @@
   status: closed
   url: https://www.amplehills.com
   instagram: https://www.instagram.com/amplehills/
-  notes: “Please drop by our OG scoop shop on Vanderbilt Ave. this Sunday from 1pm to 5pm. We’ll be selling pints and 1/2 pints from a table in front of the shop in as safe a way as possible. Bring your bank card and please wear a mask”
+  notes: Holding a pop-up Grab & Go at their Gowanus location Sunday, May 10, for Mother’s Day.
   delivery:
     caviar: https://www.trycaviar.com/m/ample-hills--prospect-heights-1722
     seamless: https://www.seamless.com/menu/ample-hills---prospect-heights-623-vanderbilt-ave-brooklyn/1711574
     uber_eats:
     postmates:
-  last_updated: 5/1
+  last_updated: 5/7
 
 - name: Antonio’s Pizza
   status: open
@@ -61,7 +80,7 @@
   last_updated: 3/30
 
 - name: The Bakery on Bergen
-  hours: 12 - 7PM (Tues - Sun)
+  hours: 12 - 7PM (Tue - Sun)
   url: https://thebakeryonbergennyc.com
   instagram: https://www.instagram.com/thebakeryonbergen/
   notes: “Delicious cookies, cupcakes and coffee. Also made to order cakes.” <a href="https://thebakeryonbergennyc.com/order-2">Online ordering form</a>.
@@ -105,7 +124,7 @@
   instagram: https://www.instagram.com/bierwax/
   untappd: https://untappd.com/v/bierwax/7133448
   phone: (347) 533-8449
-  hours: 2-7 PM
+  hours: 2 - 7PM
   notes: The <a href="https://my-site-100819-102620.square.site">Bierwax Online Shop</a> has now launched. Cans, bottles and/or mason jars ready for a quick handoff. ⁣Call ahead for a curbside pick up after placing an order.
   links:
     - title: Staff relief fund
@@ -178,7 +197,7 @@
   status: open
   url: https://www.bluemarbleicecream.com
   instagram: https://www.instagram.com/bluemarblebk/
-  hours: 8AM - 4PM (Mon - Thurs), 8AM - 6:30PM (Fri - Sun)
+  hours: 8AM - 4PM (Mon - Thu), 8AM - 6:30PM (Fri - Sun)
   phone: (718) 399-6926
   notes: Coffee, pastries, pints, and cups available from the take-out window or for delivery via Postmates. “Our hours and offerings may vary, but we will post daily.”
   delivery:
@@ -248,6 +267,7 @@
 - name: Cheryl’s Global Soul
   status: open
   url: https://www.cherylsglobalsoul.com
+  instagram: https://www.instagram.com/cherylsglobalsoul/
   hours: 12 - 8PM
   phone: (347) 529-2855
   notes: Call for pickup and delivery. <a href="https://12fcfcc5-9c0c-71b4-d2e6-789a72c3925c.filesusr.com/ugd/370d25_c8eae6a23a7944f28114f5f0b83f4f3a.pdf">Delivery menu here</a>.
@@ -315,7 +335,7 @@
   status: closed
   url: https://www.doughnutplant.com
   instagram: https://www.instagram.com/doughnutplant/
-  notes: Closed “for another week”
+  notes: Closed until further notice
   links:
     - title: Gift cards
       url: https://www.doughnutplant.com/store/gift-cards/
@@ -347,17 +367,18 @@
   last_updated: 3/21
 
 - name: Fermented Grapes
-  status: closed
+  status: open
+  hours: 12 - 7PM (Wed - Sun)
   url: http://www.fermentedgrapes.net
   instagram: https://www.instagram.com/fermentedgrapesbk/
   phone: (718) 230-3216
-  notes: “We plan to re-open in a few weeks but will re-assess the situation on a weekly basis. Please check our website for future updates.”
-  last_updated: 4/3
+  notes: Open for contactless pickup and delivery. Email orders to customerservice@fermentedgrapes.net with what you’re looking for and a phone number.
+  last_updated: 5/7
 
 - name: Geido
   status: closed
   url: https://geido.nyc
-  hours: 5:30 - 10PM (Wed-Sun), 12:30-3PM (Sat-Sun)
+  hours: 5:30 - 10PM (Wed - Sun), 12:30 - 3PM (Sat - Sun)
   phone: (718) 638-8866
   notes: “Temporarily closed (based on the sign on their window)”
   delivery:
@@ -386,10 +407,17 @@
   hours: 11AM - 9PM
   notes: Beer and cider to go. Check website and <a href="https://untappd.com/v/gold-star-beer-counter/3171446">Untappd</a> for inventory. Accepting credit cards and Venmo.
   last_updated: 3/16
+  
+- name: Gorilla Coffee
+  status: open
+  url: https://gorillacoffee.com
+  instagram: https://www.instagram.com/gorillacoffee/
+  hours: 7AM - 9PM
+  last_updated: 5/7
 
 - name: Gran Caffe De Martini
   status: open
-  hours: 9AM – 5PM (Fri-Mon, closed Tue-Thur)
+  hours: 9AM - 5PM (Fri - Mon, closed Tue - Thu)
   url: https://www.caffedemartini.com
   instagram: https://www.instagram.com/grancaffedemartini/
   notes: “Our menu is available on Caviar and Seamless. Also, you can give us a free call to place your order and set the time of the pick up”
@@ -415,7 +443,7 @@
   url: https://www.brooklynshomeslicepizza.com
   instagram: https://www.instagram.com/brooklyns_homeslice/
   phone: (347) 632-9824
-  hours: 11:30 - 12:00AM (Mon-Thu), 11:30 - 2:30AM (Fri/Sat), 11:30 - 12:00AM (Sun)
+  hours: 11:30 - 12:00AM (Mon - Thu), 11:30 - 2:30AM (Fri/Sat), 11:30 - 12:00AM (Sun)
   delivery:
     slice: https://slicelife.com/restaurants/ny/brooklyn/11238/brooklyn-s-homeslice-pizzeria/menu
   last_updated: 3/30
@@ -440,19 +468,19 @@
 - name: The Islands
   status: open
   phone: (718) 398-3575
-  hours: 2 - 10:30PM (Tue-Thu), 1 - 10:30PM (Fri), 12 - 10:30PM (Sat/Sun)
+  hours: 2 - 10:30PM (Tue - Thu), 1 - 10:30PM (Fri), 12 - 10:30PM (Sat/Sun)
   notes: Open for pickup and delivery
   delivery:
     postmates: https://postmates.com/merchant/the-islands-brooklyn-1
     uber_eats: https://www.ubereats.com/new-york/food-delivery/the-islands/9jFnKcjVRBuUOpsVlzSgsg
-  last_updated: 4/10
+  last_updated: 4/21
 
 - name: James
   status: open
   url: http://www.jamesrestaurantny.com
   instagram: https://www.instagram.com/jamesbklyn/
   phone: (718) 942-4255
-  hours: 4 - 9PM (Tues - Sat)
+  hours: 4 - 9PM (Tue - Sat)
   notes: Call to place an order for take out and delivery available via Caviar
   delivery:
     caviar: https://www.trycaviar.com/m/james-19693
@@ -469,7 +497,7 @@
   instagram: https://www.instagram.com/joycebakeshop/
   facebook: https://www.facebook.com/Joyce-Bakeshop-107322189660/
   phone: (718) 623-7470
-  hours: 7:30:AM - 7:30PM (Mon-Fri), 9AM - 6PM (Sat/Sun)
+  hours: 7:30:AM - 7:30PM (Mon - Fri), 9AM - 6PM (Sat/Sun)
   notes: Closed until further notice
   links:
     - title: Staff relief fund
@@ -507,7 +535,7 @@
 - name: Kulushkat
   status: open
   url: https://kulushkat.com
-  hours: 11 - 10PM (Tues - Sun)
+  hours: 11 - 10PM (Tue - Sun)
   phone: (347) 799-1972
   instagram: https://www.instagram.com/kulushkat/
   notes: 15% discount with code <strong>FalafelForever</strong>. Frozen food and beer also available for take-out and delivery
@@ -548,7 +576,7 @@
 - name: Little Cupcake Bakeshop
   status: open
   phone: (718) 783-0770
-  hours: 8AM-10PM (Sun - Thurs), 8AM - 11PM (Fri - Sat)
+  hours: 8AM - 10PM (Sun - Thu), 8AM - 11PM (Fri - Sat)
   url: http://www.littlecupcakebakeshop.com
   instagram: https://www.instagram.com/littlecupcakebakeshop/
   notes: Open for takeout. Also <a href="http://www.littlecupcakebakeshop.com">online ordering</a> from their website
@@ -628,7 +656,7 @@
 - name: Mermaid’s Garden
   status: open
   url: https://www.mermaidsgardennyc.com
-  hours: 12 - 6PM (Tues - Fri), 11AM - 6PM (Sat/Sun)
+  hours: 12 - 6PM (Tue - Fri), 11AM - 6PM (Sat/Sun)
   instagram: https://www.instagram.com/mgfishnyc/
   phone: (718) 638-1910
   notes: Delivery available via <a href="https://www.mercato.com/shop/mermaids-garden">Mercato</a>
@@ -664,7 +692,7 @@
   status: open
   url: https://www.millefeuille-nyc.com
   instagram: https://www.instagram.com/millefeuillenyc/
-  notes: <a href="https://millefeuillebakery.square.site">New online store</a>! Orders must be placed in advance. Delivering Thurs-Sun only to ZIP codes 11213, 11215, 11216, 11217, 11238 (no in-store pickup)
+  notes: <a href="https://millefeuillebakery.square.site">New online store</a>! Orders must be placed in advance. Delivering Thu - Sun only to ZIP codes 11213, 11215, 11216, 11217, 11238 (no in-store pickup)
   links:
     - title: Gift cards
       url: https://www.millefeuille-nyc.com/pages/gift-card
@@ -681,7 +709,7 @@
   url: https://www.morgansbrooklynbarbecue.com
   instagram: https://www.instagram.com/morgansbrooklynbbq/
   phone: (718) 622-2224
-  hours: 4:30 - 10:30PM (Mon - Thu), 4:30 - 11PM (Fri), 12 - 11PM (Sat), 12PM - 10:30PM (Sun)
+  hours: 4:30 - 10:30PM (Mon - Thu), 4:30 - 11PM (Fri), 12 - 11PM (Sat), 12 - 10:30PM (Sun)
   notes: “We now deliver beer along with food delivery or take-out orders.”
   delivery:
     caviar: https://www.trycaviar.com/m/morgans-brooklyn-bbq-11362?_branch_match_id=652587222868224742&cav_medium=widget&cav_source=mer-_HNorLt-e21sQo8-1Lttcg&how=delivery&merchant_token=mer-_HNorLt-e21sQo8-1Lttcg&utm_campaign=link&utm_content=morgans-brooklyn-barbecue-11362&utm_medium=restaurant_partners&utm_source=widget&utm_term=brooklyn-queens
@@ -708,7 +736,7 @@
   instagram: https://www.instagram.com/nachomachotacobk/
   facebook: https://www.facebook.com/NachoMachoTacoBK/
   phone: (718) 622-2727
-  hours: 11AM – 10PM
+  hours: 11AM - 10PM
   notes: Open for pick-up and delivery
   delivery:
     seamless: https://www.seamless.com/menu/nacho-macho-taco-prospect-pl-417-prospect-pl-brooklyn/302901
@@ -783,16 +811,20 @@
   last_updated: 3/19
 
 - name: Oxalis
-  status: closed
+  status: open
   url: https://www.oxalisnyc.com
+  phone: (347) 627-8298
+  hours: 4 - 8PM (Fri - Sun)
   instagram: https://www.instagram.com/oxalisnyc/
-  notes: Closed until further notice
+  notes: Offering pick up and delivery of fresh and prepared foods, cocktails and wine, though their pantry box service, Boxalis.
   links:
+    - title: Pantry box
+      url: https://boxalis.com
     - title: Staff relief fund
       url: https://www.gofundme.com/f/oxalis-employee-relief-fund
     - title: Gift cards
       url: https://www.oxalisnyc.com/store/gift-cards/
-  last_updated: 3/16
+  last_updated: 5/7
 
 - name: Patsy’s Pizzeria
   status: open
@@ -817,7 +849,7 @@
   url: https://www.rdfoodsbklyn.com/
   instagram: https://www.instagram.com/rdfoods/
   phone: (347) 915-1196
-  hours: 12 - 4PM (Thurs - Sun)
+  hours: 12 - 4PM (Thu - Sun)
   notes: Use code KALE for $5 off delivery orders, which basically makes delivery free. “We are still encouraging healthy customers to pickup as the delivery folks are _slammed_ and need to be saved for those in need of delivery.” See their <a href="https://www.rdfoodsbklyn.com/open-during-corona">Open During Corona</a> page for more details.
   delivery:
     chownow: https://ordering.chownow.com/order/11145/locations
@@ -832,7 +864,7 @@
   url: http://www.rosesbklyn.com
   instagram: https://www.instagram.com/rosesbklyn/
   hours: 12 - 6 PM
-  notes: “Rose’s is closed indefinitely.”
+  notes: Closed until further notice
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/rose039s-staff-assistance-fund
@@ -881,7 +913,7 @@
   status: closed
   url: https://www.sofrehnyc.com
   instagram: https://www.instagram.com/sofreh_brooklyn/
-  notes: Closed until furthr notice
+  notes: Closed until further notice
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/sofreh-employee-emergency-relief-fund
@@ -903,9 +935,9 @@
   status: closed
   url: https://www.stockedbrooklyn.com/cafe
   instagram: https://www.instagram.com/stockedbrooklyn/
-  hours: 9AM - 3PM (Mon-Fri), 9AM - 6PM (Sat-Sun)
+  hours: 9AM - 3PM (Mon - Fri), 9AM - 6PM (Sat/Sun)
   phone: (929) 234-6554
-  notes: Closed “for a couple of days.”
+  notes: Closed until further notice
   delivery:
     chownow: https://direct.chownow.com/order/18159/locations/26047
   last_updated: 3/26
@@ -944,14 +976,14 @@
   instagram: https://www.instagram.com/sweetpollynyc/
   url: http://www.sweetpollynyc.com
   phone: (718) 484-9600
-  hours: 2 - 8PM (closed Tues)
+  hours: 2 - 8PM (closed Tue)
   notes: “Call ahead to place an order for pickup”
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/sweet-polly-team-relief-fund
     - title: Gift cards (20% off)
       url: https://squareup.com/gift/89TMFJQFPZE0N/order
-  last_updated: 4/4
+  last_updated: 5/1
 
 - name: Taro Sushi
   status: closed
@@ -982,7 +1014,7 @@
 - name: Underhill Greek Eatery
   status: open
   phone: (718) 484-3744
-  hours: 3:30PM - 9:30PM
+  hours: 3:30 - 9:30PM
   url: https://underhillbrooklyn.com/
   instagram: https://www.instagram.com/underhillgreekeatery/
   notes: 10% off takeout orders of $50+
@@ -1019,6 +1051,14 @@
     - title: Gift cards
       url: https://squareup.com/gift/FR6ZMQGP6CJ1S/order?external_source=giveandgetlocal
 
+- name: Vanderbilt Wine Merchants
+  status: open
+  url: https://vanderbilt.wine
+  instagram: https://instagram.com/vanderbiltwine
+  hours: 11AM - 7PM (Mon - Sat)
+  notes: Order pickup is available 3pm - 7pm each day and neighborhood delivery Tuesday through Saturday (1pm cutoff for same day delivery).
+  last_updated: 5/7
+
 - name: Washington Ave. Cafe
   status: open
   phone: (718) 230-3734
@@ -1030,7 +1070,7 @@
 
 - name: Weather Up
   status: open
-  hours: 3 - 8PM (Thurs - Sun)
+  hours: 3 - 8PM (Thu - Sun)
   url: http://www.weatherupnyc.com/
   notes: Receive a menu and place an order by emailing <a href="mailto:brooklyn@weatherupnyc.com">brooklyn@weatherupnyc.com</a>. Pay via <a href="http://venmo.com/WU-BK">Venmo</a>. Delivery coming soon.
   instagram: https://www.instagram.com/weatherupbars/
@@ -1041,7 +1081,7 @@
 
 - name: White Tiger
   status: open
-  hours: 5 – 9PM (Wed - Sun)
+  hours: 5 - 9PM (Wed - Sun)
   url: http://www.whitetiger.nyc
   instagram: https://www.instagram.com/whitetigerbklyn/
   phone: (718) 552-2272
@@ -1059,7 +1099,7 @@
   url: https://www.wineexchangebkn.com
   phone: (718) 783-7500
   instagram: https://www.instagram.com/wineexchangebkn/
-  notes: Available for delivery and pickup. In store limited to 5 people in store at a time.
+  notes: Available for delivery and pickup. In store limited to 5 people at a time.
   last_updated: 4/14
 
 - name: The Winey Neighbor
