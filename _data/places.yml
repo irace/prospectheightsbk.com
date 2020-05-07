@@ -2,7 +2,7 @@
 #   status: open
 #   phone: (212) 555-1234
 #   url: https://www.example.com/
-#   instagram: https://www.instagram.com/instagram
+#   instagram: https://www.instagram.com/
 #   hours: 9AM – 5PM (Mon – Fri)
 #   notes: "Example text here"
 #   delivery:
@@ -12,6 +12,9 @@
 #     seamless:
 #     caviar: 
 #     toast:
+#   links:
+#     - title: Staff relief fund
+#       url: https://www.gofundme.com/
 #   last_updated: 5/7
 
 - name: Acme Pet Food Inc
@@ -470,7 +473,7 @@
   delivery:
     postmates: https://postmates.com/merchant/the-islands-brooklyn-1
     uber_eats: https://www.ubereats.com/new-york/food-delivery/the-islands/9jFnKcjVRBuUOpsVlzSgsg
-  last_updated: 4/10
+  last_updated: 4/21
 
 - name: James
   status: open
@@ -976,7 +979,7 @@
       url: https://www.gofundme.com/f/sweet-polly-team-relief-fund
     - title: Gift cards (20% off)
       url: https://squareup.com/gift/89TMFJQFPZE0N/order
-  last_updated: 4/4
+  last_updated: 5/1
 
 - name: Taro Sushi
   status: closed
