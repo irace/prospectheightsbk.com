@@ -347,12 +347,13 @@
   last_updated: 3/21
 
 - name: Fermented Grapes
-  status: closed
+  status: open
+  hours: 12 - 7PM (Wed-Sun)
   url: http://www.fermentedgrapes.net
   instagram: https://www.instagram.com/fermentedgrapesbk/
   phone: (718) 230-3216
-  notes: “We plan to re-open in a few weeks but will re-assess the situation on a weekly basis. Please check our website for future updates.”
-  last_updated: 4/3
+  notes: Open for contactless pickup and delivery. Email orders to customerservice@fermentedgrapes.net with what you’re looking for and a phone number.
+  last_updated: 5/7
 
 - name: Geido
   status: closed
@@ -1018,6 +1019,14 @@
   links:
     - title: Gift cards
       url: https://squareup.com/gift/FR6ZMQGP6CJ1S/order?external_source=giveandgetlocal
+
+- name: Vanderbilt Wine Merchants
+  status: open
+  url: https://vanderbilt.wine
+  instagram: https://instagram.com/vanderbiltwine
+  hours: 11AM - 7PM (Mon - Sat)
+  notes: Order pickup is available 3pm - 7pm each day and neighborhood delivery Tuesday through Saturday (1pm cutoff for same day delivery).
+  last_updated: 5/7
 
 - name: Washington Ave. Cafe
   status: open
