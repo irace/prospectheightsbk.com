@@ -387,6 +387,13 @@
   hours: 11AM - 9PM
   notes: Beer and cider to go. Check website and <a href="https://untappd.com/v/gold-star-beer-counter/3171446">Untappd</a> for inventory. Accepting credit cards and Venmo.
   last_updated: 3/16
+  
+- name: Gorilla Coffee
+  status: open
+  url: https://gorillacoffee.com
+  instagram: https://www.instagram.com/gorillacoffee/
+  hours: 7AM - 9PM
+  last_updated: 5/7
 
 - name: Gran Caffe De Martini
   status: open
