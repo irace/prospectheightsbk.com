@@ -125,13 +125,13 @@
   untappd: https://untappd.com/v/bierwax/7133448
   phone: (347) 533-8449
   hours: 2 - 7PM
-  notes: The <a href="https://my-site-100819-102620.square.site">Bierwax Online Shop</a> has now launched. Cans, bottles and/or mason jars ready for a quick handoff. ⁣Call ahead for a curbside pick up after placing an order.
+  notes: The <a href="https://my-site-100819-102620.square.site">Bierwax Online Shop</a> supports both pick-up and delivery. Cans, bottles and/or mason jars ready for a quick handoff. ⁣Call ahead for a curbside pick up after placing an order.
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/covid19-relief-fund-for-bierwax-staff
     - title: Gift cards
       url: https://squareup.com/gift/MY2KY2405T5NT/order
-  last_updated: 3/24
+  last_updated: 5/7
 
 - name: Bilt Bar
   status: closed
@@ -299,16 +299,18 @@
     doordash: https://www.doordash.com/store/chuko-ramen-brooklyn-22335/en-US
 
 - name: Ciao, Gloria
-  status: closed
+  status: open
   url: https://www.ciaogloria.com
   instagram: https://www.instagram.com/ciaoglorianyc/
-  notes: Will be re-opening on 5/8
+  notes: Re-opening on 5/8. “Come by for takeout, order on Caviar for delivery or call ahead to place an order for pickup (think whole cakes or a box of coffee or cookies)”
+  delivery:
+    caviar: https://www.trycaviar.com/t/m/ciao-gloria-16959
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/ciao-gloria-employee-fund
     - title: Gift cards
       url: https://squareup.com/gift/0TSZB8YWYDFH0/order
-  last_updated: 5/1
+  last_updated: 5/7
 
 - name: Covenhoven
   status: open
@@ -645,13 +647,13 @@
   phone: (718) 636-2900
   delivery:
     caviar: https://www.trycaviar.com/m/memes-diner-10883
-  notes: “THIS SATURDAY (5/2) our first baby steps back! We’re doing pick-up to-go cocktails and cake, from 12-4. Vietnamese Iced Coffee and Turmeric Margarita. Bottles of wine, too”
-  last_updated: 4/30
+  notes: Now accepting pastry preorders (order by Thursday for Saturday pickup, Friday for Sunday pickup). Pantry/booze/wine items can be ordered day-of.
   links:
     - title: Staff relief fund
       url: https://www.memesdiner.com/covid-19-staff-fund-donation
     - title: Gift cards
       url: https://www.memesdiner.com/gift-certificates
+  last_updated: 5/7
 
 - name: Mermaid’s Garden
   status: open
