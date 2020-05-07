@@ -811,16 +811,19 @@
   last_updated: 3/19
 
 - name: Oxalis
-  status: closed
+  status: open
   url: https://www.oxalisnyc.com
+  hours: 4 – 8PM (Fri – Sun)
   instagram: https://www.instagram.com/oxalisnyc/
-  notes: Closed until further notice
+  notes: Offering pick up and delivery of fresh and prepared foods, cocktails and wine, though their pantry box service, Boxalis.
   links:
+    - title: Pantry box
+      url: https://boxalis.com
     - title: Staff relief fund
       url: https://www.gofundme.com/f/oxalis-employee-relief-fund
     - title: Gift cards
       url: https://www.oxalisnyc.com/store/gift-cards/
-  last_updated: 3/16
+  last_updated: 5/7
 
 - name: Patsy’s Pizzeria
   status: open
