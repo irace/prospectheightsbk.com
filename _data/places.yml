@@ -506,6 +506,13 @@
       url: https://www.gofundme.com/f/Audrey-Coworker-Disaster-Relief
   last_updated: 3/29
 
+- name: Joy Indian
+  url: http://joyindianrestaurant.com
+  hours: 12 - 8PM
+  phone: (718) 230-1165
+  notes: Open for pick-up and delivery
+  last_updated: 5/8
+
 - name: Ki Sushi
   status: closed
   url: http://www.kisushigroup.com
@@ -904,6 +911,14 @@
     - title: Staff relief fund
       url: https://www.gofundme.com/f/rose039s-staff-assistance-fund
   last_updated: 4/3
+
+- name: Ruby Kitchen
+  status: open
+  phone: (718) 789-4633
+  notes: Open for pick-up and delivery
+  delivery:
+    seamless: https://www.seamless.com/menu/ruby-kitchen-162-park-pl-brooklyn/66954
+  last_updated: 5/8
 
 - name: Shaka Shaka Tiki/Companion Cafe
   status: closed
