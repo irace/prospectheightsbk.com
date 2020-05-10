@@ -3,10 +3,10 @@
     <div class="f4 lh-copy mv0 pa0 ttu">
       {% if place.url %}
       <a class="link dim dark-blue" href="{{ place.url }}">{{ place.name }}</a>{% else %} {{ place.name }} {% endif %} {% if
-      place.instagram %}<a class="v-mid" href="{{ place.instagram }}"><img style="width: 25px;" src="icons/instagram.png"/></a>{%
-      endif %} {% if place.facebook %}<a class="v-mid" href="{{ place.facebook }}"><img style="width: 25px;" src="icons/facebook.jpg"/></a>{%
+      place.instagram %}<a class="v-mid" href="{{ place.instagram }}"><img class="social_icon" src="icons/instagram.png"/></a>{%
+      endif %} {% if place.facebook %}<a class="v-mid" href="{{ place.facebook }}"><img class="social_icon" src="icons/facebook.png"/></a>{%
         endif %} {% if place.untappd %}<a class="v-mid" href="{{ place.untappd }}"
-        ><img style="width: 25px;" src="icons/untappd.png"/></a
+        ><img class="social_icon" src="icons/untappd.png"/></a
       >{% endif %}
     </div>
     {% unless place.status == "closed" %}
@@ -21,23 +21,9 @@
     </div>
     {% unless place.status == "closed" %}
     <div class="mb1">
-      {% if place.delivery.caviar %}
-      <a href="{{ place.delivery.caviar }}"><img class="delivery_icon" src="icons/caviar.png"/></a>
-      {% endif %} {% if place.delivery.chownow %}
-      <a href="{{ place.delivery.chownow }}"><img class="delivery_icon" src="icons/chownow.png"/></a>
-      {% endif %} {% if place.delivery.doordash %}
-      <a href="{{ place.delivery.doordash }}"><img class="delivery_icon" src="icons/doordash.jpg"/></a>
-      {% endif %} {% if place.delivery.postmates %}
-      <a href="{{ place.delivery.postmates }}"><img class="delivery_icon" src="icons/postmates.jpg"/></a>
-      {% endif %} {% if place.delivery.seamless %}
-      <a href="{{ place.delivery.seamless }}"><img class="delivery_icon" src="icons/seamless.png"/></a>
-      {% endif %} {% if place.delivery.slice %}
-      <a href="{{ place.delivery.slice }}"><img class="delivery_icon" src="icons/slice.png"/></a>
-      {% endif %} {% if place.delivery.uber_eats %}
-      <a href="{{ place.delivery.uber_eats }}"><img class="delivery_icon" src="icons/uber_eats.png"/></a>
-      {% endif %} {% if place.delivery.upserve %}
-      <a href="{{ place.delivery.upserve }}"><img class="delivery_icon" src="icons/upserve.png"/></a>
-      {% endif %}
+      {% for delivery in place.delivery %}
+      <a href="{{delivery[1]}}"><img class="delivery_icon" src="icons/{{delivery[0]}}.png" alt="{{delivery[0]}}" /></a>
+      {% endfor %}
     </div>
     {% endunless %}
 
