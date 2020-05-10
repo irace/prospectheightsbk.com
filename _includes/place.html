@@ -19,14 +19,15 @@
     <div>
       <p class="i f6 lh-copy">{{ place.notes }}</p>
     </div>
+    {% unless place.status == "closed" %}
     <div class="mb1">
       {% if place.delivery.caviar %}
       <a href="{{ place.delivery.caviar }}"><img class="delivery_icon" src="icons/caviar.png"/></a>
       {% endif %} {% if place.delivery.chownow %}
       <a href="{{ place.delivery.chownow }}"><img class="delivery_icon" src="icons/chownow.png"/></a>
-      {% endif %} {% if place.delivery.doordash%}
+      {% endif %} {% if place.delivery.doordash %}
       <a href="{{ place.delivery.doordash }}"><img class="delivery_icon" src="icons/doordash.jpg"/></a>
-      {% endif %} {% if place.delivery.postmates%}
+      {% endif %} {% if place.delivery.postmates %}
       <a href="{{ place.delivery.postmates }}"><img class="delivery_icon" src="icons/postmates.jpg"/></a>
       {% endif %} {% if place.delivery.seamless %}
       <a href="{{ place.delivery.seamless }}"><img class="delivery_icon" src="icons/seamless.png"/></a>
@@ -38,10 +39,12 @@
       <a href="{{ place.delivery.upserve }}"><img class="delivery_icon" src="icons/upserve.png"/></a>
       {% endif %}
     </div>
+    {% endunless %}
 
     {% for link in place.links %}
     <p><a class="f6 link dim dark-green" href="{{ link.url }}">{{ link.title }}</a></p>
     {% endfor %} {% if place.last_updated %}
+
     <div class="mb0 pb0 f7 lh-copy black-40">Last updated: {{ place.last_updated }}</div>
     {% endif %}
   </div>
