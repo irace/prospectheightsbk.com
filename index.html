@@ -10,7 +10,7 @@ layout: default
 
   {% unless place.status == "closed" %}
 
-  {% include place.html%}
+  {% include place.html %}
 
   {% endunless %}
 
@@ -21,15 +21,13 @@ layout: default
   <div class="w-100">
     <h1 class="f3 lh-copy ttu tc light-red">Temporarily closed 😢</h1>
   </div>
-  
   {% for place in places %}
 
   {% if place.status == "closed" %}
-  
-  {% include place.html%}
+
+  {% include place.html %}
 
   {% endif %}
 
   {% endfor %}
-  
 </div>
