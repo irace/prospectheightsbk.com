@@ -1,0 +1,37 @@
+<div class="w-100 w-50-ns w-third-l pa2">
+  <div class="bg-white shadow-4 br2 h-100 pa3">
+    <div class="f4 lh-copy mv0 pa0 ttu">
+      {% if place.url %}
+      <a class="link dim dark-blue" href="{{ place.url }}">{{ place.name }}</a>{% else %} {{ place.name }} {% endif %} {% if
+      place.instagram %}<a class="v-mid" href="{{ place.instagram }}"><img class="social_icon" src="icons/instagram.png"/></a>{%
+      endif %} {% if place.facebook %}<a class="v-mid" href="{{ place.facebook }}"><img class="social_icon" src="icons/facebook.png"/></a>{%
+        endif %} {% if place.untappd %}<a class="v-mid" href="{{ place.untappd }}"
+        ><img class="social_icon" src="icons/untappd.png"/></a
+      >{% endif %}
+    </div>
+    {% unless place.status == "closed" %}
+    {% if place.phone %}
+    <div class="f7 lh-copy black-70"><a class="link dim purple" href="tel:{{ place.phone }}">{{ place.phone }}</a></div>
+    {% endif %} {% if place.hours %}
+    <div class="f7 lh-copy black-70">{{ place.hours}}</div>
+    {% endif %}
+    {% endunless %}
+    <div>
+      <p class="i f6 lh-copy">{{ place.notes }}</p>
+    </div>
+    {% unless place.status == "closed" %}
+    <div class="mb1">
+      {% for delivery in place.delivery %}
+      <a href="{{delivery[1]}}"><img class="delivery_icon" src="icons/{{delivery[0]}}.png" alt="{{delivery[0]}}" /></a>
+      {% endfor %}
+    </div>
+    {% endunless %}
+
+    {% for link in place.links %}
+    <p><a class="f6 link dim dark-green" href="{{ link.url }}">{{ link.title }}</a></p>
+    {% endfor %} {% if place.last_updated %}
+
+    <div class="mb0 pb0 f7 lh-copy black-40">Last updated: {{ place.last_updated }}</div>
+    {% endif %}
+  </div>
+</div>
