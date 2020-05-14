@@ -318,6 +318,11 @@
       url: https://squareup.com/gift/0TSZB8YWYDFH0/order
   last_updated: 5/7
 
+- name: Cinnamon Girl
+  instagram: https://www.instagram.com/cinnamon_girl_bk/
+  notes: Open for takeout “pantry provisions, groceries and delicious treats”
+  last_updated: 5/13
+
 - name: Covenhoven
   status: open
   url: https://www.covenhovennyc.com
@@ -338,6 +343,13 @@
   delivery:
     seamless: https://www.seamless.com/menu/dickeys-barbecue-pit-196-a-flatbush-ave-brooklyn/736492
   last_updated: 4/2
+
+- name: Dough Studio
+  status: open
+  facebook: https://www.facebook.com/Dough-Studio-105988981103219
+  instagram: https://www.instagram.com/doughstudio_/
+  notes: “I started this business to pay for grad school! So if you love cinnamon rolls or pizza, you better try ours. Delivery in Brooklyn 🧡”
+  last_updated: 5/13
 
 - name: Doughnut Plant
   status: closed
