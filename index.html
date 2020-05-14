@@ -6,28 +6,12 @@ layout: default
 {% assign places = site.data.places | sort: "name" %}
 
 <div class="flex flex-wrap center">
-  {% for place in places %}
-
-  {% unless place.status == "closed" %}
-
-  {% include place.html %}
-
-  {% endunless %}
-
-  {% endfor %}
+  {% for place in places %} {% unless place.status == "closed" %} {% include place.html %} {% endunless %} {% endfor %}
 </div>
 
 <div class="flex flex-wrap center cf">
   <div class="w-100">
     <h1 class="f3 lh-copy ttu tc light-red">Temporarily closed 😢</h1>
   </div>
-  {% for place in places %}
-
-  {% if place.status == "closed" %}
-
-  {% include place.html %}
-
-  {% endif %}
-
-  {% endfor %}
+  {% for place in places %} {% if place.status == "closed" %} {% include place.html %} {% endif %} {% endfor %}
 </div>

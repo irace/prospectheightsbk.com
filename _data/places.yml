@@ -86,6 +86,12 @@
   notes: “Delicious cookies, cupcakes and coffee. Also made to order cakes.” <a href="https://thebakeryonbergennyc.com/order-2">Online ordering form</a>.
   last_updated: 5/1
 
+- name: Banh Mi Place
+  notes: Open for pick-up and delivery
+  delivery:
+    uber_eats: https://www.ubereats.com/new-york/food-delivery/banh-mi-place/01MKo6J-RmCWJFzMsQzgXg
+  last_updated: 5/13
+
 - name: The Bearded Lady
   status: closed
   instagram: https://www.instagram.com/bearded_lady_brooklyn/
@@ -156,15 +162,15 @@
   last_updated: 3/24
 
 - name: BKLYN Larder
-  status: closed
+  status: open
   url: https://www.bklynlarder.com
   instagram: https://www.instagram.com/bklynlarder/
   phone: (718) 783-1250
-  notes: “We have decided to go on hiatus and close for a few weeks in the interest of our staff’s health and well-being.”
+  notes: Selling chef-curated meals every Thursday, <a href="https://mailchi.mp/1c242dbc05ab/were-back">click here</a> for more details.
   links:
     - title: Gift cards
       url: https://www.bklynlarder.com/gift-cards/
-  last_updated: 3/27
+  last_updated: 5/13
 
 - name: BKLYN Crepe & Juice
   status: open
@@ -706,7 +712,7 @@
   status: open
   url: https://www.millefeuille-nyc.com
   instagram: https://www.instagram.com/millefeuillenyc/
-  notes: <a href="https://millefeuillebakery.square.site">New online store</a>! Orders must be placed in advance. Delivering Thu - Sun only to ZIP codes 11213, 11215, 11216, 11217, 11238 (no in-store pickup)
+  notes: <a href="https://millefeuillebakery.square.site">New online store</a>! Orders must be placed in advance. Delivering Thu - Sun only to ZIP codes 11213, 11215, 11216, 11217, 11238. Also open for in-store pick-up.
   links:
     - title: Gift cards
       url: https://www.millefeuille-nyc.com/pages/gift-card
@@ -799,14 +805,13 @@
   last_updated: 3/21
 
 - name: Ogliastro Pizza Bar
-  status: closed
+  status: open
   url: https://ogliastropizza.com
   instagram: https://www.instagram.com/ogliastro.brooklyn/
-  notes: Closed until further notice. “We will be starting a GoFundMe for our staff soon”
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/please-help-the-ogliostro-staff
-  last_updated: 3/24
+  last_updated: 5/13
 
 - name: Olde Brooklyn Bagel Shoppe
   status: open
@@ -820,16 +825,16 @@
   last_updated: 3/26
 
 - name: Olmsted
-  status: closed
+  status: open
   url: http://olmstednyc.com/
   instagram: https://www.instagram.com/olmstednyc/
-  notes: “I’m excited to announce we plan to open the ‘Olmsted Trading Post’ out of our private dinning room. All I can say now is that it will be a mixed bag of ‘tasty stuff.’ MORE INFO TO COME”
+  notes: The Olmsted Trading Post is now live and open seven days a week. Delivery and online ordering are both said to be coming “soon.”
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund
     - title: Gift cards
       url: https://ecommerce.custcon.com/Purchase/Select?c=3e6823e0-52c7-4c1b-af3d-1bb13862c508
-  last_updated: 5/1
+  last_updated: 5/13
 
 - name: Ovenly
   status: closed
@@ -1011,15 +1016,15 @@
   last_updated: 3/16
 
 - name: Stocked Burger
-  status: open
+  status: closed
   url: https://www.stockedbrooklyn.com/burgers
   instagram: http://instagram.com/stockedburger
   hours: 3 - 9PM
   phone: (718) 872-5304
-  notes: Open for pick-up and delivery
+  notes: Hoping to re-open in “about two weeks”
   delivery:
     chownow: https://direct.chownow.com/order/18160/locations/26048
-  last_updated: 3/26
+  last_updated: 5/13
 
 - name: Sweet Polly
   status: open
