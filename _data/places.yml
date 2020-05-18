@@ -531,6 +531,13 @@
   notes: Open for pick-up and delivery
   last_updated: 5/8
 
+- name: Kami Asian
+  url: http://kamiasian.com
+  phone: (718) 398-3888
+  status: open
+  notes: “Please call us to place your order”
+  last_updated: 5/18
+
 - name: Ki Sushi
   status: closed
   url: http://www.kisushigroup.com
@@ -821,10 +828,12 @@
   status: open
   url: https://ogliastropizza.com
   instagram: https://www.instagram.com/ogliastro.brooklyn/
+  delivery:
+    seamless: https://www.seamless.com/menu/ogliastro-pizza-bar-784-washington-ave-brooklyn/322585
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/please-help-the-ogliostro-staff
-  last_updated: 5/13
+  last_updated: 5/15
 
 - name: Olde Brooklyn Bagel Shoppe
   status: open
