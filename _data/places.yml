@@ -344,6 +344,13 @@
     seamless: https://www.seamless.com/menu/dickeys-barbecue-pit-196-a-flatbush-ave-brooklyn/736492
   last_updated: 4/2
 
+- name: Don Chingon
+  instagram: https://www.instagram.com/donchingonnyc/
+  phone: (718) 576-3521
+  url: http://donchingon.nyc
+  status: open
+  last_updated: 5/18
+  
 - name: Dough Studio
   status: open
   facebook: https://www.facebook.com/Dough-Studio-105988981103219
@@ -539,11 +546,13 @@
   last_updated: 5/18
 
 - name: Ki Sushi
-  status: closed
+  status: open
+  hours: 5 - 9:30PM
+  phone: (718) 230-1381
   url: http://www.kisushigroup.com
   instagram: https://www.instagram.com/ki_sushi_flatbush/
-  notes: Closed until further notice
-  last_updated: 4/6
+  notes: <a href="http://www.kisushigroup.com/catalog.aspx?cid=2">Order online</a> for curbside delivery and pickup
+  last_updated: 5/18
 
 - name: Kimchi Grill
   status: open
