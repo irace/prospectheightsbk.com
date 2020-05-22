@@ -25,24 +25,24 @@
   last_updated: 4/13
 
 - name: Alta Calidad
-  status: closed
+  status: open
   url: https://altacalidadbk.com
   instagram: https://www.instagram.com/altacalidadbk/
-  hours: 11AM - 8PM⁣
+  hours: 12 - 8PM (Wed - Sat)
   delivery:
-    uber_eats: https://www.ubereats.com/new-york/food-delivery/alta-calidad/L0ktkVRjQbOkllv7UWe1fQ
-    doordash: https://www.doordash.com/store/alta-calidad-brooklyn-133126/
-    postmates: https://postmates.com/merchant/alta-calidad-brooklyn
+    #uber_eats: https://www.ubereats.com/new-york/food-delivery/alta-calidad/L0ktkVRjQbOkllv7UWe1fQ
+    #doordash: https://www.doordash.com/store/alta-calidad-brooklyn-133126/
+    #postmates: https://postmates.com/merchant/alta-calidad-brooklyn
     seamless: https://www.seamless.com/menu/alta-calidad-552-vanderbilt-ave-brooklyn/460349
-    caviar: https://www.trycaviar.com/m/alta-calidad-5914
+    #caviar: https://www.trycaviar.com/m/alta-calidad-5914
     toast: https://www.toasttab.com/alta-calidad/v3
-  notes: Launching Alta Calidad Mercado on May 13. Will sell prepared foods, specialty goods and pantry items.
+  notes: Alta Calidad Mercado is now available with weekly specials, provisions and drinks.
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/alta-calidad-employee-relief-fund
     - title: Gift cards
       url: https://www.toasttab.com/alta-calidad/giftcards
-  last_updated: 5/7
+  last_updated: 5/21
 
 - name: Amorina Pizza
   status: open
@@ -56,16 +56,15 @@
   last_updated: 5/4
 
 - name: Ample Hills
-  status: closed
   url: https://www.amplehills.com
   instagram: https://www.instagram.com/amplehills/
-  notes: Holding a pop-up Grab & Go at their Gowanus location Sunday, May 10, for Mother’s Day.
+  notes: Holding another pop-up for Memorial Day weekend at their scoop shop, Sat & Sun 1 - 9PM and Mon  1 - 8PM.
   delivery:
     caviar: https://www.trycaviar.com/m/ample-hills--prospect-heights-1722
     seamless: https://www.seamless.com/menu/ample-hills---prospect-heights-623-vanderbilt-ave-brooklyn/1711574
     uber_eats:
     postmates:
-  last_updated: 5/7
+  last_updated: 5/21
 
 - name: Antonio’s Pizza
   status: open
@@ -306,9 +305,11 @@
 
 - name: Ciao, Gloria
   status: open
+  hours: 9AM - 3PM
+  phone: (716) 666-2426 (CIAO)
   url: https://www.ciaogloria.com
   instagram: https://www.instagram.com/ciaoglorianyc/
-  notes: Re-opening on 5/8. “Come by for takeout, order on Caviar for delivery or call ahead to place an order for pickup (think whole cakes or a box of coffee or cookies)”
+  notes: Now open daily for takeout and delivery.
   delivery:
     caviar: https://www.trycaviar.com/t/m/ciao-gloria-16959
   links:
@@ -316,7 +317,7 @@
       url: https://www.gofundme.com/f/ciao-gloria-employee-fund
     - title: Gift cards
       url: https://squareup.com/gift/0TSZB8YWYDFH0/order
-  last_updated: 5/7
+  last_updated: 5/21
 
 - name: Cinnamon Girl
   instagram: https://www.instagram.com/cinnamon_girl_bk/
@@ -359,14 +360,17 @@
   last_updated: 5/13
 
 - name: Doughnut Plant
-  status: closed
+  status: open
+  hours: 8AM - 4PM (Wed - Sun)
   url: https://www.doughnutplant.com
   instagram: https://www.instagram.com/doughnutplant/
-  notes: Closed until further notice
+  notes: Open as of 5/22. Order online for delivery or contactless pickup.
   links:
+    - title: Order online
+      url: https://order.doughnutplant.com/locations/doughnutplant
     - title: Gift cards
       url: https://www.doughnutplant.com/store/gift-cards/
-  last_updated: 3/25
+  last_updated: 5/21
 
 - name: Faun
   status: closed
