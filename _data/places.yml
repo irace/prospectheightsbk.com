@@ -58,7 +58,7 @@
 - name: Ample Hills
   url: https://www.amplehills.com
   instagram: https://www.instagram.com/amplehills/
-  notes: Holding another pop-up for Memorial Day weekend at their scoop shop, Sat & Sun 1 - 9PM and Mon  1 - 8PM.
+  notes: Holding a pop-up for Memorial Day weekend at their scoop shop, Sat & Sun 1 - 9PM and Mon  1 - 8PM.
   delivery:
     caviar: https://www.trycaviar.com/m/ample-hills--prospect-heights-1722
     seamless: https://www.seamless.com/menu/ample-hills---prospect-heights-623-vanderbilt-ave-brooklyn/1711574
@@ -409,7 +409,7 @@
 - name: Geido
   status: closed
   url: https://geido.nyc
-  hours: 5:30 - 10PM (Wed - Sun), 12:30 - 3PM (Sat - Sun)
+  hours: 5:30 - 10PM (Wed - Sun), 12:30 - 3PM (Sat/Sun)
   phone: (718) 638-8866
   notes: “Temporarily closed (based on the sign on their window)”
   delivery:
@@ -1066,7 +1066,7 @@
   instagram: https://www.instagram.com/sweetpollynyc/
   url: http://www.sweetpollynyc.com
   phone: (718) 484-9600
-  hours: 2 - 8PM (closed Tue)
+  hours: 2 - 8PM (Wed - Fri), 12 - 8PM (Sat/Sun)
   notes: “Call ahead to place an order for pickup”
   links:
     - title: Staff relief fund
