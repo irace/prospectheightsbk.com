@@ -215,7 +215,7 @@
   hours: 12 - 9:30PM
   url: https://www.bornbklyn.com/
   instagram: https://www.instagram.com/bornthaibklyn/
-  notes: Take-out and delivery
+  notes: Open for takeout and delivery
   delivery:
     doordash: https://www.doordash.com/store/bergen-bagels-brooklyn-312992/en-US
     seamless: https://www.seamless.com/menu/born-thai-293-flatbush-ave-brooklyn/1152911
@@ -229,7 +229,7 @@
   instagram: https://www.instagram.com/brandedsaloon/
   phone: (718) 484-8704
   hours: 5 - 11:45PM
-  notes: Food and drink take-out and delivery (catering via <a href="https://www.ezcater.com/catering/branded-saloon-3">EZCater</a>). You can also Venmo @Alex-Savoie directly.
+  notes: Food and drink takeout and delivery (catering via <a href="https://www.ezcater.com/catering/branded-saloon-3">EZCater</a>). You can also Venmo @Alex-Savoie directly.
   delivery:
     doordash: https://www.doordash.com/store/branded-cattle-saloon-inc-brooklyn-893199/1318299/en-US
     seamless: https://www.seamless.com/menu/branded-saloon-603-vanderbilt-ave-brooklyn/298472
@@ -255,7 +255,7 @@
   instagram: https://www.instagram.com/burritobarbk
   phone: (718) 230-8646
   hours: 12 - 10PM
-  notes: Offering curbside carry-out and delivery (alcohol included). Cash only for take-out.
+  notes: Offering curbside carry-out and delivery (alcohol included). Cash only for takeout.
   delivery:
     chownow: https://direct.chownow.com/order/7878/locations/10581
   last_updated: 3/20
@@ -298,7 +298,7 @@
   phone: (347) 425-9570
   hours: 5:30 - 9PM
   last_updated: 3/22
-  notes: Beer, wine, and sake to-go (20% off). Call or order online.
+  notes: Beer, wine, and sake to go (20% off). Call or order online.
   delivery:
     caviar: https://www.trycaviar.com/m/chuko-ramen-3843
     doordash: https://www.doordash.com/store/chuko-ramen-brooklyn-22335/en-US
@@ -484,7 +484,7 @@
   hours: 7AM - 5PM
   url: https://www.hungryghostcoffee.com/
   instagram: https://www.instagram.com/hungryghostcoffee/
-  notes: Serving take-out
+  notes: Open for takeout
   links:
     - title: Gift cards (20% off)
       url: https://squareup.com/gift/86HHGQC7C1RMH/order
@@ -585,7 +585,7 @@
   hours: 11 - 10PM (Tue - Sun)
   phone: (347) 799-1972
   instagram: https://www.instagram.com/kulushkat/
-  notes: 15% discount with code <strong>FalafelForever</strong>. Frozen food and beer also available for take-out and delivery
+  notes: 15% discount with code <strong>FalafelForever</strong>. Frozen food and beer also available for takeout and delivery
   delivery:
     chownow: https://direct.chownow.com/order/8549/locations/11540
   last_updated: 4/20
@@ -652,12 +652,12 @@
   last_updated: 5/1
 
 - name: Lowerline
-  status: closed
-  hours: 12 - 8PM
+  status: open
+  hours: 5 - 9PM (Tue - Sat)
   url: https://www.lowerlinebk.com
   instagram: https://www.instagram.com/lowerline/
   phone: (347) 533-7110
-  notes: Closed until further notice
+  notes: Open for takeout and delivery
   delivery:
     caviar: https://www.trycaviar.com/m/lowerline-11359
     doordash: https://www.doordash.com/store/lowerline-brooklyn-524902/
@@ -666,7 +666,7 @@
       url: https://www.gofundme.com/f/help-lowerline-keep-nola-cuisine-alive-in-brooklyn
     - title: Gift cards
       url: https://squareup.com/gift/W0XRH9R9BY895/order
-  last_updated: 4/4
+  last_updated: 5/21
 
 - name: Maison Yaki
   status: closed
@@ -730,26 +730,28 @@
   last_updated: 3/25
 
 - name: Milk Bar
-  status: closed
+  status: open
+  hours: 9AM - 2PM
   url: https://www.milkbarbrooklyn.com
   instagram: https://www.instagram.com/milkbarbrooklyn/
-  notes: Closed until further notice
+  notes: To-go coffees, cash or Venmo for payment.
   links:
     - title: Gift cards
       url: https://www.milkbarbrooklyn.com/gift-certificates
     - title: Staff relief fund
       url: https://www.gofundme.com/f/milk-bar-brunswick-team-relief-fund
-  last_updated: 3/25
+  last_updated: 5/21
 
 - name: Mille-Feuille
   status: open
+  hours: 9AM - 4PM
   url: https://www.millefeuille-nyc.com
   instagram: https://www.instagram.com/millefeuillenyc/
-  notes: <a href="https://millefeuillebakery.square.site">New online store</a>! Orders must be placed in advance. Delivering Thu - Sun only to ZIP codes 11213, 11215, 11216, 11217, 11238. Also open for in-store pick-up.
+  notes: Store is open again, with delivery also available in advance through their <a href="https://millefeuillebakery.square.site">online store</a> Order before 4PM the day before, with deliveries 8 - 10AM Thu/Sat. Delivers to Prospect Heights, Park Slope, Brooklyn Heights, Clinton Hill, Crown Heights, or Bedford Stuyvesant.
   links:
     - title: Gift cards
       url: https://www.millefeuille-nyc.com/pages/gift-card
-  last_updated: 4/6
+  last_updated: 5/21
 
 - name: Mitchell’s Soul Food
   phone: (718) 789-3212
@@ -759,14 +761,19 @@
 
 - name: Mokbar
   status: open
+  hours: 12 - 5PM (Mon - Fri)
   url: https://www.mokbar.com
   instagram: https://www.instagram.com/mokbar_nyc/
   phone: (347) 987-3042
-  notes: “Dumplings for sale, as well as marinated meats, stews, soups, side dishes, kimchi and more.” Free delivery for orders over $75. Email <a href="mailto:orders@mokbar.com">orders@mokbar.com</a> to order.
+  notes: DIY ramen kits and curbside pickup are still available by emailing <a href="mailto:orders@mokbar.com">orders@mokbar.com</a>.
+  delivery:
+    seamless: https://www.seamless.com/menu/mokbar-ii-212-flatbush-ave-brooklyn/396396
+    caviar: https://www.trycaviar.com/m/mokbar-brooklyn-5085
+    uber_eats: https://www.ubereats.com/new-york/food-delivery/mokbar-park-slope/bzwJfOzHRmOOYaScpluzyA
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/feed-our-warriors
-  last_updated: 5/6
+  last_updated: 5/21
 
 - name: Morgan’s BBQ
   status: open
@@ -861,15 +868,16 @@
 
 - name: Olmsted
   status: open
+  hours: 2 - 7PM (Wed - Fri), 12 - 7PM (Sat/Sun)
   url: http://olmstednyc.com/
   instagram: https://www.instagram.com/olmstednyc/
-  notes: The Olmsted Trading Post is now live and open seven days a week. Delivery and online ordering are both said to be coming “soon.”
+  notes: Olmsted Trading Post is now live and open seven days a week. Delivery and online ordering are both said to be coming “soon.”
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund
     - title: Gift cards
       url: https://ecommerce.custcon.com/Purchase/Select?c=3e6823e0-52c7-4c1b-af3d-1bb13862c508
-  last_updated: 5/13
+  last_updated: 5/21
 
 - name: Ovenly
   status: closed
@@ -1032,6 +1040,17 @@
     chownow: https://direct.chownow.com/order/18159/locations/26047
   last_updated: 3/26
 
+- name: Stocked Burger
+  status: closed
+  url: https://www.stockedbrooklyn.com/burgers
+  instagram: http://instagram.com/stockedburger
+  hours: 3 - 9PM
+  phone: (718) 872-5304
+  notes: Hoping to re-open in “about two weeks”
+  delivery:
+    chownow: https://direct.chownow.com/order/18160/locations/26048
+  last_updated: 5/13
+
 - name: Sugarcane
   status: open
   url: http://www.sugarcanerestaurant.com
@@ -1049,17 +1068,6 @@
     - title: Staff relief fund
       url: https://www.gofundme.com/f/sunshine-co-staff
   last_updated: 3/16
-
-- name: Stocked Burger
-  status: closed
-  url: https://www.stockedbrooklyn.com/burgers
-  instagram: http://instagram.com/stockedburger
-  hours: 3 - 9PM
-  phone: (718) 872-5304
-  notes: Hoping to re-open in “about two weeks”
-  delivery:
-    chownow: https://direct.chownow.com/order/18160/locations/26048
-  last_updated: 5/13
 
 - name: Sweet Polly
   status: open
