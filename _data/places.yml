@@ -320,8 +320,16 @@
 
 - name: Cinnamon Girl
   instagram: https://www.instagram.com/cinnamon_girl_bk/
-  notes: Open for takeout “pantry provisions, groceries and delicious treats”
+  notes: Open for take-out “pantry provisions, groceries and delicious treats”
   last_updated: 5/13
+
+- name: Citrico
+  status: open
+  phone: (347) 955-4519
+  url: http://citricobrooklyn.com/ 
+  instagram: https://www.instagram.com/citricobk/
+  notes: Open for take-out and delivery. <a href="http://citricobrooklyn.com/order-online/">Order online here</a>.
+  last_updated: 5/23
 
 - name: Covenhoven
   status: open
@@ -487,10 +495,10 @@
   last_updated: 3/23
 
 - name: Inaka Asian Cuisine
-  status: closed
+  status: open
   url: http://inakany.com
-  notes: Closed until further notice
-  last_updated: 4/5
+  notes: Open for take-out and delivery. <a href="https://www.inakaasianbrooklyn.com/orderonline.aspx">Order online here</a>.
+  last_updated: 5/23
 
 - name: The Islands
   status: open
