@@ -176,7 +176,7 @@
   url: http://brooklyncrepe.com
   instagram: https://www.instagram.com/bklyncrepe/
   hours: 10AM - 8PM
-  notes: Open for pickup and delivery
+  notes: Open for pick-up and delivery
   delivery:
     caviar: https://www.trycaviar.com/m/brooklyn-crepe--juice-14085
     uber_eats: https://www.ubereats.com/new-york/food-delivery/brooklyn-crepe-%26-juice-park-slope/7x5ubkWWQYiRliRSAiuF4Q
@@ -215,7 +215,7 @@
   hours: 12 - 9:30PM
   url: https://www.bornbklyn.com/
   instagram: https://www.instagram.com/bornthaibklyn/
-  notes: Open for takeout and delivery
+  notes: Open for take-out and delivery
   delivery:
     doordash: https://www.doordash.com/store/bergen-bagels-brooklyn-312992/en-US
     seamless: https://www.seamless.com/menu/born-thai-293-flatbush-ave-brooklyn/1152911
@@ -266,7 +266,7 @@
   instagram: https://www.instagram.com/cataldosbk/
   phone: (718) 857-6700
   hours: 12 - 8PM
-  notes: Call for pickup orders
+  notes: Call for pick-up orders
   last_updated: 4/6
 
 - name: Cheryl’s Global Soul
@@ -275,7 +275,7 @@
   instagram: https://www.instagram.com/cherylsglobalsoul/
   hours: 12 - 8PM
   phone: (347) 529-2855
-  notes: Call for pickup and delivery. <a href="https://12fcfcc5-9c0c-71b4-d2e6-789a72c3925c.filesusr.com/ugd/370d25_c8eae6a23a7944f28114f5f0b83f4f3a.pdf">Delivery menu here</a>.
+  notes: Call for pick-up and delivery. <a href="https://12fcfcc5-9c0c-71b4-d2e6-789a72c3925c.filesusr.com/ugd/370d25_c8eae6a23a7944f28114f5f0b83f4f3a.pdf">Delivery menu here</a>.
   last_updated: 3/19
 
 - name: Chick-P
@@ -372,7 +372,7 @@
   hours: 8AM - 4PM (Wed - Sun)
   url: https://www.doughnutplant.com
   instagram: https://www.instagram.com/doughnutplant/
-  notes: Open as of 5/22. Order online for delivery or contactless pickup.
+  notes: Open as of 5/22. Order online for delivery or contactless pick-up.
   links:
     - title: Order online
       url: https://order.doughnutplant.com/locations/doughnutplant
@@ -411,7 +411,7 @@
   url: http://www.fermentedgrapes.net
   instagram: https://www.instagram.com/fermentedgrapesbk/
   phone: (718) 230-3216
-  notes: Open for contactless pickup and delivery. Email orders to customerservice@fermentedgrapes.net with what you’re looking for and a phone number.
+  notes: Open for contactless pick-up and delivery. Email orders to customerservice@fermentedgrapes.net with what you’re looking for and a phone number.
   last_updated: 5/7
 
 - name: Geido
@@ -508,7 +508,7 @@
   status: open
   phone: (718) 398-3575
   hours: 2 - 10:30PM (Tue - Thu), 1 - 10:30PM (Fri), 12 - 10:30PM (Sat/Sun)
-  notes: Open for pickup and delivery
+  notes: Open for pick-up and delivery
   delivery:
     postmates: https://postmates.com/merchant/the-islands-brooklyn-1
     uber_eats: https://www.ubereats.com/new-york/food-delivery/the-islands/9jFnKcjVRBuUOpsVlzSgsg
@@ -563,7 +563,7 @@
   phone: (718) 230-1381
   url: http://www.kisushigroup.com
   instagram: https://www.instagram.com/ki_sushi_flatbush/
-  notes: <a href="http://www.kisushigroup.com/catalog.aspx?cid=2">Order online</a> for curbside delivery and pickup
+  notes: <a href="http://www.kisushigroup.com/catalog.aspx?cid=2">Order online</a> for curbside delivery and pick-up
   last_updated: 5/18
 
 - name: Kimchi Grill
@@ -622,7 +622,7 @@
   instagram: https://instagram.com/lincolnstationbk
   hours: 5 - 9PM
   phone: (718) 399-2211
-  notes: “Please call ahead for pickup through the front door. Online ordering and payment for pickup coming soon.”
+  notes: “Please call ahead for pick-up through the front door. Online ordering and payment for pick-up coming soon.”
   delivery:
     seamless: https://www.seamless.com/menu/lincoln-station-409-lincoln-pl-brooklyn/315738
     caviar: https://www.trycaviar.com/m/lincoln-station-758
@@ -706,7 +706,7 @@
   phone: (718) 636-2900
   delivery:
     caviar: https://www.trycaviar.com/m/memes-diner-10883
-  notes: Now accepting pastry preorders (order by Thursday for Saturday pickup, Friday for Sunday pickup). Pantry/booze/wine items can be ordered day-of.
+  notes: Now accepting pastry preorders (order by Thursday for Saturday pick-up, Friday for Sunday pick-up). Pantry/booze/wine items can be ordered day-of.
   links:
     - title: Staff relief fund
       url: https://www.memesdiner.com/covid-19-staff-fund-donation
@@ -773,7 +773,7 @@
   url: https://www.mokbar.com
   instagram: https://www.instagram.com/mokbar_nyc/
   phone: (347) 987-3042
-  notes: DIY ramen kits and curbside pickup are still available by emailing <a href="mailto:orders@mokbar.com">orders@mokbar.com</a>.
+  notes: DIY ramen kits and curbside pick-up are still available by emailing <a href="mailto:orders@mokbar.com">orders@mokbar.com</a>.
   delivery:
     seamless: https://www.seamless.com/menu/mokbar-ii-212-flatbush-ave-brooklyn/396396
     caviar: https://www.trycaviar.com/m/mokbar-brooklyn-5085
@@ -935,6 +935,14 @@
   status: open
   last_updated: 5/7
 
+- name: Puerto Viejo
+  phone: (718) 398-3758
+  hours: 11AM – 11PM (Mon – Sat)
+  url: http://www.puertoviejony.com/
+  instagram: https://www.instagram.com/puertoviejony/
+  notes: Open for pick-up and delivery
+  last_updated: 5/27
+
 - name: Private Yoga Lessons
   status: open
   url: https://www.privateyogasoho.com
@@ -948,7 +956,7 @@
   instagram: https://www.instagram.com/rdfoods/
   phone: (347) 915-1196
   hours: 12 - 4PM (Thu - Sun)
-  notes: Use code KALE for $5 off delivery orders, which basically makes delivery free. “We are still encouraging healthy customers to pickup as the delivery folks are _slammed_ and need to be saved for those in need of delivery.” See their <a href="https://www.rdfoodsbklyn.com/open-during-corona">Open During Corona</a> page for more details.
+  notes: Use code KALE for $5 off delivery orders, which basically makes delivery free. “We are still encouraging healthy customers to pick-up as the delivery folks are _slammed_ and need to be saved for those in need of delivery.” See their <a href="https://www.rdfoodsbklyn.com/open-during-corona">Open During Corona</a> page for more details.
   delivery:
     chownow: https://ordering.chownow.com/order/11145/locations
   links:
@@ -1083,7 +1091,7 @@
   url: http://www.sweetpollynyc.com
   phone: (718) 484-9600
   hours: 2 - 8PM (Wed - Fri), 12 - 8PM (Sat/Sun)
-  notes: “Call ahead to place an order for pickup”
+  notes: “Call ahead to place an order for pick-up”
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/sweet-polly-team-relief-fund
@@ -1162,7 +1170,7 @@
   url: https://vanderbilt.wine
   instagram: https://instagram.com/vanderbiltwine
   hours: 11AM - 7PM (Mon - Sat)
-  notes: Order pickup is available 3pm - 7pm each day and neighborhood delivery Tuesday through Saturday (1pm cutoff for same day delivery).
+  notes: Order pick-up is available 3pm - 7pm each day and neighborhood delivery Tuesday through Saturday (1pm cutoff for same day delivery).
   last_updated: 5/7
 
 - name: Washington Ave. Cafe
@@ -1191,7 +1199,7 @@
   url: http://www.whitetiger.nyc
   instagram: https://www.instagram.com/whitetigerbklyn/
   phone: (718) 552-2272
-  notes: “Please <a href="https://www.toasttab.com/white-tiger/v3">order online directly with us!</a> Or we can take your orders for either pickup or delivery and your credit card payment over the phone! We are trying to cut out the expensive middle man, but of course, you can also use Seamless/GrubHub or DoorDash if that’s more convenient.” Contactless exchanges in a dedicated area at the front of the restaurant, sanitized after each visit.
+  notes: “Please <a href="https://www.toasttab.com/white-tiger/v3">order online directly with us!</a> Or we can take your orders for either pick-up or delivery and your credit card payment over the phone! We are trying to cut out the expensive middle man, but of course, you can also use Seamless/GrubHub or DoorDash if that’s more convenient.” Contactless exchanges in a dedicated area at the front of the restaurant, sanitized after each visit.
   delivery:
     toast: https://www.toasttab.com/white-tiger/v3
     seamless: https://www.seamless.com/menu/white-tiger-601-vanderbilt-ave-brooklyn/1981045
@@ -1205,7 +1213,7 @@
   url: https://www.wineexchangebkn.com
   phone: (718) 783-7500
   instagram: https://www.instagram.com/wineexchangebkn/
-  notes: Available for delivery and pickup. In store limited to 5 people at a time.
+  notes: Available for delivery and pick-up. In store limited to 5 people at a time.
   last_updated: 4/14
 
 - name: The Winey Neighbor
@@ -1213,7 +1221,7 @@
   url: https://wineyneighbor.com
   instagram: https://www.instagram.com/wineyneighbor/
   phone: (347) 715-6693
-  notes: Open for delivery and curbside pickup (order through their <a href="https://wineyneighbor.com/#&StoreFrontLocationHash=%23%2Fwidget%2F5a6f49faf4a6613ee3696dbb%2Fcontainers">website</a>)
+  notes: Open for delivery and curbside pick-up (order through their <a href="https://wineyneighbor.com/#&StoreFrontLocationHash=%23%2Fwidget%2F5a6f49faf4a6613ee3696dbb%2Fcontainers">website</a>)
   last_updated: 3/26
 
 - name: Zaytoons
