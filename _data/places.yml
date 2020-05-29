@@ -1055,10 +1055,10 @@
   instagram: https://www.instagram.com/stockedbrooklyn/
   hours: 9AM - 3PM (Mon - Fri), 9AM - 6PM (Sat/Sun)
   phone: (929) 234-6554
-  notes: Closed until further notice
+  notes: Permanently closed. Stocked Burger will be re-opening as a combination of both concepts.
   delivery:
     chownow: https://direct.chownow.com/order/18159/locations/26047
-  last_updated: 3/26
+  last_updated: 5/29
 
 - name: Stocked Burger
   status: closed
@@ -1066,10 +1066,10 @@
   instagram: http://instagram.com/stockedburger
   hours: 3 - 9PM
   phone: (718) 872-5304
-  notes: Hoping to re-open in “about two weeks”
+  notes: Will be re-opening as a combination of Stocked and Stocker Burger.
   delivery:
     chownow: https://direct.chownow.com/order/18160/locations/26048
-  last_updated: 5/13
+  last_updated: 5/29
 
 - name: Sugarcane
   status: open
