@@ -381,29 +381,32 @@
   last_updated: 5/21
 
 - name: Faun
-  status: closed
+  status: open
   url: https://faun.nyc
   instagram: https://www.instagram.com/faun.nyc/
-  phone: (718) 576-6120
-  delivery:
-    caviar: https://www.trycaviar.com/m/faun-17403
-  notes: Closed until further notice
+  phone: (714) 488-0828
+  hours: 3 - 7PM (Fri), 11AM - 5PM (Sat - Sun)
+#  phone: (718) 576-6120
+  # delivery:
+  #   caviar: https://www.trycaviar.com/m/faun-17403
+  notes: Temporarily rebranded <a href="https://www.instagram.com/prospectbutcherco/">The Prospect Heights Butcher Co.</a> – <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwMeFfDEF_WQ0WWxpWBybVbz89iB8lWTwctfSed7Vq-TCNzg/viewform">Order here</a> or call to place an order.
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/faun-staff-relief-fund
     - title: Gift cards (25% off)
       url: https://faun.nyc/gift-cards
-  last_updated: 4/3
+  last_updated: 5/29
 
 - name: Fausto
-  status: closed
+  status: open
   url: https://www.faustobrooklyn.com
+  hours: 2 - 6PM
   instagram: https://www.instagram.com/faustobrooklyn/
-  notes: Closed until further notice
+  notes: “Fausto At Home“ is now available. <a href="https://www.exploretock.com/fausto/experience/140506/fausto-at-home?date=2020-05-29&size=1&time=15%3A00">Pre-order here</a> and pick-up on Friday afternoon.
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/fausto-employee-fund
-  last_updated: 3/21
+  last_updated: 5/29
 
 - name: Fermented Grapes
   status: open
@@ -599,14 +602,15 @@
   last_updated: 4/20
 
 - name: LaLou
-  status: closed
+  status: open
   url: https://laloubrooklyn.com
+  hours: 12 - 5PM (Sat)
   instagram: https://www.instagram.com/laloubrooklyn/
-  notes: Closed until further notice
+  notes: The LaLou Larder & Wine Shop is now open on Saturdays. <a href="https://www.exploretock.com/lalou/experience/136989/lalou-larder-wine-shop?date=2020-05-30&size=1&time=12%3A00">Order here</a>.
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/lalou-employee-fund
-  last_updated: 3/16
+  last_updated: 5/29
 
 - name: Life Reorganized
   status: open
