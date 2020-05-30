@@ -106,7 +106,7 @@
   instagram: https://www.instagram.com/beerstreetsouth/
   untappd: https://untappd.com/v/beer-street-south/9792005
   hours: 2 - 8PM
-  notes: 'Our online store is live!⁣ Head to <a href="https://beerstreetsouth550.com">beerstreetsouth550.com</a> to place pick up orders that will be ready for you within half an hour!⁣'
+  notes: '<a href="https://beerstreetsouth550.com">Order online</a> for pickup⁣ or stop by'
   links:
     - title: Gift cards
       url: https://squareup.com/gift/C3K54BY60YNAP/order
@@ -130,7 +130,7 @@
   untappd: https://untappd.com/v/bierwax/7133448
   phone: (347) 533-8449
   hours: 2 - 7PM
-  notes: 'The <a href="https://my-site-100819-102620.square.site">Bierwax Online Shop</a> supports both pickup and delivery. Cans, bottles and/or mason jars ready for a quick handoff. ⁣Call ahead for curbside pickup after placing an order.'
+  notes: '<a href="https://my-site-100819-102620.square.site">Order online</a> for pickup and delivery or stop by (1 person at a time inside). Call ahead for curbside pickup after placing an order.'
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/covid19-relief-fund-for-bierwax-staff
@@ -139,10 +139,11 @@
   last_updated: 5/7
 
 - name: Bilt Bar
-  status: closed
+  status: open
+  hours: 3 - 7PM (Fri), 2 - 7PM (Sat), 1 - 6PM (Sun)
   instagram: https://www.instagram.com/biltbar/
   facebook: https://www.facebook.com/pages/category/Lounge/Bilt-Bar-100153434688553/
-  notes: Closed until further notice
+  notes: Open for pickup food and drinks
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/bilt-bar-bartenders-relief-fund
@@ -928,7 +929,7 @@
   phone: (347) 627-8298
   hours: 4 - 8PM (Fri - Sun)
   instagram: https://www.instagram.com/oxalisnyc/
-  notes: Offering pick up and delivery of fresh and prepared foods, cocktails and wine, though their pantry box service, Boxalis.
+  notes: Offering pickup and delivery of fresh and prepared foods, cocktails and wine, though their pantry box service, Boxalis.
   links:
     - title: Pantry box
       url: https://boxalis.com
@@ -1114,7 +1115,7 @@
   url: http://www.sweetpollynyc.com
   phone: (718) 484-9600
   hours: 2 - 8PM (Wed - Fri), 12 - 8PM (Sat/Sun)
-  notes: Order online or call ahead to place an order to pick up.
+  notes: Order online or call ahead for pickup
   delivery:
     upserve: https://app.upserve.com/s/sweet-polly-brooklyn
   links:
@@ -1236,7 +1237,7 @@
   url: https://www.wineexchangebkn.com
   phone: (718) 783-7500
   instagram: https://www.instagram.com/wineexchangebkn/
-  notes: Open for pickup and delivery. In store limited to 5 people at a time.
+  notes: Open for pickup and delivery. Five people at a time inside.
   last_updated: 4/14
 
 - name: The Winey Neighbor
