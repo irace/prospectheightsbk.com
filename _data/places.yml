@@ -4,7 +4,7 @@
 #   url: https://www.example.com/
 #   instagram: https://www.instagram.com/
 #   hours: 9AM - 5PM (Mon - Fri)
-#   notes: "Example text here"
+#   notes: 'Example text here'
 #   delivery:
 #     uber_eats:
 #     doordash:
@@ -21,7 +21,7 @@
   instagram: https://www.instagram.com/acmepetfood/
   phone: (718) 789-8062
   hours: 10AM - 7PM (Mon - Fri), 10AM - 5PM (Sat), 11AM - 5PM (Sun)
-  notes: “Limit exposure to our staff and yourself, please wear a mask when visiting, wait outside if crowded. No contact curbside and local home delivery available.”
+  notes: '“Limit exposure to our staff and yourself, please wear a mask when visiting, wait outside if crowded. No contact curbside and local home delivery available.”'
   last_updated: 4/13
 
 - name: Alta Calidad
@@ -36,7 +36,7 @@
     seamless: https://www.seamless.com/menu/alta-calidad-552-vanderbilt-ave-brooklyn/460349
     #caviar: https://www.trycaviar.com/m/alta-calidad-5914
     toast: https://www.toasttab.com/alta-calidad/v3
-  notes: Alta Calidad Mercado is now available with weekly specials, provisions and drinks. Delivery and pickup.
+  notes: Alta Calidad Mercado is now available with weekly specials, provisions and drinks for pickup and delivery.
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/alta-calidad-employee-relief-fund
@@ -82,7 +82,7 @@
   hours: 12 - 7PM (Tue - Sun)
   url: https://thebakeryonbergennyc.com
   instagram: https://www.instagram.com/thebakeryonbergen/
-  notes: “Delicious cookies, cupcakes and coffee. Also made to order cakes.” <a href="https://thebakeryonbergennyc.com/order-2">Online ordering form</a>.
+  notes: '“Delicious cookies, cupcakes and coffee. Also made to order cakes.” <a href="https://thebakeryonbergennyc.com/order-2">Online ordering form</a>.'
   last_updated: 5/1
 
 - name: Banh Mi Place
@@ -106,7 +106,7 @@
   instagram: https://www.instagram.com/beerstreetsouth/
   untappd: https://untappd.com/v/beer-street-south/9792005
   hours: 2 - 8PM
-  notes: Our online store is live!⁣ Head to <a href="https://beerstreetsouth550.com">beerstreetsouth550.com</a> to place pick up orders that will be ready for you within half an hour!⁣
+  notes: 'Our online store is live!⁣ Head to <a href="https://beerstreetsouth550.com">beerstreetsouth550.com</a> to place pick up orders that will be ready for you within half an hour!⁣'
   links:
     - title: Gift cards
       url: https://squareup.com/gift/C3K54BY60YNAP/order
@@ -130,7 +130,7 @@
   untappd: https://untappd.com/v/bierwax/7133448
   phone: (347) 533-8449
   hours: 2 - 7PM
-  notes: The <a href="https://my-site-100819-102620.square.site">Bierwax Online Shop</a> supports both pickup and delivery. Cans, bottles and/or mason jars ready for a quick handoff. ⁣Call ahead for a curbside pick up after placing an order.
+  notes: 'The <a href="https://my-site-100819-102620.square.site">Bierwax Online Shop</a> supports both pickup and delivery. Cans, bottles and/or mason jars ready for a quick handoff. ⁣Call ahead for a curbside pick up after placing an order.'
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/covid19-relief-fund-for-bierwax-staff
@@ -165,7 +165,7 @@
   url: https://www.bklynlarder.com
   instagram: https://www.instagram.com/bklynlarder/
   phone: (718) 783-1250
-  notes: Selling chef-curated meals every Thursday, <a href="https://mailchi.mp/1c242dbc05ab/were-back">click here</a> for more details.
+  notes: 'Selling chef-curated meals every Thursday, <a href="https://mailchi.mp/1c242dbc05ab/were-back">click here</a> for more details.'
   links:
     - title: Gift cards
       url: https://www.bklynlarder.com/gift-cards/
@@ -229,7 +229,7 @@
   instagram: https://www.instagram.com/brandedsaloon/
   phone: (718) 484-8704
   hours: 5 - 11:45PM
-  notes: Food and drink pickup and delivery (catering via <a href="https://www.ezcater.com/catering/branded-saloon-3">EZCater</a>). You can also Venmo @Alex-Savoie directly.
+  notes: 'Food and drink pickup and delivery (catering via <a href="https://www.ezcater.com/catering/branded-saloon-3">EZCater</a>). You can also Venmo @Alex-Savoie directly.'
   delivery:
     doordash: https://www.doordash.com/store/branded-cattle-saloon-inc-brooklyn-893199/1318299/en-US
     seamless: https://www.seamless.com/menu/branded-saloon-603-vanderbilt-ave-brooklyn/298472
@@ -275,7 +275,7 @@
   instagram: https://www.instagram.com/cherylsglobalsoul/
   hours: 12 - 8PM
   phone: (347) 529-2855
-  notes: Call for pickup and delivery. <a href="https://12fcfcc5-9c0c-71b4-d2e6-789a72c3925c.filesusr.com/ugd/370d25_c8eae6a23a7944f28114f5f0b83f4f3a.pdf">Delivery menu here</a>.
+  notes: 'Call for pickup and delivery. <a href="https://12fcfcc5-9c0c-71b4-d2e6-789a72c3925c.filesusr.com/ugd/370d25_c8eae6a23a7944f28114f5f0b83f4f3a.pdf">Delivery menu here</a>.'
   last_updated: 3/19
 
 - name: Chick-P
@@ -284,7 +284,7 @@
   instagram: https://www.instagram.com/chickpbrooklyn/
   phone: (718) 783-1525
   hours: 11AM - 10PM (9PM Sun)
-  notes: 10% off when ordering directly from <a href="https://eat.9fold.me/index.html#/10955">their website</a>
+  notes: '10% off when ordering directly from <a href="https://eat.9fold.me/index.html#/10955">their website</a>'
   delivery:
     doordash: https://www.doordash.com/store/chick-p-brooklyn-28639/en-US
     postmates: https://postmates.com/merchant/chick-p-brooklyn
@@ -329,7 +329,7 @@
   phone: (347) 955-4519
   url: http://citricobrooklyn.com/ 
   instagram: https://www.instagram.com/citricobk/
-  notes: Open for pickup and delivery. <a href="http://citricobrooklyn.com/order-online/">Order online here</a>.
+  notes: 'Open for pickup and delivery. <a href="http://citricobrooklyn.com/order-online/">Order online here</a>.'
   last_updated: 5/23
 
 - name: Covenhoven
@@ -364,7 +364,7 @@
   status: open
   facebook: https://www.facebook.com/Dough-Studio-105988981103219
   instagram: https://www.instagram.com/doughstudio_/
-  notes: “I started this business to pay for grad school! So if you love cinnamon rolls or pizza, you better try ours. Delivery in Brooklyn 🧡”
+  notes: '“I started this business to pay for grad school! So if you love cinnamon rolls or pizza, you better try ours. Delivery in Brooklyn 🧡”'
   last_updated: 5/13
 
 - name: Doughnut Plant
@@ -372,7 +372,7 @@
   hours: 8AM - 4PM (Wed - Sun)
   url: https://www.doughnutplant.com
   instagram: https://www.instagram.com/doughnutplant/
-  notes: Order online for delivery or contactless pickup or walk up and scan a QR code.
+  notes: Order online for pickup and delivery. Walkups available by scanning a QR code.
   links:
     - title: Order online
       url: https://order.doughnutplant.com/locations/doughnutplant
@@ -389,7 +389,7 @@
   # phone: (718) 576-6120
   # delivery:
   #   caviar: https://www.trycaviar.com/m/faun-17403
-  notes: Temporarily rebranded <a href="https://www.instagram.com/prospectbutcherco/">The Prospect Heights Butcher Co.</a> – <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwMeFfDEF_WQ0WWxpWBybVbz89iB8lWTwctfSed7Vq-TCNzg/viewform">Order here</a> or call to place an order.
+  notes: 'Temporarily rebranded <a href="https://www.instagram.com/prospectbutcherco/">The Prospect Heights Butcher Co.</a> – <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwMeFfDEF_WQ0WWxpWBybVbz89iB8lWTwctfSed7Vq-TCNzg/viewform">Order here</a> or call to place an order.'
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/faun-staff-relief-fund
@@ -402,7 +402,7 @@
   url: https://www.faustobrooklyn.com
   hours: 2 - 6PM
   instagram: https://www.instagram.com/faustobrooklyn/
-  notes: “Fausto At Home“ is now available. <a href="https://www.exploretock.com/fausto/experience/140506/fausto-at-home?date=2020-05-29&size=1&time=15%3A00">Pre-order here</a> and pickup on Friday afternoon.
+  notes: '“Fausto At Home“ is now available. <a href="https://www.exploretock.com/fausto/experience/140506/fausto-at-home?date=2020-05-29&size=1&time=15%3A00">Pre-order here</a> for pickup on Friday afternoon.'
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/fausto-employee-fund
@@ -414,7 +414,7 @@
   url: http://www.fermentedgrapes.net
   instagram: https://www.instagram.com/fermentedgrapesbk/
   phone: (718) 230-3216
-  notes: Open for contactless pickup and delivery with walkups now available. Email orders to customerservice@fermentedgrapes.net with what you’re looking for and a phone number.
+  notes: 'Open for contactless pickup and delivery with walkups now available. Email orders to <a href="mailto:customerservice@fermentedgrapes.net">customerservice@fermentedgrapes.net</a> with what you’re looking for and a phone number.'
   last_updated: 5/30
 
 - name: Geido
@@ -447,7 +447,7 @@
   instagram: https://www.instagram.com/goldstarbeercounter/
   untappd: https://untappd.com/v/gold-star-beer-counter/3171446
   hours: 11AM - 9PM
-  notes: Beer and cider to go. Check website and <a href="https://untappd.com/v/gold-star-beer-counter/3171446">Untappd</a> for inventory. Accepting credit cards and Venmo.
+  notes: 'Beer and cider to go. Check website and <a href="https://untappd.com/v/gold-star-beer-counter/3171446">Untappd</a> for inventory. Accepting credit cards and Venmo.'
   last_updated: 3/16
   
 - name: Gorilla Coffee
@@ -470,8 +470,9 @@
   status: open
   hours: 9AM - 5PM (Fri - Tue)
   url: https://www.caffedemartini.com
+  phone: (929) 306-8332
   instagram: https://www.instagram.com/grancaffedemartini/
-  notes: Open for pickup
+  notes: Open for pickup, call to set up a time
   delivery:
     caviar: https://www.trycaviar.com/m/gran-caffe-de-martini-19266
     seamless: https://www.seamless.com/menu/gran-caffe-de-martini-609-vanderbilt-ave-brooklyn/1008604
@@ -513,7 +514,7 @@
 - name: Inaka Asian Cuisine
   status: open
   url: http://inakany.com
-  notes: Open for pickup and delivery. <a href="https://www.inakaasianbrooklyn.com/orderonline.aspx">Order online here</a>.
+  notes: '<a href="https://www.inakaasianbrooklyn.com/orderonline.aspx">Order online</a> for pickup and delivery'
   last_updated: 5/23
 
 - name: The Islands
@@ -532,7 +533,7 @@
   instagram: https://www.instagram.com/jamesbklyn/
   phone: (718) 942-4255
   hours: 4 - 9PM (Mon - Sat), 2 - 7PM (Sun)
-  notes: Food and provisions available for pickup and delivery (via <a href="https://www.trycaviar.com/m/james-19693">Caviar</a>).
+  notes: 'Food and provisions available for pickup and delivery (via <a href="https://www.trycaviar.com/m/james-19693">Caviar</a>).'
   delivery:
     caviar: https://www.trycaviar.com/m/james-19693
   links:
@@ -575,7 +576,7 @@
   phone: (718) 230-1381
   url: http://www.kisushigroup.com
   instagram: https://www.instagram.com/ki_sushi_flatbush/
-  notes: <a href="http://www.kisushigroup.com/catalog.aspx?cid=2">Order online</a> for curbside delivery and pickup
+  notes: '<a href="http://www.kisushigroup.com/catalog.aspx?cid=2">Order online</a> for pickup and delivery'
   last_updated: 5/18
 
 - name: Kimchi Grill
@@ -615,7 +616,7 @@
   url: https://laloubrooklyn.com
   hours: 12 - 5PM (Sat)
   instagram: https://www.instagram.com/laloubrooklyn/
-  notes: The LaLou Larder & Wine Shop is now open on Saturdays. <a href="https://www.exploretock.com/lalou/experience/136989/lalou-larder-wine-shop?date=2020-05-30&size=1&time=12%3A00">Order here</a>.
+  notes: 'The LaLou Larder & Wine Shop is now open on Saturdays. <a href="https://www.exploretock.com/lalou/experience/136989/lalou-larder-wine-shop?date=2020-05-30&size=1&time=12%3A00">Order here</a>.'
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/lalou-employee-fund
@@ -635,7 +636,7 @@
   instagram: https://instagram.com/lincolnstationbk
   hours: 5 - 8PM
   phone: (718) 399-2211
-  notes: Call ahead for pickup through the front door or order online for delivery. Send requests to <a href="mailto:info@stationfoods.com">info@stationfoods.com</a>.
+  notes: 'Call ahead for pickup through the front door or order online for delivery. Send requests to <a href="mailto:info@stationfoods.com">info@stationfoods.com</a>.'
   delivery:
     seamless: https://www.seamless.com/menu/lincoln-station-409-lincoln-pl-brooklyn/315738
     caviar: https://www.trycaviar.com/m/lincoln-station-758
@@ -647,7 +648,7 @@
   hours: 8AM - 10PM (Sun - Thu), 8AM - 11PM (Fri - Sat)
   url: http://www.littlecupcakebakeshop.com
   instagram: https://www.instagram.com/littlecupcakebakeshop/
-  notes: Open for pickup. Also <a href="http://www.littlecupcakebakeshop.com">online ordering</a> from their website
+  notes: 'Open for pickup. Also <a href="http://www.littlecupcakebakeshop.com">online ordering</a> from their website'
   last_updated: 4/30
 
 - name: Little MissMuffin N Her Stuffin
@@ -733,7 +734,7 @@
   hours: 12 - 6PM (Tue - Fri), 11AM - 6PM (Sat/Sun)
   instagram: https://www.instagram.com/mgfishnyc/
   phone: (718) 638-1910
-  notes: Pickup or delivery available via <a href="https://www.mercato.com/shop/mermaids-garden">Mercato</a>.
+  notes: 'Pickup or delivery available via <a href="https://www.mercato.com/shop/mermaids-garden">Mercato</a>.'
   last_updated: 5/30
 
 - name: Mexicocina Agaveria
@@ -768,7 +769,7 @@
   hours: 9AM - 4PM
   url: https://www.millefeuille-nyc.com
   instagram: https://www.instagram.com/millefeuillenyc/
-  notes: Store is open again, with delivery also available in advance through their <a href="https://millefeuillebakery.square.site">online store</a> Order before 4PM the day before, with deliveries 8 - 10AM Thu/Sat. Delivers to Prospect Heights, Park Slope, Brooklyn Heights, Clinton Hill, Crown Heights, or Bedford Stuyvesant.
+  notes: 'Store is open again, with delivery also available in advance through their <a href="https://millefeuillebakery.square.site">online store</a> Order before 4PM the day before, with deliveries 8 - 10AM Thu/Sat. Delivers to Prospect Heights, Park Slope, Brooklyn Heights, Clinton Hill, Crown Heights, or Bedford Stuyvesant.'
   links:
     - title: Gift cards
       url: https://www.millefeuille-nyc.com/pages/gift-card
@@ -786,7 +787,7 @@
   url: https://www.mokbar.com
   instagram: https://www.instagram.com/mokbar_nyc/
   phone: (347) 987-3042
-  notes: Open for pickup and delivery. DIY ramen kits and curbside pickup are still available by emailing <a href="mailto:orders@mokbar.com">orders@mokbar.com</a>.
+  notes: 'Open for pickup and delivery. DIY ramen kits and curbside pickup are still available by emailing <a href="mailto:orders@mokbar.com">orders@mokbar.com</a>.'
   delivery:
     seamless: https://www.seamless.com/menu/mokbar-ii-212-flatbush-ave-brooklyn/396396
     caviar: https://www.trycaviar.com/m/mokbar-brooklyn-5085
@@ -943,7 +944,7 @@
   instagram: https://www.instagram.com/patsyspizzabk/
   phone: (718) 622-2268
   hours: 12PM - 10PM (11PM Fri/Sat)
-  notes: <a href="https://eat.9fold.me/index.html#/10769">Order online</a> for pickup and delivery
+  notes: '<a href="https://eat.9fold.me/index.html#/10769">Order online</a> for pickup and delivery'
   delivery:
     seamless: https://www.seamless.com/menu/patsys-pizzeria-450-dean-st-brooklyn/320844
   last_updated: 4/1
@@ -969,7 +970,7 @@
   status: open
   url: https://www.privateyogasoho.com
   phone: (740) 221-3048
-  notes: Offering virtual private yoga and meditation lessons via FaceTime, Zoom, and Google Hangouts. <a href="mailto:alli@privateyogasoho.com">alli@privateyogasoho.com</a>
+  notes: 'Offering virtual private yoga and meditation lessons via FaceTime, Zoom, and Google Hangouts. <a href="mailto:alli@privateyogasoho.com">alli@privateyogasoho.com</a>'
   last_updated: 3/25
 
 - name: R&D Foods
@@ -978,7 +979,7 @@
   instagram: https://www.instagram.com/rdfoods/
   phone: (347) 915-1196
   hours: 12 - 5PM (Wed - Sun)
-  notes: Order online for pickup and delivery. See their <a href="https://www.rdfoodsbklyn.com/open-during-corona">Open During Corona</a> page for more details.
+  notes: 'Order online for pickup and delivery. See their <a href="https://www.rdfoodsbklyn.com/open-during-corona">Open During Corona</a> page for more details.'
   delivery:
     chownow: https://ordering.chownow.com/order/11145/locations
   links:
@@ -1019,7 +1020,7 @@
 - name: Sharlene’s Bar
   status: closed
   instagram: https://www.instagram.com/sharlenesbar/
-  notes: “We have a Venmo account (<a href="https://venmo.com/sharlenesbar">@sharlenesbar</a>), as well as a GoFundMe, set up and would greatly appreciate any donations that can be made. As always everything will be split evenly between your favorite, and least favorite, bartenders.”
+  notes: '“We have a Venmo account (<a href="https://venmo.com/sharlenesbar">@sharlenesbar</a>), as well as a GoFundMe, set up and would greatly appreciate any donations that can be made. As always everything will be split evenly between your favorite, and least favorite, bartenders.”'
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/sharlene039s-bar
@@ -1101,7 +1102,7 @@
   status: closed
   url: http://www.sunshinecobk.com
   instagram: https://www.instagram.com/sunshinecobk/
-  notes: Closed until further notice. Please email <a href="mailto:sunshineco780@gmail.com">sunshineco780@gmail.com</a> to purchase gift certificates.
+  notes: 'Closed until further notice. Please email <a href="mailto:sunshineco780@gmail.com">sunshineco780@gmail.com</a> to purchase gift certificates.'
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/sunshine-co-staff
@@ -1146,7 +1147,7 @@
   instagram: https://www.instagram.com/udomthai/
   phone: (718) 622-8424
   hours: 11AM - 10:15PM
-  notes: <a href="https://www.opendining.net/menu/4fd8ca07000d972008000172#ordering-for-prompt">Order online</a> for pickup and delivery
+  notes: '<a href="https://www.opendining.net/menu/4fd8ca07000d972008000172#ordering-for-prompt">Order online</a> for pickup and delivery'
   last_updated: 3/30
 
 - name: Underhill Greek Eatery
@@ -1168,7 +1169,7 @@
   phone: (718) 789-1534
   url: http://unnameablebooks.blogspot.com
   instagram: https://www.instagram.com/unnameablebooks/
-  notes: Closed but selling gift certificates and select books through <a href="https://unnameablebooks.square.site">their new online store</a>
+  notes: 'Closed but selling gift certificates and select books through <a href="https://unnameablebooks.square.site">their new online store</a>'
   links:
     - title: Online store
       url: https://unnameablebooks.square.site
@@ -1210,7 +1211,7 @@
   status: open
   hours: 3 - 8PM (Thu - Sun)
   url: http://www.weatherupnyc.com/
-  notes: Receive a menu and place an order by emailing <a href="mailto:brooklyn@weatherupnyc.com">brooklyn@weatherupnyc.com</a>. Pay via <a href="http://venmo.com/WU-BK">Venmo</a>. Delivery coming soon.
+  notes: 'Receive a menu and place an order by emailing <a href="mailto:brooklyn@weatherupnyc.com">brooklyn@weatherupnyc.com</a>. Pay via <a href="http://venmo.com/WU-BK">Venmo</a>. Delivery coming soon.'
   instagram: https://www.instagram.com/weatherupbars/
   links:
     - url: https://www.gofundme.com/f/weather-up-staff-relief
@@ -1223,7 +1224,7 @@
   url: http://www.whitetiger.nyc
   instagram: https://www.instagram.com/whitetigerbklyn/
   phone: (718) 552-2272
-  notes: <a href="https://www.toasttab.com/white-tiger/v3">Order online</a> for pickup and delivery
+  notes: '<a href="https://www.toasttab.com/white-tiger/v3">Order online</a> for pickup and delivery'
   delivery:
     toast: https://www.toasttab.com/white-tiger/v3
     seamless: https://www.seamless.com/menu/white-tiger-601-vanderbilt-ave-brooklyn/1981045
@@ -1243,7 +1244,7 @@
   url: https://wineyneighbor.com
   instagram: https://www.instagram.com/wineyneighbor/
   phone: (347) 715-6693
-  notes: <a href="https://wineyneighbor.com/#&StoreFrontLocationHash=%23%2Fwidget%2F5a6f49faf4a6613ee3696dbb%2Fcontainers">Order online</a> for pickup and delivery
+  notes: '<a href="https://wineyneighbor.com/#&StoreFrontLocationHash=%23%2Fwidget%2F5a6f49faf4a6613ee3696dbb%2Fcontainers">Order online</a> for pickup and delivery'
   last_updated: 3/26
 
 - name: Zaytoons
