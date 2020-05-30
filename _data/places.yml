@@ -58,7 +58,7 @@
 - name: Ample Hills
   url: https://www.amplehills.com
   instagram: https://www.instagram.com/amplehills/
-  notes: Holding a pop-up for Memorial Day weekend at their scoop shop, Sat & Sun 1 - 9PM and Mon  1 - 8PM.
+  notes: Holding weekend pop-up events at their scoop shops, check their Instagram for details.
   delivery:
     caviar: https://www.trycaviar.com/m/ample-hills--prospect-heights-1722
     seamless: https://www.seamless.com/menu/ample-hills---prospect-heights-623-vanderbilt-ave-brooklyn/1711574
@@ -456,6 +456,15 @@
   instagram: https://www.instagram.com/gorillacoffee/
   hours: 7AM - 9PM
   last_updated: 5/7
+  
+- name: Good Life
+  status: open
+  instagram: https://www.instagram.com/goodlifebk/
+  notes: Serving cocktails to go, accepting orders via Venmo
+  links:
+    - title: Staff relief fund
+      url: https://www.gofundme.com/f/ode-to-babel-team
+  last_updated: 5/30
 
 - name: Gran Caffe De Martini
   status: open
@@ -855,6 +864,15 @@
   delivery:
     seamless: https://www.seamless.com/menu/nurish-637-washington-ave-brooklyn/1540554
   last_updated: 3/21
+
+- name: Ode to Babel
+  statue: open
+  instagram: https://instagram.com/odetobabel
+  notes: Open for cocktails to go and delivery with orders through Venmo
+  links:
+    - title: Staff relief fund
+      url: https://www.gofundme.com/f/ode-to-babel-team
+  last_updated: 5/30
 
 - name: Ogliastro Pizza Bar
   status: open
