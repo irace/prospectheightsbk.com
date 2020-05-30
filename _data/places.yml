@@ -149,16 +149,16 @@
   last_updated: 3/25
 
 - name: BKLYN Clay
-  status: closed
+  status: open
   url: https://bklynclay.com
   instagram: https://www.instagram.com/bklynclay/
-  notes: Closed until further notice
+  notes: Available for firing services with a food or beverage purchase. Details available on their website.
   links:
     - title: Staff relief fund
       url: https://www.bklynclay.com/checkout/donate?donatePageId=5e795b6604497b59a692c207
     - title: Gift cards
       url: https://www.bklynclay.com/gift-certificates
-  last_updated: 3/24
+  last_updated: 5/30
 
 - name: BKLYN Larder
   status: open
