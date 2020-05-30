@@ -130,7 +130,7 @@
   untappd: https://untappd.com/v/bierwax/7133448
   phone: (347) 533-8449
   hours: 2 - 7PM
-  notes: 'The <a href="https://my-site-100819-102620.square.site">Bierwax Online Shop</a> supports both pickup and delivery. Cans, bottles and/or mason jars ready for a quick handoff. ⁣Call ahead for a curbside pick up after placing an order.'
+  notes: 'The <a href="https://my-site-100819-102620.square.site">Bierwax Online Shop</a> supports both pickup and delivery. Cans, bottles and/or mason jars ready for a quick handoff. ⁣Call ahead for curbside pickup after placing an order.'
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/covid19-relief-fund-for-bierwax-staff
@@ -298,7 +298,7 @@
   phone: (347) 425-9570
   hours: 5:30 - 9PM
   last_updated: 3/22
-  notes: Beer, wine, and sake to go (20% off). Call or order online.
+  notes: Call or order online for pickup and delivery
   delivery:
     caviar: https://www.trycaviar.com/m/chuko-ramen-3843
     doordash: https://www.doordash.com/store/chuko-ramen-brooklyn-22335/en-US
@@ -329,7 +329,7 @@
   phone: (347) 955-4519
   url: http://citricobrooklyn.com/ 
   instagram: https://www.instagram.com/citricobk/
-  notes: 'Open for pickup and delivery. <a href="http://citricobrooklyn.com/order-online/">Order online here</a>.'
+  notes: '<a href="http://citricobrooklyn.com/order-online/">Order online</a> for pickup and delivery'
   last_updated: 5/23
 
 - name: Covenhoven
@@ -389,7 +389,7 @@
   # phone: (718) 576-6120
   # delivery:
   #   caviar: https://www.trycaviar.com/m/faun-17403
-  notes: 'Temporarily rebranded <a href="https://www.instagram.com/prospectbutcherco/">The Prospect Heights Butcher Co.</a> – <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwMeFfDEF_WQ0WWxpWBybVbz89iB8lWTwctfSed7Vq-TCNzg/viewform">Order here</a> or call to place an order.'
+  notes: 'Temporarily rebranded <a href="https://www.instagram.com/prospectbutcherco/">The Prospect Heights Butcher Co.</a> – <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwMeFfDEF_WQ0WWxpWBybVbz89iB8lWTwctfSed7Vq-TCNzg/viewform">Order online</a> or call ahead to place an order.'
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/faun-staff-relief-fund
@@ -472,7 +472,7 @@
   url: https://www.caffedemartini.com
   phone: (929) 306-8332
   instagram: https://www.instagram.com/grancaffedemartini/
-  notes: Open for pickup, call to set up a time
+  notes: Open for pickup, call ahead to set up a time to pickup
   delivery:
     caviar: https://www.trycaviar.com/m/gran-caffe-de-martini-19266
     seamless: https://www.seamless.com/menu/gran-caffe-de-martini-609-vanderbilt-ave-brooklyn/1008604
@@ -1094,7 +1094,7 @@
   status: open
   url: http://www.sugarcanerestaurant.com
   phone: (718) 230-3954
-  notes: Call to order
+  notes: Call ahead to order
   instagram: https://www.instagram.com/sugarcane_restaurant/
   last_updated: 3/29
 
