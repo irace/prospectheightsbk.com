@@ -754,7 +754,7 @@
 
 - name: Milk Bar
   status: open
-  hours: 9AM - 2PM
+  hours: 9AM - 2PM (Wed - Sun)
   url: https://www.milkbarbrooklyn.com
   instagram: https://www.instagram.com/milkbarbrooklyn/
   notes: To-go coffees, cash or Venmo for payment.
