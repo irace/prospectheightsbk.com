@@ -10,7 +10,7 @@
 #     doordash:
 #     postmates:
 #     seamless:
-#     caviar: 
+#     caviar:
 #     toast:
 #   links:
 #     - title: Staff relief fund
@@ -21,7 +21,7 @@
   instagram: https://www.instagram.com/acmepetfood/
   phone: (718) 789-8062
   hours: 10AM - 7PM (Mon - Fri), 10AM - 5PM (Sat), 11AM - 5PM (Sun)
-  notes: '“Limit exposure to our staff and yourself, please wear a mask when visiting, wait outside if crowded. No contact curbside and local home delivery available.”'
+  notes: "“Limit exposure to our staff and yourself, please wear a mask when visiting, wait outside if crowded. No contact curbside and local home delivery available.”"
   last_updated: 4/13
 
 - name: Alta Calidad
@@ -48,7 +48,7 @@
   status: open
   url: http://www.amorinapizza.com/
   instagram: https://www.instagram.com/amorinapizza/
-  hours:  4 - 8PM (Thu, Sun), 4 - 9PM (Fri / Sat)
+  hours: 4 - 8PM (Thu, Sun), 4 - 9PM (Fri / Sat)
   phone: (718) 230-3030
   notes: Open for pickup and delivery by phone or through Grubhub / Seamless
   delivery:
@@ -58,12 +58,8 @@
 - name: Ample Hills
   url: https://www.amplehills.com
   instagram: https://www.instagram.com/amplehills/
-<<<<<<< HEAD
   hours: 12 - 6PM (Sat - Sun)
   notes: Open for scoops, cones, pints & milkshakes to go every Saturday and Sunday in June
-=======
-  notes: Holding weekend pop-up events at their scoop shops, check their Instagram for details.
->>>>>>> 28e66cb58c6b6d19bf94a7ed3f619ee8f00494b9
   delivery:
     caviar: https://www.trycaviar.com/m/ample-hills--prospect-heights-1722
     seamless: https://www.seamless.com/menu/ample-hills---prospect-heights-623-vanderbilt-ave-brooklyn/1711574
@@ -171,11 +167,7 @@
   url: https://www.bklynlarder.com
   instagram: https://www.instagram.com/bklynlarder/
   phone: (718) 783-1250
-<<<<<<< HEAD
   notes: Pick-up and delivery on Wednesdays, Thursdays, and Fridays. Order online by 9PM the night before.
-=======
-  notes: 'Selling chef-curated meals every Thursday, <a href="https://mailchi.mp/1c242dbc05ab/were-back">click here</a> for more details.'
->>>>>>> 28e66cb58c6b6d19bf94a7ed3f619ee8f00494b9
   links:
     - title: Gift cards
       url: https://www.bklynlarder.com/gift-cards/
@@ -337,7 +329,7 @@
 - name: Citrico
   status: open
   phone: (347) 955-4519
-  url: http://citricobrooklyn.com/ 
+  url: http://citricobrooklyn.com/
   instagram: https://www.instagram.com/citricobk/
   notes: '<a href="http://citricobrooklyn.com/order-online/">Order online</a> for pickup and delivery'
   last_updated: 5/23
@@ -369,12 +361,12 @@
   url: http://donchingon.nyc
   status: open
   last_updated: 5/18
-  
+
 - name: Dough Studio
   status: open
   facebook: https://www.facebook.com/Dough-Studio-105988981103219
   instagram: https://www.instagram.com/doughstudio_/
-  notes: '“I started this business to pay for grad school! So if you love cinnamon rolls or pizza, you better try ours. Delivery in Brooklyn 🧡”'
+  notes: "“I started this business to pay for grad school! So if you love cinnamon rolls or pizza, you better try ours. Delivery in Brooklyn 🧡”"
   last_updated: 5/13
 
 - name: Doughnut Plant
@@ -459,14 +451,14 @@
   hours: 11AM - 9PM
   notes: 'Beer and cider to go. Check website and <a href="https://untappd.com/v/gold-star-beer-counter/3171446">Untappd</a> for inventory. Accepting credit cards and Venmo.'
   last_updated: 3/16
-  
+
 - name: Gorilla Coffee
   status: open
   url: https://gorillacoffee.com
   instagram: https://www.instagram.com/gorillacoffee/
   hours: 7AM - 9PM
   last_updated: 5/7
-  
+
 - name: Good Life
   status: open
   instagram: https://www.instagram.com/goodlifebk/
@@ -1228,7 +1220,7 @@
     seamless: https://www.seamless.com/menu/white-tiger-601-vanderbilt-ave-brooklyn/1981045
     doordash: https://www.doordash.com/store/white-tiger-brooklyn-132915/en-US
   last_updated: 6/6
-  
+
 - name: Wine Exchange
   status: open
   url: https://www.wineexchangebkn.com
