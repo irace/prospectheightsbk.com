@@ -58,13 +58,14 @@
 - name: Ample Hills
   url: https://www.amplehills.com
   instagram: https://www.instagram.com/amplehills/
-  notes: Holding a pop-up for Memorial Day weekend at their scoop shop, Sat & Sun 1 - 9PM and Mon  1 - 8PM.
+  hours: 12 - 6PM (Sat - Sun)
+  notes: Open for scoops, cones, pints & milkshakes to go every Saturday and Sunday in June
   delivery:
     caviar: https://www.trycaviar.com/m/ample-hills--prospect-heights-1722
     seamless: https://www.seamless.com/menu/ample-hills---prospect-heights-623-vanderbilt-ave-brooklyn/1711574
     uber_eats:
     postmates:
-  last_updated: 5/21
+  last_updated: 6/6
 
 - name: Antonio’s Pizza
   status: open
@@ -165,11 +166,11 @@
   url: https://www.bklynlarder.com
   instagram: https://www.instagram.com/bklynlarder/
   phone: (718) 783-1250
-  notes: Selling chef-curated meals every Thursday, <a href="https://mailchi.mp/1c242dbc05ab/were-back">click here</a> for more details.
+  notes: Pick-up and delivery on Wednesdays, Thursdays, and Fridays. Order online by 9PM the night before.
   links:
     - title: Gift cards
       url: https://www.bklynlarder.com/gift-cards/
-  last_updated: 5/13
+  last_updated: 6/6
 
 - name: BKLYN Crepe & Juice
   status: open
@@ -1049,27 +1050,15 @@
       url: https://specificgravitynyc.com/products/gift-card-1
   last_updated: 3/24
 
-- name: Stocked
-  status: closed
-  url: https://www.stockedbrooklyn.com/cafe
+- name: Stocked/Stocked Burger
+  status: open
+  url: https://www.stockedbrooklyn.com
   instagram: https://www.instagram.com/stockedbrooklyn/
-  hours: 9AM - 3PM (Mon - Fri), 9AM - 6PM (Sat/Sun)
-  phone: (929) 234-6554
-  notes: Permanently closed. Stocked Burger will be re-opening as a combination of both concepts.
-  delivery:
-    chownow: https://direct.chownow.com/order/18159/locations/26047
-  last_updated: 5/29
-
-- name: Stocked Burger
-  status: closed
-  url: https://www.stockedbrooklyn.com/burgers
-  instagram: http://instagram.com/stockedburger
-  hours: 3 - 9PM
   phone: (718) 872-5304
-  notes: Will be re-opening as a combination of Stocked and Stocker Burger.
+  notes: The Vanderbilt location has permanently closed but a combined Stocked/Stocked Burger has now reopened at their Washington St. location
   delivery:
     chownow: https://direct.chownow.com/order/18160/locations/26048
-  last_updated: 5/29
+  last_updated: 6/6
 
 - name: Sugarcane
   status: open
@@ -1199,7 +1188,7 @@
 
 - name: White Tiger
   status: open
-  hours: 5 - 9PM (Wed - Sun)
+  hours: 5 - 9PM (Wed - Fri), 1 - 9PM (Sat - Sun)
   url: http://www.whitetiger.nyc
   instagram: https://www.instagram.com/whitetigerbklyn/
   phone: (718) 552-2272
@@ -1210,7 +1199,7 @@
     doordash: https://www.doordash.com/store/white-tiger-brooklyn-132915/en-US
   last_updated: 3/20
   notes: Delivery through Seamless/DoorDash. Call for pick-up.
-  last_updated: 3/16
+  last_updated: 6/6
   
 - name: Wine Exchange
   status: open
