@@ -17,6 +17,16 @@
 #       url: https://www.gofundme.com/
 #   last_updated: 5/7
 
+
+- name: 333 Lounge
+  instagram: https://www.instagram.com/333.lounge/
+  url: https://www.333lounge.com
+  phone: (718) 399-8008
+  status: open
+  hours: 
+  notes: 'Call or <a href="mailto:333bknyc@gmail.com">email</a> to place an order.'
+  last_updated: 6/12
+
 - name: Acme Pet Food Inc
   instagram: https://www.instagram.com/acmepetfood/
   phone: (718) 789-8062
@@ -91,6 +101,15 @@
   delivery:
     uber_eats: https://www.ubereats.com/new-york/food-delivery/banh-mi-place/01MKo6J-RmCWJFzMsQzgXg
   last_updated: 5/13
+
+- name: BCakeNY
+  instagram: https://www.instagram.com/bcakeny/
+  url: https://www.bcakeny.com/bcakenyshop/
+  phone: (347) 787-7199
+  status: open
+  hours: 
+  notes: 
+  last_updated: 6/12
 
 - name: The Bearded Lady
   status: closed
@@ -199,6 +218,18 @@
     - title: Gift cards
       url: https://www.blackironburger.com/gift-cards/
   last_updated: 3/25
+
+- name: Bleachers Sports Bar & Grill
+  instagram: https://www.instagram.com/240bleachers/
+  facebook: https://www.facebook.com/240bleachers/
+  phone: (718) 857-1111
+  hours: 1 - 8PM
+  status: open
+  delivery: 
+    uber_eats: https://www.ubereats.com/new-york/food-delivery/bleachers-sports-bar/rJs5gMYQSF-t_xv03XLxCA
+    seamless: https://www.seamless.com/menu/bleachers-sports-bar-240-flatbush-ave-brooklyn/1119107
+  notes: 
+  last_updated: 6/12
 
 - name: Blue Marble
   status: open
@@ -381,6 +412,23 @@
     - title: Gift cards
       url: https://www.doughnutplant.com/store/gift-cards/
   last_updated: 5/30
+
+- name: El Paso Mexican Grill
+  instagram: https://www.instagram.com/elpasomexgrill/
+  phone: (917) 905-3401
+  status: open
+  delivery:
+    seamless: https://www.seamless.com/menu/el-paso-mexican-grill-1610-newkirk-ave-brooklyn/285249
+  last_updated: 6/12
+
+- name: Eve’s Lounge
+  instagram: https://www.instagram.com/eveslounge/
+  url: https://eves769.com
+  phone: (347) 442-5959
+  status: open
+  hours: 4 - 9PM
+  notes: Cocktails and food to go
+  last_updated: 6/12
 
 - name: Faun
   status: open
@@ -591,6 +639,11 @@
   delivery:
     chownow: https://direct.chownow.com/order/11256/locations/15554
   last_updated: 4/1
+
+- name: Kombit Bar and Restaurant
+  instagram: https://www.instagram.com/kombitbar/
+  status: closed
+  last_updated: 6/12 
 
 - name: Konditori
   status: open
