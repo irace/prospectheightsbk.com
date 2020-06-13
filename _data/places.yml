@@ -187,10 +187,12 @@
   instagram: https://www.instagram.com/bklynlarder/
   phone: (718) 783-1250
   notes: Pick-up and delivery on Wednesdays, Thursdays, and Fridays. Order online by 9PM the night before.
+  delivery:
+    seamless: https://www.seamless.com/menu/bklyn-larder-228-flatbush-ave-brooklyn/1119199
   links:
     - title: Gift cards
       url: https://www.bklynlarder.com/gift-cards/
-  last_updated: 6/6
+  last_updated: 6/12
 
 - name: BKLYN Crepe & Juice
   status: open
