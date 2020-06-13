@@ -58,7 +58,7 @@
 - name: Ample Hills
   url: https://www.amplehills.com
   instagram: https://www.instagram.com/amplehills/
-  hours: 12 - 6PM (Sat - Sun)
+  hours: 1 - 9PM (Sat), 1 - 8PM (Sun)
   notes: Open for scoops, cones, pints & milkshakes to go every Saturday and Sunday in June
   delivery:
     caviar: https://www.trycaviar.com/m/ample-hills--prospect-heights-1722
@@ -388,16 +388,16 @@
   instagram: https://www.instagram.com/faun.nyc/
   phone: (714) 488-0828
   hours: 3 - 7PM (Fri), 11AM - 5PM (Sat - Sun)
-  # phone: (718) 576-6120
-  # delivery:
-  #   caviar: https://www.trycaviar.com/m/faun-17403
-  notes: 'Temporarily rebranded <a href="https://www.instagram.com/prospectbutcherco/">The Prospect Heights Butcher Co.</a> – <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwMeFfDEF_WQ0WWxpWBybVbz89iB8lWTwctfSed7Vq-TCNzg/viewform">Order online</a> or call ahead to place an order.'
+  phone: (718) 576-6120
+  delivery:
+    caviar: https://www.trycaviar.com/m/faun-17403
+  notes: 'Walk-in and takeout via Caviar, plus hosting <a href="https://www.instagram.com/prospectbutcherco/">The Prospect Heights Butcher Co.</a> pop-up – <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwMeFfDEF_WQ0WWxpWBybVbz89iB8lWTwctfSed7Vq-TCNzg/viewform">Order online</a> or call ahead to place an order.'
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/faun-staff-relief-fund
     - title: Gift cards (25% off)
       url: https://faun.nyc/gift-cards
-  last_updated: 5/29
+  last_updated: 6/12
 
 - name: Fausto
   status: open
@@ -574,12 +574,12 @@
 
 - name: Ki Sushi
   status: open
-  hours: 5 - 9:30PM
+  hours: 12:30 - 2:30PM (everyday but Sunday), 5 - 9PM (everyday)
   phone: (718) 230-1381
   url: http://www.kisushigroup.com
   instagram: https://www.instagram.com/ki_sushi_flatbush/
   notes: '<a href="http://www.kisushigroup.com/catalog.aspx?cid=2">Order online</a> for pickup and delivery'
-  last_updated: 5/18
+  last_updated: 6/12
 
 - name: Kimchi Grill
   status: open
@@ -616,13 +616,13 @@
 - name: LaLou
   status: open
   url: https://laloubrooklyn.com
-  hours: 12 - 5PM (Sat)
+  hours: 12 - 5PM (Sat - Sun)
   instagram: https://www.instagram.com/laloubrooklyn/
   notes: 'The LaLou Larder & Wine Shop is now open on Saturdays. <a href="https://www.exploretock.com/lalou/experience/136989/lalou-larder-wine-shop?date=2020-05-30&size=1&time=12%3A00">Order here</a>.'
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/lalou-employee-fund
-  last_updated: 5/29
+  last_updated: 6/12
 
 - name: Life Reorganized
   status: open
@@ -827,11 +827,12 @@
   last_updated: 5/7
 
 - name: Muse
-  status: closed
+  status: open
   instagram: https://www.instagram.com/musethai/
   url: https://musebklyn.com
-  notes: Closed until further notice
-  last_updated: 4/7
+  notes:
+  hours: 1 - 8:30PM (Mon/Wed/Thu), 12:30PM - 8:30PM (Fri - Sun)
+  last_updated: 6/12
 
 - name: Nacho Macho Taco
   status: open
@@ -1018,6 +1019,15 @@
     - title: Gift cards
       url: https://squareup.com/gift/ED4WJ2F6HECQZ/order
   last_updated: 3/15
+
+- name: Shane’s Brooklyn
+  hours: 9AM - 9PM (Thu - Sun)
+  instagram: https://www.instagram.com/shanes_brooklyn/
+  delivery:
+    uber_eats: https://www.ubereats.com/new-york/food-delivery/shanes-brooklyn/TsKwjyqQSaGcQNr4An9WBg
+    doordash: https://www.doordash.com/store/shanes-brooklyn-brooklyn-179024/en-US
+    postmates: https://postmates.com/merchant/cafe-shane-on-washington-brooklyn
+  last_updated: 6/12
 
 - name: Sharlene’s Bar
   status: closed
