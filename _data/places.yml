@@ -732,7 +732,7 @@
 
 - name: Lowerline
   status: open
-  hours: 5 - 9PM (Tue - Sat)
+  hours: 4 - 9PM (Tue - Sun)
   url: https://www.lowerlinebk.com
   instagram: https://www.instagram.com/lowerline/
   phone: (347) 533-7110
@@ -859,7 +859,7 @@
   url: https://www.morgansbrooklynbarbecue.com
   instagram: https://www.instagram.com/morgansbrooklynbbq/
   phone: (718) 622-2224
-  hours: 4:30 - 10:30PM (Mon - Thu), 4:30 - 11PM (Fri), 12 - 11PM (Sat), 12 - 10:30PM (Sun)
+  hours: 1:30 - 10:30PM (Mon - Thu), 1 - 11 (Fri), 12 - 11PM (Sat), 12 - 10:30PM (Sun)
   notes: “We now deliver beer along with food delivery or take-out orders.”
   delivery:
     caviar: https://www.trycaviar.com/m/morgans-brooklyn-bbq-11362?_branch_match_id=652587222868224742&cav_medium=widget&cav_source=mer-_HNorLt-e21sQo8-1Lttcg&how=delivery&merchant_token=mer-_HNorLt-e21sQo8-1Lttcg&utm_campaign=link&utm_content=morgans-brooklyn-barbecue-11362&utm_medium=restaurant_partners&utm_source=widget&utm_term=brooklyn-queens
@@ -879,7 +879,7 @@
   hours: 12 - 10:30PM
   delivery:
     seamless: https://www.grubhub.com/restaurant/mumbai-place-655-vanderbilt-ave-brooklyn/334916
-  last_updated: 5/7
+  last_updated: 6/15
 
 - name: Muse
   status: open
