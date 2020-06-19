@@ -596,17 +596,17 @@
   last_updated: 5/30
 
 - name: Joyce Bakeshop
-  status: closed
+  status: open
   url: http://www.joycebakeshop.com
   instagram: https://www.instagram.com/joycebakeshop/
   facebook: https://www.facebook.com/Joyce-Bakeshop-107322189660/
   phone: (718) 623-7470
-  hours: 7:30:AM - 7:30PM (Mon - Fri), 9AM - 6PM (Sat/Sun)
-  notes: Closed until further notice
+  hours: 9AM - 5PM (Wed - Sun)
+  notes: Open for pickup
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/Audrey-Coworker-Disaster-Relief
-  last_updated: 3/29
+  last_updated: 6/19
 
 - name: Joy Indian
   url: http://joyindianrestaurant.com
@@ -1116,16 +1116,19 @@
   last_updated: 3/19
 
 - name: Sofreh
-  status: closed
+  status: open
   url: https://www.sofrehnyc.com
   instagram: https://www.instagram.com/sofreh_brooklyn/
-  notes: Closed until further notice
+  notes: Open for pickup
+  hours: 5 - 8:30PM (Tue - Sun)
+  delivery:
+    upserve: https://app.upserve.com/s/sofreh-nyc-brooklyn
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/sofreh-employee-emergency-relief-fund
     - title: Gift cards
       url: https://www.sofrehnyc.com/giftcards
-  last_updated: 3/20
+  last_updated: 6/19
 
 - name: Specific Gravity
   status: closed
