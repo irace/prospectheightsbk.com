@@ -288,7 +288,7 @@
   instagram: https://www.instagram.com/burritobarbk
   phone: (718) 230-8646
   hours: 3 - 10PM
-  notes: Now open for outdoor dining. Still open for pickup and delivery.
+  notes: Now open for outdoor dining. Also open for pickup and delivery.
   delivery:
     chownow: https://direct.chownow.com/order/7878/locations/10581
   last_updated: 6/22
@@ -372,7 +372,7 @@
   untappd: https://untappd.com/v/covenhoven/1406024
   phone: (718) 483-9950
   hours: 12 - 10PM
-  notes: Outdoor seating is now open with phase two guidelines. Still open for pickup.
+  notes: Outdoor seating is now open with phase two guidelines. Also open for pickup.
   last_updated: 6/22
 
 - name: Dickey’s BBQ Pit
@@ -522,7 +522,7 @@
   url: https://www.caffedemartini.com
   phone: (929) 306-8332
   instagram: https://www.instagram.com/grancaffedemartini/
-  notes: Outdoor space now open. Still open for pickup, call ahead to set up a time.
+  notes: Outdoor space now open. Also open for pickup.
   delivery:
     caviar: https://www.trycaviar.com/m/gran-caffe-de-martini-19266
     seamless: https://www.seamless.com/menu/gran-caffe-de-martini-609-vanderbilt-ave-brooklyn/1008604
@@ -673,7 +673,6 @@
   instagram: https://www.instagram.com/laloubrooklyn/
   notes: Reopening for outdoor service starting 6/24.
   links:
-    - title: Order online
     - title: Staff relief fund
       url: https://www.gofundme.com/f/lalou-employee-fund
   last_updated: 6/22
@@ -859,7 +858,7 @@
   instagram: https://www.instagram.com/morgansbrooklynbbq/
   phone: (718) 622-2224
   hours: 1 - 10:30PM (Mon - Thu), 1 - 11 (Fri), 12 - 11PM (Sat), 12 - 10:30PM (Sun)
-  notes: Outdoor patio is now open for outdoor dining.
+  notes: Now open for outdoor dining. Also open for pickup and delivery.
   delivery:
     caviar: https://www.trycaviar.com/m/morgans-brooklyn-bbq-11362?_branch_match_id=652587222868224742&cav_medium=widget&cav_source=mer-_HNorLt-e21sQo8-1Lttcg&how=delivery&merchant_token=mer-_HNorLt-e21sQo8-1Lttcg&utm_campaign=link&utm_content=morgans-brooklyn-barbecue-11362&utm_medium=restaurant_partners&utm_source=widget&utm_term=brooklyn-queens
     seamless: https://www.seamless.com/menu/morgans-brooklyn-barbecue-267-flatbush-ave-brooklyn/317192
@@ -905,7 +904,7 @@
   phone: (718) 789-3981
   url: https://www.nourishthai.com
   instagram: https://www.instagram.com/nourishthai/
-  notes: Outdoor space now available. Also open for pickup and delivery
+  notes: Now open for outdoor dining. Also open for pickup and delivery
   delivery:
     caviar: https://www.trycaviar.com/m/nourish-thai-12825
     seamless: https://www.seamless.com/menu/nourish-637a-vanderbilt-ave-brooklyn/429623
@@ -1120,7 +1119,7 @@
   status: open
   url: https://www.sofrehnyc.com
   instagram: https://www.instagram.com/sofreh_brooklyn/
-  notes: Open for outdoor dining. Still open for pickup.
+  notes: Now open for outdoor dining. Also open for pickup.
   hours: 5 - 8:30PM (Tue - Sun)
   delivery:
     upserve: https://app.upserve.com/s/sofreh-nyc-brooklyn
