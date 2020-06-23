@@ -671,11 +671,12 @@
   url: https://laloubrooklyn.com
   hours: 12 - 5PM (Sat - Sun)
   instagram: https://www.instagram.com/laloubrooklyn/
-  notes: 'The LaLou Larder & Wine Shop is now open on Saturdays. <a href="https://www.exploretock.com/lalou/experience/136989/lalou-larder-wine-shop?date=2020-05-30&size=1&time=12%3A00">Order here</a>.'
+  notes: Reopening for outdoor service starting 6/24.
   links:
+    - title: Order online
     - title: Staff relief fund
       url: https://www.gofundme.com/f/lalou-employee-fund
-  last_updated: 6/12
+  last_updated: 6/22
 
 - name: Life Reorganized
   status: open
@@ -1119,7 +1120,7 @@
   status: open
   url: https://www.sofrehnyc.com
   instagram: https://www.instagram.com/sofreh_brooklyn/
-  notes: Open for pickup
+  notes: Open for outdoor dining. Still open for pickup.
   hours: 5 - 8:30PM (Tue - Sun)
   delivery:
     upserve: https://app.upserve.com/s/sofreh-nyc-brooklyn
@@ -1128,7 +1129,7 @@
       url: https://www.gofundme.com/f/sofreh-employee-emergency-relief-fund
     - title: Gift cards
       url: https://www.sofrehnyc.com/giftcards
-  last_updated: 6/19
+  last_updated: 6/22
 
 - name: Specific Gravity
   status: closed
