@@ -38,21 +38,17 @@
   status: open
   url: https://altacalidadbk.com
   instagram: https://www.instagram.com/altacalidadbk/
-  hours: 12 - 8PM (Wed - Sat)
+  hours: 11:30AM - 8:30PM
   delivery:
-    #uber_eats: https://www.ubereats.com/new-york/food-delivery/alta-calidad/L0ktkVRjQbOkllv7UWe1fQ
-    #doordash: https://www.doordash.com/store/alta-calidad-brooklyn-133126/
-    #postmates: https://postmates.com/merchant/alta-calidad-brooklyn
     seamless: https://www.seamless.com/menu/alta-calidad-552-vanderbilt-ave-brooklyn/460349
-    #caviar: https://www.trycaviar.com/m/alta-calidad-5914
     toast: https://www.toasttab.com/alta-calidad/v3
-  notes: Alta Calidad Mercado is now available with weekly specials, provisions and drinks for pickup and delivery.
+  notes: Sidewalk patio now open, first-come first-served. Also available for pickup and delivery.
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/alta-calidad-employee-relief-fund
     - title: Gift cards
       url: https://www.toasttab.com/alta-calidad/giftcards
-  last_updated: 5/21
+  last_updated: 6/22
 
 - name: Amorina Pizza
   status: open
@@ -150,13 +146,15 @@
   untappd: https://untappd.com/v/bierwax/7133448
   phone: (347) 533-8449
   hours: 2 - 7PM
-  notes: '<a href="https://my-site-100819-102620.square.site">Order online</a> for pickup and delivery or stop by (1 person at a time inside). Call ahead for curbside pickup after placing an order.'
+  notes: Working on phase two opening for their backyard with a table open out front. Open for pickup and delivery.
   links:
+    - title: Order online
+      url: https://my-site-100819-102620.square.site
     - title: Staff relief fund
       url: https://www.gofundme.com/f/covid19-relief-fund-for-bierwax-staff
     - title: Gift cards
       url: https://squareup.com/gift/MY2KY2405T5NT/order
-  last_updated: 5/7
+  last_updated: 6/22
 
 - name: Bilt Bar
   status: open
@@ -289,11 +287,11 @@
   url: https://www.burritobarbrooklyn.com
   instagram: https://www.instagram.com/burritobarbk
   phone: (718) 230-8646
-  hours: 12 - 10PM
-  notes: Offering curbside carry-out and delivery (alcohol included). Cash only for pickup.
+  hours: 3 - 10PM
+  notes: Now open for outdoor dining.
   delivery:
     chownow: https://direct.chownow.com/order/7878/locations/10581
-  last_updated: 3/20
+  last_updated: 6/22
 
 - name: Cataldo’s
   status: closed
@@ -373,9 +371,9 @@
   instagram: https://www.instagram.com/covenhovennyc/
   untappd: https://untappd.com/v/covenhoven/1406024
   phone: (718) 483-9950
-  hours: 12 - 9PM (Sun/Wed), 12 - 10PM (Thu - Sat)
-  notes: Drafts, cans, and food to go. Bring a growler/thermos/water bottle/etc.
-  last_updated: 3/18
+  hours: 12 - 10PM
+  notes: Outdoor seating is now open with phase two guidelines. Still open for pickup.
+  last_updated: 6/22
 
 - name: Dickey’s BBQ Pit
   status: open
@@ -524,7 +522,7 @@
   url: https://www.caffedemartini.com
   phone: (929) 306-8332
   instagram: https://www.instagram.com/grancaffedemartini/
-  notes: Open for pickup, call ahead to set up a time to pickup
+  notes: Outdoor space now open. Still open for pickup, call ahead to set up a time.
   delivery:
     caviar: https://www.trycaviar.com/m/gran-caffe-de-martini-19266
     seamless: https://www.seamless.com/menu/gran-caffe-de-martini-609-vanderbilt-ave-brooklyn/1008604
@@ -533,7 +531,7 @@
       url: https://www.gofundme.com/f/gran-caffe-de-martini-fund
     - title: Gift cards
       url: https://www.caffedemartini.com/product/gift-card/
-  last_updated: 5/30
+  last_updated: 6/22
 
 - name: El Gran Castillo de Jagua
   status: open
@@ -906,12 +904,12 @@
   phone: (718) 789-3981
   url: https://www.nourishthai.com
   instagram: https://www.instagram.com/nourishthai/
-  notes: Open for pickup and delivery
+  notes: Outdoor space now available. Also open for pickup and delivery
   delivery:
     caviar: https://www.trycaviar.com/m/nourish-thai-12825
     seamless: https://www.seamless.com/menu/nourish-637a-vanderbilt-ave-brooklyn/429623
     chownow: https://eat.chownow.com/discover/restaurant/11724
-  last_updated: 4/11
+  last_updated: 6/22
 
 - name: Nûrish
   status: open
@@ -936,13 +934,15 @@
 - name: Ogliastro Pizza Bar
   status: open
   url: https://ogliastropizza.com
+  hours: 4 - 10PM
   instagram: https://www.instagram.com/ogliastro.brooklyn/
+  notes: Patio is now open.
   delivery:
     seamless: https://www.seamless.com/menu/ogliastro-pizza-bar-784-washington-ave-brooklyn/322585
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/please-help-the-ogliostro-staff
-  last_updated: 5/15
+  last_updated: 6/22
 
 - name: Olde Brooklyn Bagel Shoppe
   status: open
