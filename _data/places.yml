@@ -24,8 +24,8 @@
   phone: (718) 399-8008
   status: open
   hours: 2 - 10PM (Tue - Thu), 2 - 11PM (Fri), 1 - 11PM (Sat), 1 - 9PM (Sun)
-  notes: 'Call or <a href="mailto:333bknyc@gmail.com">email</a> to place an order.'
-  last_updated: 6/19
+  notes: 'Open for outdoor dining. Call or <a href="mailto:333bknyc@gmail.com">email</a> to place an order.'
+  last_updated: 7/3
 
 - name: Acme Pet Food Inc
   instagram: https://www.instagram.com/acmepetfood/
@@ -56,10 +56,10 @@
   instagram: https://www.instagram.com/amorinapizza/
   hours: 4 - 8PM (Thu, Sun), 4 - 9PM (Fri / Sat)
   phone: (718) 230-3030
-  notes: Open for pickup and delivery by phone or through Grubhub / Seamless
+  notes: Open for outdoor dining, pickup and delivery.
   delivery:
     seamless: https://www.seamless.com/menu/amorina-cucina-rustica-624-vanderbilt-ave-brooklyn/292222
-  last_updated: 5/30
+  last_updated: 7/3
 
 - name: Ample Hills
   url: https://www.amplehills.com
@@ -85,6 +85,7 @@
     slice: https://slicelife.com/restaurants/ny/brooklyn/11238/antonio-s-pizza/menu
   last_updated: 3/30
 
+  
 - name: The Bakery on Bergen
   hours: 12 - 7PM (Tue - Sun)
   url: https://thebakeryonbergennyc.com
@@ -98,6 +99,17 @@
     uber_eats: https://www.ubereats.com/new-york/food-delivery/banh-mi-place/01MKo6J-RmCWJFzMsQzgXg
   last_updated: 5/13
 
+- name: Bar Meridian
+  notes: Outdoor seating is available. Also open for pickup
+  instagram: https://www.instagram.com/bar_meridian_nyc/
+  url: https://www.barmeridian.com
+  toast: https://www.toasttab.com/bar-meridian/v3
+  hours: 4 - 10PM
+  links:
+    - title: Gift cards
+      url: https://www.toasttab.com/bar-meridian/giftcards
+  last_updated: 7/3
+  
 - name: BCakeNY
   instagram: https://www.instagram.com/bcakeny/
   url: https://www.bcakeny.com/bcakenyshop/
@@ -229,7 +241,7 @@
   delivery: 
     uber_eats: https://www.ubereats.com/new-york/food-delivery/bleachers-sports-bar/rJs5gMYQSF-t_xv03XLxCA
     seamless: https://www.seamless.com/menu/bleachers-sports-bar-240-flatbush-ave-brooklyn/1119107
-  notes: Outdoor seating is available. Also open for pickup and delivery.
+  notes: Open for outdoor dining, pickup and delivery.
   last_updated: 7/3
 
 - name: Blue Marble
@@ -272,6 +284,15 @@
     - title: Merchandise
       url: https://www.brandedsaloon.com/support-branded
   last_updated: 3/28
+
+- name: Broccolino
+  notes: Open for outdoor dining, pickup and delivery.
+  instagram: https://www.instagram.com/broccolinonyc/
+  url: https://www.broccolinonyc.com
+  phone: (718) 678-4200​
+  delivery:
+    chownow: https://direct.chownow.com/order/1935/locations/2543
+  last_updated: 7/3
 
 - name: Brooklyn Metal Works
   status: closed
@@ -635,8 +656,11 @@
   phone: (718) 230-1381
   url: http://www.kisushigroup.com
   instagram: https://www.instagram.com/ki_sushi_flatbush/
-  notes: '<a href="http://www.kisushigroup.com/catalog.aspx?cid=2">Order online</a> for pickup and delivery'
-  last_updated: 6/12
+  links:
+    - title: Order online
+      url: http://www.kisushigroup.com/catalog.aspx?cid=2
+  notes: Open for outdoor dining, pickup and delivery.
+  last_updated: 7/3
 
 - name: Kimchi Grill
   status: open
@@ -967,10 +991,10 @@
   instagram: https://www.instagram.com/oldebkbagels/
   hours: 8AM - 6PM (delivery until 5PM)
   phone: (718) 622-6227
-  notes: Open for pickup and delivery
+  notes: Open for outdoor dining, pickup and delivery
   delivery:
     seamless: https://www.seamless.com/menu/olde-brooklyn-bagel-shoppe-645-vanderbilt-ave-brooklyn/263151
-  last_updated: 3/26
+  last_updated: 7/3
 
 - name: Olmsted
   status: open
@@ -1022,10 +1046,13 @@
   instagram: https://www.instagram.com/patsyspizzabk/
   phone: (718) 622-2268
   hours: 12PM - 10PM (11PM Fri/Sat)
-  notes: '<a href="https://eat.9fold.me/index.html#/10769">Order online</a> for pickup and delivery'
+  notes: Open for outdoor dining, pickup and delivery.
+  links:
+    - title: Order online
+      url: https://eat.9fold.me/index.html#/10769
   delivery:
     seamless: https://www.seamless.com/menu/patsys-pizzeria-450-dean-st-brooklyn/320844
-  last_updated: 4/1
+  last_updated: 7/3
 
 - name: Pennyhouse Cafe
   url: http://www.pennyhousecafe.com
@@ -1036,6 +1063,14 @@
   status: open
   last_updated: 5/7
 
+- name: Piquant
+  instagram: https://www.instagram.com/piquantnyc/
+  url: https://www.piquantnyc.com
+  phone: (718) 484-4114
+  hours: 11AM - 5PM (Tue - Sun)
+  notes: Open for outdoor dining, pickup and delivery.
+  last_updated: 7/3
+  
 - name: Puerto Viejo
   phone: (718) 398-3758
   hours: 11AM – 11PM (Mon – Sat)
@@ -1311,7 +1346,7 @@
   url: http://www.whitetiger.nyc
   instagram: https://www.instagram.com/whitetigerbklyn/
   phone: (718) 552-2272
-  notes: '<a href="https://www.toasttab.com/white-tiger/v3">Order online</a> for pickup and delivery'
+  notes: Open for outdoor dining, pickup and delivery.
   delivery:
     toast: https://www.toasttab.com/white-tiger/v3
     seamless: https://www.seamless.com/menu/white-tiger-601-vanderbilt-ave-brooklyn/1981045
