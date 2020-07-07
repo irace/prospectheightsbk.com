@@ -108,13 +108,14 @@
   last_updated: 6/12
 
 - name: The Bearded Lady
-  status: closed
+  status: open
   instagram: https://www.instagram.com/bearded_lady_brooklyn/
-  notes: Closed until further notice
+  hours: Thu - Sun 3PM - 11PM
+  notes: Outdoor seating and takeout window
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/bearded-lady-staff-support-fund
-  last_updated: 3/19
+  last_updated: 7/6
 
 - name: Beer Street South
   status: open
