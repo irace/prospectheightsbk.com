@@ -122,7 +122,7 @@
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/bearded-lady-staff-support-fund
-  last_updated: 7/3
+  last_updated: 7/7
 
 - name: Beer Street South
   status: open
@@ -1219,12 +1219,13 @@
   instagram: https://www.instagram.com/sweetchicklife/
   url: https://www.sweetchick.com
   phone: (718) 484-7724
+  hours: 12 - 11PM
   delivery:
     seamless: https://www.seamless.com/menu/sweet-chick-prospect-heights-341-flatbush-ave-brooklyn/1685999
     uber_eats: https://www.ubereats.com/new-york/food-delivery/sweet-chick-flatbush/GQauqkOlQCikYdNl20DTTA
   hours: 12 - 11PM
-  notes: 'Open for outdoor dining, pickup and delivery as <a href="https://www.instagram.com/LILSWEETCHICK/">’Lil Sweet Chick</a>.'
-  last_updated: 7/3
+  notes: 'Open for outdoor dining, pickup and delivery as <a href="https://www.instagram.com/LILSWEETCHICK/">Lil’ Sweet Chick</a>.'
+  last_updated: 7/6
 
 - name: Sweet Polly
   status: open
