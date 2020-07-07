@@ -64,14 +64,9 @@
 - name: Ample Hills
   url: https://www.amplehills.com
   instagram: https://www.instagram.com/amplehills/
+  status: closed
   hours: 1 - 9PM (Sat), 1 - 8PM (Sun)
-  notes: Open for scoops, cones, pints & milkshakes to go every Saturday and Sunday in June
-  delivery:
-    caviar: https://www.trycaviar.com/m/ample-hills--prospect-heights-1722
-    seamless: https://www.seamless.com/menu/ample-hills---prospect-heights-623-vanderbilt-ave-brooklyn/1711574
-    uber_eats:
-    postmates:
-  last_updated: 6/6
+  last_updated: 7/7
 
 - name: Antonio’s Pizza
   status: open
