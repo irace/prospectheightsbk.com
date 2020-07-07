@@ -1167,6 +1167,16 @@
     - title: Staff relief fund
       url: https://www.gofundme.com/f/sunshine-co-staff
   last_updated: 3/16
+  
+- name: Sweet Chick
+  status: open
+  instagram: https://www.instagram.com/sweetchicklife/
+  notes: Reopened as Lil' Sweet Chick
+  hours: 12 - 11PM
+  delivery:
+    seamless: https://www.seamless.com/menu/sweet-chick-prospect-heights-341-flatbush-ave-brooklyn/1685999
+    uber_eats: https://www.ubereats.com/new-york/food-delivery/sweet-chick-flatbush/GQauqkOlQCikYdNl20DTTA
+  last_updated: 7/6
 
 - name: Sweet Polly
   status: open
