@@ -21,16 +21,16 @@
     </div>
     {% unless place.status == "closed" %}
     <div class="mb1">
-      {% for delivery in place.delivery %}
-      <a href="{{delivery[1]}}"><img class="delivery_icon" src="icons/{{delivery[0]}}.png" alt="{{delivery[0]}}" /></a>
+      {% for service in place.services %}
+      <a href="{{service[1]}}"><img class="service_icon" src="icons/{{service[0]}}.png" alt="{{service[0]}}" /></a>
       {% endfor %}
     </div>
     {% endunless %}
 
     {% for link in place.links %}
     <p><a class="f6 link dim dark-green" href="{{ link.url }}">{{ link.title }}</a></p>
-    {% endfor %} {% if place.last_updated %}
-
+    {% endfor %}
+    {% if place.last_updated %}
     <div class="mb0 pb0 f7 lh-copy black-40">Last updated: {{ place.last_updated }}</div>
     {% endif %}
   </div>

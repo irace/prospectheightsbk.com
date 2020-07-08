@@ -5,7 +5,7 @@
 #   instagram: https://www.instagram.com/
 #   hours: 9AM - 5PM (Mon - Fri)
 #   notes: 'Example text here'
-#   delivery:
+#   services:
 #     uber_eats:
 #     doordash:
 #     postmates:
@@ -39,7 +39,7 @@
   url: https://altacalidadbk.com
   instagram: https://www.instagram.com/altacalidadbk/
   hours: 11:30AM - 8:30PM (Sun - Thu), 11:30AM - 9:30PM (Fri / Sat)
-  delivery:
+  services:
     seamless: https://www.seamless.com/menu/alta-calidad-552-vanderbilt-ave-brooklyn/460349
     toast: https://www.toasttab.com/alta-calidad/v3
   notes: Open for outdoor dining, pickup and delivery.
@@ -57,7 +57,7 @@
   hours: 4 - 8PM (Thu, Sun), 4 - 9PM (Fri / Sat)
   phone: (718) 230-3030
   notes: Open for outdoor dining, pickup and delivery.
-  delivery:
+  services:
     seamless: https://www.seamless.com/menu/amorina-cucina-rustica-624-vanderbilt-ave-brooklyn/292222
   last_updated: 7/3
 
@@ -75,7 +75,7 @@
   phone: ‭(718) 398-2300‬
   hours: 11AM - 9PM
   notes: Open for pickup and delivery
-  delivery:
+  services:
     seamless: https://www.seamless.com/menu/antonios-pizzeria--restaurant-318-flatbush-ave-brooklyn/66813
     slice: https://slicelife.com/restaurants/ny/brooklyn/11238/antonio-s-pizza/menu
   last_updated: 3/30
@@ -90,7 +90,7 @@
 
 - name: Banh Mi Place
   notes: Open for pickup and delivery
-  delivery:
+  services:
     uber_eats: https://www.ubereats.com/new-york/food-delivery/banh-mi-place/01MKo6J-RmCWJFzMsQzgXg
   last_updated: 5/13
 
@@ -99,7 +99,7 @@
   instagram: https://www.instagram.com/bargoto_niban/
   url: https://www.bargoto.com/location/bar-goto-niban/
   hours: 4 - 9PM
-  delivery:
+  services:
     upserve: https://app.upserve.com/s/bar-goto-niban-brooklyn
   last_updated: 7/8
     
@@ -152,7 +152,7 @@
   instagram: https://www.instagram.com/bergen_bagels/
   hours: 7AM - 3PM
   notes: Open for pickup and delivery
-  delivery:
+  services:
     doordash: https://www.doordash.com/store/bergen-bagels-brooklyn-312992/en-US
     seamless: https://www.seamless.com/menu/bergen-bagels-on-bergen-473-bergen-st-brooklyn/549250
   last_updated: 4/3
@@ -216,7 +216,7 @@
   instagram: https://www.instagram.com/bklyncrepe/
   hours: 10AM - 8PM
   notes: Open for pickup and delivery
-  delivery:
+  services:
     caviar: https://www.trycaviar.com/m/brooklyn-crepe--juice-14085
     uber_eats: https://www.ubereats.com/new-york/food-delivery/brooklyn-crepe-%26-juice-park-slope/7x5ubkWWQYiRliRSAiuF4Q
     postmates: https://postmates.com/merchant/brooklyn-crepe-juice-brooklyn
@@ -243,7 +243,7 @@
   phone: (718) 857-1111
   hours: 1 - 8PM
   status: open
-  delivery: 
+  services: 
     uber_eats: https://www.ubereats.com/new-york/food-delivery/bleachers-sports-bar/rJs5gMYQSF-t_xv03XLxCA
     seamless: https://www.seamless.com/menu/bleachers-sports-bar-240-flatbush-ave-brooklyn/1119107
   notes: Open for outdoor dining, pickup and delivery.
@@ -256,7 +256,7 @@
   hours: 8AM - 7PM (Mon - Thu), 9AM - 9PM (Fri - Sun)
   phone: (718) 399-6926
   notes: Coffee, pastries, pints, and cups available from the take-out window or for delivery via Postmates. “Our hours and offerings may vary, but we will post daily.”
-  delivery:
+  services:
     postmates: https://postmates.com/merchant/blue-marble-brooklyn
   last_updated: 7/3
 
@@ -267,7 +267,7 @@
   url: https://www.bornbklyn.com/
   instagram: https://www.instagram.com/bornthaibklyn/
   notes: Open for pickup and delivery
-  delivery:
+  services:
     doordash: https://www.doordash.com/store/bergen-bagels-brooklyn-312992/en-US
     seamless: https://www.seamless.com/menu/born-thai-293-flatbush-ave-brooklyn/1152911
     uber_eats: https://www.ubereats.com/new-york/food-delivery/born-thai/GwItgnPZQ8uqjmzCyDQ0JA
@@ -281,7 +281,7 @@
   phone: (718) 484-8704
   hours: 5 - 11:45PM
   notes: 'Food and drink pickup and delivery (catering via <a href="https://www.ezcater.com/catering/branded-saloon-3">EZCater</a>). You can also Venmo @Alex-Savoie directly.'
-  delivery:
+  services:
     doordash: https://www.doordash.com/store/branded-cattle-saloon-inc-brooklyn-893199/1318299/en-US
     seamless: https://www.seamless.com/menu/branded-saloon-603-vanderbilt-ave-brooklyn/298472
     caviar: https://www.trycaviar.com/m/branded-saloon-19621
@@ -295,7 +295,7 @@
   instagram: https://www.instagram.com/broccolinonyc/
   url: https://www.broccolinonyc.com
   phone: (718) 678-4200​
-  delivery:
+  services:
     chownow: https://direct.chownow.com/order/1935/locations/2543
   last_updated: 7/3
 
@@ -316,7 +316,7 @@
   phone: (718) 230-8646
   hours: 3 - 10PM
   notes: Open for outdoor dining, pickup and delivery.
-  delivery:
+  services:
     chownow: https://direct.chownow.com/order/7878/locations/10581
   last_updated: 6/22
 
@@ -345,7 +345,7 @@
   phone: (718) 783-1525
   hours: 11AM - 10PM (9PM Sun)
   notes: '10% off when ordering directly from <a href="https://eat.9fold.me/index.html#/10955">their website</a>'
-  delivery:
+  services:
     doordash: https://www.doordash.com/store/chick-p-brooklyn-28639/en-US
     postmates: https://postmates.com/merchant/chick-p-brooklyn
     seamless: https://www.seamless.com/menu/chick-p-490-bergen-st-brooklyn/262480
@@ -358,7 +358,7 @@
   phone: (347) 425-9570
   hours: 5:30 - 9PM
   notes: Open for outdoor dining, pickup and delivery.
-  delivery:
+  services:
     caviar: https://www.trycaviar.com/m/chuko-ramen-3843
     doordash: https://www.doordash.com/store/chuko-ramen-brooklyn-22335/en-US
   last_updated: 7/3
@@ -370,7 +370,7 @@
   url: https://www.ciaogloria.com
   instagram: https://www.instagram.com/ciaoglorianyc/
   notes: Open for outdoor dining, pickup and delivery.
-  delivery:
+  services:
     caviar: https://www.trycaviar.com/t/m/ciao-gloria-16959
   links:
     - title: Staff relief fund
@@ -412,7 +412,7 @@
   phone: (347) 889-5400
   hours: 10AM - 10PM
   notes: Open for pickup and delivery
-  delivery:
+  services:
     seamless: https://www.seamless.com/menu/dickeys-barbecue-pit-196-a-flatbush-ave-brooklyn/736492
   last_updated: 4/2
 
@@ -448,7 +448,7 @@
   instagram: https://www.instagram.com/elpasomexgrill/
   phone: (917) 905-3401
   status: open
-  delivery:
+  services:
     seamless: https://www.seamless.com/menu/el-paso-mexican-grill-1610-newkirk-ave-brooklyn/285249
   last_updated: 6/12
 
@@ -468,7 +468,7 @@
   phone: (714) 488-0828
   hours: 3 - 10PM (Thu - Sun)
   phone: (718) 576-6120
-  delivery:
+  services:
     caviar: https://www.trycaviar.com/m/faun-17403
   notes: Open for outdoor dining, pickup and delivery. Prospect Butcher Co. opens early on Saturday and Sunday (noon).
   links:
@@ -508,7 +508,7 @@
   hours: 5:30 - 10PM (Wed - Sun), 12:30 - 3PM (Sat/Sun)
   phone: (718) 638-8866
   notes: Closed until further notice
-  delivery:
+  services:
     chownow: https://direct.chownow.com/order/13995/locations/19649
   last_updated: 4/20
 
@@ -519,7 +519,7 @@
   phone: (718) 398-3550
   hours: 4 - 9PM
   notes: Open for outdoor dining, pickup and delivery.
-  delivery:
+  services:
     upserve: https://app.upserve.com/s/gen-brooklyn
   links:
     - title: Staff relief fund
@@ -559,7 +559,7 @@
   phone: (929) 306-8332
   instagram: https://www.instagram.com/grancaffedemartini/
   notes: Open outdoor dining and pickup.
-  delivery:
+  services:
     caviar: https://www.trycaviar.com/m/gran-caffe-de-martini-19266
     seamless: https://www.seamless.com/menu/gran-caffe-de-martini-609-vanderbilt-ave-brooklyn/1008604
   links:
@@ -582,7 +582,7 @@
   instagram: https://www.instagram.com/brooklyns_homeslice/
   phone: (347) 632-9824
   hours: 11:30 - 12:00AM (Mon - Thu), 11:30 - 2:30AM (Fri/Sat), 11:30 - 12:00AM (Sun)
-  delivery:
+  services:
     slice: https://slicelife.com/restaurants/ny/brooklyn/11238/brooklyn-s-homeslice-pizzeria/menu
   last_updated: 3/30
 
@@ -611,7 +611,7 @@
   phone: (718) 398-3575
   hours: 2 - 10:30PM (Tue - Thu), 1 - 10:30PM (Fri), 12 - 10:30PM (Sat/Sun)
   notes: Open for outdoor dining, pickup and delivery.
-  delivery:
+  services:
     postmates: https://postmates.com/merchant/the-islands-brooklyn-1
     uber_eats: https://www.ubereats.com/new-york/food-delivery/the-islands/9jFnKcjVRBuUOpsVlzSgsg
   last_updated: 4/21
@@ -623,7 +623,7 @@
   phone: (718) 942-4255
   hours: 4 - 9PM (Mon - Sat), 2 - 7PM (Sun)
   notes: Outdoor seating is available. Also open for pickup and delivery.
-  delivery:
+  services:
     chownow: https://direct.chownow.com/order/21833/locations/31667
     caviar: https://www.trycaviar.com/m/james-19693
   links:
@@ -677,7 +677,7 @@
   phone: (718) 360-1839
   hours: 11:30AM - 10:00PM (10:30PM Fri/Sat)
   notes: Open for pickup and delivery
-  delivery:
+  services:
     chownow: https://direct.chownow.com/order/11256/locations/15554
   last_updated: 4/1
 
@@ -703,7 +703,7 @@
   phone: (347) 799-1972
   instagram: https://www.instagram.com/kulushkat/
   notes: Open for outdoor dining, pickup and delivery.
-  delivery:
+  services:
     chownow: https://direct.chownow.com/order/8549/locations/11540
   last_updated: 7/3
 
@@ -733,7 +733,7 @@
   hours: 5 - 8PM
   phone: (718) 399-2211
   notes: 'Call ahead for pickup through the front door or order online for delivery. Send requests to <a href="mailto:info@stationfoods.com">info@stationfoods.com</a>.'
-  delivery:
+  services:
     seamless: https://www.seamless.com/menu/lincoln-station-409-lincoln-pl-brooklyn/315738
     caviar: https://www.trycaviar.com/m/lincoln-station-758
   last_updated: 5/30
@@ -760,7 +760,7 @@
   instagram: https://www.instagram.com/byplantlovehouse/
   phone: (718) 622-0026
   notes: Open for outdoor dining, pickup and delivery.
-  delivery:
+  services:
     caviar: https://www.trycaviar.com/m/look-by-plant-love-house-11405
     seamless: https://www.seamless.com/menu/look-by-plant-love-house-622-washington-ave-brooklyn/344210
     uber_eats: https://www.ubereats.com/new-york/food-delivery/look-by-plant-love-house/IvIM_ZVuRniuCfOkMg9uXw
@@ -776,7 +776,7 @@
   instagram: https://www.instagram.com/lowerline/
   phone: (347) 533-7110
   notes: Open for pickup and delivery
-  delivery:
+  services:
     caviar: https://www.trycaviar.com/m/lowerline-11359
     doordash: https://www.doordash.com/store/lowerline-brooklyn-524902/
   links:
@@ -802,7 +802,7 @@
   hours: 11AM - 12AM
   phone: (732) 535-2717
   notes: Open for outdoor dining, pickup and delivery.
-  delivery:
+  services:
     seamless: https://www.seamless.com/menu/maya-taqueria-prospect-heights-637-vanderbilt-ave-brooklyn/80416
     chownow: https://direct.chownow.com/order/7470/locations/10000
   last_updated: 7/3
@@ -821,7 +821,7 @@
   url: https://www.memesdiner.com
   instagram: https://www.instagram.com/memesdiner/
   phone: (718) 636-2900
-  # delivery:
+  # services:
   #   caviar: https://www.trycaviar.com/m/memes-diner-10883
   notes: Open for brunch 7/4-5, 10AM - 4PM.
   links:
@@ -847,7 +847,7 @@
   phone: (347) 663-2951
   hours: 9AM - 11PM (12AM Fri/Sat)
   notes: Open for outdoor dining, pickup and delivery.
-  delivery:
+  services:
     seamless: https://www.seamless.com/menu/mexicocina-agaveria-708-washington-ave-brooklyn/1136372
     caviar: https://www.trycaviar.com/m/mexicocina-agaveria-12562
     postmates: https://postmates.com/merchant/mexicocina-agaveria-brooklyn
@@ -891,7 +891,7 @@
   instagram: https://www.instagram.com/mokbar_nyc/
   phone: (347) 987-3042
   notes: 'Open for pickup and delivery. DIY ramen kits and curbside pickup are still available by emailing <a href="mailto:orders@mokbar.com">orders@mokbar.com</a>.'
-  delivery:
+  services:
     seamless: https://www.seamless.com/menu/mokbar-ii-212-flatbush-ave-brooklyn/396396
     caviar: https://www.trycaviar.com/m/mokbar-brooklyn-5085
     uber_eats: https://www.ubereats.com/new-york/food-delivery/mokbar-park-slope/bzwJfOzHRmOOYaScpluzyA
@@ -907,7 +907,7 @@
   phone: (718) 622-2224
   hours: 1 - 10:30PM (Mon - Thu), 1 - 11 (Fri), 12 - 11PM (Sat), 12 - 10:30PM (Sun)
   notes: Open for outdoor dining, pickup and delivery.
-  delivery:
+  services:
     caviar: https://www.trycaviar.com/m/morgans-brooklyn-bbq-11362?_branch_match_id=652587222868224742&cav_medium=widget&cav_source=mer-_HNorLt-e21sQo8-1Lttcg&how=delivery&merchant_token=mer-_HNorLt-e21sQo8-1Lttcg&utm_campaign=link&utm_content=morgans-brooklyn-barbecue-11362&utm_medium=restaurant_partners&utm_source=widget&utm_term=brooklyn-queens
     seamless: https://www.seamless.com/menu/morgans-brooklyn-barbecue-267-flatbush-ave-brooklyn/317192
     uber_eats: https://www.ubereats.com/new-york/food-delivery/morgans-barbeque-prospect-heights/gzrcH1RcQju4pNh82lG1vg
@@ -923,7 +923,7 @@
   status: open
   phone: (718) 398-7776
   hours: 12 - 10:30PM
-  delivery:
+  services:
     seamless: https://www.grubhub.com/restaurant/mumbai-place-655-vanderbilt-ave-brooklyn/334916
   last_updated: 6/15
 
@@ -943,7 +943,7 @@
   phone: (718) 622-2727
   hours: 11AM - 10PM
   notes: Open for pickup and delivery
-  delivery:
+  services:
     seamless: https://www.seamless.com/menu/nacho-macho-taco-prospect-pl-417-prospect-pl-brooklyn/302901
   last_updated: 3/18
 
@@ -953,7 +953,7 @@
   url: https://www.nourishthai.com
   instagram: https://www.instagram.com/nourishthai/
   notes: Open for outdoor dining, pickup and delivery.
-  delivery:
+  services:
     caviar: https://www.trycaviar.com/m/nourish-thai-12825
     seamless: https://www.seamless.com/menu/nourish-637a-vanderbilt-ave-brooklyn/429623
     chownow: https://eat.chownow.com/discover/restaurant/11724
@@ -966,7 +966,7 @@
   phone: (718) 484-1122
   hours: 7AM - 8PM (6PM Sun)
   notes: Open for pickup and delivery
-  delivery:
+  services:
     seamless: https://www.seamless.com/menu/nurish-637-washington-ave-brooklyn/1540554
   last_updated: 3/21
 
@@ -985,7 +985,7 @@
   hours: 5 - 9PM
   instagram: https://www.instagram.com/ogliastro.brooklyn/
   notes: Open for outdoor dining, pickup and delivery.
-  delivery:
+  services:
     slice: https://slicelife.com/restaurants/ny/brooklyn/11238/ogliastro-pizza-bar/menu
     seamless: https://www.seamless.com/menu/ogliastro-pizza-bar-784-washington-ave-brooklyn/322585
   links:
@@ -1000,7 +1000,7 @@
   hours: 8AM - 6PM (delivery until 5PM)
   phone: (718) 622-6227
   notes: Open for outdoor dining, pickup and delivery
-  delivery:
+  services:
     seamless: https://www.seamless.com/menu/olde-brooklyn-bagel-shoppe-645-vanderbilt-ave-brooklyn/263151
   last_updated: 7/3
 
@@ -1058,7 +1058,7 @@
   links:
     - title: Order online
       url: https://eat.9fold.me/index.html#/10769
-  delivery:
+  services:
     seamless: https://www.seamless.com/menu/patsys-pizzeria-450-dean-st-brooklyn/320844
   last_updated: 7/3
 
@@ -1100,7 +1100,7 @@
   phone: (347) 915-1196
   hours: 11AM - 5PM (Wed - Sun)
   notes: Open for pickup and delivery.
-  delivery:
+  services:
     chownow: https://ordering.chownow.com/order/11145/locations
   links:
     - title: Gift cards
@@ -1123,7 +1123,7 @@
   status: open
   phone: (718) 789-4633
   notes: Open for pickup and delivery
-  delivery:
+  services:
     seamless: https://www.seamless.com/menu/ruby-kitchen-162-park-pl-brooklyn/66954
   last_updated: 5/8
 
@@ -1140,7 +1140,7 @@
 - name: Shane’s Brooklyn
   hours: 9AM - 6PM (Sun - Wed), 9AM - 9PM (Thu - Sat)
   instagram: https://www.instagram.com/shanes_brooklyn/
-  delivery:
+  services:
     uber_eats: https://www.ubereats.com/new-york/food-delivery/shanes-brooklyn/TsKwjyqQSaGcQNr4An9WBg
     doordash: https://www.doordash.com/store/shanes-brooklyn-brooklyn-179024/en-US
     postmates: https://postmates.com/merchant/cafe-shane-on-washington-brooklyn
@@ -1181,7 +1181,7 @@
   instagram: https://www.instagram.com/sofreh_brooklyn/
   notes: Open for outdoor dining and pickup.
   hours: 5 - 8:30PM (Tue - Sun)
-  delivery:
+  services:
     upserve: https://app.upserve.com/s/sofreh-nyc-brooklyn
   links:
     - title: Staff relief fund
@@ -1206,7 +1206,7 @@
   instagram: https://www.instagram.com/stockedbrooklyn/
   phone: (718) 872-5304
   notes: Open for outdoor dining, pickup and delivery. Located on Washington Ave. (their Vanderbilt location has closed).
-  delivery:
+  services:
     chownow: https://direct.chownow.com/order/18160/locations/26048
   last_updated: 7/3
 
@@ -1234,7 +1234,7 @@
   url: https://www.sweetchick.com
   phone: (718) 484-7724
   hours: 12 - 11PM
-  delivery:
+  services:
     seamless: https://www.seamless.com/menu/sweet-chick-prospect-heights-341-flatbush-ave-brooklyn/1685999
     uber_eats: https://www.ubereats.com/new-york/food-delivery/sweet-chick-flatbush/GQauqkOlQCikYdNl20DTTA
   hours: 12 - 11PM
@@ -1248,7 +1248,7 @@
   phone: (718) 484-9600
   hours: 2 - 10PM (Wed - Thu), 2 - 11PM (Fri), 12 - 11PM (Sat), 12 - 10PM (Sun)
   notes: Outdoor seating is available. Also open for pickup.
-  delivery:
+  services:
     upserve: https://app.upserve.com/s/sweet-polly-brooklyn
   links:
     - title: Staff relief fund
@@ -1270,7 +1270,7 @@
   instagram: https://www.instagram.com/tomsbrooklyn/
   phone: (212) 864-6137
   notes: Open for pickup and delivery
-  delivery:
+  services:
     seamless: https://www.seamless.com/menu/toms-restaurant-782-washington-ave-brooklyn/297390
   last_updated: 3/17
 
@@ -1290,7 +1290,7 @@
   url: https://underhillbrooklyn.com/
   instagram: https://www.instagram.com/underhillgreekeatery/
   notes: 10% off pickup orders of $50+
-  delivery:
+  services:
     caviar: https://www.trycaviar.com/m/underhill-cafe-and-grill-10596
     doordash: https://www.doordash.com/store/underhill-cafe-and-grill-brooklyn-312894/en-US
     seamless: https://www.seamless.com/menu/view/768940
@@ -1314,7 +1314,7 @@
   hours: 11AM - 11PM (12AM Fri/Sat)
   phone: (347) 240-7453
   notes: Order online for pickup and delivery.
-  delivery:
+  services:
     caviar: https://trycaviar.app.link/7jIqsTuzjW
     uber_eats: https://www.ubereats.com/en-US/new-york/food-delivery/van-leeuwen-artisan-ice-cream-prospect-heights/lRdl_U-mS8yow9R-xiO2ZQ/
     postmates: https://postmates.com/merchant/van-leeuwen-ice-cream-brooklyn
@@ -1335,7 +1335,7 @@
   phone: (718) 230-3734
   hours: 5:30AM - 4:00PM
   notes: Open for pickup and delivery
-  delivery:
+  services:
     seamless: https://www.seamless.com/menu/washington-avenue-cafe-621-washington-ave-brooklyn/900005
   last_updated: 3/29
 
@@ -1357,7 +1357,7 @@
   instagram: https://www.instagram.com/whitetigerbklyn/
   phone: (718) 552-2272
   notes: Open for outdoor dining, pickup and delivery.
-  delivery:
+  services:
     toast: https://www.toasttab.com/white-tiger/v3
     seamless: https://www.seamless.com/menu/white-tiger-601-vanderbilt-ave-brooklyn/1981045
     doordash: https://www.doordash.com/store/white-tiger-brooklyn-132915/en-US
@@ -1385,6 +1385,7 @@
   url: https://zaytoons.com
   instagram: https://www.instagram.com/zaytoonsrestaurant/
   notes: Open for pickup and delivery
-  delivery:
+  services:
     caviar: https://www.trycaviar.com/m/zaytoons-12972
   last_updated: 3/17
+  
