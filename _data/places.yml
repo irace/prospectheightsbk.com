@@ -94,6 +94,16 @@
     uber_eats: https://www.ubereats.com/new-york/food-delivery/banh-mi-place/01MKo6J-RmCWJFzMsQzgXg
   last_updated: 5/13
 
+- name: Bar Goto Niban
+  notes: Open for outdoor dining, pickup and delivery.
+  instagram: https://www.instagram.com/bargoto_niban/
+  url: https://www.bargoto.com/location/bar-goto-niban/
+  hours: 4 - 9PM
+  delivery:
+    upserve: https://app.upserve.com/s/bar-goto-niban-brooklyn
+  last_updated: 7/8
+    
+  
 - name: Bar Meridian
   notes: Outdoor seating is available. Also open for pickup
   instagram: https://www.instagram.com/bar_meridian_nyc/
@@ -526,11 +536,12 @@
   last_updated: 3/16
 
 - name: Gorilla Coffee
+  notes: Outdoor seating is available. Also open for pickup.
   status: open
   url: https://gorillacoffee.com
   instagram: https://www.instagram.com/gorillacoffee/
   hours: 7AM - 9PM
-  last_updated: 5/7
+  last_updated: 7/8
 
 - name: Good Life
   status: open
