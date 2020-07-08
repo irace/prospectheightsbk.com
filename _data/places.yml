@@ -473,22 +473,24 @@
 - name: Fausto
   status: open
   url: https://www.faustobrooklyn.com
-  hours: 2 - 6PM
+  hours: 4 - 8:30PM (Wed - Sun)
   instagram: https://www.instagram.com/faustobrooklyn/
-  notes: '“Fausto At Home“ is now available. <a href="https://www.exploretock.com/fausto/experience/140506/fausto-at-home?date=2020-05-29&size=1&time=15%3A00">Pre-order here</a> for pickup on Friday afternoon.'
+  notes: Open for pickup and delivery. Still doing ‘Fausto at Home’ on Fridays.
   links:
+    - title: Order online
+      url: https://www.exploretock.com/fausto
     - title: Staff relief fund
       url: https://www.gofundme.com/f/fausto-employee-fund
-  last_updated: 5/29
+  last_updated: 7/7
 
 - name: Fermented Grapes
   status: open
-  hours: 12 - 7PM (Wed - Sun)
+  hours: 12 - 7PM (Tue - Sat)
   url: http://www.fermentedgrapes.net
   instagram: https://www.instagram.com/fermentedgrapesbk/
   phone: (718) 230-3216
-  notes: 'Open for contactless pickup and delivery with walkups now available. Email orders to <a href="mailto:customerservice@fermentedgrapes.net">customerservice@fermentedgrapes.net</a> with what you’re looking for and a phone number.'
-  last_updated: 5/30
+  notes: 'Open for contactless pickup and delivery with walkups now available. Call or email <a href="mailto:customerservice@fermentedgrapes.net">customerservice@fermentedgrapes.net</a> with what you’re looking for and a phone number to pre-order.'
+  last_updated: 7/7
 
 - name: Geido
   status: closed
@@ -1329,7 +1331,7 @@
   status: open
   hours: 3 - 8PM (Thu - Sun)
   url: http://www.weatherupnyc.com/
-  notes: 'Receive a menu and place an order by emailing <a href="mailto:brooklyn@weatherupnyc.com">brooklyn@weatherupnyc.com</a>. Pay via <a href="http://venmo.com/WU-BK">Venmo</a>. Delivery coming soon.'
+  notes: Outdoor seating is available. Also open for pickup.
   instagram: https://www.instagram.com/weatherupbars/
   links:
     - url: https://www.gofundme.com/f/weather-up-staff-relief
