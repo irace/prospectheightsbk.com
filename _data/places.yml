@@ -1,4 +1,5 @@
 # - name: Example Eatery
+#   category: Bar, Restaurant, Dessert, Cafe, Deli, Grocer
 #   status: open
 #   phone: (212) 555-1234
 #   url: https://www.example.com/
@@ -19,6 +20,7 @@
 
 
 - name: 333 Lounge
+  category: Bar
   instagram: https://www.instagram.com/333.lounge/
   url: https://www.333lounge.com
   phone: (718) 399-8008
@@ -35,6 +37,7 @@
   last_updated: 4/13
 
 - name: Alta Calidad
+  category: Restaurant
   status: open
   url: https://altacalidadbk.com
   instagram: https://www.instagram.com/altacalidadbk/
@@ -51,6 +54,7 @@
   last_updated: 7/3
 
 - name: Amorina Pizza
+  category: Restaurant
   status: open
   url: http://www.amorinapizza.com/
   instagram: https://www.instagram.com/amorinapizza/
@@ -62,6 +66,7 @@
   last_updated: 7/3
 
 - name: Ample Hills
+  category: Dessert
   url: https://www.amplehills.com
   instagram: https://www.instagram.com/amplehills/
   status: closed
@@ -69,6 +74,7 @@
   last_updated: 7/7
 
 - name: Antonio’s Pizza
+  category: Restaurant
   status: open
   url: https://www.antoniosbrooklyn.com
   instagram: https://www.instagram.com/antonios_pizza_/
@@ -82,6 +88,7 @@
 
   
 - name: The Bakery on Bergen
+  category: Cafe
   hours: 12 - 7PM (Tue - Sun)
   url: https://thebakeryonbergennyc.com
   instagram: https://www.instagram.com/thebakeryonbergen/
@@ -89,12 +96,14 @@
   last_updated: 5/1
 
 - name: Banh Mi Place
+  category: Restaurant
   notes: Open for pickup and delivery
   services:
     uber_eats: https://www.ubereats.com/new-york/food-delivery/banh-mi-place/01MKo6J-RmCWJFzMsQzgXg
   last_updated: 5/13
 
 - name: Bar Goto Niban
+  category: Bar
   notes: Open for outdoor dining, pickup and delivery.
   instagram: https://www.instagram.com/bargoto_niban/
   url: https://www.bargoto.com/location/bar-goto-niban/
@@ -105,6 +114,7 @@
     
   
 - name: Bar Meridian
+  category: Bar
   notes: Outdoor seating is available. Also open for pickup
   instagram: https://www.instagram.com/bar_meridian_nyc/
   url: https://www.barmeridian.com
@@ -116,6 +126,7 @@
   last_updated: 7/3
   
 - name: BCakeNY
+  category: Dessert
   instagram: https://www.instagram.com/bcakeny/
   url: https://www.bcakeny.com/bcakenyshop/
   phone: (347) 787-7199
@@ -123,6 +134,7 @@
   last_updated: 6/12
 
 - name: The Bearded Lady
+  category: Restaurant
   status: open
   url: http://www.beardedladybrooklyn.com
   instagram: https://www.instagram.com/bearded_lady_brooklyn/
@@ -135,6 +147,7 @@
   last_updated: 7/7
 
 - name: Beer Street South
+  category: Bar
   status: open
   url: https://beerstreetsouth550.com
   instagram: https://www.instagram.com/beerstreetsouth/
@@ -147,6 +160,7 @@
   last_updated: 3/31
 
 - name: Bergen Bagels
+  category: Deli
   status: open
   url: http://www.bergenbagels.com/
   instagram: https://www.instagram.com/bergen_bagels/
@@ -158,6 +172,7 @@
   last_updated: 4/3
 
 - name: Bierwax
+  category: Bar
   status: open
   url: https://www.bierwaxnyc.com
   instagram: https://www.instagram.com/bierwax/
@@ -175,6 +190,7 @@
   last_updated: 7/3
 
 - name: Bilt Bar
+  category: Bar
   status: open
   hours: 3 - 7PM (Fri), 2 - 7PM (Sat), 1 - 6PM (Sun)
   instagram: https://www.instagram.com/biltbar/
@@ -198,6 +214,7 @@
   last_updated: 5/30
 
 - name: BKLYN Larder
+  category: Grocer
   status: open
   url: https://www.bklynlarder.com
   instagram: https://www.instagram.com/bklynlarder/
@@ -291,6 +308,7 @@
   last_updated: 3/28
 
 - name: Broccolino
+  category: Restaurant
   notes: Open for outdoor dining, pickup and delivery.
   instagram: https://www.instagram.com/broccolinonyc/
   url: https://www.broccolinonyc.com
@@ -310,6 +328,7 @@
       url: https://shop.bkmetalworks.com/product/gift-certificates
 
 - name: Burrito Bar & Kitchen
+  category: Restaurant
   status: open
   url: https://www.burritobarbrooklyn.com
   instagram: https://www.instagram.com/burritobarbk
@@ -321,6 +340,7 @@
   last_updated: 6/22
 
 - name: Cataldo’s
+  category: Restaurant
   status: open
   url: http://www.cataldos54.com
   instagram: https://www.instagram.com/cataldosbk/
@@ -330,6 +350,7 @@
   last_updated: 7/3
 
 - name: Cheryl’s Global Soul
+  category: Restaurant
   status: open
   url: https://www.cherylsglobalsoul.com
   instagram: https://www.instagram.com/cherylsglobalsoul/
@@ -339,6 +360,7 @@
   last_updated: 3/19
 
 - name: Chick-P
+  category: Restaurant
   status: open
   url: https://www.chick-p.com
   instagram: https://www.instagram.com/chickpbrooklyn/
@@ -352,6 +374,7 @@
   last_updated: 3/31
 
 - name: Chuko
+  category: Restaurant
   status: open
   url: http://www.chukobk.com
   instagram: https://www.instagram.com/chukobk/
@@ -364,6 +387,7 @@
   last_updated: 7/3
     
 - name: Ciao, Gloria
+  category: Cafe
   status: open
   hours: 9AM - 3PM (Mon - Fri), 9AM - 5PM (Sat / Sun)
   phone: (716) 666-2426
@@ -380,11 +404,13 @@
   last_updated: 7/3
 
 - name: Cinnamon Girl
+  category: Cafe
   instagram: https://www.instagram.com/cinnamon_girl_bk/
   notes: Open for pickup “pantry provisions, groceries and delicious treats”
   last_updated: 5/13
 
 - name: Citrico
+  category: Restaurant
   status: open
   phone: (347) 955-4519
   url: http://citricobrooklyn.com/
@@ -396,6 +422,7 @@
   last_updated: 7/3
 
 - name: Covenhoven
+  category: Bar
   status: open
   url: https://www.covenhovennyc.com
   instagram: https://www.instagram.com/covenhovennyc/
@@ -406,6 +433,7 @@
   last_updated: 6/22
 
 - name: Dickey’s BBQ Pit
+  category: Restaurant
   status: open
   url: https://orders.dickeys.com/quote/location
   instagram: https://www.instagram.com/dickeys.bk/
@@ -417,6 +445,7 @@
   last_updated: 4/2
 
 - name: Don Chingon
+  category: Restaurant
   instagram: https://www.instagram.com/donchingonnyc/
   phone: (718) 576-3521
   url: http://donchingon.nyc
@@ -425,6 +454,7 @@
   last_updated: 7/3
 
 - name: Dough Studio
+  category: Dessert
   status: open
   facebook: https://www.facebook.com/Dough-Studio-105988981103219
   instagram: https://www.instagram.com/doughstudio_/
@@ -432,6 +462,7 @@
   last_updated: 5/13
 
 - name: Doughnut Plant
+  category: Cafe
   status: open
   hours: 8AM - 4PM (Wed - Sun)
   url: https://www.doughnutplant.com
@@ -445,6 +476,7 @@
   last_updated: 5/30
 
 - name: El Paso Mexican Grill
+  category: Restaurant
   instagram: https://www.instagram.com/elpasomexgrill/
   phone: (917) 905-3401
   status: open
@@ -453,6 +485,7 @@
   last_updated: 6/12
 
 - name: Eve’s Lounge
+  category: Bar
   instagram: https://www.instagram.com/eveslounge/
   url: https://eves769.com
   phone: (347) 442-5959
@@ -462,6 +495,7 @@
   last_updated: 7/3
 
 - name: Faun
+  category: Restaurant
   status: open
   url: https://faun.nyc
   instagram: https://www.instagram.com/faun.nyc/
@@ -481,11 +515,14 @@
   last_updated: 7/3
 
 - name: Fausto
+  category: Restaurant
   status: open
   url: https://www.faustobrooklyn.com
   hours: 4 - 8:30PM (Wed - Sun)
   instagram: https://www.instagram.com/faustobrooklyn/
   notes: Open for pickup and delivery. Still doing ‘Fausto at Home’ on Fridays.
+  services:
+    resy: https://resy.com/cities/ny/fausto
   links:
     - title: Order online
       url: https://www.exploretock.com/fausto
@@ -494,6 +531,7 @@
   last_updated: 7/7
 
 - name: Fermented Grapes
+  category: Wine Shop
   status: open
   hours: 12 - 7PM (Tue - Sat)
   url: http://www.fermentedgrapes.net
@@ -503,6 +541,7 @@
   last_updated: 7/7
 
 - name: Geido
+  category: Restaurant
   status: closed
   url: https://geido.nyc
   hours: 5:30 - 10PM (Wed - Sun), 12:30 - 3PM (Sat/Sun)
@@ -513,6 +552,7 @@
   last_updated: 4/20
 
 - name: Gen Sushi
+  category: Restaurant
   status: open
   url: http://www.genbrooklyn.com
   instagram: https://www.instagram.com/gen.brooklyn/
@@ -527,6 +567,7 @@
   last_updated: 7/3
 
 - name: Gold Star Beer Counter
+  category: Bar
   status: open
   url: http://goldstarbeercounter.com
   instagram: https://www.instagram.com/goldstarbeercounter/
@@ -536,6 +577,7 @@
   last_updated: 3/16
 
 - name: Gorilla Coffee
+  category: Cafe
   notes: Outdoor seating is available. Also open for pickup.
   status: open
   url: https://gorillacoffee.com
@@ -544,6 +586,7 @@
   last_updated: 7/8
 
 - name: Good Life
+  category: Bar
   status: open
   instagram: https://www.instagram.com/goodlifebk/
   notes: Serving cocktails to go, accepting orders via Venmo
@@ -553,6 +596,7 @@
   last_updated: 5/30
 
 - name: Gran Caffe De Martini
+  category: Cafe
   status: open
   hours: 9AM - 5PM (Fri - Tue)
   url: https://www.caffedemartini.com
@@ -570,6 +614,7 @@
   last_updated: 6/22
 
 - name: El Gran Castillo de Jagua
+  category: Restaurant
   status: open
   phone: (718) 622-8700
   notes: Open with a limited menu for pickup and delivery
@@ -577,6 +622,7 @@
   last_updated: 4/30
 
 - name: Homeslice Pizzeria
+  category: Restaurant
   status: open
   url: https://www.brooklynshomeslicepizza.com
   instagram: https://www.instagram.com/brooklyns_homeslice/
@@ -587,6 +633,7 @@
   last_updated: 3/30
 
 - name: Hungry Ghost
+  category: Cafe
   status: open
   hours: 7AM - 5PM
   url: https://www.hungryghostcoffee.com/
@@ -598,6 +645,7 @@
   last_updated: 3/23
 
 - name: Inaka Asian Cuisine
+  category: Restaurant
   status: open
   url: http://inakany.com
   notes: Open for pickup and delivery
@@ -607,6 +655,7 @@
   last_updated: 5/23
 
 - name: The Islands
+  category: Restaurant
   status: open
   phone: (718) 398-3575
   hours: 2 - 10:30PM (Tue - Thu), 1 - 10:30PM (Fri), 12 - 10:30PM (Sat/Sun)
@@ -617,6 +666,7 @@
   last_updated: 4/21
 
 - name: James
+  category: Restaurant
   status: open
   url: http://www.jamesrestaurantny.com
   instagram: https://www.instagram.com/jamesbklyn/
@@ -632,6 +682,7 @@
       last_updated: 7/3
 
 - name: Joyce Bakeshop
+  category: Cafe
   status: open
   url: http://www.joycebakeshop.com
   instagram: https://www.instagram.com/joycebakeshop/
@@ -645,6 +696,7 @@
   last_updated: 6/19
 
 - name: Joy Indian
+  category: Restaurant
   url: http://joyindianrestaurant.com
   hours: 12 - 8PM
   phone: (718) 230-1165
@@ -652,6 +704,7 @@
   last_updated: 5/8
 
 - name: Kami Asian
+  category: Restaurant
   url: http://kamiasian.com
   phone: (718) 398-3888
   status: open
@@ -659,6 +712,7 @@
   last_updated: 5/18
 
 - name: Ki Sushi
+  category: Restaurant
   status: open
   hours: 12:30 - 2:30PM (everyday but Sunday), 5 - 9PM (everyday)
   phone: (718) 230-1381
@@ -671,6 +725,7 @@
   last_updated: 7/3
 
 - name: Kimchi Grill
+  category: Restaurant
   status: open
   url: https://www.kimchigrill.com
   instagram: https://www.instagram.com/kimchigrill/
@@ -682,11 +737,13 @@
   last_updated: 4/1
 
 - name: Kombit Bar and Restaurant
+  category: Restaurant
   instagram: https://www.instagram.com/kombitbar/
   status: closed
   last_updated: 6/12 
 
 - name: Konditori
+  category: Cafe
   status: open
   instagram: https://www.instagram.com/konditori/
   notes: Outdoor seating is available. Also open for pickup.
@@ -697,6 +754,7 @@
   last_updated: 7/3
 
 - name: Kulushkat
+  category: Restaurant
   status: open
   url: https://kulushkat.com
   hours: 11 - 10PM (Tue - Sun)
@@ -708,17 +766,21 @@
   last_updated: 7/3
 
 - name: LaLou
+  category: Restaurant
   status: open
   url: https://laloubrooklyn.com
   hours: 5 - 9PM
   instagram: https://www.instagram.com/laloubrooklyn/
   notes: Open for outdoor dining. Larder open 12 - 5PM on Saturday and Sunday.
+  services:
+    resy: https://resy.com/cities/ny/lalou
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/lalou-employee-fund
   last_updated: 7/3
 
 - name: Life Reorganized
+  category: Services
   status: open
   phone: (917) 745-5433
   instagram: https://www.instagram.com/lifereorganized/
@@ -727,6 +789,7 @@
   last_updated: 4/23
 
 - name: Lincoln Station
+  category: Restaurant
   status: open
   url: https://www.stationfoods.com
   instagram: https://instagram.com/lincolnstationbk
@@ -739,6 +802,7 @@
   last_updated: 5/30
 
 - name: Little Cupcake Bakeshop
+  category: Cafe
   status: open
   phone: (718) 783-0770
   hours: 8AM - 10PM (Sun - Thu), 8AM - 11PM (Fri - Sat)
@@ -748,12 +812,14 @@
   last_updated: 4/30
 
 - name: Little MissMuffin N Her Stuffin
+  category: Restaurant
   status: open
   instagram: https://www.instagram.com/littlemissmuffinny/
   notes: “Aside from the eponymous muffins, they also have wonderful patties and other Caribbean food”
   last_updated: 5/7
 
 - name: LOOK by Plant Love House
+  category: Restaurant
   status: open
   hours: 12 - 10PM (Tue - Sun)
   url: https://www.plantlovehouse.com/look
@@ -770,6 +836,7 @@
   last_updated: 7/3
 
 - name: Lowerline
+  category: Restaurant
   status: open
   hours: 4 - 9PM (Tue - Sun)
   url: https://www.lowerlinebk.com
@@ -787,15 +854,19 @@
   last_updated: 6/16
 
 - name: Maison Yaki
+  category: Restaurant
   url: http://www.maisonyaki.com/
   instagram: https://www.instagram.com/maisonyaki/
   notes: 'Black Entrepreneur popup series begins July 8. See <a href="https://www.instagram.com/p/CCBlJHpDv4r/">their Instagram post</a> for more details.'
+  services:
+    resy: https://resy.com/cities/ny/maison-yaki
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund
   last_updated: 7/3
 
 - name: Maya Taqueria
+  category: Restaurant
   status: open
   url: https://www.mayataqueria.com
   instagram: https://www.instagram.com/mayataqueria/
@@ -808,6 +879,7 @@
   last_updated: 7/3
 
 - name: Mei Chi Liquors
+  category: Wine Shop
   status: open
   phone: (718) 622-1403
   url: https://www.brooklyncellars.com
@@ -817,6 +889,7 @@
   
   
 - name: MeMe’s Diner
+  category: Restaurant
   status: open
   url: https://www.memesdiner.com
   instagram: https://www.instagram.com/memesdiner/
@@ -832,6 +905,7 @@
   last_updated: 7/3
 
 - name: Mermaid’s Garden
+  category: Grocer
   status: open
   url: https://www.mermaidsgardennyc.com
   hours: 12 - 7PM (Tue - Fri), 11AM - 6PM (Sat/Sun)
@@ -841,6 +915,7 @@
   last_updated: 7/3
 
 - name: Mexicocina Agaveria
+  category: Restaurant
   status: open
   url: https://mexicocinanyc.com
   instagram: https://www.instagram.com/mexicocina_agaveria/
@@ -855,6 +930,7 @@
   last_updated: 7/3
 
 - name: Milk Bar
+  category: Cafe
   status: open
   hours: 9AM - 2PM (Wed - Sun)
   url: https://www.milkbarbrooklyn.com
@@ -868,6 +944,7 @@
   last_updated: 7/3
 
 - name: Mille-Feuille
+  category: Cafe
   status: open
   hours: 9AM - 4PM
   url: https://www.millefeuille-nyc.com
@@ -879,12 +956,14 @@
   last_updated: 5/21
 
 - name: Mitchell’s Soul Food
+  category: Restaurant
   phone: (718) 789-3212
   status: open
   notes: “Seems open for pickup”
   last_updated: 4/20
 
 - name: Mokbar
+  category: Restaurant
   status: open
   hours: 12 - 5PM (Mon - Fri)
   url: https://www.mokbar.com
@@ -901,6 +980,7 @@
   last_updated: 5/21
 
 - name: Morgan’s BBQ
+  category: Restaurant
   status: open
   url: https://www.morgansbrooklynbarbecue.com
   instagram: https://www.instagram.com/morgansbrooklynbbq/
@@ -920,6 +1000,7 @@
   last_updated: 6/22
 
 - name: Mumbai Place
+  category: Restaurant
   status: open
   phone: (718) 398-7776
   hours: 12 - 10:30PM
@@ -928,6 +1009,7 @@
   last_updated: 6/15
 
 - name: Muse
+  category: Restaurant
   status: open
   instagram: https://www.instagram.com/musethai/
   url: https://musebklyn.com
@@ -936,6 +1018,7 @@
   last_updated: 6/12
 
 - name: Nacho Macho Taco
+  category: Restaurant
   status: open
   url: http://www.nachomachotaco.net
   instagram: https://www.instagram.com/nachomachotacobk/
@@ -948,6 +1031,7 @@
   last_updated: 3/18
 
 - name: Nourish Thai
+  category: Restaurant
   hours: 12 - 10:30PM
   phone: (718) 789-3981
   url: https://www.nourishthai.com
@@ -960,6 +1044,7 @@
   last_updated: 6/22
 
 - name: Nûrish
+  category: Restaurant
   status: open
   url: https://www.nurishbk.com
   instagram: https://www.instagram.com/nurishbk/
@@ -971,6 +1056,7 @@
   last_updated: 3/21
 
 - name: Ode to Babel
+  category: Bar
   statue: open
   instagram: https://instagram.com/odetobabel
   notes: Open for cocktails to go and delivery with orders through Venmo
@@ -980,6 +1066,7 @@
   last_updated: 5/30
 
 - name: Ogliastro Pizza Bar
+  category: Restaurant
   status: open
   url: https://www.ogliastropizzabar.com
   hours: 5 - 9PM
@@ -994,6 +1081,7 @@
   last_updated: 7/3
 
 - name: Olde Brooklyn Bagel Shoppe
+  category: Cafe
   status: open
   url: http://www.oldebrooklynbagelshop.com
   instagram: https://www.instagram.com/oldebkbagels/
@@ -1005,11 +1093,14 @@
   last_updated: 7/3
 
 - name: Olmsted
+  category: Restaurant
   status: open
   hours: 5 - 10PM (Wed - Sun)
   url: http://olmstednyc.com/
   instagram: https://www.instagram.com/olmstednyc/
   notes: Open for outdoor dining. Olmsted Trading Post hours 2 - 10PM (Wed - Fri), 12 - 10PM (Sat / Sun).
+  services:
+    resy: https://resy.com/cities/ny/olmsted
   links:
     - title: Order online
       url: https://bbot.menu/olmsteddeliveryorpickup/
@@ -1020,6 +1111,7 @@
   last_updated: 6/19
 
 - name: Ovenly
+  category: Cafe
   status: open
   url: https://www.oven.ly
   instagram: https://www.instagram.com/ovenly/
@@ -1033,12 +1125,15 @@
   last_updated: 7/3
 
 - name: Oxalis
+  category: Restaurant
   status: open
   url: https://www.oxalisnyc.com
   phone: (347) 627-8298
   hours: 3 - 7PM (Tue - Sun, cocktails only Tue - Thu)
   instagram: https://www.instagram.com/oxalisnyc/
   notes: Open for pickup and delivery. Breakfast burritos available 10am until sold out Fri - Sun.
+  services:
+    resy: https://resy.com/cities/ny/fausto
   links:
     - title: Pantry box
       url: https://boxalis.com
@@ -1049,6 +1144,7 @@
   last_updated: 7/8
 
 - name: Patsy’s Pizzeria
+  category: Restaurant
   status: open
   url: https://parkslope.patsyspizza.nyc
   instagram: https://www.instagram.com/patsyspizzabk/
@@ -1063,6 +1159,7 @@
   last_updated: 7/3
 
 - name: Pennyhouse Cafe
+  category: Cafe
   url: http://www.pennyhousecafe.com
   hours: 6AM - 6PM
   phone: (347) 240-7281
@@ -1072,6 +1169,7 @@
   last_updated: 5/7
 
 - name: Piquant
+  category: Restaurant
   instagram: https://www.instagram.com/piquantnyc/
   url: https://www.piquantnyc.com
   phone: (718) 484-4114
@@ -1080,6 +1178,7 @@
   last_updated: 7/3
   
 - name: Puerto Viejo
+  category: Restaurant
   phone: (718) 398-3758
   hours: 11AM – 11PM (Mon – Sat)
   url: http://www.puertoviejony.com/
@@ -1088,6 +1187,7 @@
   last_updated: 7/3
 
 - name: Private Yoga Lessons
+  category: Fitness
   status: open
   url: https://www.privateyogasoho.com
   phone: (740) 221-3048
@@ -1095,6 +1195,7 @@
   last_updated: 3/25
 
 - name: R&D Foods
+  category: Restaurant
   url: https://www.rdfoodsbklyn.com/
   instagram: https://www.instagram.com/rdfoods/
   phone: (347) 915-1196
@@ -1108,6 +1209,7 @@
   last_updated: 7/8
 
 - name: Rose’s
+  category: Restaurant
   status: closed
   phone: (718) 230-0427
   url: http://www.rosesbklyn.com
@@ -1120,6 +1222,7 @@
   last_updated: 4/3
 
 - name: Ruby Kitchen
+  category: Restaurant
   status: open
   phone: (718) 789-4633
   notes: Open for pickup and delivery
@@ -1128,6 +1231,7 @@
   last_updated: 5/8
 
 - name: Shaka Shaka Tiki/Companion Cafe
+  category: Restaurant
   status: closed
   url: https://www.companioncafebk.com
   instagram: https://www.instagram.com/shakashakatiki/
@@ -1138,6 +1242,7 @@
   last_updated: 3/15
 
 - name: Shane’s Brooklyn
+  category: Restaurant
   hours: 9AM - 6PM (Sun - Wed), 9AM - 9PM (Thu - Sat)
   instagram: https://www.instagram.com/shanes_brooklyn/
   services:
@@ -1147,6 +1252,7 @@
   last_updated: 7/3
 
 - name: Sharlene’s Bar
+  category: Bar
   status: closed
   instagram: https://www.instagram.com/sharlenesbar/
   notes: '“We have a Venmo account (<a href="https://venmo.com/sharlenesbar">@sharlenesbar</a>), as well as a GoFundMe, set up and would greatly appreciate any donations that can be made. As always everything will be split evenly between your favorite, and least favorite, bartenders.”'
@@ -1156,6 +1262,7 @@
   last_updated: 3/19
 
 - name: Sit & Wonder
+  category: Cafe
   status: open
   hours: 7:30AM - 2PM
   url: http://sitandwonder.net/index.html
@@ -1166,16 +1273,18 @@
   last_updated: 5/1
 
 - name: Soda Bar
+  category: Bar
   status: closed
   instagram: https://www.instagram.com/sodabarbrooklyn/
   facebook: https://www.facebook.com/Soda-Bar-111725295530380/
-  notes: Closed until further notice
+  notes: Closed until further notice.
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/soda-bar-staff-donation
   last_updated: 3/19
 
 - name: Sofreh
+  category: Restaurant
   status: open
   url: https://www.sofrehnyc.com
   instagram: https://www.instagram.com/sofreh_brooklyn/
@@ -1183,6 +1292,7 @@
   hours: 5 - 8:30PM (Tue - Sun)
   services:
     upserve: https://app.upserve.com/s/sofreh-nyc-brooklyn
+    resy: https://resy.com/cities/ny/sofreh
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/sofreh-employee-emergency-relief-fund
@@ -1191,6 +1301,7 @@
   last_updated: 6/22
 
 - name: Specific Gravity
+  category: Store
   url: https://specificgravitynyc.com
   phone: (347) 291-1766
   instagram: https://www.instagram.com/specific_gravity/
@@ -1201,6 +1312,7 @@
   last_updated: 3/24
 
 - name: Stocked Cafe & Burgers
+  category: Restaurant
   status: open
   url: https://www.stockedbrooklyn.com
   instagram: https://www.instagram.com/stockedbrooklyn/
@@ -1211,6 +1323,7 @@
   last_updated: 7/3
 
 - name: Sugarcane
+  category: Restaurant
   status: open
   url: http://www.sugarcanerestaurant.com
   phone: (718) 230-3954
@@ -1219,6 +1332,7 @@
   last_updated: 3/29
 
 - name: Sunshine & Co.
+  category: Restaurant
   status: closed
   url: http://www.sunshinecobk.com
   instagram: https://www.instagram.com/sunshinecobk/
@@ -1229,6 +1343,7 @@
   last_updated: 3/16
   
 - name: Sweet Chick
+  category: Restaurant
   status: open
   instagram: https://www.instagram.com/sweetchicklife/
   url: https://www.sweetchick.com
@@ -1242,6 +1357,7 @@
   last_updated: 7/6
 
 - name: Sweet Polly
+  category: Bar
   status: open
   instagram: https://www.instagram.com/sweetpollynyc/
   url: http://www.sweetpollynyc.com
@@ -1258,6 +1374,7 @@
   last_updated: 7/3
 
 - name: Taro Sushi
+  category: Restaurant
   status: closed
   url: https://www.tarosushibrooklyn.com
   instagram: https://www.instagram.com/tarosushi.bk/
@@ -1265,6 +1382,7 @@
   last_updated: 3/16
 
 - name: Tom’s Restaurant
+  category: Restaurant
   status: open
   url: https://tomsbrooklyn.com
   instagram: https://www.instagram.com/tomsbrooklyn/
@@ -1275,6 +1393,7 @@
   last_updated: 3/17
 
 - name: Udom Thai
+  category: Restaurant
   status: open
   url: https://www.udomthai.com
   instagram: https://www.instagram.com/udomthai/
@@ -1284,6 +1403,7 @@
   last_updated: 3/30
 
 - name: Underhill Greek Eatery
+  category: Restaurant
   status: open
   phone: (718) 484-3744
   hours: 3:30 - 9:30PM
@@ -1298,6 +1418,7 @@
     postmates: https://postmates.com/merchant/underhill-cafe-grill-brooklyn
 
 - name: Unnameable Books
+  category: Store
   phone: (718) 789-1534
   url: http://unnameablebooks.blogspot.com
   instagram: https://www.instagram.com/unnameablebooks/
@@ -1308,6 +1429,7 @@
   last_updated: 7/3
 
 - name: Van Leeuwen Ice Cream
+  category: Dessert
   status: open
   url: https://vanleeuwenicecream.com/location/prospect-heights/
   instagram: https://www.instagram.com/vanleeuwenicecream/
@@ -1323,6 +1445,7 @@
       url: https://squareup.com/gift/FR6ZMQGP6CJ1S/order?external_source=giveandgetlocal
 
 - name: Vanderbilt Wine Merchants
+  category: Wine Shop
   status: open
   url: https://vanderbilt.wine
   instagram: https://instagram.com/vanderbiltwine
@@ -1331,6 +1454,7 @@
   last_updated: 5/7
 
 - name: Washington Ave. Cafe
+  category: Cafe
   status: open
   phone: (718) 230-3734
   hours: 5:30AM - 4:00PM
@@ -1340,6 +1464,7 @@
   last_updated: 3/29
 
 - name: Weather Up
+  category: Bar
   status: open
   hours: 3 - 8PM (Thu - Sun)
   url: http://www.weatherupnyc.com/
@@ -1351,6 +1476,7 @@
   last_updated: 7/7
 
 - name: White Tiger
+  category: Restaurant
   status: open
   hours: 5 - 9PM (Wed - Fri), 1 - 9PM (Sat - Sun)
   url: http://www.whitetiger.nyc
@@ -1364,6 +1490,7 @@
   last_updated: 6/6
 
 - name: Wine Exchange
+  category: Wine Shop
   status: open
   url: https://www.wineexchangebkn.com
   phone: (718) 783-7500
@@ -1372,6 +1499,7 @@
   last_updated: 7/8
 
 - name: The Winey Neighbor
+  category: Wine Shop
   status: open
   url: https://wineyneighbor.com
   instagram: https://www.instagram.com/wineyneighbor/
@@ -1380,6 +1508,7 @@
   last_updated: 3/26
 
 - name: Zaytoons
+  category: Restaurant
   status: open
   phone: (718) 230-3200
   url: https://zaytoons.com
