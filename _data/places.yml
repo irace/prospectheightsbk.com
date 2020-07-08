@@ -1277,7 +1277,7 @@
   status: closed
   instagram: https://www.instagram.com/sodabarbrooklyn/
   facebook: https://www.facebook.com/Soda-Bar-111725295530380/
-  notes: Closed until further notice.
+  notes: Closed until further notice
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/soda-bar-staff-donation
@@ -1466,14 +1466,14 @@
 - name: Weather Up
   category: Bar
   status: open
-  hours: 3 - 8PM (Thu - Sun)
+  hours: 4 - 9PM
   url: http://www.weatherupnyc.com/
   notes: Outdoor seating is available. Also open for pickup.
   instagram: https://www.instagram.com/weatherupbars/
   links:
     - url: https://www.gofundme.com/f/weather-up-staff-relief
       title: Staff relief fund
-  last_updated: 7/7
+  last_updated: 7/8
 
 - name: White Tiger
   category: Restaurant
