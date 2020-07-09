@@ -1,0 +1,18 @@
+<div class="w-100 w-50-ns content-center">
+  <h4 class="di f4 lh-copy">
+  {% if place.url %}
+    <a class="link dim dark-blue" href="{{ place.url }}">{{ place.name }}</a>
+  {% else %}
+    {{ place.name }}
+  {% endif %}
+  </h4>
+  {% if place.social.instagram %}
+    <a class="v-mid" href="{{ place.social.instagram }}"><img class="social_icon mini" src="icons/instagram.png"/></a>
+  {% endif %}
+  {% if place.social.facebook %}
+    <a class="v-mid" href="{{ place.social.facebook }}"><img class="social_icon mini" src="icons/facebook.png"/></a>
+  {% endif %}
+  {% if place.social.untappd %}
+    <a class="v-mid" href="{{ place.social.untappd }}"><img class="social_icon mini" src="icons/untappd.png"/></a>
+  {% endif %}
+</div>
