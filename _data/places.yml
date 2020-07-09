@@ -21,7 +21,8 @@
 
 - name: 333 Lounge
   category: Bar
-  instagram: https://www.instagram.com/333.lounge/
+  social:
+    instagram: https://www.instagram.com/333.lounge/
   url: https://www.333lounge.com
   phone: (718) 399-8008
   status: open
@@ -30,7 +31,8 @@
   last_updated: 7/3
 
 - name: Acme Pet Food Inc
-  instagram: https://www.instagram.com/acmepetfood/
+  social:
+    instagram: https://www.instagram.com/acmepetfood/
   phone: (718) 789-8062
   hours: 10AM - 7PM (Mon - Fri), 10AM - 5PM (Sat), 11AM - 5PM (Sun)
   notes: "“Limit exposure to our staff and yourself, please wear a mask when visiting, wait outside if crowded. No contact curbside and local home delivery available.”"
@@ -40,7 +42,8 @@
   category: Restaurant
   status: open
   url: https://altacalidadbk.com
-  instagram: https://www.instagram.com/altacalidadbk/
+  social:
+    instagram: https://www.instagram.com/altacalidadbk/
   hours: 11:30AM - 8:30PM (Sun - Thu), 11:30AM - 9:30PM (Fri / Sat)
   services:
     seamless: https://www.seamless.com/menu/alta-calidad-552-vanderbilt-ave-brooklyn/460349
@@ -57,7 +60,8 @@
   category: Restaurant
   status: open
   url: http://www.amorinapizza.com/
-  instagram: https://www.instagram.com/amorinapizza/
+  social:
+    instagram: https://www.instagram.com/amorinapizza/
   hours: 4 - 8PM (Thu, Sun), 4 - 9PM (Fri / Sat)
   phone: (718) 230-3030
   notes: Open for outdoor dining, pickup and delivery.
@@ -68,7 +72,8 @@
 - name: Ample Hills
   category: Dessert
   url: https://www.amplehills.com
-  instagram: https://www.instagram.com/amplehills/
+  social:
+    instagram: https://www.instagram.com/amplehills/
   status: closed
   hours: 1 - 9PM (Sat), 1 - 8PM (Sun)
   last_updated: 7/7
@@ -77,7 +82,8 @@
   category: Restaurant
   status: open
   url: https://www.antoniosbrooklyn.com
-  instagram: https://www.instagram.com/antonios_pizza_/
+  social:
+    instagram: https://www.instagram.com/antonios_pizza_/
   phone: ‭(718) 398-2300‬
   hours: 11AM - 9PM
   notes: Open for pickup and delivery
@@ -91,7 +97,8 @@
   category: Cafe
   hours: 12 - 7PM (Tue - Sun)
   url: https://thebakeryonbergennyc.com
-  instagram: https://www.instagram.com/thebakeryonbergen/
+  social:
+    instagram: https://www.instagram.com/thebakeryonbergen/
   notes: '“Delicious cookies, cupcakes and coffee. Also made to order cakes.” <a href="https://thebakeryonbergennyc.com/order-2">Online ordering form</a>.'
   last_updated: 5/1
 
@@ -105,7 +112,8 @@
 - name: Bar Goto Niban
   category: Bar
   notes: Open for outdoor dining, pickup and delivery.
-  instagram: https://www.instagram.com/bargoto_niban/
+  social:
+    instagram: https://www.instagram.com/bargoto_niban/
   url: https://www.bargoto.com/location/bar-goto-niban/
   hours: 4 - 9PM
   services:
@@ -116,7 +124,8 @@
 - name: Bar Meridian
   category: Bar
   notes: Outdoor seating is available. Also open for pickup
-  instagram: https://www.instagram.com/bar_meridian_nyc/
+  social:
+    instagram: https://www.instagram.com/bar_meridian_nyc/
   url: https://www.barmeridian.com
   toast: https://www.toasttab.com/bar-meridian/v3
   hours: 4 - 10PM
@@ -127,7 +136,8 @@
   
 - name: BCakeNY
   category: Dessert
-  instagram: https://www.instagram.com/bcakeny/
+  social:
+    instagram: https://www.instagram.com/bcakeny/
   url: https://www.bcakeny.com/bcakenyshop/
   phone: (347) 787-7199
   status: open
@@ -137,7 +147,8 @@
   category: Restaurant
   status: open
   url: http://www.beardedladybrooklyn.com
-  instagram: https://www.instagram.com/bearded_lady_brooklyn/
+  social:
+    instagram: https://www.instagram.com/bearded_lady_brooklyn/
   notes: Open for outdoor dining and pickup.
   phone: (718) 230-7600
   hours: 3 - 11PM (Thu - Sun)
@@ -150,8 +161,9 @@
   category: Bar
   status: open
   url: https://beerstreetsouth550.com
-  instagram: https://www.instagram.com/beerstreetsouth/
-  untappd: https://untappd.com/v/beer-street-south/9792005
+  social:
+    instagram: https://www.instagram.com/beerstreetsouth/
+    untappd: https://untappd.com/v/beer-street-south/9792005
   hours: 2 - 8PM
   notes: '<a href="https://beerstreetsouth550.com">Order online</a> for pickup⁣ or stop by'
   links:
@@ -163,7 +175,8 @@
   category: Deli
   status: open
   url: http://www.bergenbagels.com/
-  instagram: https://www.instagram.com/bergen_bagels/
+  social:
+    instagram: https://www.instagram.com/bergen_bagels/
   hours: 7AM - 3PM
   notes: Open for pickup and delivery
   services:
@@ -175,8 +188,9 @@
   category: Bar
   status: open
   url: https://www.bierwaxnyc.com
-  instagram: https://www.instagram.com/bierwax/
-  untappd: https://untappd.com/v/bierwax/7133448
+  social:
+    instagram: https://www.instagram.com/bierwax/
+    untappd: https://untappd.com/v/bierwax/7133448
   phone: (347) 533-8449
   hours: 4 - 11PM (Mon - Wed), 3 - 11PM (Thu - Sun)
   notes: Outdoor seating is available. Also open for pickup and delivery.
@@ -193,8 +207,9 @@
   category: Bar
   status: open
   hours: 3 - 7PM (Fri), 2 - 7PM (Sat), 1 - 6PM (Sun)
-  instagram: https://www.instagram.com/biltbar/
-  facebook: https://www.facebook.com/pages/category/Lounge/Bilt-Bar-100153434688553/
+  social:
+    instagram: https://www.instagram.com/biltbar/
+    facebook: https://www.facebook.com/pages/category/Lounge/Bilt-Bar-100153434688553/
   notes: Outdoor seating is available. Also open for pickup food and drinks
   links:
     - title: Staff relief fund
@@ -204,7 +219,8 @@
 - name: BKLYN Clay
   status: open
   url: https://bklynclay.com
-  instagram: https://www.instagram.com/bklynclay/
+  social:
+    instagram: https://www.instagram.com/bklynclay/
   notes: Available for firing services with a food or beverage purchase. Details available on their website.
   links:
     - title: Staff relief fund
@@ -217,7 +233,8 @@
   category: Grocer
   status: open
   url: https://www.bklynlarder.com
-  instagram: https://www.instagram.com/bklynlarder/
+  social:
+    instagram: https://www.instagram.com/bklynlarder/
   phone: (718) 783-1250
   notes: Outdoor seating is available. Also open for pickup and delivery.
   links:
@@ -230,7 +247,8 @@
 - name: BKLYN Crepe & Juice
   status: open
   url: http://brooklyncrepe.com
-  instagram: https://www.instagram.com/bklyncrepe/
+  social:
+    instagram: https://www.instagram.com/bklyncrepe/
   hours: 10AM - 8PM
   notes: Open for pickup and delivery
   services:
@@ -244,7 +262,8 @@
 - name: Black Iron Burger
   status: closed
   url: https://www.blackironburger.com/location/black-iron-burger-park-slope/
-  instagram: https://www.instagram.com/blackironburger
+  social:
+    instagram: https://www.instagram.com/blackironburger
   phone: (929) 419-6888
   notes: Closed until further notice
   links:
@@ -255,8 +274,9 @@
   last_updated: 3/25
 
 - name: Bleachers Sports Bar & Grill
-  instagram: https://www.instagram.com/240bleachers/
-  facebook: https://www.facebook.com/240bleachers/
+  social:
+    instagram: https://www.instagram.com/240bleachers/
+    facebook: https://www.facebook.com/240bleachers/
   phone: (718) 857-1111
   hours: 1 - 8PM
   status: open
@@ -269,7 +289,8 @@
 - name: Blue Marble
   status: open
   url: https://www.bluemarbleicecream.com
-  instagram: https://www.instagram.com/bluemarblebk/
+  social:
+    instagram: https://www.instagram.com/bluemarblebk/
   hours: 8AM - 7PM (Mon - Thu), 9AM - 9PM (Fri - Sun)
   phone: (718) 399-6926
   notes: Coffee, pastries, pints, and cups available from the take-out window or for delivery via Postmates. “Our hours and offerings may vary, but we will post daily.”
@@ -282,7 +303,8 @@
   phone: (347) 663-3674
   hours: 12 - 9:30PM
   url: https://www.bornbklyn.com/
-  instagram: https://www.instagram.com/bornthaibklyn/
+  social:
+    instagram: https://www.instagram.com/bornthaibklyn/
   notes: Open for pickup and delivery
   services:
     doordash: https://www.doordash.com/store/bergen-bagels-brooklyn-312992/en-US
@@ -294,7 +316,8 @@
 - name: Branded Saloon
   status: open
   url: https://www.brandedsaloon.com
-  instagram: https://www.instagram.com/brandedsaloon/
+  social:
+    instagram: https://www.instagram.com/brandedsaloon/
   phone: (718) 484-8704
   hours: 5 - 11:45PM
   notes: 'Food and drink pickup and delivery (catering via <a href="https://www.ezcater.com/catering/branded-saloon-3">EZCater</a>). You can also Venmo @Alex-Savoie directly.'
@@ -310,7 +333,8 @@
 - name: Broccolino
   category: Restaurant
   notes: Open for outdoor dining, pickup and delivery.
-  instagram: https://www.instagram.com/broccolinonyc/
+  social:
+    instagram: https://www.instagram.com/broccolinonyc/
   url: https://www.broccolinonyc.com
   phone: (718) 678-4200​
   services:
@@ -320,7 +344,8 @@
 - name: Brooklyn Metal Works
   status: closed
   url: http://bkmetalworks.com
-  instagram: https://www.instagram.com/brooklynmetalworks/
+  social:
+    instagram: https://www.instagram.com/brooklynmetalworks/
   notes: Closed until further notice. Shop online or buy gift certificates.
   last_updated: 3/24
   links:
@@ -331,7 +356,8 @@
   category: Restaurant
   status: open
   url: https://www.burritobarbrooklyn.com
-  instagram: https://www.instagram.com/burritobarbk
+  social:
+    instagram: https://www.instagram.com/burritobarbk
   phone: (718) 230-8646
   hours: 3 - 10PM
   notes: Open for outdoor dining, pickup and delivery.
@@ -343,7 +369,8 @@
   category: Restaurant
   status: open
   url: http://www.cataldos54.com
-  instagram: https://www.instagram.com/cataldosbk/
+  social:
+    instagram: https://www.instagram.com/cataldosbk/
   phone: (718) 857-6700
   hours: 12 - 8PM
   notes: Open for outdoor dining and pickup.
@@ -353,7 +380,8 @@
   category: Restaurant
   status: open
   url: https://www.cherylsglobalsoul.com
-  instagram: https://www.instagram.com/cherylsglobalsoul/
+  social:
+    instagram: https://www.instagram.com/cherylsglobalsoul/
   hours: 12 - 8PM
   phone: (347) 529-2855
   notes: 'Call for pickup and delivery. <a href="https://12fcfcc5-9c0c-71b4-d2e6-789a72c3925c.filesusr.com/ugd/370d25_c8eae6a23a7944f28114f5f0b83f4f3a.pdf">Delivery menu here</a>.'
@@ -363,7 +391,8 @@
   category: Restaurant
   status: open
   url: https://www.chick-p.com
-  instagram: https://www.instagram.com/chickpbrooklyn/
+  social:
+    instagram: https://www.instagram.com/chickpbrooklyn/
   phone: (718) 783-1525
   hours: 11AM - 10PM (9PM Sun)
   notes: '10% off when ordering directly from <a href="https://eat.9fold.me/index.html#/10955">their website</a>'
@@ -377,7 +406,8 @@
   category: Restaurant
   status: open
   url: http://www.chukobk.com
-  instagram: https://www.instagram.com/chukobk/
+  social:
+    instagram: https://www.instagram.com/chukobk/
   phone: (347) 425-9570
   hours: 5:30 - 9PM
   notes: Open for outdoor dining, pickup and delivery.
@@ -392,7 +422,8 @@
   hours: 9AM - 3PM (Mon - Fri), 9AM - 5PM (Sat / Sun)
   phone: (716) 666-2426
   url: https://www.ciaogloria.com
-  instagram: https://www.instagram.com/ciaoglorianyc/
+  social:
+    instagram: https://www.instagram.com/ciaoglorianyc/
   notes: Open for outdoor dining, pickup and delivery.
   services:
     caviar: https://www.trycaviar.com/t/m/ciao-gloria-16959
@@ -405,7 +436,8 @@
 
 - name: Cinnamon Girl
   category: Cafe
-  instagram: https://www.instagram.com/cinnamon_girl_bk/
+  social:
+    instagram: https://www.instagram.com/cinnamon_girl_bk/
   notes: Open for pickup “pantry provisions, groceries and delicious treats”
   last_updated: 5/13
 
@@ -414,7 +446,8 @@
   status: open
   phone: (347) 955-4519
   url: http://citricobrooklyn.com/
-  instagram: https://www.instagram.com/citricobk/
+  social:
+    instagram: https://www.instagram.com/citricobk/
   notes: Open for outdoor dining, pickup and delivery.
   links:
       - title: Order online
@@ -425,8 +458,9 @@
   category: Bar
   status: open
   url: https://www.covenhovennyc.com
-  instagram: https://www.instagram.com/covenhovennyc/
-  untappd: https://untappd.com/v/covenhoven/1406024
+  social:
+    instagram: https://www.instagram.com/covenhovennyc/
+    untappd: https://untappd.com/v/covenhoven/1406024
   phone: (718) 483-9950
   hours: 12 - 10PM
   notes: Outdoor seating is available. Also open for pickup.
@@ -436,7 +470,8 @@
   category: Restaurant
   status: open
   url: https://orders.dickeys.com/quote/location
-  instagram: https://www.instagram.com/dickeys.bk/
+  social:
+    instagram: https://www.instagram.com/dickeys.bk/
   phone: (347) 889-5400
   hours: 10AM - 10PM
   notes: Open for pickup and delivery
@@ -446,7 +481,8 @@
 
 - name: Don Chingon
   category: Restaurant
-  instagram: https://www.instagram.com/donchingonnyc/
+  social:
+    instagram: https://www.instagram.com/donchingonnyc/
   phone: (718) 576-3521
   url: http://donchingon.nyc
   notes: Open for outdoor dining and pickup.
@@ -456,8 +492,9 @@
 - name: Dough Studio
   category: Dessert
   status: open
-  facebook: https://www.facebook.com/Dough-Studio-105988981103219
-  instagram: https://www.instagram.com/doughstudio_/
+  social:
+    facebook: https://www.facebook.com/Dough-Studio-105988981103219
+    instagram: https://www.instagram.com/doughstudio_/
   notes: "“I started this business to pay for grad school! So if you love cinnamon rolls or pizza, you better try ours. Delivery in Brooklyn 🧡”"
   last_updated: 5/13
 
@@ -466,7 +503,8 @@
   status: open
   hours: 8AM - 4PM (Wed - Sun)
   url: https://www.doughnutplant.com
-  instagram: https://www.instagram.com/doughnutplant/
+  social:
+    instagram: https://www.instagram.com/doughnutplant/
   notes: Order online for pickup and delivery. Walkups available by scanning a QR code.
   links:
     - title: Order online
@@ -477,7 +515,8 @@
 
 - name: El Paso Mexican Grill
   category: Restaurant
-  instagram: https://www.instagram.com/elpasomexgrill/
+  social:
+    instagram: https://www.instagram.com/elpasomexgrill/
   phone: (917) 905-3401
   status: open
   services:
@@ -486,7 +525,8 @@
 
 - name: Eve’s Lounge
   category: Bar
-  instagram: https://www.instagram.com/eveslounge/
+  social:
+    instagram: https://www.instagram.com/eveslounge/
   url: https://eves769.com
   phone: (347) 442-5959
   status: open
@@ -498,7 +538,8 @@
   category: Restaurant
   status: open
   url: https://faun.nyc
-  instagram: https://www.instagram.com/faun.nyc/
+  social:
+    instagram: https://www.instagram.com/faun.nyc/
   phone: (714) 488-0828
   hours: 3 - 10PM (Thu - Sun)
   phone: (718) 576-6120
@@ -519,7 +560,8 @@
   status: open
   url: https://www.faustobrooklyn.com
   hours: 4 - 8:30PM (Wed - Sun)
-  instagram: https://www.instagram.com/faustobrooklyn/
+  social:
+    instagram: https://www.instagram.com/faustobrooklyn/
   notes: Open for pickup and delivery. Still doing ‘Fausto at Home’ on Fridays.
   services:
     resy: https://resy.com/cities/ny/fausto
@@ -535,7 +577,8 @@
   status: open
   hours: 12 - 7PM (Tue - Sat)
   url: http://www.fermentedgrapes.net
-  instagram: https://www.instagram.com/fermentedgrapesbk/
+  social:
+    instagram: https://www.instagram.com/fermentedgrapesbk/
   phone: (718) 230-3216
   notes: 'Open for contactless pickup and delivery with walkups now available. Call or email <a href="mailto:customerservice@fermentedgrapes.net">customerservice@fermentedgrapes.net</a> with what you’re looking for and a phone number to pre-order.'
   last_updated: 7/7
@@ -555,7 +598,8 @@
   category: Restaurant
   status: open
   url: http://www.genbrooklyn.com
-  instagram: https://www.instagram.com/gen.brooklyn/
+  social:
+    instagram: https://www.instagram.com/gen.brooklyn/
   phone: (718) 398-3550
   hours: 4 - 9PM
   notes: Open for outdoor dining, pickup and delivery.
@@ -570,8 +614,9 @@
   category: Bar
   status: open
   url: http://goldstarbeercounter.com
-  instagram: https://www.instagram.com/goldstarbeercounter/
-  untappd: https://untappd.com/v/gold-star-beer-counter/3171446
+  social:
+    instagram: https://www.instagram.com/goldstarbeercounter/
+    untappd: https://untappd.com/v/gold-star-beer-counter/3171446
   hours: 11AM - 9PM
   notes: 'Beer and cider to go. Check website and <a href="https://untappd.com/v/gold-star-beer-counter/3171446">Untappd</a> for inventory. Accepting credit cards and Venmo.'
   last_updated: 3/16
@@ -581,14 +626,16 @@
   notes: Outdoor seating is available. Also open for pickup.
   status: open
   url: https://gorillacoffee.com
-  instagram: https://www.instagram.com/gorillacoffee/
+  social:
+    instagram: https://www.instagram.com/gorillacoffee/
   hours: 7AM - 9PM
   last_updated: 7/8
 
 - name: Good Life
   category: Bar
   status: open
-  instagram: https://www.instagram.com/goodlifebk/
+  social:
+    instagram: https://www.instagram.com/goodlifebk/
   notes: Serving cocktails to go, accepting orders via Venmo
   links:
     - title: Staff relief fund
@@ -601,7 +648,8 @@
   hours: 9AM - 5PM (Fri - Tue)
   url: https://www.caffedemartini.com
   phone: (929) 306-8332
-  instagram: https://www.instagram.com/grancaffedemartini/
+  social:
+    instagram: https://www.instagram.com/grancaffedemartini/
   notes: Open outdoor dining and pickup.
   services:
     caviar: https://www.trycaviar.com/m/gran-caffe-de-martini-19266
@@ -625,7 +673,8 @@
   category: Restaurant
   status: open
   url: https://www.brooklynshomeslicepizza.com
-  instagram: https://www.instagram.com/brooklyns_homeslice/
+  social:
+    instagram: https://www.instagram.com/brooklyns_homeslice/
   phone: (347) 632-9824
   hours: 11:30 - 12:00AM (Mon - Thu), 11:30 - 2:30AM (Fri/Sat), 11:30 - 12:00AM (Sun)
   services:
@@ -637,7 +686,8 @@
   status: open
   hours: 7AM - 5PM
   url: https://www.hungryghostcoffee.com/
-  instagram: https://www.instagram.com/hungryghostcoffee/
+  social:
+    instagram: https://www.instagram.com/hungryghostcoffee/
   notes: Open for pickup
   links:
     - title: Gift cards (20% off)
@@ -669,7 +719,8 @@
   category: Restaurant
   status: open
   url: http://www.jamesrestaurantny.com
-  instagram: https://www.instagram.com/jamesbklyn/
+  social:
+    instagram: https://www.instagram.com/jamesbklyn/
   phone: (718) 942-4255
   hours: 4 - 9PM (Mon - Sat), 2 - 7PM (Sun)
   notes: Outdoor seating is available. Also open for pickup and delivery.
@@ -685,8 +736,9 @@
   category: Cafe
   status: open
   url: http://www.joycebakeshop.com
-  instagram: https://www.instagram.com/joycebakeshop/
-  facebook: https://www.facebook.com/Joyce-Bakeshop-107322189660/
+  social:
+    instagram: https://www.instagram.com/joycebakeshop/
+    facebook: https://www.facebook.com/Joyce-Bakeshop-107322189660/
   phone: (718) 623-7470
   hours: 9AM - 5PM (Wed - Sun)
   notes: Open for pickup
@@ -717,7 +769,8 @@
   hours: 12:30 - 2:30PM (everyday but Sunday), 5 - 9PM (everyday)
   phone: (718) 230-1381
   url: http://www.kisushigroup.com
-  instagram: https://www.instagram.com/ki_sushi_flatbush/
+  social:
+    instagram: https://www.instagram.com/ki_sushi_flatbush/
   links:
     - title: Order online
       url: http://www.kisushigroup.com/catalog.aspx?cid=2
@@ -728,7 +781,8 @@
   category: Restaurant
   status: open
   url: https://www.kimchigrill.com
-  instagram: https://www.instagram.com/kimchigrill/
+  social:
+    instagram: https://www.instagram.com/kimchigrill/
   phone: (718) 360-1839
   hours: 11:30AM - 10:00PM (10:30PM Fri/Sat)
   notes: Open for pickup and delivery
@@ -738,14 +792,16 @@
 
 - name: Kombit Bar and Restaurant
   category: Restaurant
-  instagram: https://www.instagram.com/kombitbar/
+  social:
+    instagram: https://www.instagram.com/kombitbar/
   status: closed
   last_updated: 6/12 
 
 - name: Konditori
   category: Cafe
   status: open
-  instagram: https://www.instagram.com/konditori/
+  social:
+    instagram: https://www.instagram.com/konditori/
   notes: Outdoor seating is available. Also open for pickup.
   phone: (773) 797-2118
   links:
@@ -759,7 +815,8 @@
   url: https://kulushkat.com
   hours: 11 - 10PM (Tue - Sun)
   phone: (347) 799-1972
-  instagram: https://www.instagram.com/kulushkat/
+  social:
+    instagram: https://www.instagram.com/kulushkat/
   notes: Open for outdoor dining, pickup and delivery.
   services:
     chownow: https://direct.chownow.com/order/8549/locations/11540
@@ -770,7 +827,8 @@
   status: open
   url: https://laloubrooklyn.com
   hours: 5 - 9PM
-  instagram: https://www.instagram.com/laloubrooklyn/
+  social:
+    instagram: https://www.instagram.com/laloubrooklyn/
   notes: Open for outdoor dining. Larder open 12 - 5PM on Saturday and Sunday.
   services:
     resy: https://resy.com/cities/ny/lalou
@@ -783,7 +841,8 @@
   category: Services
   status: open
   phone: (917) 745-5433
-  instagram: https://www.instagram.com/lifereorganized/
+  social:
+    instagram: https://www.instagram.com/lifereorganized/
   url: https://www.getmylifereorganized.com
   notes: “​Solving home, life and small business problems to get your life reorganized. Offering remote assistance only (see website for service offerings).”
   last_updated: 4/23
@@ -792,7 +851,8 @@
   category: Restaurant
   status: open
   url: https://www.stationfoods.com
-  instagram: https://instagram.com/lincolnstationbk
+  social:
+    instagram: https://instagram.com/lincolnstationbk
   hours: 5 - 8PM
   phone: (718) 399-2211
   notes: 'Call ahead for pickup through the front door or order online for delivery. Send requests to <a href="mailto:info@stationfoods.com">info@stationfoods.com</a>.'
@@ -807,14 +867,16 @@
   phone: (718) 783-0770
   hours: 8AM - 10PM (Sun - Thu), 8AM - 11PM (Fri - Sat)
   url: http://www.littlecupcakebakeshop.com
-  instagram: https://www.instagram.com/littlecupcakebakeshop/
+  social:
+    instagram: https://www.instagram.com/littlecupcakebakeshop/
   notes: 'Open for pickup. Also <a href="http://www.littlecupcakebakeshop.com">online ordering</a> from their website'
   last_updated: 4/30
 
 - name: Little MissMuffin N Her Stuffin
   category: Restaurant
   status: open
-  instagram: https://www.instagram.com/littlemissmuffinny/
+  social:
+    instagram: https://www.instagram.com/littlemissmuffinny/
   notes: “Aside from the eponymous muffins, they also have wonderful patties and other Caribbean food”
   last_updated: 5/7
 
@@ -823,7 +885,8 @@
   status: open
   hours: 12 - 10PM (Tue - Sun)
   url: https://www.plantlovehouse.com/look
-  instagram: https://www.instagram.com/byplantlovehouse/
+  social:
+    instagram: https://www.instagram.com/byplantlovehouse/
   phone: (718) 622-0026
   notes: Open for outdoor dining, pickup and delivery.
   services:
@@ -840,7 +903,8 @@
   status: open
   hours: 4 - 9PM (Tue - Sun)
   url: https://www.lowerlinebk.com
-  instagram: https://www.instagram.com/lowerline/
+  social:
+    instagram: https://www.instagram.com/lowerline/
   phone: (347) 533-7110
   notes: Open for pickup and delivery
   services:
@@ -856,7 +920,8 @@
 - name: Maison Yaki
   category: Restaurant
   url: http://www.maisonyaki.com/
-  instagram: https://www.instagram.com/maisonyaki/
+  social:
+    instagram: https://www.instagram.com/maisonyaki/
   notes: 'Black Entrepreneur popup series begins July 8. See <a href="https://www.instagram.com/p/CCBlJHpDv4r/">their Instagram post</a> for more details.'
   services:
     resy: https://resy.com/cities/ny/maison-yaki
@@ -869,7 +934,8 @@
   category: Restaurant
   status: open
   url: https://www.mayataqueria.com
-  instagram: https://www.instagram.com/mayataqueria/
+  social:
+    instagram: https://www.instagram.com/mayataqueria/
   hours: 11AM - 12AM
   phone: (732) 535-2717
   notes: Open for outdoor dining, pickup and delivery.
@@ -892,7 +958,8 @@
   category: Restaurant
   status: open
   url: https://www.memesdiner.com
-  instagram: https://www.instagram.com/memesdiner/
+  social:
+    instagram: https://www.instagram.com/memesdiner/
   phone: (718) 636-2900
   # services:
   #   caviar: https://www.trycaviar.com/m/memes-diner-10883
@@ -909,7 +976,8 @@
   status: open
   url: https://www.mermaidsgardennyc.com
   hours: 12 - 7PM (Tue - Fri), 11AM - 6PM (Sat/Sun)
-  instagram: https://www.instagram.com/mgfishnyc/
+  social:
+    instagram: https://www.instagram.com/mgfishnyc/
   phone: (718) 638-1910
   notes: 'Pickup or delivery available via <a href="https://www.mercato.com/shop/mermaids-garden">Mercato</a>.'
   last_updated: 7/3
@@ -918,7 +986,8 @@
   category: Restaurant
   status: open
   url: https://mexicocinanyc.com
-  instagram: https://www.instagram.com/mexicocina_agaveria/
+  social:
+    instagram: https://www.instagram.com/mexicocina_agaveria/
   phone: (347) 663-2951
   hours: 9AM - 11PM (12AM Fri/Sat)
   notes: Open for outdoor dining, pickup and delivery.
@@ -934,7 +1003,8 @@
   status: open
   hours: 9AM - 2PM (Wed - Sun)
   url: https://www.milkbarbrooklyn.com
-  instagram: https://www.instagram.com/milkbarbrooklyn/
+  social:
+    instagram: https://www.instagram.com/milkbarbrooklyn/
   notes: Open for outdoor dining and pickup.
   links:
     - title: Gift cards
@@ -948,7 +1018,8 @@
   status: open
   hours: 9AM - 4PM
   url: https://www.millefeuille-nyc.com
-  instagram: https://www.instagram.com/millefeuillenyc/
+  social:
+    instagram: https://www.instagram.com/millefeuillenyc/
   notes: 'Store is open again, with delivery also available in advance through their <a href="https://millefeuillebakery.square.site">online store</a> Order before 4PM the day before, with deliveries 8 - 10AM Thu/Sat. Delivers to Prospect Heights, Park Slope, Brooklyn Heights, Clinton Hill, Crown Heights, or Bedford Stuyvesant.'
   links:
     - title: Gift cards
@@ -967,7 +1038,8 @@
   status: open
   hours: 12 - 5PM (Mon - Fri)
   url: https://www.mokbar.com
-  instagram: https://www.instagram.com/mokbar_nyc/
+  social:
+    instagram: https://www.instagram.com/mokbar_nyc/
   phone: (347) 987-3042
   notes: 'Open for pickup and delivery. DIY ramen kits and curbside pickup are still available by emailing <a href="mailto:orders@mokbar.com">orders@mokbar.com</a>.'
   services:
@@ -983,7 +1055,8 @@
   category: Restaurant
   status: open
   url: https://www.morgansbrooklynbarbecue.com
-  instagram: https://www.instagram.com/morgansbrooklynbbq/
+  social:
+    instagram: https://www.instagram.com/morgansbrooklynbbq/
   phone: (718) 622-2224
   hours: 1 - 10:30PM (Mon - Thu), 1 - 11 (Fri), 12 - 11PM (Sat), 12 - 10:30PM (Sun)
   notes: Open for outdoor dining, pickup and delivery.
@@ -1011,7 +1084,8 @@
 - name: Muse
   category: Restaurant
   status: open
-  instagram: https://www.instagram.com/musethai/
+  social:
+    instagram: https://www.instagram.com/musethai/
   url: https://musebklyn.com
   notes:
   hours: 1 - 8:30PM (Mon/Wed/Thu), 12:30PM - 8:30PM (Fri - Sun)
@@ -1021,8 +1095,9 @@
   category: Restaurant
   status: open
   url: http://www.nachomachotaco.net
-  instagram: https://www.instagram.com/nachomachotacobk/
-  facebook: https://www.facebook.com/NachoMachoTacoBK/
+  social:
+    instagram: https://www.instagram.com/nachomachotacobk/
+    facebook: https://www.facebook.com/NachoMachoTacoBK/
   phone: (718) 622-2727
   hours: 11AM - 10PM
   notes: Open for pickup and delivery
@@ -1035,7 +1110,8 @@
   hours: 12 - 10:30PM
   phone: (718) 789-3981
   url: https://www.nourishthai.com
-  instagram: https://www.instagram.com/nourishthai/
+  social:
+    instagram: https://www.instagram.com/nourishthai/
   notes: Open for outdoor dining, pickup and delivery.
   services:
     caviar: https://www.trycaviar.com/m/nourish-thai-12825
@@ -1047,7 +1123,8 @@
   category: Restaurant
   status: open
   url: https://www.nurishbk.com
-  instagram: https://www.instagram.com/nurishbk/
+  social:
+    instagram: https://www.instagram.com/nurishbk/
   phone: (718) 484-1122
   hours: 7AM - 8PM (6PM Sun)
   notes: Open for pickup and delivery
@@ -1058,7 +1135,8 @@
 - name: Ode to Babel
   category: Bar
   statue: open
-  instagram: https://instagram.com/odetobabel
+  social:
+    instagram: https://instagram.com/odetobabel
   notes: Open for cocktails to go and delivery with orders through Venmo
   links:
     - title: Staff relief fund
@@ -1070,7 +1148,8 @@
   status: open
   url: https://www.ogliastropizzabar.com
   hours: 5 - 9PM
-  instagram: https://www.instagram.com/ogliastro.brooklyn/
+  social:
+    instagram: https://www.instagram.com/ogliastro.brooklyn/
   notes: Open for outdoor dining, pickup and delivery.
   services:
     slice: https://slicelife.com/restaurants/ny/brooklyn/11238/ogliastro-pizza-bar/menu
@@ -1084,7 +1163,8 @@
   category: Cafe
   status: open
   url: http://www.oldebrooklynbagelshop.com
-  instagram: https://www.instagram.com/oldebkbagels/
+  social:
+    instagram: https://www.instagram.com/oldebkbagels/
   hours: 8AM - 6PM (delivery until 5PM)
   phone: (718) 622-6227
   notes: Open for outdoor dining, pickup and delivery
@@ -1097,7 +1177,8 @@
   status: open
   hours: 5 - 10PM (Wed - Sun)
   url: http://olmstednyc.com/
-  instagram: https://www.instagram.com/olmstednyc/
+  social:
+    instagram: https://www.instagram.com/olmstednyc/
   notes: Open for outdoor dining. Olmsted Trading Post hours 2 - 10PM (Wed - Fri), 12 - 10PM (Sat / Sun).
   services:
     resy: https://resy.com/cities/ny/olmsted
@@ -1114,7 +1195,8 @@
   category: Cafe
   status: open
   url: https://www.oven.ly
-  instagram: https://www.instagram.com/ovenly/
+  social:
+    instagram: https://www.instagram.com/ovenly/
   hours: 9AM - 3:30PM (Mon - Fri), 8:30AM - 6PM (Sat / Sun)
   notes: Outdoor seating is available. Also open for pickup.
   links:
@@ -1130,7 +1212,8 @@
   url: https://www.oxalisnyc.com
   phone: (347) 627-8298
   hours: 3 - 7PM (Tue - Sun, cocktails only Tue - Thu)
-  instagram: https://www.instagram.com/oxalisnyc/
+  social:
+    instagram: https://www.instagram.com/oxalisnyc/
   notes: Open for pickup and delivery. Breakfast burritos available 10am until sold out Fri - Sun.
   services:
     resy: https://resy.com/cities/ny/fausto
@@ -1147,7 +1230,8 @@
   category: Restaurant
   status: open
   url: https://parkslope.patsyspizza.nyc
-  instagram: https://www.instagram.com/patsyspizzabk/
+  social:
+    instagram: https://www.instagram.com/patsyspizzabk/
   phone: (718) 622-2268
   hours: 12PM - 10PM (11PM Fri/Sat)
   notes: Open for outdoor dining, pickup and delivery.
@@ -1164,13 +1248,15 @@
   hours: 6AM - 6PM
   phone: (347) 240-7281
   notes: Open for pickup
-  instagram: https://www.instagram.com/pennyhousecafe2006/
+  social:
+    instagram: https://www.instagram.com/pennyhousecafe2006/
   status: open
   last_updated: 5/7
 
 - name: Piquant
   category: Restaurant
-  instagram: https://www.instagram.com/piquantnyc/
+  social:
+    instagram: https://www.instagram.com/piquantnyc/
   url: https://www.piquantnyc.com
   phone: (718) 484-4114
   hours: 11AM - 5PM (Tue - Sun)
@@ -1182,7 +1268,8 @@
   phone: (718) 398-3758
   hours: 11AM – 11PM (Mon – Sat)
   url: http://www.puertoviejony.com/
-  instagram: https://www.instagram.com/puertoviejony/
+  social:
+    instagram: https://www.instagram.com/puertoviejony/
   notes: Outdoor seating is available. Also open for pickup and delivery.
   last_updated: 7/3
 
@@ -1197,7 +1284,8 @@
 - name: R&D Foods
   category: Restaurant
   url: https://www.rdfoodsbklyn.com/
-  instagram: https://www.instagram.com/rdfoods/
+  social:
+    instagram: https://www.instagram.com/rdfoods/
   phone: (347) 915-1196
   hours: 11AM - 5PM (Wed - Sun)
   notes: Open for pickup and delivery.
@@ -1213,7 +1301,8 @@
   status: closed
   phone: (718) 230-0427
   url: http://www.rosesbklyn.com
-  instagram: https://www.instagram.com/rosesbklyn/
+  social:
+    instagram: https://www.instagram.com/rosesbklyn/
   hours: 12 - 6 PM
   notes: Closed until further notice
   links:
@@ -1234,7 +1323,8 @@
   category: Restaurant
   status: closed
   url: https://www.companioncafebk.com
-  instagram: https://www.instagram.com/shakashakatiki/
+  social:
+    instagram: https://www.instagram.com/shakashakatiki/
   notes: Closed until further notice
   links:
     - title: Gift cards
@@ -1244,7 +1334,8 @@
 - name: Shane’s Brooklyn
   category: Restaurant
   hours: 9AM - 6PM (Sun - Wed), 9AM - 9PM (Thu - Sat)
-  instagram: https://www.instagram.com/shanes_brooklyn/
+  social:
+    instagram: https://www.instagram.com/shanes_brooklyn/
   services:
     uber_eats: https://www.ubereats.com/new-york/food-delivery/shanes-brooklyn/TsKwjyqQSaGcQNr4An9WBg
     doordash: https://www.doordash.com/store/shanes-brooklyn-brooklyn-179024/en-US
@@ -1254,7 +1345,8 @@
 - name: Sharlene’s Bar
   category: Bar
   status: closed
-  instagram: https://www.instagram.com/sharlenesbar/
+  social:
+    instagram: https://www.instagram.com/sharlenesbar/
   notes: '“We have a Venmo account (<a href="https://venmo.com/sharlenesbar">@sharlenesbar</a>), as well as a GoFundMe, set up and would greatly appreciate any donations that can be made. As always everything will be split evenly between your favorite, and least favorite, bartenders.”'
   links:
     - title: Staff relief fund
@@ -1266,7 +1358,8 @@
   status: open
   hours: 7:30AM - 2PM
   url: http://sitandwonder.net/index.html
-  instagram: https://www.instagram.com/sitandwondercoffeeshop/
+  social:
+    instagram: https://www.instagram.com/sitandwondercoffeeshop/
   links:
     - title: Staff relief fund
       url: https://www.gofundme.com/f/for-our-amazing-baristas
@@ -1275,8 +1368,9 @@
 - name: Soda Bar
   category: Bar
   status: closed
-  instagram: https://www.instagram.com/sodabarbrooklyn/
-  facebook: https://www.facebook.com/Soda-Bar-111725295530380/
+  social:
+    instagram: https://www.instagram.com/sodabarbrooklyn/
+    facebook: https://www.facebook.com/Soda-Bar-111725295530380/
   notes: Closed until further notice
   links:
     - title: Staff relief fund
@@ -1287,7 +1381,8 @@
   category: Restaurant
   status: open
   url: https://www.sofrehnyc.com
-  instagram: https://www.instagram.com/sofreh_brooklyn/
+  social:
+    instagram: https://www.instagram.com/sofreh_brooklyn/
   notes: Open for outdoor dining and pickup.
   hours: 5 - 8:30PM (Tue - Sun)
   services:
@@ -1304,7 +1399,8 @@
   category: Store
   url: https://specificgravitynyc.com
   phone: (347) 291-1766
-  instagram: https://www.instagram.com/specific_gravity/
+  social:
+    instagram: https://www.instagram.com/specific_gravity/
   notes: 'Open by appointment, <a href="mailto:shop@specificgravitynyc.com">email</a> or call to schedule.'
   links:
     - title: Gift cards
@@ -1315,7 +1411,8 @@
   category: Restaurant
   status: open
   url: https://www.stockedbrooklyn.com
-  instagram: https://www.instagram.com/stockedbrooklyn/
+  social:
+    instagram: https://www.instagram.com/stockedbrooklyn/
   phone: (718) 872-5304
   notes: Open for outdoor dining, pickup and delivery. Located on Washington Ave. (their Vanderbilt location has closed).
   services:
@@ -1328,14 +1425,16 @@
   url: http://www.sugarcanerestaurant.com
   phone: (718) 230-3954
   notes: Call ahead to order
-  instagram: https://www.instagram.com/sugarcane_restaurant/
+  social:
+    instagram: https://www.instagram.com/sugarcane_restaurant/
   last_updated: 3/29
 
 - name: Sunshine & Co.
   category: Restaurant
   status: closed
   url: http://www.sunshinecobk.com
-  instagram: https://www.instagram.com/sunshinecobk/
+  social:
+    instagram: https://www.instagram.com/sunshinecobk/
   notes: 'Closed until further notice. Please email <a href="mailto:sunshineco780@gmail.com">sunshineco780@gmail.com</a> to purchase gift certificates.'
   links:
     - title: Staff relief fund
@@ -1345,7 +1444,8 @@
 - name: Sweet Chick
   category: Restaurant
   status: open
-  instagram: https://www.instagram.com/sweetchicklife/
+  social:
+    instagram: https://www.instagram.com/sweetchicklife/
   url: https://www.sweetchick.com
   phone: (718) 484-7724
   hours: 12 - 11PM
@@ -1359,7 +1459,8 @@
 - name: Sweet Polly
   category: Bar
   status: open
-  instagram: https://www.instagram.com/sweetpollynyc/
+  social:
+    instagram: https://www.instagram.com/sweetpollynyc/
   url: http://www.sweetpollynyc.com
   phone: (718) 484-9600
   hours: 2 - 10PM (Wed - Thu), 2 - 11PM (Fri), 12 - 11PM (Sat), 12 - 10PM (Sun)
@@ -1375,9 +1476,10 @@
 
 - name: Taro Sushi
   category: Restaurant
-  status: closed
+  status: permanently closed
   url: https://www.tarosushibrooklyn.com
-  instagram: https://www.instagram.com/tarosushi.bk/
+  social:
+    instagram: https://www.instagram.com/tarosushi.bk/
   notes: Permanently closed. A note on the door says that they intend to open at a new location in the future.
   last_updated: 3/16
 
@@ -1385,7 +1487,8 @@
   category: Restaurant
   status: open
   url: https://tomsbrooklyn.com
-  instagram: https://www.instagram.com/tomsbrooklyn/
+  social:
+    instagram: https://www.instagram.com/tomsbrooklyn/
   phone: (212) 864-6137
   notes: Open for pickup and delivery
   services:
@@ -1396,7 +1499,8 @@
   category: Restaurant
   status: open
   url: https://www.udomthai.com
-  instagram: https://www.instagram.com/udomthai/
+  social:
+    instagram: https://www.instagram.com/udomthai/
   phone: (718) 622-8424
   hours: 11AM - 10:15PM
   notes: '<a href="https://www.opendining.net/menu/4fd8ca07000d972008000172#ordering-for-prompt">Order online</a> for pickup and delivery'
@@ -1408,7 +1512,8 @@
   phone: (718) 484-3744
   hours: 3:30 - 9:30PM
   url: https://underhillbrooklyn.com/
-  instagram: https://www.instagram.com/underhillgreekeatery/
+  social:
+    instagram: https://www.instagram.com/underhillgreekeatery/
   notes: 10% off pickup orders of $50+
   services:
     caviar: https://www.trycaviar.com/m/underhill-cafe-and-grill-10596
@@ -1421,7 +1526,8 @@
   category: Store
   phone: (718) 789-1534
   url: http://unnameablebooks.blogspot.com
-  instagram: https://www.instagram.com/unnameablebooks/
+  social:
+    instagram: https://www.instagram.com/unnameablebooks/
   notes: Order online or contact to arrage an informal pickup time. Currently unable to accept secondhand books.
   links:
     - title: Online store
@@ -1432,7 +1538,8 @@
   category: Dessert
   status: open
   url: https://vanleeuwenicecream.com/location/prospect-heights/
-  instagram: https://www.instagram.com/vanleeuwenicecream/
+  social:
+    instagram: https://www.instagram.com/vanleeuwenicecream/
   hours: 11AM - 11PM (12AM Fri/Sat)
   phone: (347) 240-7453
   notes: Order online for pickup and delivery.
@@ -1448,7 +1555,8 @@
   category: Wine Shop
   status: open
   url: https://vanderbilt.wine
-  instagram: https://instagram.com/vanderbiltwine
+  social:
+    instagram: https://instagram.com/vanderbiltwine
   hours: 11AM - 7PM (Mon - Sat)
   notes: Order pickup is available 3pm - 7pm each day and neighborhood delivery Tuesday through Saturday (1pm cutoff for same day delivery).
   last_updated: 5/7
@@ -1469,7 +1577,8 @@
   hours: 4 - 9PM
   url: http://www.weatherupnyc.com/
   notes: Outdoor seating is available. Also open for pickup.
-  instagram: https://www.instagram.com/weatherupbars/
+  social:
+    instagram: https://www.instagram.com/weatherupbars/
   links:
     - url: https://www.gofundme.com/f/weather-up-staff-relief
       title: Staff relief fund
@@ -1480,7 +1589,8 @@
   status: open
   hours: 5 - 9PM (Wed - Fri), 1 - 9PM (Sat - Sun)
   url: http://www.whitetiger.nyc
-  instagram: https://www.instagram.com/whitetigerbklyn/
+  social:
+    instagram: https://www.instagram.com/whitetigerbklyn/
   phone: (718) 552-2272
   notes: Open for outdoor dining, pickup and delivery.
   services:
@@ -1494,7 +1604,8 @@
   status: open
   url: https://www.wineexchangebkn.com
   phone: (718) 783-7500
-  instagram: https://www.instagram.com/wineexchangebkn/
+  social:
+    instagram: https://www.instagram.com/wineexchangebkn/
   notes: Open for pickup and delivery, now with online ordering. Five people at a time inside.
   last_updated: 7/8
 
@@ -1502,7 +1613,8 @@
   category: Wine Shop
   status: open
   url: https://wineyneighbor.com
-  instagram: https://www.instagram.com/wineyneighbor/
+  social:
+    instagram: https://www.instagram.com/wineyneighbor/
   phone: (347) 715-6693
   notes: '<a href="https://wineyneighbor.com/#&StoreFrontLocationHash=%23%2Fwidget%2F5a6f49faf4a6613ee3696dbb%2Fcontainers">Order online</a> for pickup and delivery'
   last_updated: 3/26
@@ -1512,7 +1624,8 @@
   status: open
   phone: (718) 230-3200
   url: https://zaytoons.com
-  instagram: https://www.instagram.com/zaytoonsrestaurant/
+  social:
+    instagram: https://www.instagram.com/zaytoonsrestaurant/
   notes: Open for pickup and delivery
   services:
     caviar: https://www.trycaviar.com/m/zaytoons-12972

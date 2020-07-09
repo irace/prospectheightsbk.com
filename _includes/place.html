@@ -1,19 +1,16 @@
 <div class="w-100 w-50-ns w-third-l pa2">
   <div class="bg-white shadow-4 br2 h-100 pa3">
     <div class="f4 lh-copy mv0 pa0 ttu">
-      {% if place.url %}
-      <a class="link dim dark-blue" href="{{ place.url }}">{{ place.name }}</a>{% else %} {{ place.name }} {% endif %} {% if
-      place.instagram %}<a class="v-mid" href="{{ place.instagram }}"><img class="social_icon" src="icons/instagram.png"/></a>{%
-      endif %} {% if place.facebook %}<a class="v-mid" href="{{ place.facebook }}"><img class="social_icon" src="icons/facebook.png"/></a>{%
-        endif %} {% if place.untappd %}<a class="v-mid" href="{{ place.untappd }}"
-        ><img class="social_icon" src="icons/untappd.png"/></a
-      >{% endif %}
+      {% if place.url %}<a class="link dim dark-blue" href="{{ place.url }}">{{ place.name }}</a>{% else %} {{ place.name }} {% endif %}
+      {% if place.social.instagram %}<a class="v-mid" href="{{ place.instagram }}"><img class="social_icon" src="icons/instagram.png"/></a>{% endif %}
+      {% if place.social.facebook %}<a class="v-mid" href="{{ place.facebook }}"><img class="social_icon" src="icons/facebook.png"/></a>{% endif %}
+      {% if place.social.untappd %}<a class="v-mid" href="{{ place.untappd }}"><img class="social_icon" src="icons/untappd.png"/></a>{% endif %}
     </div>
     {% unless place.status == "closed" %}
     {% if place.phone %}
     <div class="f7 lh-copy black-70"><a class="link dim purple" href="tel:{{ place.phone }}">{{ place.phone }}</a></div>
     {% endif %} {% if place.hours %}
-    <div class="f7 lh-copy black-70">{{ place.hours}}</div>
+    <div class="f7 lh-copy black-70">{{ place.hours }}</div>
     {% endif %}
     {% endunless %}
     <div>
