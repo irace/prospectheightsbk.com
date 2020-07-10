@@ -9,7 +9,7 @@ layout: default
 
 <div class="flex flex-wrap center pv2 ph2 ph5-ns">
   {% for category in site.data.categories %}
-    {% include category_section.html cat=category.name pl=category.plural %}
+    {% include category_section.html cat=category.id heading=category.category_heading %}
   {% endfor %}
 </div>
 
