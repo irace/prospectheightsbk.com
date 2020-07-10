@@ -4,10 +4,12 @@
     {% include head.html %}
   </head>
   <body class="w-100 sans-serif bg-black-10 code">
-  {% include header.html %}
+  <header class="w-100 ph2">
+    {% include header.html %}
+  </header>
 
-  <main class="black-70 mh5-ns mh2-m mh2">
-  {{ content }}    
+  <main class="w-100 black-70">
+  {{ content }}
   </main>
   
   {% include footer.html %}

@@ -4,14 +4,29 @@ layout: default
 ---
 
 {% assign places = site.data.places | sort: "name" %}
+{% assign open_places = places | where_exp:"item","item.status == 'open' or item.status == nil" %}
+{% assign closed_places = site.data.places | where:"status","closed" %}
 
-<div class="flex flex-wrap center">
-  {% for place in places %} {% unless place.status == "closed" %} {% include place.html %} {% endunless %} {% endfor %}
+<div class="flex flex-wrap center pv2 ph2 ph5-ns">
+  {% for category in site.data.categories %}
+    {% include category_section.html cat=category.id heading=category.category_heading %}
+  {% endfor %}
 </div>
 
-<div class="flex flex-wrap center cf">
-  <div class="w-100">
-    <h1 class="f3 lh-copy ttu tc light-red">Temporarily closed 😢</h1>
+<div class="w100 bg-white pt1 pb5 ph2 ph5-ns mt4 bt-ns b--black-20">
+  <div class="flex flex-wrap center">
+  <h2 class="w-100 f2 lh-solid tc">Full Directory</h2>
+  <h3 class="w-100 nt3 f3 lh-copy ttu tc light-red">All Open Businesses</h3>
+  <div class="flex flex-wrap">
+  {% for place in open_places %}
+    {% include place_mini.html %}
+  {% endfor %}
   </div>
-  {% for place in places %} {% if place.status == "closed" %} {% include place.html %} {% endif %} {% endfor %}
+
+  <h3 class="w-100 mt3 f3 lh-copy ttu tc light-red">Temporarily closed 😢</h3>
+  <div class="flex flex-wrap">
+  {% for place in closed_places %}
+    {% include place_mini.html %}
+  {% endfor %}
+  </div>
 </div>

@@ -1,0 +1,24 @@
+- id: bar
+  display_name: Bar
+  category_heading: Bars
+- id: cafe
+  display_name: Cafe
+  category_heading: Cafes
+- id: food
+  display_name: Restaurant
+  category_heading: Restaurants
+- id: dessert
+  display_name: Dessert
+  category_heading: Desserts
+- id: grocery
+  display_name: Grocer
+  category_heading: Grocers
+- id: service
+  display_name: Service
+  category_heading: Services
+- id: store
+  display_name: Store
+  category_heading: Stores
+- id: wine-liquor
+  display_name: Wine & Liquor
+  category_heading: Wine & Liquor Stores

@@ -12,7 +12,7 @@ a {
   @extend .link, .dim, .dark-blue;
 }
 
-.delivery_icon {
+.service_icon {
   @extend .br3;
 
   width: 35px;
@@ -20,4 +20,7 @@ a {
 
 .social_icon {
   width: 25px;
+  &.mini {
+    width: 16px;
+  }
 }
