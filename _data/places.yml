@@ -21,7 +21,7 @@
   status: open
 - name: Alta Calidad
   category: Restaurant
-  hours: '11:30AM - 8:30PM (Sun - Thu), 11:30AM - 9:30PM (Fri / Sat)'
+  hours: '11:30AM - 9:30PM (Sun - Thu), 11:30AM - 10:30PM (Fri / Sat)'
   last_updated: 7/3
   links:
     - title: Staff relief fund
