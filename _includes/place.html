@@ -9,31 +9,33 @@
     {% unless place.status == "closed" %}
     {% if place.phone %}
     <div class="f7 lh-copy black-70"><a class="link dim purple" href="tel:{{ place.phone }}">{{ place.phone }}</a></div>
-    {% endif %} {% if place.hours %}
+    {% endif %}
+    {% if place.hours %}
     <div class="f7 lh-copy black-70">{{ place.hours }}</div>
     {% endif %}
     {% endunless %}
+    
     <div>
-      <p class="i f6 lh-copy">{{ place.notes }}</p>
+      <p class="i f6 lh-copy mv2">{{ place.notes }}</p>
     </div>
+    {% if place.links %}
+    <div class="mb2">
+    {% for link in place.links %}
+      <p class="f6 lh-solid mv2"><a class="link dim dark-green" href="{{ link.url }}">{{ link.title }}</a></p>
+    {% endfor %}
+    </div>
+    {% endif %}
     {% unless place.status == "closed" %}
     {% if place.services %}
-    <div class="mb1">
+    <div class="mv1" style="margin-top: auto;">
       {% for service in place.services %}
       <a href="{{service[1]}}"><img class="service_icon" src="icons/{{service[0]}}.png" alt="{{service[0]}}" /></a>
       {% endfor %}
     </div>
     {% endif %}
     {% endunless %}
-    {% if place.links %}
-    <div class="f6 lh-solid">
-    {% for link in place.links %}
-      <p class="f6 lh-solid"><a class="link dim dark-green" href="{{ link.url }}">{{ link.title }}</a></p>
-    {% endfor %}
-    </div>
-    {% endif %}
     {% if place.last_updated %}
-    <div class="f7 lh-copy black-40" style="margin-top: auto;">Last updated: {{ place.last_updated }}</div>
+    <div class="f7 lh-copy black-40" {% unless place.services %}style="margin-top: auto;"{% endunless %}>Last updated: {{ place.last_updated }}</div>
     {% endif %}
   </div>
 </div>

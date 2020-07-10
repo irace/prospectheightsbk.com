@@ -1,6 +1,6 @@
 {% assign cat_items = open_places | where_exp: "item","item.category == include.cat" %}
 
-<h2 class="w-100 f3 lh-solid ttu tc light-red mt3 mt0-l">{{ include.heading }}</h2>
+<h2 class="w-100 f3 lh-solid ttu tc light-red mt4 mt3-ns">{{ include.heading }}</h2>
 
 {% for place in cat_items %}
  {% include place.html %}
