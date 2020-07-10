@@ -20,5 +20,5 @@
   display_name: Store
   category_heading: Stores
 - id: wine-liquor
-  display_name: Wine & Liquor
-  category_heading: Wine & Liquor Stores
+  display_name: 'Wine & Liquor'
+  category_heading: 'Wine & Liquor Stores'
