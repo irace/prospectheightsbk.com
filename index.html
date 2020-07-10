@@ -2,11 +2,12 @@
 title: Help Prospect Heights!
 layout: default
 ---
+
 {% assign places = site.data.places | sort: "name" %}
 {% assign open_places = places | where_exp:"item","item.status == 'open' or item.status == nil" %}
 {% assign closed_places = site.data.places | where:"status","closed" %}
 
-<div class="flex flex-wrap center pv2 ph5">
+<div class="flex flex-wrap center pv2 ph2 ph5-ns">
   {% include category_section.html cat="Bar" %}
   
   {% include category_section.html cat="Cafe" %}
@@ -24,15 +25,19 @@ layout: default
   {% include category_section.html cat="Wine & Liquor" %}
 </div>
 
-<div class="w100 bg-white pt1 pb5 ph5 mt4 bt-ns b--black-20">
+<div class="w100 bg-white pt1 pb5 ph2 ph5-ns mt4 bt-ns b--black-20">
   <div class="flex flex-wrap center">
   <h2 class="w-100 f2 lh-solid tc">Full Directory</h2>
   <h3 class="w-100 nt3 f3 lh-copy ttu tc light-red">All Open Businesses</h3>
-  {% for place in open_places %}{% include place_mini.html %}{% endfor %}
+  <div class="flex flex-wrap">
+  {% for place in open_places %}
+    {% include place_mini.html %}
+  {% endfor %}
+  </div>
 
   <h3 class="w-100 mt3 f3 lh-copy ttu tc light-red">Temporarily closed 😢</h3>
   <div class="flex flex-wrap">
-      {% for place in closed_places %}
+  {% for place in closed_places %}
     {% include place_mini.html %}
   {% endfor %}
   </div>
