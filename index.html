@@ -8,21 +8,9 @@ layout: default
 {% assign closed_places = site.data.places | where:"status","closed" %}
 
 <div class="flex flex-wrap center pv2 ph2 ph5-ns">
-  {% include category_section.html cat="Bar" %}
-  
-  {% include category_section.html cat="Cafe" %}
-  
-  {% include category_section.html cat="Dessert" %}
-  
-  {% include category_section.html cat="Grocer" %}
-  
-  {% include category_section.html cat="Restaurant" %}
-  
-  {% include category_section.html cat="Service" %}
-  
-  {% include category_section.html cat="Store" %}
-  
-  {% include category_section.html cat="Wine & Liquor" %}
+  {% for category in site.data.categories %}
+    {% include category_section.html cat=category.name pl=category.plural %}
+  {% endfor %}
 </div>
 
 <div class="w100 bg-white pt1 pb5 ph2 ph5-ns mt4 bt-ns b--black-20">

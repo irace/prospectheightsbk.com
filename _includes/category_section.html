@@ -1,7 +1,6 @@
-{% assign category = include.cat %}
-{% assign cat_items = open_places | where_exp: "item","item.category == category" %}
+{% assign cat_items = open_places | where_exp: "item","item.category == include.cat" %}
 <div class="w-100">
-  <h2 class="f3 lh-copy ttu tc light-red">{{ category }}s</h2>
+  <h2 class="f3 lh-copy ttu tc light-red">{{ include.pl }}</h2>
 </div>
 
 {% for place in cat_items %}
