@@ -3,7 +3,7 @@ title: Help Prospect Heights!
 layout: default
 ---
 {% assign places = site.data.places | sort: "name" %}
-{% assign open_places = places | where_exp:"item","item.status == 'open' or item.status == empty" %}
+{% assign open_places = places | where_exp:"item","item.status == 'open' or item.status == nil" %}
 {% assign closed_places = site.data.places | where:"status","closed" %}
 
 <div class="flex flex-wrap center pv2 ph5">
@@ -11,7 +11,17 @@ layout: default
   
   {% include category_section.html cat="Cafe" %}
   
+  {% include category_section.html cat="Dessert" %}
+  
+  {% include category_section.html cat="Grocer" %}
+  
   {% include category_section.html cat="Restaurant" %}
+  
+  {% include category_section.html cat="Service" %}
+  
+  {% include category_section.html cat="Store" %}
+  
+  {% include category_section.html cat="Wine & Liquor" %}
 </div>
 
 <div class="w100 bg-white pt1 pb5 ph5 mt4 bt-ns b--black-20">
