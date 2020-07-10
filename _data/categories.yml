@@ -1,0 +1,16 @@
+- name: Bar
+  plural: Bars
+- name: Cafe
+  plural: Cafes
+- name: Restaurant
+  plural: Restaurants
+- name: Dessert
+  plural: Desserts
+- name: Grocer
+  plural: Grocers
+- name: Service
+  plural: Services
+- name: Store
+  plural: Stores
+- name: Wine & Liquor
+  plural: Wine & Liquor Stores
