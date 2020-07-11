@@ -22,7 +22,7 @@
 - name: Alta Calidad
   category: food
   hours: '11:30AM - 9:30PM (Sun - Thu), 11:30AM - 10:30PM (Fri / Sat)'
-  last_updated: 7/3
+  last_updated: 7/9
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/alta-calidad-employee-relief-fund'
@@ -1325,12 +1325,7 @@
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/sharlene039s-bar'
-  notes: >-
-    “We have a Venmo account (<a
-    href="https://venmo.com/sharlenesbar">@sharlenesbar</a>), as well as a
-    GoFundMe, set up and would greatly appreciate any donations that can be
-    made. As always everything will be split evenly between your favorite, and
-    least favorite, bartenders.”
+  notes: “We have a Venmo account (<a href="https://venmo.com/sharlenesbar">@sharlenesbar</a>), as well as a GoFundMe, set up and would greatly appreciate any donations that can be made. As always everything will be split evenly between your favorite, and least favorite, bartenders.”
   social:
     instagram: 'https://www.instagram.com/sharlenesbar/'
   status: closed
@@ -1347,15 +1342,15 @@
   url: 'http://sitandwonder.net/index.html'
 - name: Soda Bar
   category: bar
-  last_updated: 3/19
+  hours: '4 - 10PM (Fri), 12 - 10PM (Sat / Sun)'
+  last_updated: 7/10
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/soda-bar-staff-donation'
-  notes: Closed until further notice
+  notes: Outdoor seating is available. Also open for pickup.
   social:
     facebook: 'https://www.facebook.com/Soda-Bar-111725295530380/'
     instagram: 'https://www.instagram.com/sodabarbrooklyn/'
-  status: closed
 - name: Sofreh
   category: food
   hours: '5 - 8:30PM (Tue - Sun)'
