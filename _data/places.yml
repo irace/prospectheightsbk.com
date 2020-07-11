@@ -1456,16 +1456,6 @@
     instagram: 'https://www.instagram.com/sweetpollynyc/'
   status: open
   url: 'http://www.sweetpollynyc.com'
-- name: Taro Sushi
-  category: food
-  last_updated: 3/16
-  notes: >-
-    Permanently closed. A note on the door says that they intend to open at a
-    new location in the future.
-  social:
-    instagram: 'https://www.instagram.com/tarosushi.bk/'
-  status: permanently closed
-  url: 'https://www.tarosushibrooklyn.com'
 - name: Tom’s Restaurant
   category: food
   last_updated: 3/17
