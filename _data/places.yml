@@ -161,8 +161,8 @@
   url: 'http://www.bergenbagels.com/'
 - name: Bierwax
   category: bar
-  hours: '4 - 11PM (Mon - Wed), 3 - 11PM (Thu - Sun)'
-  last_updated: 7/3
+  hours: '4 - 11PM (Mon - Fri), 1 - 11PM (Sat - Sun)'
+  last_updated: 7/11
   links:
     - title: Order online
       url: 'https://my-site-100819-102620.square.site'
