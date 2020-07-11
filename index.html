@@ -4,12 +4,11 @@ layout: default
 ---
 
 {% assign places = site.data.places | sort: "name" %}
-{% assign open_places = places | where_exp:"item","item.status == 'open' or item.status == nil" %}
-{% assign closed_places = site.data.places | where:"status","closed" %}
+{% assign closed_places = site.data.places | where: "status", "closed" %}
 
 <div class="flex flex-wrap center pv2 ph2 ph5-ns">
   {% for category in site.data.categories %}
-    {% include category_section.html cat=category.id heading=category.category_heading %}
+    {% include category_section.html cat=category.name heading=category.category_heading %}
   {% endfor %}
 </div>
 
@@ -18,9 +17,9 @@ layout: default
   <h2 class="w-100 f2 lh-solid tc">Full Directory</h2>
   <h3 class="w-100 nt3 f3 lh-copy ttu tc light-red">All Open Businesses</h3>
   <div class="flex flex-wrap">
-  {% for place in open_places %}
+  {% for place in places %}{% unless place.status == "closed" %}
     {% include place_mini.html %}
-  {% endfor %}
+  {% endunless %}{% endfor %}
   </div>
 
   <h3 class="w-100 mt3 f3 lh-copy ttu tc light-red">Temporarily closed 😢</h3>
