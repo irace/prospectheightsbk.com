@@ -568,13 +568,13 @@
   url: 'http://www.fermentedgrapes.net'
 - name: Geido
   category: food
-  hours: '5:30 - 10PM (Wed - Sun), 12:30 - 3PM (Sat/Sun)'
-  last_updated: 4/20
-  notes: Closed until further notice
+  hours: 'Friday - Sunday from 4:30PM - 9:30PM'
+  last_updated: 7/16
+  notes: Pickup and delivery only. Please order from their website.
   phone: (718) 638-8866
   services:
     chownow: 'https://direct.chownow.com/order/13995/locations/19649'
-  status: closed
+  status: open
   url: 'https://geido.nyc'
 - name: Gen Sushi
   category: food
@@ -1299,14 +1299,14 @@
   status: open
 - name: Shaka Shaka Tiki/Companion Cafe
   category: food
-  last_updated: 3/15
+  last_updated: 7/16
   links:
     - title: Gift cards
       url: 'https://squareup.com/gift/ED4WJ2F6HECQZ/order'
-  notes: Closed until further notice
+  notes: 
   social:
     instagram: 'https://www.instagram.com/shakashakatiki/'
-  status: closed
+  status: open
   url: 'https://www.companioncafebk.com'
 - name: Shane’s Brooklyn
   category: food
@@ -1405,17 +1405,15 @@
   url: 'http://www.sugarcanerestaurant.com'
 - name: Sunshine & Co.
   category: food
-  last_updated: 3/16
+  last_updated: 7/16
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/sunshine-co-staff'
   notes: >-
-    Closed until further notice. Please email <a
-    href="mailto:sunshineco780@gmail.com">sunshineco780@gmail.com</a> to
-    purchase gift certificates.
+    
   social:
     instagram: 'https://www.instagram.com/sunshinecobk/'
-  status: closed
+  status: open
   url: 'http://www.sunshinecobk.com'
 - name: Sweet Chick
   category: food
