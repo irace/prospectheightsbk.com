@@ -75,9 +75,9 @@
 - name: The Bakery on Bergen
   category: cafe
   hours: 12 - 7PM (Tue - Sun)
-  last_updated: 5/1
+  last_updated: 7/19
   notes: >-
-    “Delicious cookies, cupcakes and coffee. Also made to order cakes.” <a href="https://thebakeryonbergennyc.com/order-2">Online ordering form</a>.
+    Outdoor seating is available. Also open for pickup, or<a href="https://thebakeryonbergennyc.com/order-2">order online</a>.
   social:
     instagram: 'https://www.instagram.com/thebakeryonbergen/'
   url: 'https://thebakeryonbergennyc.com'
@@ -112,7 +112,8 @@
   url: 'https://www.barmeridian.com'
 - name: BCakeNY
   category: dessert
-  last_updated: 6/12
+  last_updated: 7/19
+  notes: 'Outdoor seating is available.'
   phone: (347) 787-7199
   social:
     instagram: 'https://www.instagram.com/bcakeny/'
@@ -120,8 +121,8 @@
   url: 'https://www.bcakeny.com/bcakenyshop/'
 - name: The Bearded Lady
   category: food
-  hours: 3 - 11PM (Thu - Sun)
-  last_updated: 7/7
+  hours: 3 - 11PM (Wed - Sun)
+  last_updated: 7/19
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/bearded-lady-staff-support-fund'
@@ -134,13 +135,12 @@
 - name: Beer Street South
   category: bar
   hours: 2 - 8PM
-  last_updated: 3/31
+  last_updated: 7/19
   links:
     - title: Gift cards
       url: 'https://squareup.com/gift/C3K54BY60YNAP/order'
   notes: >-
-    <a href="https://beerstreetsouth550.com">Order online</a> for pickup⁣ or
-    stop by
+    Outdoor seating is available. Also open for pickup or <a href="https://beerstreetsouth550.com">online orders</a>
   social:
     instagram: 'https://www.instagram.com/beerstreetsouth/'
     untappd: 'https://untappd.com/v/beer-street-south/9792005'
@@ -283,8 +283,8 @@
 - name: Born Thai
   category: food
   hours: '12 - 9:30PM'
-  last_updated: 3/16
-  notes: Open for pickup and delivery
+  last_updated: 7/19
+  notes: Open for outdoor dining, pickup and delivery.
   phone: (347) 663-3674
   services:
     doordash: 'https://www.doordash.com/store/bergen-bagels-brooklyn-312992/en-US'
@@ -392,8 +392,8 @@
   url: 'https://www.chick-p.com'
 - name: Chuko
   category: food
-  hours: '5:30 - 9PM'
-  last_updated: 7/3
+  hours: '5:30 - 9PM (Sun - Thu), 5:30 - 10PM (Fri / Sat)'
+  last_updated: 7/19
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (347) 425-9570
   services:
@@ -539,15 +539,15 @@
 - name: Fausto
   category: food
   hours: '4 - 8:30PM (Wed - Sun)'
-  last_updated: 7/7
+  last_updated: 7/19
   links:
-    - title: Order online
-      url: 'https://www.exploretock.com/fausto'
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/fausto-employee-fund'
   notes: Open for pickup and delivery. Still doing ‘Fausto at Home’ on Fridays.
   services:
+    caviar: 'https://www.trycaviar.com/m/fausto-9171'
     resy: 'https://resy.com/cities/ny/fausto'
+    tock: 'https://www.exploretock.com/fausto'
   social:
     instagram: 'https://www.instagram.com/faustobrooklyn/'
   status: open
@@ -557,10 +557,7 @@
   hours: 12 - 7PM (Tue - Sat)
   last_updated: 7/7
   notes: >-
-    Open for contactless pickup and delivery with walkups now available. Call or
-    email <a
-    href="mailto:customerservice@fermentedgrapes.net">customerservice@fermentedgrapes.net</a>
-    with what you’re looking for and a phone number to pre-order.
+    Open for contactless pickup and delivery with walkups now available. Call or email <a href="mailto:customerservice@fermentedgrapes.net">customerservice@fermentedgrapes.net</a> with what you’re looking for and a phone number to pre-order.
   phone: (718) 230-3216
   social:
     instagram: 'https://www.instagram.com/fermentedgrapesbk/'
@@ -568,7 +565,7 @@
   url: 'http://www.fermentedgrapes.net'
 - name: Geido
   category: food
-  hours: 'Friday - Sunday from 4:30PM - 9:30PM'
+  hours: '4:30 - 9:30PM (Fri - Sun)'
   last_updated: 7/16
   notes: Pickup and delivery only. Please order from their website.
   phone: (718) 638-8866
@@ -613,13 +610,14 @@
     instagram: 'https://www.instagram.com/gorillacoffee/'
   status: open
   url: 'https://gorillacoffee.com'
-- category: bar
-  last_updated: 5/30
+- name: Good Life
+  category: bar
+  hours: 3 - 9PM (Thu - Sat)
+  last_updated: 7/19
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/ode-to-babel-team'
-  name: Good Life
-  notes: 'Serving cocktails to go, accepting orders via Venmo'
+  notes: 'Outdoor seating is available. Also open for cocktails to go, accepting orders via Venmo'
   social:
     instagram: 'https://www.instagram.com/goodlifebk/'
   status: open
@@ -794,14 +792,15 @@
   url: 'https://kulushkat.com'
 - name: LaLou
   category: food
-  hours: 5 - 9PM
-  last_updated: 7/3
+  hours: '5:30 - 9:30PM (Wed / Thu), 5 - 10:30PM (Fri), 12 - 10:30PM (Sat), 12 - 9PM (Sun)'
+  last_updated: 7/19
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/lalou-employee-fund'
-  notes: Open for outdoor dining. Larder open 12 - 5PM on Saturday and Sunday.
+  notes: Open for outdoor dining and delivery. 
   services:
     resy: 'https://resy.com/cities/ny/lalou'
+    tock: 'https://www.exploretock.com/lalou/'
   social:
     instagram: 'https://www.instagram.com/laloubrooklyn/'
   status: open
@@ -1114,11 +1113,14 @@
   url: 'https://www.nurishbk.com'
 - name: Ode to Babel
   category: bar
+  hours: 4 - 9PM
   last_updated: 5/30
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/ode-to-babel-team'
-  notes: Open for cocktails to go and delivery with orders through Venmo
+  notes: Outdoor seating is available. Also open for pickup and delivery with orders through Venmo
+  # services:
+  #   seamless:
   social:
     instagram: 'https://instagram.com/odetobabel'
   statue: open
@@ -1191,7 +1193,7 @@
 - name: Oxalis
   category: food
   hours: '3 - 7PM (Tue - Sun, cocktails only Tue - Thu)'
-  last_updated: 7/8
+  last_updated: 7/19
   links:
     - title: Pantry box
       url: 'https://boxalis.com'
@@ -1200,8 +1202,7 @@
     - title: Gift cards
       url: 'https://www.oxalisnyc.com/store/gift-cards/'
   notes: >-
-    Open for pickup and delivery. Breakfast burritos available 10am until sold
-    out Fri - Sun.
+    Open for outdoor dining, pickup and delivery. Breakfast burritos available 10am until sold out Fri - Sun.
   phone: (347) 627-8298
   services:
     resy: 'https://resy.com/cities/ny/fausto'
@@ -1264,12 +1265,12 @@
   url: 'https://www.privateyogasoho.com'
 - name: R&D Foods
   category: food
-  hours: 11AM - 5PM (Wed - Sun)
-  last_updated: 7/8
+  hours: 9AM - 5PM (Wed - Sun)
+  last_updated: 7/19
   links:
     - title: Gift cards
       url: 'https://www.rdfoodsbklyn.com/gifts'
-  notes: Open for pickup and delivery.
+  notes: Outdoor seating is available. Also open for pickup and delivery.
   phone: (347) 915-1196
   services:
     chownow: 'https://ordering.chownow.com/order/11145/locations'
@@ -1299,7 +1300,8 @@
   status: open
 - name: Shaka Shaka Tiki/Companion Cafe
   category: food
-  last_updated: 7/16
+  hours: '4 - 10PM'
+  last_updated: 7/19
   links:
     - title: Gift cards
       url: 'https://squareup.com/gift/ED4WJ2F6HECQZ/order'
@@ -1311,7 +1313,8 @@
 - name: Shane’s Brooklyn
   category: food
   hours: '9AM - 6PM (Sun - Wed), 9AM - 9PM (Thu - Sat)'
-  last_updated: 7/3
+  last_updated: 7/19
+  notes: 'Open for outdoor dining, pickup and delivery.'
   services:
     doordash: 'https://www.doordash.com/store/shanes-brooklyn-brooklyn-179024/en-US'
     postmates: 'https://postmates.com/merchant/cafe-shane-on-washington-brooklyn'
@@ -1385,8 +1388,7 @@
   category: food
   last_updated: 7/3
   notes: >-
-    Open for outdoor dining, pickup and delivery. Located on Washington Ave.
-    (their Vanderbilt location has closed).
+    Open for outdoor dining, pickup and delivery. Located on Washington Ave. (Their Vanderbilt location has closed.)
   phone: (718) 872-5304
   services:
     chownow: 'https://direct.chownow.com/order/18160/locations/26048'
@@ -1405,12 +1407,13 @@
   url: 'http://www.sugarcanerestaurant.com'
 - name: Sunshine & Co.
   category: food
+  hours: 4 - 10PM (Wed - Sun)
   last_updated: 7/16
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/sunshine-co-staff'
   notes: >-
-    
+    Open for outdoor dining.
   social:
     instagram: 'https://www.instagram.com/sunshinecobk/'
   status: open
