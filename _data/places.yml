@@ -1248,7 +1248,7 @@
   category: food
   hours: '10AM - 7PM (Mon - Fri), 8AM - 7PM (Sat / Sun)'
   last_updated: 7/19
-  notes: 'New poke bar on Vanderbilt Ave. in the former Buds and Beans space. Open for outdoor dining, pickup or delivery.'
+  notes: 'New poke bar on Vanderbilt Ave in the former Buds and Beans space. Open for outdoor dining, pickup or delivery.'
   phone: (347) 365-5214
   services:
     doordash: https://www.doordash.com/store/poke-tiky-bar-caffe-brooklyn-1058092/en-US
@@ -1285,19 +1285,6 @@
   social:
     instagram: 'https://www.instagram.com/rdfoods/'
   url: 'https://www.rdfoodsbklyn.com/'
-- name: Rose’s
-  category: food
-  hours: 12 - 6 PM
-  last_updated: 4/3
-  links:
-    - title: Staff relief fund
-      url: 'https://www.gofundme.com/f/rose039s-staff-assistance-fund'
-  notes: Closed until further notice
-  phone: (718) 230-0427
-  social:
-    instagram: 'https://www.instagram.com/rosesbklyn/'
-  status: closed
-  url: 'http://www.rosesbklyn.com'
 - name: Ruby Kitchen
   category: food
   last_updated: 5/8
