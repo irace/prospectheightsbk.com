@@ -1,7 +1,7 @@
 - name: 333 Lounge
   category: bar
-  hours: '2 - 10PM (Tue - Thu), 2 - 11PM (Fri), 1 - 11PM (Sat), 1 - 9PM (Sun)'
-  last_updated: 7/3
+  hours: '4 - 11PM (Mon - Sat), 2 - 10PM (Sun)'
+  last_updated: 7/23
   notes: >-
     Open for outdoor dining. Call or <a href="mailto:333bknyc@gmail.com">email</a> to place an order.
   phone: (718) 399-8008
@@ -52,11 +52,12 @@
   url: 'http://www.amorinapizza.com/'
 - name: Ample Hills
   category: dessert
-  hours: '1 - 9PM (Sat), 1 - 8PM (Sun)'
-  last_updated: 7/7
+  hours: '1 - 8PM (Mon - Thu), 1 - 10PM (Fri / Sat), 1 - 9PM (Sun)'
+  notes: 'Reopened as of July 23 under new ownership.'
+  last_updated: 7/23
   social:
     instagram: 'https://www.instagram.com/amplehills/'
-  status: closed
+  status: open
   url: 'https://www.amplehills.com'
 - name: Antonio’s Pizza
   category: food
@@ -238,13 +239,14 @@
   url: 'http://brooklyncrepe.com'
 - name: Black Iron Burger
   category: food
-  last_updated: 3/25
+  hours: '4 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)'
+  last_updated: 7/23
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/1xwz41clg0'
     - title: Gift cards
       url: 'https://www.blackironburger.com/gift-cards/'
-  notes: Closed until further notice
+  notes: 'Reopened as of July 22.'
   phone: (929) 419-6888
   social:
     instagram: 'https://www.instagram.com/blackironburger'
@@ -364,11 +366,8 @@
 - name: Cheryl’s Global Soul
   category: food
   hours: 12 - 8PM
-  last_updated: 3/19
-  notes: >-
-    Call for pickup and delivery. <a
-    href="https://12fcfcc5-9c0c-71b4-d2e6-789a72c3925c.filesusr.com/ugd/370d25_c8eae6a23a7944f28114f5f0b83f4f3a.pdf">Delivery
-    menu here</a>.
+  last_updated: 7/23
+  notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (347) 529-2855
   social:
     instagram: 'https://www.instagram.com/cherylsglobalsoul/'
@@ -482,15 +481,13 @@
 - name: Doughnut Plant
   category: cafe
   hours: 8AM - 4PM (Wed - Sun)
-  last_updated: 5/30
+  last_updated: 7/23
   links:
     - title: Order online
       url: 'https://order.doughnutplant.com/locations/doughnutplant'
     - title: Gift cards
       url: 'https://www.doughnutplant.com/store/gift-cards/'
-  notes: >-
-    Order online for pickup and delivery. Walkups available by scanning a QR
-    code.
+  notes: 'Closed until further notice'
   social:
     instagram: 'https://www.instagram.com/doughnutplant/'
   status: open
@@ -612,8 +609,8 @@
   url: 'https://gorillacoffee.com'
 - name: Good Life
   category: bar
-  hours: 3 - 9PM (Thu - Sat)
-  last_updated: 7/19
+  hours: 4 - 10PM (Fri - Sun)
+  last_updated: 7/23
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/ode-to-babel-team'
@@ -895,15 +892,13 @@
   url: 'https://www.lowerlinebk.com'
 - name: Maison Yaki
   category: food
-  last_updated: 7/3
+  hours: '5:30 - 9PM (Wed - Sun), 1 - 3PM (Sat / Sun)'
+  last_updated: 7/23
   links:
     - title: Staff relief fund
       url: >-
         https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund
-  notes: >-
-    Black Entrepreneur popup series begins July 8. See <a
-    href="https://www.instagram.com/p/CCBlJHpDv4r/">their Instagram post</a> for
-    more details.
+  notes: 'The newest round of the Black entrepreneur popup series runs until Aug. 2 with Honey Bunny’s Chicken.'
   services:
     resy: 'https://resy.com/cities/ny/maison-yaki'
   social:
@@ -976,8 +971,8 @@
   url: 'https://mexicocinanyc.com'
 - name: Milk Bar
   category: cafe
-  hours: 9AM - 2PM (Wed - Sun)
-  last_updated: 7/3
+  hours: 8AM - 2PM
+  last_updated: 7/23
   links:
     - title: Gift cards
       url: 'https://www.milkbarbrooklyn.com/gift-certificates'
@@ -1113,8 +1108,8 @@
   url: 'https://www.nurishbk.com'
 - name: Ode to Babel
   category: bar
-  hours: 4 - 9PM
-  last_updated: 5/30
+  hours: 4 - 11PM (Thu - Sat), 2 - 9PM (Sun)
+  last_updated: 7/23
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/ode-to-babel-team'
@@ -1555,8 +1550,8 @@
   url: 'http://www.weatherupnyc.com/'
 - name: White Tiger
   category: food
-  hours: '5 - 9PM (Wed - Fri), 1 - 9PM (Sat - Sun)'
-  last_updated: 6/6
+  hours: '5 - 9PM (Wed / Thu), 5 - 10PM (Fri), 3 - 10PM (Sat), 3 - 9PM (Sun)'
+  last_updated: 7/23
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 552-2272
   services:
