@@ -802,6 +802,15 @@
     instagram: 'https://www.instagram.com/laloubrooklyn/'
   status: open
   url: 'https://laloubrooklyn.com'
+- name: Leland Eating and Drinking House
+  category: food
+  status: closed
+  notes: >-
+    Planned to open in the 755 Dean St. space in June but was obviously unable to. Please read the <a
+    href="https://www.gofundme.com/f/uhzc2y-help-me-open-my-dream-restaurant">GoFundMe</a> and consider donating.
+  links:
+    - title: GoFundMe
+      url: https://www.gofundme.com/f/uhzc2y-help-me-open-my-dream-restaurant
 - name: Life Reorganized
   category: store
   last_updated: 4/23
