@@ -804,11 +804,13 @@
   url: 'https://laloubrooklyn.com'
 - name: Leland Eating and Drinking House
   url: https://www.gofundme.com/f/uhzc2y-help-me-open-my-dream-restaurant
+  social:
+    instagram: https://www.instagram.com/p/CDEQ44XjFyw/
   category: food
-  status: closed
+  status: open
   notes: >-
-    Planned to open in the 755 Dean St. space in June but was obviously unable to. Please read the <a
-    href="https://www.gofundme.com/f/uhzc2y-help-me-open-my-dream-restaurant">GoFundMe</a> and consider donating.
+    Planned to open in the 755 Dean St. space in June but was obviously unable to. Please read their story on <a
+    href="https://www.gofundme.com/f/uhzc2y-help-me-open-my-dream-restaurant">GoFundMe</a> and consider helping out!
   links:
     - title: GoFundMe
       url: https://www.gofundme.com/f/uhzc2y-help-me-open-my-dream-restaurant
