@@ -52,9 +52,9 @@
   url: 'http://www.amorinapizza.com/'
 - name: Ample Hills
   category: dessert
-  hours: '1 - 8PM (Mon - Thu), 1 - 10PM (Fri / Sat), 1 - 9PM (Sun)'
+  hours: '1 - 9PM (Sun - Thu), 1 - 10PM (Fri / Sat)'
   notes: 'Reopened as of July 23 under new ownership.'
-  last_updated: 7/23
+  last_updated: 8/7
   social:
     instagram: 'https://www.instagram.com/amplehills/'
   status: open
@@ -91,8 +91,8 @@
       https://www.ubereats.com/new-york/food-delivery/banh-mi-place/01MKo6J-RmCWJFzMsQzgXg
 - name: Bar Goto Niban
   category: bar
-  hours: 4 - 9PM
-  last_updated: 7/8
+  hours: 5 - 10PM (Tue - Sat), 5 - 9PM (Sun)
+  last_updated: 8/7
   notes: 'Open for outdoor dining, pickup and delivery.'
   services:
     upserve: 'https://app.upserve.com/s/bar-goto-niban-brooklyn'
@@ -122,8 +122,8 @@
   url: 'https://www.bcakeny.com/bcakenyshop/'
 - name: The Bearded Lady
   category: food
-  hours: 3 - 11PM (Wed - Sun)
-  last_updated: 7/19
+  hours: 3 - 11PM
+  last_updated: 8/7
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/bearded-lady-staff-support-fund'
@@ -192,16 +192,15 @@
   status: open
 - name: BKLYN Clay
   category: service
-  last_updated: 5/30
+  hours: 9AM - 9PM
+  last_updated: 8/7
   links:
     - title: Staff relief fund
       url: >-
         https://www.bklynclay.com/checkout/donate?donatePageId=5e795b6604497b59a692c207
     - title: Gift cards
       url: 'https://www.bklynclay.com/gift-certificates'
-  notes: >-
-    Available for firing services with a food or beverage purchase. Details
-    available on their website.
+  notes: Open to members only.
   social:
     instagram: 'https://www.instagram.com/bklynclay/'
   status: open
@@ -240,17 +239,19 @@
 - name: Black Iron Burger
   category: food
   hours: '4 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)'
-  last_updated: 7/23
+  last_updated: 8/7
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/1xwz41clg0'
     - title: Gift cards
       url: 'https://www.blackironburger.com/gift-cards/'
-  notes: 'Reopened as of July 22.'
+  notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (929) 419-6888
+  services:
+    seamless: 'https://www.seamless.com/menu/black-iron-burger-234-flatbush-ave-brooklyn/1452872'
   social:
     instagram: 'https://www.instagram.com/blackironburger'
-  status: closed
+  status: open
   url: 'https://www.blackironburger.com/location/black-iron-burger-park-slope/'
 - name: Bleachers Sports Bar & Grill
   category: food
@@ -300,18 +301,14 @@
   url: 'https://www.bornbklyn.com/'
 - name: Branded Saloon
   category: food
-  hours: '5 - 11:45PM'
-  last_updated: 3/28
+  hours: '5 - 11:45PM (Mon - Fri), 12 - 11:45PM (Sat / Sun)'
+  last_updated: 8/7
   links:
     - title: Merchandise
       url: 'https://www.brandedsaloon.com/support-branded'
-  notes: >-
-    Food and drink pickup and delivery (catering via <a
-    href="https://www.ezcater.com/catering/branded-saloon-3">EZCater</a>). You
-    can also Venmo @Alex-Savoie directly.
+  notes: Open for outdoor dining, pickup and delivery.
   phone: (718) 484-8704
   services:
-    caviar: 'https://www.trycaviar.com/m/branded-saloon-19621'
     doordash: >-
       https://www.doordash.com/store/branded-cattle-saloon-inc-brooklyn-893199/1318299/en-US
     seamless: >-
@@ -343,8 +340,8 @@
   url: 'http://bkmetalworks.com'
 - name: Burrito Bar & Kitchen
   category: food
-  hours: 3 - 10PM
-  last_updated: 6/22
+  hours: 3 - 11PM (Mon - Fri), 2 - 11PM (Sat / Sun)
+  last_updated: 8/7
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 230-8646
   services:
@@ -551,8 +548,8 @@
   url: 'https://www.faustobrooklyn.com'
 - name: Fermented Grapes
   category: wine-liquor
-  hours: 12 - 7PM (Tue - Sat)
-  last_updated: 7/7
+  hours: 12 - 8PM (Tue - Sat)
+  last_updated: 8/7
   notes: >-
     Open for contactless pickup and delivery with walkups now available. Call or email <a href="mailto:customerservice@fermentedgrapes.net">customerservice@fermentedgrapes.net</a> with what you’re looking for and a phone number to pre-order.
   phone: (718) 230-3216
@@ -609,12 +606,12 @@
   url: 'https://gorillacoffee.com'
 - name: Good Life
   category: bar
-  hours: 4 - 10PM (Fri - Sun)
-  last_updated: 7/23
+  hours: 4 - 10PM (Thu - Sun)
+  last_updated: 8/7
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/ode-to-babel-team'
-  notes: 'Outdoor seating is available. Also open for cocktails to go, accepting orders via Venmo'
+  notes: 'Outdoor seating is available. Also open for cocktails to go, accepting orders via Venmo. Window only on Thursday.'
   social:
     instagram: 'https://www.instagram.com/goodlifebk/'
   status: open
@@ -760,10 +757,11 @@
   url: 'https://www.kimchigrill.com'
 - name: Kombit Bar and Restaurant
   category: food
-  last_updated: 6/12
+  last_updated: 8/7
+  notes: 'Now open with outdoor seating.'
   social:
     instagram: 'https://www.instagram.com/kombitbar/'
-  status: closed
+  status: open
 - name: Konditori
   category: cafe
   last_updated: 7/3
@@ -885,15 +883,15 @@
   url: 'https://www.plantlovehouse.com/look'
 - name: Lowerline
   category: food
-  hours: 4 - 9PM (Tue - Sun)
-  last_updated: 6/16
+  hours: 4 - 9PM (Tue - Fri), 12 - 9PM (Sat / Sun)
+  last_updated: 8/7
   links:
     - title: Staff relief fund
       url: >-
         https://www.gofundme.com/f/help-lowerline-keep-nola-cuisine-alive-in-brooklyn
     - title: Gift cards
       url: 'https://squareup.com/gift/W0XRH9R9BY895/order'
-  notes: Open for pickup and delivery
+  notes: Outdoor seating available. Also open for pickup and delivery
   phone: (347) 533-7110
   services:
     caviar: 'https://www.trycaviar.com/m/lowerline-11359'
@@ -1314,8 +1312,8 @@
   url: 'https://www.companioncafebk.com'
 - name: Shane’s Brooklyn
   category: food
-  hours: '9AM - 6PM (Sun - Wed), 9AM - 9PM (Thu - Sat)'
-  last_updated: 7/19
+  hours: '9AM - 6PM'
+  last_updated: 8/7
   notes: 'Open for outdoor dining, pickup and delivery.'
   services:
     doordash: 'https://www.doordash.com/store/shanes-brooklyn-brooklyn-179024/en-US'
@@ -1326,14 +1324,15 @@
     instagram: 'https://www.instagram.com/shanes_brooklyn/'
 - name: Sharlene’s Bar
   category: bar
-  last_updated: 3/19
+  hours: 3 - 11PM
+  last_updated: 8/7
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/sharlene039s-bar'
-  notes: “We have a Venmo account (<a href="https://venmo.com/sharlenesbar">@sharlenesbar</a>), as well as a GoFundMe, set up and would greatly appreciate any donations that can be made. As always everything will be split evenly between your favorite, and least favorite, bartenders.”
+  notes: 'Now open for takeout and table service.'
   social:
     instagram: 'https://www.instagram.com/sharlenesbar/'
-  status: closed
+  status: open
 - name: Sit & Wonder
   category: cafe
   hours: '7:30AM - 2PM'
@@ -1498,13 +1497,12 @@
   url: 'https://underhillbrooklyn.com/'
 - name: Unnameable Books
   category: store
-  last_updated: 7/3
+  hours: 11AM - 7PM
+  last_updated: 8/7
   links:
     - title: Online store
       url: 'https://unnameablebooks.square.site'
-  notes: >-
-    Order online or contact to arrage an informal pickup time. Currently unable
-    to accept secondhand books.
+  notes: 'Order online or contact to arrage an informal pickup time. Currently unable to accept secondhand books.'
   phone: (718) 789-1534
   social:
     instagram: 'https://www.instagram.com/unnameablebooks/'
