@@ -14,7 +14,9 @@
   hours: '10AM - 7PM (Mon - Fri), 10AM - 5PM (Sat), 11AM - 5PM (Sun)'
   last_updated: 4/13
   notes: >-
-    “Limit exposure to our staff and yourself, please wear a mask when visiting, wait outside if crowded. No contact curbside and local home delivery available.”
+    “Limit exposure to our staff and yourself,
+    please wear a mask when visiting, wait outside if crowded.
+    No contact curbside and local home delivery available.”
   phone: (718) 789-8062
   social:
     instagram: 'https://www.instagram.com/acmepetfood/'
@@ -87,8 +89,7 @@
   last_updated: 5/13
   notes: Open for pickup and delivery
   services:
-    uber_eats: >-
-      https://www.ubereats.com/new-york/food-delivery/banh-mi-place/01MKo6J-RmCWJFzMsQzgXg
+    uber_eats: 'https://www.ubereats.com/new-york/food-delivery/banh-mi-place/01MKo6J-RmCWJFzMsQzgXg'
 - name: Bar Goto Niban
   category: bar
   hours: 5 - 10PM (Tue - Sat), 5 - 9PM (Sun)
@@ -140,8 +141,7 @@
   links:
     - title: Gift cards
       url: 'https://squareup.com/gift/C3K54BY60YNAP/order'
-  notes: >-
-    Outdoor seating is available. Also open for pickup or <a href="https://beerstreetsouth550.com">online orders</a>
+  notes: 'Outdoor seating is available. Also open for pickup or <a href="https://beerstreetsouth550.com">online orders</a>'
   social:
     instagram: 'https://www.instagram.com/beerstreetsouth/'
     untappd: 'https://untappd.com/v/beer-street-south/9792005'
@@ -154,8 +154,7 @@
   notes: Open for pickup and delivery
   services:
     doordash: 'https://www.doordash.com/store/bergen-bagels-brooklyn-312992/en-US'
-    seamless: >-
-      https://www.seamless.com/menu/bergen-bagels-on-bergen-473-bergen-st-brooklyn/549250
+    seamless: 'https://www.seamless.com/menu/bergen-bagels-on-bergen-473-bergen-st-brooklyn/549250'
   social:
     instagram: 'https://www.instagram.com/bergen_bagels/'
   status: open
@@ -196,8 +195,7 @@
   last_updated: 8/7
   links:
     - title: Staff relief fund
-      url: >-
-        https://www.bklynclay.com/checkout/donate?donatePageId=5e795b6604497b59a692c207
+      url: 'https://www.bklynclay.com/checkout/donate?donatePageId=5e795b6604497b59a692c207'
     - title: Gift cards
       url: 'https://www.bklynclay.com/gift-certificates'
   notes: Open to members only.
@@ -228,10 +226,8 @@
     caviar: 'https://www.trycaviar.com/m/brooklyn-crepe--juice-14085'
     doordash: 'https://www.doordash.com/store/brooklyn-crepe-juice-brooklyn-32612/en-US'
     postmates: 'https://postmates.com/merchant/brooklyn-crepe-juice-brooklyn'
-    seamless: >-
-      https://www.seamless.com/menu/brooklyn-crepe--juice-274-flatbush-ave-brooklyn/310415
-    uber_eats: >-
-      https://www.ubereats.com/new-york/food-delivery/brooklyn-crepe-%26-juice-park-slope/7x5ubkWWQYiRliRSAiuF4Q
+    seamless: 'https://www.seamless.com/menu/brooklyn-crepe--juice-274-flatbush-ave-brooklyn/310415'
+    uber_eats: 'https://www.ubereats.com/new-york/food-delivery/brooklyn-crepe-%26-juice-park-slope/7x5ubkWWQYiRliRSAiuF4Q'
   social:
     instagram: 'https://www.instagram.com/bklyncrepe/'
   status: open
@@ -260,10 +256,8 @@
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 857-1111
   services:
-    seamless: >-
-      https://www.seamless.com/menu/bleachers-sports-bar-240-flatbush-ave-brooklyn/1119107
-    uber_eats: >-
-      https://www.ubereats.com/new-york/food-delivery/bleachers-sports-bar/rJs5gMYQSF-t_xv03XLxCA
+    seamless: 'https://www.seamless.com/menu/bleachers-sports-bar-240-flatbush-ave-brooklyn/1119107'
+    uber_eats: 'https://www.ubereats.com/new-york/food-delivery/bleachers-sports-bar/rJs5gMYQSF-t_xv03XLxCA'
   social:
     facebook: 'https://www.facebook.com/240bleachers/'
     instagram: 'https://www.instagram.com/240bleachers/'
@@ -273,9 +267,8 @@
   hours: '8AM - 7PM (Mon - Thu), 9AM - 9PM (Fri - Sun)'
   last_updated: 7/3
   notes: >-
-    Coffee, pastries, pints, and cups available from the take-out window or for
-    delivery via Postmates. “Our hours and offerings may vary, but we will post
-    daily.”
+    Coffee, pastries, pints, and cups available from the take-out window
+    or for delivery via Postmates. “Our hours and offerings may vary, but we will post daily.”'
   phone: (718) 399-6926
   services:
     postmates: 'https://postmates.com/merchant/blue-marble-brooklyn'
@@ -293,8 +286,7 @@
     doordash: 'https://www.doordash.com/store/bergen-bagels-brooklyn-312992/en-US'
     postmates: 'https://postmates.com/merchant/born-thai-brooklyn'
     seamless: 'https://www.seamless.com/menu/born-thai-293-flatbush-ave-brooklyn/1152911'
-    uber_eats: >-
-      https://www.ubereats.com/new-york/food-delivery/born-thai/GwItgnPZQ8uqjmzCyDQ0JA
+    uber_eats: 'https://www.ubereats.com/new-york/food-delivery/born-thai/GwItgnPZQ8uqjmzCyDQ0JA'
   social:
     instagram: 'https://www.instagram.com/bornthaibklyn/'
   status: open
@@ -309,10 +301,8 @@
   notes: Open for outdoor dining, pickup and delivery.
   phone: (718) 484-8704
   services:
-    doordash: >-
-      https://www.doordash.com/store/branded-cattle-saloon-inc-brooklyn-893199/1318299/en-US
-    seamless: >-
-      https://www.seamless.com/menu/branded-saloon-603-vanderbilt-ave-brooklyn/298472
+    doordash: 'https://www.doordash.com/store/branded-cattle-saloon-inc-brooklyn-893199/1318299/en-US
+    seamless: 'https://www.seamless.com/menu/branded-saloon-603-vanderbilt-ave-brooklyn/298472'
   social:
     instagram: 'https://www.instagram.com/brandedsaloon/'
   status: open
@@ -321,7 +311,7 @@
   category: food
   last_updated: 7/3
   notes: 'Open for outdoor dining, pickup and delivery.'
-  phone: (718) 678-4200​
+  phone: (718) 678-4200
   services:
     chownow: 'https://direct.chownow.com/order/1935/locations/2543'
   social:
@@ -375,8 +365,8 @@
   hours: 11AM - 10PM (9PM Sun)
   last_updated: 3/31
   notes: >-
-    10% off when ordering directly from <a
-    href="https://eat.9fold.me/index.html#/10955">their website</a>
+    10% off when ordering directly from
+    <a href="https://eat.9fold.me/index.html#/10955">their website</a>
   phone: (718) 783-1525
   services:
     doordash: 'https://www.doordash.com/store/chick-p-brooklyn-28639/en-US'
@@ -452,8 +442,7 @@
   notes: Open for pickup and delivery
   phone: (347) 889-5400
   services:
-    seamless: >-
-      https://www.seamless.com/menu/dickeys-barbecue-pit-196-a-flatbush-ave-brooklyn/736492
+    seamless: 'https://www.seamless.com/menu/dickeys-barbecue-pit-196-a-flatbush-ave-brooklyn/736492'
   social:
     instagram: 'https://www.instagram.com/dickeys.bk/'
   status: open
@@ -470,7 +459,10 @@
 - name: Dough Studio
   category: dessert
   last_updated: 5/13
-  notes: "“I started this business to pay for grad school! So if you love cinnamon rolls or pizza, you better try ours. Delivery in Brooklyn 🧡”"
+  notes: >-
+    “I started this business to pay for grad school!
+    So if you love cinnamon rolls or pizza, you better try ours.
+    Delivery in Brooklyn 🧡”
   social:
     facebook: 'https://www.facebook.com/Dough-Studio-105988981103219'
     instagram: 'https://www.instagram.com/doughstudio_/'
@@ -487,15 +479,14 @@
   notes: 'Closed until further notice'
   social:
     instagram: 'https://www.instagram.com/doughnutplant/'
-  status: open
+  status: closed
   url: 'https://www.doughnutplant.com'
 - name: El Paso Mexican Grill
   category: food
   last_updated: 6/12
   phone: (917) 905-3401
   services:
-    seamless: >-
-      https://www.seamless.com/menu/el-paso-mexican-grill-1610-newkirk-ave-brooklyn/285249
+    seamless: 'https://www.seamless.com/menu/el-paso-mexican-grill-1610-newkirk-ave-brooklyn/285249'
   social:
     instagram: 'https://www.instagram.com/elpasomexgrill/'
   status: open
@@ -521,8 +512,8 @@
     - title: Gift cards (25% off)
       url: 'https://faun.nyc/gift-cards'
   notes: >-
-    Open for outdoor dining, pickup and delivery. Prospect Butcher Co. opens
-    early on Saturday and Sunday (noon).
+    Open for outdoor dining, pickup and delivery.
+    Prospect Butcher Co. opens early on Saturday and Sunday (noon).
   phone: (718) 576-6120
   services:
     caviar: 'https://www.trycaviar.com/m/faun-17403'
@@ -551,7 +542,10 @@
   hours: 12 - 8PM (Tue - Sat)
   last_updated: 8/7
   notes: >-
-    Open for contactless pickup and delivery with walkups now available. Call or email <a href="mailto:customerservice@fermentedgrapes.net">customerservice@fermentedgrapes.net</a> with what you’re looking for and a phone number to pre-order.
+    Open for contactless pickup and delivery with 
+    walkups now available. Call or email 
+    <a href="mailto:customerservice@fermentedgrapes.net">customerservice@fermentedgrapes.net</a>
+    with what you’re looking for and a phone number to pre-order.
   phone: (718) 230-3216
   social:
     instagram: 'https://www.instagram.com/fermentedgrapesbk/'
@@ -587,9 +581,9 @@
   hours: 11AM - 9PM
   last_updated: 3/16
   notes: >-
-    Beer and cider to go. Check website and <a
-    href="https://untappd.com/v/gold-star-beer-counter/3171446">Untappd</a> for
-    inventory. Accepting credit cards and Venmo.
+    Beer and cider to go. Check website and 
+    <a href="https://untappd.com/v/gold-star-beer-counter/3171446">Untappd</a>
+    for inventory. Accepting credit cards and Venmo.
   social:
     instagram: 'https://www.instagram.com/goldstarbeercounter/'
     untappd: 'https://untappd.com/v/gold-star-beer-counter/3171446'
@@ -611,7 +605,10 @@
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/ode-to-babel-team'
-  notes: 'Outdoor seating is available. Also open for cocktails to go, accepting orders via Venmo. Window only on Thursday.'
+  notes: >-
+    Outdoor seating is available.
+    Also open for cocktails to go, accepting orders via Venmo.
+    Window only on Thursday.
   social:
     instagram: 'https://www.instagram.com/goodlifebk/'
   status: open
@@ -628,8 +625,7 @@
   phone: (929) 306-8332
   services:
     caviar: 'https://www.trycaviar.com/m/gran-caffe-de-martini-19266'
-    seamless: >-
-      https://www.seamless.com/menu/gran-caffe-de-martini-609-vanderbilt-ave-brooklyn/1008604
+    seamless: 'https://www.seamless.com/menu/gran-caffe-de-martini-609-vanderbilt-ave-brooklyn/1008604'
   social:
     instagram: 'https://www.instagram.com/grancaffedemartini/'
   status: open
@@ -647,8 +643,7 @@
   last_updated: 3/30
   phone: (347) 632-9824
   services:
-    slice: >-
-      https://slicelife.com/restaurants/ny/brooklyn/11238/brooklyn-s-homeslice-pizzeria/menu
+    slice: 'https://slicelife.com/restaurants/ny/brooklyn/11238/brooklyn-s-homeslice-pizzeria/menu'
   social:
     instagram: 'https://www.instagram.com/brooklyns_homeslice/'
   status: open
@@ -670,8 +665,7 @@
   last_updated: 5/23
   links:
     - title: Order online
-      url: >-
-        https://www.beyondmenu.com/37303/brooklyn/inaka-asian-cuisine-brooklyn-11238.aspx
+      url: 'https://www.beyondmenu.com/37303/brooklyn/inaka-asian-cuisine-brooklyn-11238.aspx'
   notes: Open for pickup and delivery
   status: open
   url: 'http://inakany.com'
@@ -683,8 +677,7 @@
   phone: (718) 398-3575
   services:
     postmates: 'https://postmates.com/merchant/the-islands-brooklyn-1'
-    uber_eats: >-
-      https://www.ubereats.com/new-york/food-delivery/the-islands/9jFnKcjVRBuUOpsVlzSgsg
+    uber_eats: 'https://www.ubereats.com/new-york/food-delivery/the-islands/9jFnKcjVRBuUOpsVlzSgsg'
   status: open
 - name: James
   category: food
@@ -807,8 +800,10 @@
   category: food
   status: open
   notes: >-
-    Planned to open in the 755 Dean St. space in June but was obviously unable to. Please read their story on <a
-    href="https://www.gofundme.com/f/uhzc2y-help-me-open-my-dream-restaurant">GoFundMe</a> and consider helping out!
+    Planned to open in the 755 Dean St. space in June but 
+    was obviously unable to. Please read their story on 
+    <a href="https://www.gofundme.com/f/uhzc2y-help-me-open-my-dream-restaurant">GoFundMe</a>
+    and consider helping out!
   links:
     - title: GoFundMe
       url: https://www.gofundme.com/f/uhzc2y-help-me-open-my-dream-restaurant
@@ -816,7 +811,7 @@
   category: store
   last_updated: 4/23
   notes: >-
-    “​Solving home, life and small business problems to get your life
+    “Solving home, life and small business problems to get your life
     reorganized. Offering remote assistance only (see website for service
     offerings).”
   phone: (917) 745-5433
@@ -835,8 +830,7 @@
   phone: (718) 399-2211
   services:
     caviar: 'https://www.trycaviar.com/m/lincoln-station-758'
-    seamless: >-
-      https://www.seamless.com/menu/lincoln-station-409-lincoln-pl-brooklyn/315738
+    seamless: 'https://www.seamless.com/menu/lincoln-station-409-lincoln-pl-brooklyn/315738'
   social:
     instagram: 'https://instagram.com/lincolnstationbk'
   status: open
@@ -873,10 +867,8 @@
   phone: (718) 622-0026
   services:
     caviar: 'https://www.trycaviar.com/m/look-by-plant-love-house-11405'
-    seamless: >-
-      https://www.seamless.com/menu/look-by-plant-love-house-622-washington-ave-brooklyn/344210
-    uber_eats: >-
-      https://www.ubereats.com/new-york/food-delivery/look-by-plant-love-house/IvIM_ZVuRniuCfOkMg9uXw
+    seamless: 'https://www.seamless.com/menu/look-by-plant-love-house-622-washington-ave-brooklyn/344210'
+    uber_eats: 'https://www.ubereats.com/new-york/food-delivery/look-by-plant-love-house/IvIM_ZVuRniuCfOkMg9uXw'
   social:
     instagram: 'https://www.instagram.com/byplantlovehouse/'
   status: open
@@ -887,8 +879,7 @@
   last_updated: 8/7
   links:
     - title: Staff relief fund
-      url: >-
-        https://www.gofundme.com/f/help-lowerline-keep-nola-cuisine-alive-in-brooklyn
+      url: 'https://www.gofundme.com/f/help-lowerline-keep-nola-cuisine-alive-in-brooklyn'
     - title: Gift cards
       url: 'https://squareup.com/gift/W0XRH9R9BY895/order'
   notes: Outdoor seating available. Also open for pickup and delivery
@@ -903,12 +894,13 @@
 - name: Maison Yaki
   category: food
   hours: '5:30 - 9PM (Wed - Sun), 1 - 3PM (Sat / Sun)'
-  last_updated: 7/23
+  last_updated: 8/7
   links:
     - title: Staff relief fund
-      url: >-
-        https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund
-  notes: 'The newest round of the Black entrepreneur popup series runs until Aug. 2 with Honey Bunny’s Chicken.'
+      url: 'https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund'
+  notes: >-
+    The current pop-up at Maison Yaki
+    is from Chef Michelle Williams of Good IV the Soul.
   services:
     resy: 'https://resy.com/cities/ny/maison-yaki'
   social:
@@ -922,8 +914,7 @@
   phone: (732) 535-2717
   services:
     chownow: 'https://direct.chownow.com/order/7470/locations/10000'
-    seamless: >-
-      https://www.seamless.com/menu/maya-taqueria-prospect-heights-637-vanderbilt-ave-brooklyn/80416
+    seamless: 'https://www.seamless.com/menu/maya-taqueria-prospect-heights-637-vanderbilt-ave-brooklyn/80416'
   social:
     instagram: 'https://www.instagram.com/mayataqueria/'
   status: open
@@ -955,8 +946,8 @@
   hours: '12 - 7PM (Tue - Fri), 11AM - 6PM (Sat/Sun)'
   last_updated: 7/3
   notes: >-
-    Pickup or delivery available via <a
-    href="https://www.mercato.com/shop/mermaids-garden">Mercato</a>.
+    Pickup or delivery available via
+    <a href="https://www.mercato.com/shop/mermaids-garden">Mercato</a>.
   phone: (718) 638-1910
   social:
     instagram: 'https://www.instagram.com/mgfishnyc/'
@@ -971,10 +962,8 @@
   services:
     caviar: 'https://www.trycaviar.com/m/mexicocina-agaveria-12562'
     postmates: 'https://postmates.com/merchant/mexicocina-agaveria-brooklyn'
-    seamless: >-
-      https://www.seamless.com/menu/mexicocina-agaveria-708-washington-ave-brooklyn/1136372
-    uber_eats: >-
-      https://www.ubereats.com/new-york/food-delivery/mexicocina-agaveria/GDr95U2KSjmDvI-oJF323g
+    seamless: 'https://www.seamless.com/menu/mexicocina-agaveria-708-washington-ave-brooklyn/1136372'
+    uber_eats: 'https://www.ubereats.com/new-york/food-delivery/mexicocina-agaveria/GDr95U2KSjmDvI-oJF323g'
   social:
     instagram: 'https://www.instagram.com/mexicocina_agaveria/'
   status: open
@@ -1031,8 +1020,7 @@
   services:
     caviar: 'https://www.trycaviar.com/m/mokbar-brooklyn-5085'
     seamless: 'https://www.seamless.com/menu/mokbar-ii-212-flatbush-ave-brooklyn/396396'
-    uber_eats: >-
-      https://www.ubereats.com/new-york/food-delivery/mokbar-park-slope/bzwJfOzHRmOOYaScpluzyA
+    uber_eats: 'https://www.ubereats.com/new-york/food-delivery/mokbar-park-slope/bzwJfOzHRmOOYaScpluzyA'
   social:
     instagram: 'https://www.instagram.com/mokbar_nyc/'
   status: open
@@ -1049,13 +1037,10 @@
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 622-2224
   services:
-    caviar: >-
-      https://www.trycaviar.com/m/morgans-brooklyn-bbq-11362?_branch_match_id=652587222868224742&cav_medium=widget&cav_source=mer-_HNorLt-e21sQo8-1Lttcg&how=delivery&merchant_token=mer-_HNorLt-e21sQo8-1Lttcg&utm_campaign=link&utm_content=morgans-brooklyn-barbecue-11362&utm_medium=restaurant_partners&utm_source=widget&utm_term=brooklyn-queens
+    caviar: 'https://www.trycaviar.com/m/morgans-brooklyn-barbecue-11362'
     doordash: 'https://www.doordash.com/store/morgan-s-barbecue-brooklyn-22100/en-US'
-    seamless: >-
-      https://www.seamless.com/menu/morgans-brooklyn-barbecue-267-flatbush-ave-brooklyn/317192
-    uber_eats: >-
-      https://www.ubereats.com/new-york/food-delivery/morgans-barbeque-prospect-heights/gzrcH1RcQju4pNh82lG1vg
+    seamless: 'https://www.seamless.com/menu/morgans-brooklyn-barbecue-267-flatbush-ave-brooklyn/317192'
+    uber_eats: 'https://www.ubereats.com/new-york/food-delivery/morgans-barbeque-prospect-heights/gzrcH1RcQju4pNh82lG1vg'
   social:
     instagram: 'https://www.instagram.com/morgansbrooklynbbq/'
   status: open
@@ -1063,11 +1048,11 @@
 - name: Mumbai Place
   category: food
   hours: '12 - 10:30PM'
-  last_updated: 6/15
+  last_updated: 8/7
+  notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 398-7776
   services:
-    seamless: >-
-      https://www.grubhub.com/restaurant/mumbai-place-655-vanderbilt-ave-brooklyn/334916
+    seamless: 'https://www.grubhub.com/restaurant/mumbai-place-655-vanderbilt-ave-brooklyn/334916'
   status: open
 - name: Muse
   category: food
@@ -1084,8 +1069,7 @@
   notes: Open for pickup and delivery
   phone: (718) 622-2727
   services:
-    seamless: >-
-      https://www.seamless.com/menu/nacho-macho-taco-prospect-pl-417-prospect-pl-brooklyn/302901
+    seamless: 'https://www.seamless.com/menu/nacho-macho-taco-prospect-pl-417-prospect-pl-brooklyn/302901'
   social:
     facebook: 'https://www.facebook.com/NachoMachoTacoBK/'
     instagram: 'https://www.instagram.com/nachomachotacobk/'
@@ -1138,10 +1122,8 @@
       url: 'https://www.gofundme.com/f/please-help-the-ogliostro-staff'
   notes: 'Open for outdoor dining, pickup and delivery.'
   services:
-    seamless: >-
-      https://www.seamless.com/menu/ogliastro-pizza-bar-784-washington-ave-brooklyn/322585
-    slice: >-
-      https://slicelife.com/restaurants/ny/brooklyn/11238/ogliastro-pizza-bar/menu
+    seamless: 'https://www.seamless.com/menu/ogliastro-pizza-bar-784-washington-ave-brooklyn/322585'
+    slice: 'https://slicelife.com/restaurants/ny/brooklyn/11238/ogliastro-pizza-bar/menu'
   social:
     instagram: 'https://www.instagram.com/ogliastro.brooklyn/'
   status: open
@@ -1153,8 +1135,7 @@
   notes: 'Open for outdoor dining, pickup and delivery'
   phone: (718) 622-6227
   services:
-    seamless: >-
-      https://www.seamless.com/menu/olde-brooklyn-bagel-shoppe-645-vanderbilt-ave-brooklyn/263151
+    seamless: 'https://www.seamless.com/menu/olde-brooklyn-bagel-shoppe-645-vanderbilt-ave-brooklyn/263151'
   social:
     instagram: 'https://www.instagram.com/oldebkbagels/'
   status: open
@@ -1167,14 +1148,12 @@
     - title: Order online
       url: 'https://bbot.menu/olmsteddeliveryorpickup/'
     - title: Staff relief fund
-      url: >-
-        https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund
+      url: 'https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund'
     - title: Gift cards
-      url: >-
-        https://ecommerce.custcon.com/Purchase/Select?c=3e6823e0-52c7-4c1b-af3d-1bb13862c508
+      url: 'https://ecommerce.custcon.com/Purchase/Select?c=3e6823e0-52c7-4c1b-af3d-1bb13862c508'
   notes: >-
-    Open for outdoor dining. Olmsted Trading Post hours 2 - 10PM (Wed - Fri), 12
-    - 10PM (Sat / Sun).
+    Open for outdoor dining. Olmsted Trading Post hours
+    2 - 10PM (Wed - Fri), 12 - 10PM (Sat / Sun).
   services:
     resy: 'https://resy.com/cities/ny/olmsted'
   social:
@@ -1183,8 +1162,8 @@
   url: 'http://olmstednyc.com/'
 - name: Ovenly
   category: cafe
-  hours: '9AM - 3:30PM (Mon - Fri), 8:30AM - 6PM (Sat / Sun)'
-  last_updated: 7/3
+  hours: '7:30AM - 6PM (Mon - Fri), 8AM - 6PM (Sat / Sun)'
+  last_updated: 8/7
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/ovenly-employee-fund'
@@ -1207,7 +1186,8 @@
     - title: Gift cards
       url: 'https://www.oxalisnyc.com/store/gift-cards/'
   notes: >-
-    Open for outdoor dining, pickup and delivery. Breakfast burritos available 10am until sold out Fri - Sun.
+    Open for outdoor dining, pickup and delivery.
+    Breakfast burritos available 10am until sold out Fri - Sun.
   phone: (347) 627-8298
   services:
     resy: 'https://resy.com/cities/ny/fausto'
@@ -1270,9 +1250,9 @@
   category: service
   last_updated: 3/25
   notes: >-
-    Offering virtual private yoga and meditation lessons via FaceTime, Zoom, and
-    Google Hangouts. <a
-    href="mailto:alli@privateyogasoho.com">alli@privateyogasoho.com</a>
+    Offering virtual private yoga and meditation lessons 
+    via FaceTime, Zoom, and Google Hangouts.
+    <a href="mailto:alli@privateyogasoho.com">alli@privateyogasoho.com</a>
   phone: (740) 221-3048
   status: open
   url: 'https://www.privateyogasoho.com'
@@ -1318,8 +1298,7 @@
   services:
     doordash: 'https://www.doordash.com/store/shanes-brooklyn-brooklyn-179024/en-US'
     postmates: 'https://postmates.com/merchant/cafe-shane-on-washington-brooklyn'
-    uber_eats: >-
-      https://www.ubereats.com/new-york/food-delivery/shanes-brooklyn/TsKwjyqQSaGcQNr4An9WBg
+    uber_eats: 'https://www.ubereats.com/new-york/food-delivery/shanes-brooklyn/TsKwjyqQSaGcQNr4An9WBg'
   social:
     instagram: 'https://www.instagram.com/shanes_brooklyn/'
 - name: Sharlene’s Bar
@@ -1379,7 +1358,7 @@
     - title: Gift cards
       url: 'https://specificgravitynyc.com/products/gift-card-1'
   notes: >-
-    Open by appointment, <a href="mailto:shop@specificgravitynyc.com">email</a>
+    Open by appointment. <a href="mailto:shop@specificgravitynyc.com">Email</a>
     or call to schedule.
   phone: (347) 291-1766
   social:
@@ -1389,7 +1368,8 @@
   category: food
   last_updated: 7/3
   notes: >-
-    Open for outdoor dining, pickup and delivery. Located on Washington Ave. (Their Vanderbilt location has closed.)
+    Open for outdoor dining, pickup and delivery.
+    Located on Washington Ave. (Their Vanderbilt location has closed.)
   phone: (718) 872-5304
   services:
     chownow: 'https://direct.chownow.com/order/18160/locations/26048'
@@ -1413,8 +1393,7 @@
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/sunshine-co-staff'
-  notes: >-
-    Open for outdoor dining.
+  notes: 'Open for outdoor dining.'
   social:
     instagram: 'https://www.instagram.com/sunshinecobk/'
   status: open
@@ -1424,14 +1403,12 @@
   hours: 12 - 11PM
   last_updated: 7/6
   notes: >-
-    Open for outdoor dining, pickup and delivery as <a
-    href="https://www.instagram.com/LILSWEETCHICK/">Lil’ Sweet Chick</a>.
+    Open for outdoor dining, pickup and delivery as 
+    <a href="https://www.instagram.com/LILSWEETCHICK/">Lil’ Sweet Chick</a>.
   phone: (718) 484-7724
   services:
-    seamless: >-
-      https://www.seamless.com/menu/sweet-chick-prospect-heights-341-flatbush-ave-brooklyn/1685999
-    uber_eats: >-
-      https://www.ubereats.com/new-york/food-delivery/sweet-chick-flatbush/GQauqkOlQCikYdNl20DTTA
+    seamless: 'https://www.seamless.com/menu/sweet-chick-prospect-heights-341-flatbush-ave-brooklyn/1685999'
+    uber_eats: 'https://www.ubereats.com/new-york/food-delivery/sweet-chick-flatbush/GQauqkOlQCikYdNl20DTTA'
   social:
     instagram: 'https://www.instagram.com/sweetchicklife/'
   status: open
@@ -1459,8 +1436,7 @@
   notes: Open for pickup and delivery
   phone: (212) 864-6137
   services:
-    seamless: >-
-      https://www.seamless.com/menu/toms-restaurant-782-washington-ave-brooklyn/297390
+    seamless: 'https://www.seamless.com/menu/toms-restaurant-782-washington-ave-brooklyn/297390'
   social:
     instagram: 'https://www.instagram.com/tomsbrooklyn/'
   status: open
@@ -1470,8 +1446,7 @@
   hours: '11AM - 10:15PM'
   last_updated: 3/30
   notes: >-
-    <a
-    href="https://www.opendining.net/menu/4fd8ca07000d972008000172#ordering-for-prompt">Order
+    <a href="https://www.opendining.net/menu/4fd8ca07000d972008000172#ordering-for-prompt">Order
     online</a> for pickup and delivery
   phone: (718) 622-8424
   social:
@@ -1485,12 +1460,10 @@
   phone: (718) 484-3744
   services:
     caviar: 'https://www.trycaviar.com/m/underhill-cafe-and-grill-10596'
-    doordash: >-
-      https://www.doordash.com/store/underhill-cafe-and-grill-brooklyn-312894/en-US
+    doordash: 'https://www.doordash.com/store/underhill-cafe-and-grill-brooklyn-312894/en-US'
     postmates: 'https://postmates.com/merchant/underhill-cafe-grill-brooklyn'
     seamless: 'https://www.seamless.com/menu/view/768940'
-    uber_eats: >-
-      https://www.ubereats.com/new-york/food-delivery/underhill-cafe-%26-grill/a9MCFJrEQKy95yjuR4e4Rg
+    uber_eats: 'https://www.ubereats.com/new-york/food-delivery/underhill-cafe-%26-grill/a9MCFJrEQKy95yjuR4e4Rg'
   social:
     instagram: 'https://www.instagram.com/underhillgreekeatery/'
   status: open
@@ -1512,15 +1485,13 @@
   hours: 11AM - 11PM (12AM Fri/Sat)
   links:
     - title: Gift cards
-      url: >-
-        https://squareup.com/gift/FR6ZMQGP6CJ1S/order?external_source=giveandgetlocal
+      url: 'https://squareup.com/gift/FR6ZMQGP6CJ1S/order?external_source=giveandgetlocal'
   notes: Order online for pickup and delivery.
   phone: (347) 240-7453
   services:
     caviar: 'https://trycaviar.app.link/7jIqsTuzjW'
     postmates: 'https://postmates.com/merchant/van-leeuwen-ice-cream-brooklyn'
-    uber_eats: >-
-      https://www.ubereats.com/en-US/new-york/food-delivery/van-leeuwen-artisan-ice-cream-prospect-heights/lRdl_U-mS8yow9R-xiO2ZQ/
+    uber_eats: 'https://www.ubereats.com/en-US/new-york/food-delivery/van-leeuwen-artisan-ice-cream-prospect-heights/lRdl_U-mS8yow9R-xiO2ZQ/'
   social:
     instagram: 'https://www.instagram.com/vanleeuwenicecream/'
   status: open
@@ -1543,8 +1514,7 @@
   notes: Open for pickup and delivery
   phone: (718) 230-3734
   services:
-    seamless: >-
-      https://www.seamless.com/menu/washington-avenue-cafe-621-washington-ave-brooklyn/900005
+    seamless: 'https://www.seamless.com/menu/washington-avenue-cafe-621-washington-ave-brooklyn/900005'
   status: open
 - name: Weather Up
   category: bar
@@ -1566,8 +1536,7 @@
   phone: (718) 552-2272
   services:
     doordash: 'https://www.doordash.com/store/white-tiger-brooklyn-132915/en-US'
-    seamless: >-
-      https://www.seamless.com/menu/white-tiger-601-vanderbilt-ave-brooklyn/1981045
+    seamless: 'https://www.seamless.com/menu/white-tiger-601-vanderbilt-ave-brooklyn/1981045'
     toast: 'https://www.toasttab.com/white-tiger/v3'
   social:
     instagram: 'https://www.instagram.com/whitetigerbklyn/'
@@ -1577,8 +1546,8 @@
   category: wine-liquor
   last_updated: 7/8
   notes: >-
-    Open for pickup and delivery, now with online ordering. Five people at a
-    time inside.
+    Open for pickup and delivery, now with online ordering.
+    Five people at a time inside.
   phone: (718) 783-7500
   social:
     instagram: 'https://www.instagram.com/wineexchangebkn/'
@@ -1588,8 +1557,7 @@
   category: wine-liquor
   last_updated: 3/26
   notes: >-
-    <a
-    href="https://wineyneighbor.com/#&StoreFrontLocationHash=%23%2Fwidget%2F5a6f49faf4a6613ee3696dbb%2Fcontainers">Order
+    <a href="https://wineyneighbor.com/#&StoreFrontLocationHash=%23%2Fwidget%2F5a6f49faf4a6613ee3696dbb%2Fcontainers">Order
     online</a> for pickup and delivery
   phone: (347) 715-6693
   social:
@@ -1607,4 +1575,3 @@
     instagram: 'https://www.instagram.com/zaytoonsrestaurant/'
   status: open
   url: 'https://zaytoons.com'
-  
