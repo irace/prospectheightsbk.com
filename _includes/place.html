@@ -2,8 +2,8 @@
   <div class="bg-white shadow-4 br2 h-100 pa3 flex flex-column items-start">
     <div class="f4 lh-copy ttu">
       {% if place.url %}<a class="link dim dark-blue" href="{{ place.url }}">{{ place.name }}</a>{% else %} {{ place.name }} {% endif %}
-      {% if place.social.instagram %}<a class="v-mid" href="{{ place.instagram }}"><img class="social_icon" src="icons/instagram.png"/></a>{% endif %}
-      {% if place.social.facebook %}<a class="v-mid" href="{{ place.facebook }}"><img class="social_icon" src="icons/facebook.png"/></a>{% endif %}
+      {% if place.social.instagram %}<a class="v-mid" href="{{ place.social.instagram }}"><img class="social_icon" src="icons/instagram.png"/></a>{% endif %}
+      {% if place.social.facebook %}<a class="v-mid" href="{{ place.social.facebook }}"><img class="social_icon" src="icons/facebook.png"/></a>{% endif %}
       {% if place.social.untappd %}<a class="v-mid" href="{{ place.untappd }}"><img class="social_icon" src="icons/untappd.png"/></a>{% endif %}
     </div>
     {% unless place.status == "closed" %}
