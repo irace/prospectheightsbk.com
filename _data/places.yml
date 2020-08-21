@@ -355,7 +355,7 @@
   url: 'https://www.burritobarbrooklyn.com'
 - name: Cataldo’s
   category: food
-  hours: 12 - 8PM
+  hours: '1 - 9PM (Tue - Thu), 12 - 10PM (Fri - Sun)'
   last_updated: 7/3
   notes: Open for outdoor dining and pickup.
   phone: (718) 857-6700
@@ -940,13 +940,13 @@
   url: 'https://www.brooklyncellars.com'
 - name: MeMe’s Diner
   category: food
+  hours: '5 - 9PM (Thu - Fri), 12 - 9PM (Sat - Sun)'
   last_updated: 7/3
   links:
     - title: Staff relief fund
       url: 'https://www.memesdiner.com/covid-19-staff-fund-donation'
     - title: Gift cards
       url: 'https://www.memesdiner.com/gift-certificates'
-  notes: 'Open for brunch 7/4-5, 10AM - 4PM.'
   phone: (718) 636-2900
   social:
     instagram: 'https://www.instagram.com/memesdiner/'
