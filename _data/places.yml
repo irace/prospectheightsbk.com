@@ -391,7 +391,7 @@
   url: 'https://www.chick-p.com'
 - name: Chuko
   category: food
-  hours: '5:30 - 9PM (Sun - Thu), 5:30 - 10PM (Fri / Sat)'
+  hours: '5:30 - 9PM (Mon - Thu), 5:30 - 10PM (Fri), 12 - 3PM and 5:30 - 10PM (Sat), 12 - 3PM and 5:30 - 9PM (Sun)'
   last_updated: 7/19
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (347) 425-9570
@@ -404,7 +404,7 @@
   url: 'http://www.chukobk.com'
 - name: 'Ciao, Gloria'
   category: cafe
-  hours: '9AM - 3PM (Mon - Fri), 9AM - 5PM (Sat / Sun)'
+  hours: '8:30AM - 4PM (Mon - Fri), 9AM - 5PM (Sat / Sun), 6 - 8PM (Sunday Pasta Night)'
   last_updated: 7/3
   links:
     - title: Staff relief fund
