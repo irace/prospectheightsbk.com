@@ -1326,7 +1326,8 @@
 - name: Soda Bar
   category: bar
   hours: '4 - 10PM (Fri), 12 - 10PM (Sat / Sun)'
-  last_updated: 7/10
+  last_updated: 9/24
+  status: closed
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/soda-bar-staff-donation'
