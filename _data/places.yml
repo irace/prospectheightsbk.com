@@ -102,8 +102,8 @@
   url: 'https://www.bargoto.com/location/bar-goto-niban/'
 - name: Bar Meridian
   category: bar
-  hours: 4 - 10PM
-  last_updated: 7/3
+  hours: 4 - 11PM (Tues - Sun)
+  last_updated: 9/27
   links:
     - title: Gift cards
       url: 'https://www.toasttab.com/bar-meridian/giftcards'
@@ -403,7 +403,7 @@
   services:
     caviar: 'https://www.trycaviar.com/t/m/ciao-gloria-16959'
   social:
-    instagram: 'https://www.instagram.com/ciaoglorianyc/'
+    instagram: 'https://www.instagram.com/ciaogloria/'
   status: open
   url: 'https://www.ciaogloria.com'
 - name: Cinnamon Girl
@@ -579,11 +579,11 @@
 - name: Gold Star Beer Counter
   category: bar
   hours: 11AM - 9PM
-  last_updated: 3/16
+  last_updated: 9/27
   notes: >-
-    Beer and cider to go. Check website and 
+    Outdoor seating now open (4 - 9PM, Thurs - Sun). Check website and 
     <a href="https://untappd.com/v/gold-star-beer-counter/3171446">Untappd</a>
-    for inventory. Accepting credit cards and Venmo.
+    for inventory.
   social:
     instagram: 'https://www.instagram.com/goldstarbeercounter/'
     untappd: 'https://untappd.com/v/gold-star-beer-counter/3171446'
@@ -780,8 +780,8 @@
   url: 'https://kulushkat.com'
 - name: LaLou
   category: food
-  hours: '5:30 - 9:30PM (Wed / Thu), 5 - 10:30PM (Fri), 12 - 10:30PM (Sat), 12 - 9PM (Sun)'
-  last_updated: 7/19
+  hours: '5:30 - 9:30PM (Tues - Thu), 5 - 10:30PM (Fri), 12 - 10:30PM (Sat), 12 - 9PM (Sun)'
+  last_updated: 9/27
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/lalou-employee-fund'
@@ -1323,18 +1323,6 @@
     instagram: 'https://www.instagram.com/sitandwondercoffeeshop/'
   status: open
   url: 'http://sitandwonder.net/index.html'
-- name: Soda Bar
-  category: bar
-  hours: '4 - 10PM (Fri), 12 - 10PM (Sat / Sun)'
-  last_updated: 9/24
-  status: closed
-  links:
-    - title: Staff relief fund
-      url: 'https://www.gofundme.com/f/soda-bar-staff-donation'
-  notes: Outdoor seating is available. Also open for pickup.
-  social:
-    facebook: 'https://www.facebook.com/Soda-Bar-111725295530380/'
-    instagram: 'https://www.instagram.com/sodabarbrooklyn/'
 - name: Sofreh
   category: food
   hours: '5 - 8:30PM (Tue - Sun)'
