@@ -75,6 +75,15 @@
     instagram: 'https://www.instagram.com/antonios_pizza_/'
   status: open
   url: 'https://www.antoniosbrooklyn.com'
+
+- name: Art Cafe & Bar
+  category: food
+  phone: (718) 857-2522
+  social:
+    instagram: 'https://www.instagram.com/artcafebrooklyn/'
+  hours: 12PM - 12AM (Sun / Mon), 10AM - 1AM (Tue - Thu), 10AM - 2AM (Fri / Sat)
+  notes: Garden outdoor dining
+
 - name: The Bakery on Bergen
   category: cafe
   hours: 12 - 7PM (Tue - Sun)
