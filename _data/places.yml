@@ -831,11 +831,11 @@
 - name: Lincoln Station
   category: food
   hours: 5 - 8PM
-  last_updated: 5/30
+  last_updated: 11/14
   notes: >-
     Call ahead for pickup through the front door or order online for delivery.
     Send requests to <a
-    href="mailto:info@stationfoods.com">info@stationfoods.com</a>.
+    href="mailto:info@stationfoods.com">info@stationfoods.com</a>. Delivery from Al di La “coming soon.”
   phone: (718) 399-2211
   services:
     caviar: 'https://www.trycaviar.com/m/lincoln-station-758'
@@ -1184,9 +1184,10 @@
   status: open
   url: 'https://www.oven.ly'
 - name: Oxalis
+  status: closed
   category: food
   hours: '3 - 7PM (Tue - Sun, cocktails only Tue - Thu)'
-  last_updated: 7/19
+  last_updated: 11/14
   links:
     - title: Pantry box
       url: 'https://boxalis.com'
