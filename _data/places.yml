@@ -1,18 +1,19 @@
 - name: 333 Lounge
+  last_updated: 12/23
   category: bar
-  hours: '4 - 11PM (Mon - Sat), 2 - 10PM (Sun)'
-  last_updated: 7/23
+  hours: '4 - 10PM (Mon - Sat), 2 - 10PM (Sun)'
   notes: >-
-    Open for outdoor dining. Call or <a href="mailto:333bknyc@gmail.com">email</a> to place an order.
+    Open for pickup. Call or <a href="mailto:333bknyc@gmail.com">email</a> to place an order.
   phone: (718) 399-8008
   social:
     instagram: 'https://www.instagram.com/333.lounge/'
-  status: open
+    facebook: 'https://www.facebook.com/333loungenbk/'
   url: 'https://www.333lounge.com'
+
 - name: Acme Pet Food Inc
+  last_updated: 4/13
   category: store
   hours: '10AM - 7PM (Mon - Fri), 10AM - 5PM (Sat), 11AM - 5PM (Sun)'
-  last_updated: 4/13
   notes: >-
     “Limit exposure to our staff and yourself,
     please wear a mask when visiting, wait outside if crowded.
@@ -20,11 +21,11 @@
   phone: (718) 789-8062
   social:
     instagram: 'https://www.instagram.com/acmepetfood/'
-  status: open
+
 - name: Alta Calidad
+  last_updated: 12/23
   category: food
-  hours: '11:30AM - 9:30PM (Sun - Thu), 11:30AM - 10:30PM (Fri / Sat)'
-  last_updated: 7/9
+  hours: '11:30AM - 9:30PM (Sun - Thu), 11:30AM - 10PM (Fri / Sat)'
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/alta-calidad-employee-relief-fund'
@@ -36,35 +37,38 @@
       https://www.seamless.com/menu/alta-calidad-552-vanderbilt-ave-brooklyn/460349
     toast: 'https://www.toasttab.com/alta-calidad/v3'
   social:
+    facebook: 'https://www.facebook.com/altacalidad'
     instagram: 'https://www.instagram.com/altacalidadbk/'
-  status: open
   url: 'https://altacalidadbk.com'
+
 - name: Amorina Pizza
+  last_updated: 12/23
   category: food
-  hours: '4 - 8PM (Thu, Sun), 4 - 9PM (Fri / Sat)'
-  last_updated: 7/3
+  hours: '4 - 9PM (Sun, Wed / Thu), 4 - 10PM (Fri / Sat)'
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 230-3030
   services:
+    chownow: 'https://direct.chownow.com/order/21483/locations/31103'
     seamless: >-
       https://www.seamless.com/menu/amorina-cucina-rustica-624-vanderbilt-ave-brooklyn/292222
   social:
     instagram: 'https://www.instagram.com/amorinapizza/'
-  status: open
   url: 'http://www.amorinapizza.com/'
+
 - name: Ample Hills
+  last_updated: 12/23
   category: dessert
   hours: '1 - 9PM (Sun - Thu), 1 - 10PM (Fri / Sat)'
   notes: 'Reopened as of July 23 under new ownership.'
-  last_updated: 8/7
   social:
+    facebook: 'https://www.facebook.com/amplehills/'
     instagram: 'https://www.instagram.com/amplehills/'
-  status: open
   url: 'https://www.amplehills.com'
+
 - name: Antonio’s Pizza
+  last_updated: 3/30
   category: food
   hours: 11AM - 9PM
-  last_updated: 3/30
   notes: Open for pickup and delivery
   phone: ‭(718) 398-2300‬
   services:
@@ -73,105 +77,123 @@
     slice: 'https://slicelife.com/restaurants/ny/brooklyn/11238/antonio-s-pizza/menu'
   social:
     instagram: 'https://www.instagram.com/antonios_pizza_/'
-  status: open
   url: 'https://www.antoniosbrooklyn.com'
 
 - name: Art Cafe & Bar
+  last_updated: 12/23
   category: food
   phone: (718) 857-2522
   social:
+    facebook: 'https://www.facebook.com/pages/Art-Cafe/527841370624131'
     instagram: 'https://www.instagram.com/artcafebrooklyn/'
   hours: 12PM - 12AM (Sun / Mon), 10AM - 1AM (Tue - Thu), 10AM - 2AM (Fri / Sat)
-  notes: Garden outdoor dining
+  notes: 'Outdoor seating is available.'
 
 - name: The Bakery on Bergen
+  last_updated: 12/23
   category: cafe
   hours: 12 - 7PM (Tue - Sun)
-  last_updated: 7/19
-  notes: >-
-    Outdoor seating is available. Also open for pickup, or<a href="https://thebakeryonbergennyc.com/order-2">order online</a>.
+  notes: 'Outdoor seating is available.'
+  services:
+    seamless: 'https://www.seamless.com/menu/the-bakery-on-bergen-740-bergen-st-brooklyn/921677'
   social:
+    facebook: 'https://www.facebook.com/The-BAKERY-on-bergen-320305438166950/'
     instagram: 'https://www.instagram.com/thebakeryonbergen/'
-  url: 'https://thebakeryonbergennyc.com'
+  url: 'https://www.bakeryonbergen.com/'
+
 - name: Banh Mi Place
   category: food
-  last_updated: 5/13
+  last_updated: 12/23
   notes: Open for pickup and delivery
   services:
+    seamless: 'https://www.seamless.com/menu/banh-mi-place-824-washington-ave-brooklyn/310686'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/banh-mi-place/01MKo6J-RmCWJFzMsQzgXg'
+  social:
+    facebook:'https://www.facebook.com/pages/Banh-Mi-Place/512832582210701'
+  url: 'https://banhmiplacebklyn.com/'
+
 - name: Bar Goto Niban
   category: bar
-  hours: 5 - 10PM (Tue - Sat), 5 - 9PM (Sun)
-  last_updated: 8/7
+  hours: 5 - 10PM (Tue - Sat), 3 - 8:30PM (Sun)
+  last_updated: 12/23
   notes: 'Open for outdoor dining, pickup and delivery.'
   services:
     upserve: 'https://app.upserve.com/s/bar-goto-niban-brooklyn'
   social:
     instagram: 'https://www.instagram.com/bargoto_niban/'
   url: 'https://www.bargoto.com/location/bar-goto-niban/'
+
 - name: Bar Meridian
+  last_updated: 12/23
   category: bar
-  hours: 4 - 11PM (Tues - Sun)
-  last_updated: 9/27
+  hours: 4 - 10PM (Thu), 2 - 10PM (Fri - Sun)
   links:
     - title: Gift cards
       url: 'https://www.toasttab.com/bar-meridian/giftcards'
   notes: Outdoor seating is available. Also open for pickup
+  services:
+    resy: https://resy.com/cities/ny/bar-meridian
   social:
     instagram: 'https://www.instagram.com/bar_meridian_nyc/'
   toast: 'https://www.toasttab.com/bar-meridian/v3'
   url: 'https://www.barmeridian.com'
+
 - name: BCakeNY
+  last_updated: 12/23
   category: dessert
-  last_updated: 7/19
+  hours: 10AM - 6PM (Mon), 12 - 7PM (Tue - Fri), 10AM - 5PM (Sat / Sun)
   notes: 'Outdoor seating is available.'
   phone: (347) 787-7199
   social:
+    facebook: 'https://www.facebook.com/BCakeNY/'
     instagram: 'https://www.instagram.com/bcakeny/'
-  status: open
   url: 'https://www.bcakeny.com/bcakenyshop/'
+
 - name: The Bearded Lady
+  last_updated: 12/23
   category: food
-  hours: 3 - 11PM
-  last_updated: 8/7
+  hours: 2 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/bearded-lady-staff-support-fund'
   notes: Open for outdoor dining and pickup.
   phone: (718) 230-7600
   social:
+    facebook: 'https://www.facebook.com/BeardedLadyBrooklyn/'
     instagram: 'https://www.instagram.com/bearded_lady_brooklyn/'
-  status: open
   url: 'http://www.beardedladybrooklyn.com'
+
 - name: Beer Street South
+  last_updated: 12/23
   category: bar
-  hours: 2 - 8PM
-  last_updated: 7/19
+  hours: 4 - 8PM (Mon - Fri), 2 - 8PM (Sat / Sun)
   links:
     - title: Gift cards
       url: 'https://squareup.com/gift/C3K54BY60YNAP/order'
   notes: 'Outdoor seating is available. Also open for pickup or <a href="https://beerstreetsouth550.com">online orders</a>'
   social:
+    facebook: 'http://www.facebook.com/beerstreetny'
     instagram: 'https://www.instagram.com/beerstreetsouth/'
     untappd: 'https://untappd.com/v/beer-street-south/9792005'
-  status: open
   url: 'https://beerstreetsouth550.com'
+
 - name: Bergen Bagels
+  last_updated: 12/23
   category: food
-  hours: 7AM - 3PM
-  last_updated: 4/3
+  hours: 6AM - 10PM
   notes: Open for pickup and delivery
+  phones: (718) 789-7600
   services:
     doordash: 'https://www.doordash.com/store/bergen-bagels-brooklyn-312992/en-US'
     seamless: 'https://www.seamless.com/menu/bergen-bagels-on-bergen-473-bergen-st-brooklyn/549250'
   social:
     instagram: 'https://www.instagram.com/bergen_bagels/'
-  status: open
   url: 'http://www.bergenbagels.com/'
+
 - name: Bierwax
+  last_updated: 12/23
   category: bar
-  hours: '4 - 11PM (Mon - Fri), 1 - 11PM (Sat - Sun)'
-  last_updated: 7/11
+  hours: '4 - 10PM (Mon - Fri), 12 - 10PM (Sat), 12 - 9PM (Sun)'
   links:
     - title: Order online
       url: 'https://my-site-100819-102620.square.site'
@@ -183,13 +205,15 @@
   phone: (347) 533-8449
   social:
     instagram: 'https://www.instagram.com/bierwax/'
+    facebook: 'https://www.facebook.com/BierWax/'
     untappd: 'https://untappd.com/v/bierwax/7133448'
-  status: open
   url: 'https://www.bierwaxnyc.com'
+
 - name: Bilt Bar
+  last_updated: 12/23
   category: bar
-  hours: '3 - 7PM (Fri), 2 - 7PM (Sat), 1 - 6PM (Sun)'
-  last_updated: 7/3
+  hours: '3 - 8PM (Fri - Sun)'
+  phone: '(347) 295-3579'
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/bilt-bar-bartenders-relief-fund'
@@ -197,54 +221,60 @@
   social:
     facebook: 'https://www.facebook.com/pages/category/Lounge/Bilt-Bar-100153434688553/'
     instagram: 'https://www.instagram.com/biltbar/'
-  status: open
+
 - name: BKLYN Clay
+  last_updated: 12/23
   category: service
   hours: 9AM - 9PM
-  last_updated: 8/7
   links:
     - title: Staff relief fund
       url: 'https://www.bklynclay.com/checkout/donate?donatePageId=5e795b6604497b59a692c207'
     - title: Gift cards
       url: 'https://www.bklynclay.com/gift-certificates'
-  notes: Open to members only.
+  notes: >-
+    Open to members only. For questions, email <a href="mailto:info@bklynclay.com">info@bklynclay.com</a>
   social:
+    facebook: 'https://www.facebook.com/bklynclay'
     instagram: 'https://www.instagram.com/bklynclay/'
-  status: open
   url: 'https://bklynclay.com'
+
 - name: BKLYN Larder
+  last_updated: 12/23
   category: grocery
-  last_updated: 7/3
+  hours: 10 - 6PM (Tue - Sun)
   links:
     - title: Order online
       url: 'https://bklynlarder.revelup.com/weborder/?establishment=2#index'
     - title: Gift cards
       url: 'https://www.bklynlarder.com/gift-cards/'
-  notes: Outdoor seating is available. Also open for pickup and delivery.
+  notes: Open for pickup and delivery
   phone: (718) 783-1250
   social:
+    facebook: 'https://www.facebook.com/BKLYN-LARDER-115860655123816/'
     instagram: 'https://www.instagram.com/bklynlarder/'
-  status: open
   url: 'https://www.bklynlarder.com'
+
 - name: BKLYN Crepe & Juice
+  last_updated: 12/23
   category: cafe
-  hours: 10AM - 8PM
-  last_updated: 3/25
+  phone: (718) 638-1023
+  hours: 8AM - 8PM
   notes: Open for pickup and delivery
   services:
-    caviar: 'https://www.trycaviar.com/m/brooklyn-crepe--juice-14085'
+    caviar: 'https://www.trycaviar.com/store/brooklyn-crepe---juice-brooklyn-32612/en-US'
     doordash: 'https://www.doordash.com/store/brooklyn-crepe-juice-brooklyn-32612/en-US'
     postmates: 'https://postmates.com/merchant/brooklyn-crepe-juice-brooklyn'
-    seamless: 'https://www.seamless.com/menu/brooklyn-crepe--juice-274-flatbush-ave-brooklyn/310415'
+    seamless: 'https://www.grubhub.com/restaurant/bklyn-crepe-214-flatbush-ave-brooklyn/310415'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/brooklyn-crepe-%26-juice-park-slope/7x5ubkWWQYiRliRSAiuF4Q'
   social:
+    facebook: 'https://www.facebook.com/bklyn.crepe'
     instagram: 'https://www.instagram.com/bklyncrepe/'
-  status: open
   url: 'http://brooklyncrepe.com'
+
 - name: Black Iron Burger
+  last_updated: 12/23
   category: food
-  hours: '4 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)'
-  last_updated: 8/7
+  hours: '2 - 9:30PM (Mon - Fri), 12 - 9:30PM (Sat), 12 - 9PM (Sun)'
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/1xwz41clg0'
@@ -255,13 +285,13 @@
   services:
     seamless: 'https://www.seamless.com/menu/black-iron-burger-234-flatbush-ave-brooklyn/1452872'
   social:
+    facebook: 'https://www.facebook.com/Blackironburgernyc/'
     instagram: 'https://www.instagram.com/blackironburger'
-  status: open
   url: 'https://www.blackironburger.com/location/black-iron-burger-park-slope/'
+
 - name: Bleachers Sports Bar & Grill
+  last_updated: 12/23
   category: food
-  hours: 1 - 8PM
-  last_updated: 7/3
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 857-1111
   services:
@@ -270,109 +300,122 @@
   social:
     facebook: 'https://www.facebook.com/240bleachers/'
     instagram: 'https://www.instagram.com/240bleachers/'
-  status: open
+
 - name: Blue Marble
+  last_updated: 12/23
   category: dessert
-  hours: '8AM - 7PM (Mon - Thu), 9AM - 9PM (Fri - Sun)'
-  last_updated: 7/3
+  hours: '8AM - 9PM (Mon - Thu), 9AM - 9PM (Fri - Sun)'
   notes: >-
     Coffee, pastries, pints, and cups available from the take-out window
     or for delivery via Postmates. “Our hours and offerings may vary, but we will post daily.”'
   phone: (718) 399-6926
   services:
+    goldbelly: 'https://www.goldbelly.com/blue-marble-organic-ice-cream'
     postmates: 'https://postmates.com/merchant/blue-marble-brooklyn'
   social:
+    facebook: 'https://www.facebook.com/bluemarbleicecream/'
     instagram: 'https://www.instagram.com/bluemarblebk/'
-  status: open
   url: 'https://www.bluemarbleicecream.com'
+
 - name: Born Thai
+  last_updated: 12/23
   category: food
-  hours: '12 - 9:30PM'
-  last_updated: 7/19
+  hours: '12:30 - 10PM'
   notes: Open for outdoor dining, pickup and delivery.
   phone: (347) 663-3674
+  links:
+    - title: Order online
+      url: 'https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=5e889b98-7f3f-467a-8eae-adc91eaa6008'
   services:
-    doordash: 'https://www.doordash.com/store/bergen-bagels-brooklyn-312992/en-US'
+    doordash: 'https://www.doordash.com/store/born-thai-brooklyn-28507/en-US'
     postmates: 'https://postmates.com/merchant/born-thai-brooklyn'
     seamless: 'https://www.seamless.com/menu/born-thai-293-flatbush-ave-brooklyn/1152911'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/born-thai/GwItgnPZQ8uqjmzCyDQ0JA'
   social:
     instagram: 'https://www.instagram.com/bornthaibklyn/'
-  status: open
   url: 'https://www.bornbklyn.com/'
+
 - name: Branded Saloon
+  last_updated: 12/23
   category: food
-  hours: '5 - 11:45PM (Mon - Fri), 12 - 11:45PM (Sat / Sun)'
-  last_updated: 8/7
+  hours: '5 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)'
+  phone: (718) 484-8704
   links:
+    - title: Order online
+      url: 'https://branded.revelup.com/weborder/?establishment=1'
     - title: Merchandise
       url: 'https://www.brandedsaloon.com/support-branded'
+    - title: Relief fund
+      url: 'https://www.gofundme.com/f/relief-fund-for-branded-saloon'
   notes: Open for outdoor dining, pickup and delivery.
-  phone: (718) 484-8704
   services:
     doordash: 'https://www.doordash.com/store/branded-cattle-saloon-inc-brooklyn-893199/1318299/en-US'
     seamless: 'https://www.seamless.com/menu/branded-saloon-603-vanderbilt-ave-brooklyn/298472'
   social:
     instagram: 'https://www.instagram.com/brandedsaloon/'
-  status: open
   url: 'https://www.brandedsaloon.com'
+
 - name: Broccolino
+  last_updated: 12/23
   category: food
-  last_updated: 7/3
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 678-4200
   services:
     chownow: 'https://direct.chownow.com/order/1935/locations/2543'
   social:
+    facebook: 'https://www.facebook.com/NYCbroccolino/'
     instagram: 'https://www.instagram.com/broccolinonyc/'
   url: 'https://www.broccolinonyc.com'
+
 - name: Brooklyn Metal Works
+  last_updated: 12/23
   category: service
-  last_updated: 3/24
-  links:
-    - title: Gift cards
-      url: 'https://shop.bkmetalworks.com/product/gift-certificates'
-  notes: Closed until further notice. Shop online or buy gift certificates.
+  notes: >-
+    An appointment is needed to use the space,
+    email <a href="mailto:info@bkmetalworks.com">info@bkmetalworks.com</a> to book.
   social:
+    facebook: 'http://www.facebook.com/BrooklynMetalWorks'
     instagram: 'https://www.instagram.com/brooklynmetalworks/'
-  status: closed
   url: 'http://bkmetalworks.com'
+
 - name: Burrito Bar & Kitchen
+  last_updated: 12/23
   category: food
-  hours: 3 - 11PM (Mon - Fri), 2 - 11PM (Sat / Sun)
-  last_updated: 8/7
+  hours: 4 - 9PM
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 230-8646
   services:
     chownow: 'https://direct.chownow.com/order/7878/locations/10581'
   social:
+    facebook: 'https://www.facebook.com/BurritoBarBrooklyn'
     instagram: 'https://www.instagram.com/burritobarbk'
-  status: open
   url: 'https://www.burritobarbrooklyn.com'
+
 - name: Cataldo’s
+  last_updated: 12/23
   category: food
-  hours: '1 - 9PM (Tue - Thu), 12 - 10PM (Fri - Sun)'
-  last_updated: 7/3
+  hours: '11AM - 10PM'
   notes: Open for outdoor dining and pickup.
   phone: (718) 857-6700
   social:
     instagram: 'https://www.instagram.com/cataldosbk/'
-  status: open
   url: 'http://www.cataldos54.com'
+
 - name: Cheryl’s Global Soul
+  last_updated: 12/23
   category: food
-  hours: 12 - 8PM
-  last_updated: 7/23
+  hours: 10AM - 8PM (delivery 12 - 7:30PM)
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (347) 529-2855
   social:
+    facebook: 'https://www.facebook.com/CherylsGlobalSoul'
     instagram: 'https://www.instagram.com/cherylsglobalsoul/'
-  status: open
   url: 'https://www.cherylsglobalsoul.com'
+
 - name: Chick-P
+  last_updated: 12/23
   category: food
-  hours: 11AM - 10PM (9PM Sun)
-  last_updated: 3/31
+  hours: 11AM - 10PM (Mon - Sat), 11AM - 9PM (Sun)
   notes: >-
     10% off when ordering directly from
     <a href="https://eat.9fold.me/index.html#/10955">their website</a>
@@ -383,12 +426,12 @@
     seamless: 'https://www.seamless.com/menu/chick-p-490-bergen-st-brooklyn/262480'
   social:
     instagram: 'https://www.instagram.com/chickpbrooklyn/'
-  status: open
   url: 'https://www.chick-p.com'
+
 - name: Chuko
+  last_updated: 12/23
   category: food
-  hours: '5:30 - 9PM (Mon - Thu), 5:30 - 10PM (Fri), 12 - 3PM and 5:30 - 10PM (Sat), 12 - 3PM and 5:30 - 9PM (Sun)'
-  last_updated: 7/19
+  hours: '5:30 - 9PM (Sun - Thu), 5:30 - 10PM (Fri / Sat), lunch 12 - 3PM (Sat / Sun)'
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (347) 425-9570
   services:
@@ -396,78 +439,89 @@
     doordash: 'https://www.doordash.com/store/chuko-ramen-brooklyn-22335/en-US'
   social:
     instagram: 'https://www.instagram.com/chukobk/'
-  status: open
   url: 'http://www.chukobk.com'
+
 - name: 'Ciao, Gloria'
+  last_updated: 12/23
   category: cafe
-  hours: '8:30AM - 4PM (Mon - Fri), 9AM - 5PM (Sat / Sun), 6 - 8PM (Sunday Pasta Night)'
-  last_updated: 7/3
+  hours: '8:30AM - 4PM (Mon - Fri), 9AM - 5PM (Sat / Sun)'
+  phone: (716) 666-2426
+  notes: 'Open for outdoor dining, pickup and delivery.'
   links:
+    - title: Order online
+      url: 'https://ciaogloria.square.site'
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/ciao-gloria-employee-fund'
     - title: Gift cards
       url: 'https://squareup.com/gift/0TSZB8YWYDFH0/order'
-  notes: 'Open for outdoor dining, pickup and delivery.'
-  phone: (716) 666-2426
   services:
-    caviar: 'https://www.trycaviar.com/t/m/ciao-gloria-16959'
+    caviar: 'https://www.trycaviar.com/store/ciao--gloria-brooklyn-975195/en-US'
+    doordash: 'https://www.doordash.com/store/ciao-gloria-brooklyn-975195/en-US'
   social:
     instagram: 'https://www.instagram.com/ciaogloria/'
-  status: open
   url: 'https://www.ciaogloria.com'
+
 - name: Cinnamon Girl
-  category: cafe
   last_updated: 5/13
+  category: cafe
   notes: 'Open for pickup “pantry provisions, groceries and delicious treats”'
   social:
     instagram: 'https://www.instagram.com/cinnamon_girl_bk/'
+
 - name: Citrico
+  last_updated: 12/23
   category: food
-  last_updated: 7/3
+  hours: '4 - 10PM (Mon - Fri), 9AM - 10PM (Sat / Sun)'
+  phone: (347) 955-4519
+  notes: 'Open for outdoor dining, pickup and delivery.'
   links:
     - title: Order online
       url: 'http://citricobrooklyn.com/order-online/'
-  notes: 'Open for outdoor dining, pickup and delivery.'
-  phone: (347) 955-4519
+  services:
+    seamless: 'https://www.seamless.com/menu/citrico-681-washington-ave-brooklyn/291612'
   social:
     instagram: 'https://www.instagram.com/citricobk/'
-  status: open
   url: 'http://citricobrooklyn.com/'
+
 - name: Covenhoven
+  last_updated: 12/23
   category: bar
-  hours: 12 - 10PM
-  last_updated: 6/22
+  hours: 2 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)
   notes: Outdoor seating is available. Also open for pickup.
   phone: (718) 483-9950
   social:
+    facebook: 'https://www.facebook.com/covenhovennyc'
     instagram: 'https://www.instagram.com/covenhovennyc/'
     untappd: 'https://untappd.com/v/covenhoven/1406024'
-  status: open
   url: 'https://www.covenhovennyc.com'
+
 - name: Dickey’s BBQ Pit
+  last_updated: 12/23
   category: food
-  hours: 10AM - 10PM
-  last_updated: 4/2
-  notes: Open for pickup and delivery
+  hours: 11AM - 9PM
   phone: (347) 889-5400
+  notes: Open for pickup and delivery
+  links:
+    - title: Order online
+      url: https://www.dickeys.com/quote/order-menu/1683-brooklyn/limited-time-only-108
   services:
     seamless: 'https://www.seamless.com/menu/dickeys-barbecue-pit-196-a-flatbush-ave-brooklyn/736492'
   social:
     instagram: 'https://www.instagram.com/dickeys.bk/'
-  status: open
-  url: 'https://orders.dickeys.com/quote/location'
+  url: 'https://www.dickeys.com/locations/New-York/Brooklyn/1683-brooklyn'
+
 - name: Don Chingon
-  category: food
   last_updated: 7/3
+  category: food
   notes: Open for outdoor dining and pickup.
   phone: (718) 576-3521
   social:
     instagram: 'https://www.instagram.com/donchingonnyc/'
-  status: open
   url: 'http://donchingon.nyc'
+
 - name: Dough Studio
-  category: dessert
   last_updated: 5/13
+  category: dessert
   notes: >-
     “I started this business to pay for grad school!
     So if you love cinnamon rolls or pizza, you better try ours.
@@ -475,263 +529,267 @@
   social:
     facebook: 'https://www.facebook.com/Dough-Studio-105988981103219'
     instagram: 'https://www.instagram.com/doughstudio_/'
-  status: open
+
 - name: Doughnut Plant
+  last_updated: 12/23
   category: cafe
   hours: 8AM - 4PM (Wed - Sun)
-  last_updated: 7/23
+  phone: (212) 505-3700,245
   links:
     - title: Order online
       url: 'https://order.doughnutplant.com/locations/doughnutplant'
     - title: Gift cards
       url: 'https://www.doughnutplant.com/store/gift-cards/'
-  notes: 'Closed until further notice'
+  services:
+    goldbelly: 'https://www.goldbelly.com/doughnut-plant'
   social:
     instagram: 'https://www.instagram.com/doughnutplant/'
-  status: closed
-  url: 'https://www.doughnutplant.com'
+  url: 'https://www.doughnutplant.com/location/brooklyn/'
+
 - name: El Paso Mexican Grill
+  last_updated: 12/23
   category: food
-  last_updated: 6/12
+  hours: 
   phone: (917) 905-3401
   services:
-    seamless: 'https://www.seamless.com/menu/el-paso-mexican-grill-1610-newkirk-ave-brooklyn/285249'
+    seamless: 'https://www.seamless.com/menu/el-paso-mexican-grill-ii-387-flatbush-ave-brooklyn/309183'
   social:
     instagram: 'https://www.instagram.com/elpasomexgrill/'
-  status: open
+
 - name: Eve’s Lounge
+  last_updated: 7/3
   category: bar
   hours: 5 - 10PM
-  last_updated: 7/3
   notes: Open for outdoor dining and pickup.
   phone: (347) 442-5959
   social:
     instagram: 'https://www.instagram.com/eveslounge/'
-  status: open
   url: 'https://eves769.com'
+
 - name: Faun
+  last_updated: 12/23
   category: food
-  hours: 3 - 10PM (Thu - Sun)
-  last_updated: 7/3
+  hours: 5 - 10PM (Wed - Sun)
+  phone: (718) 576-6120
   links:
-    - title: Prospect Butcher Co.
-      url: 'https://www.instagram.com/prospectbutcherco/'
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/faun-staff-relief-fund'
     - title: Gift cards (25% off)
       url: 'https://faun.nyc/gift-cards'
   notes: >-
     Open for outdoor dining, pickup and delivery.
-    Prospect Butcher Co. opens early on Saturday and Sunday (noon).
-  phone: (718) 576-6120
   services:
+    seamless: 'https://www.seamless.com/menu/faun-606-vanderbilt-ave-brooklyn/2423917'
     caviar: 'https://www.trycaviar.com/m/faun-17403'
+    resy: 'https://resy.com/cities/ny/faun'
   social:
+    facebook: 'https://facebook.com/faunnyc'
     instagram: 'https://www.instagram.com/faun.nyc/'
-  status: open
   url: 'https://faun.nyc'
+
 - name: Fausto
+  last_updated: 12/23
   category: food
-  hours: '4 - 8:30PM (Wed - Sun)'
-  last_updated: 7/19
+  hours: '5:30 - 9PM (Wed - Sat), 5:30 - 8PM (Sun)'
+  phone: (917) 909-1427
+  notes: Open for pickup and delivery
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/fausto-employee-fund'
-  notes: Open for pickup and delivery. Still doing ‘Fausto at Home’ on Fridays.
   services:
     caviar: 'https://www.trycaviar.com/m/fausto-9171'
     resy: 'https://resy.com/cities/ny/fausto'
     tock: 'https://www.exploretock.com/fausto'
   social:
     instagram: 'https://www.instagram.com/faustobrooklyn/'
-  status: open
   url: 'https://www.faustobrooklyn.com'
+
 - name: Fermented Grapes
+  last_updated: 8/7
   category: wine-liquor
   hours: 12 - 8PM (Tue - Sat)
-  last_updated: 8/7
+  phone: (718) 230-3216
   notes: >-
     Open for contactless pickup and delivery with 
     walkups now available. Call or email 
     <a href="mailto:customerservice@fermentedgrapes.net">customerservice@fermentedgrapes.net</a>
     with what you’re looking for and a phone number to pre-order.
-  phone: (718) 230-3216
   social:
     instagram: 'https://www.instagram.com/fermentedgrapesbk/'
-  status: open
   url: 'http://www.fermentedgrapes.net'
+
+- name: 'Four & Twenty Blackbirds'
+  last_updated: 12/23
+  category: dessert
+  hours: 8AM - 7PM (Mon - Fri), 9AM - 7PM (Sat / Sun)
+  phone: (347) 350-5110
+  services:
+    caviar: 'https://www.trycaviar.com/store/four-and-twenty-blackbirds-brooklyn-313450/en-US'
+    doordash: 'https://www.doordash.com/store/four-and-twenty-blackbirds-brooklyn-313450/'
+    seamless: 'https://www.seamless.com/menu/four--twenty-blackbirds-634-dean-st-brooklyn/634346'
+    goldbelly: 'https://www.goldbelly.com/four-and-twenty-blackbirds'
+  social:
+    instagram: 'https://www.instagram.com/birdsblack_634_dean/'
+  url: 'https://birdsblack.com/'
+
 - name: Geido
+  last_updated: 12/23
   category: food
-  hours: '4:30 - 9:30PM (Fri - Sun)'
-  last_updated: 7/16
-  notes: Pickup and delivery only. Please order from their website.
+  hours: '4:30 - 9PM (Wed - Sun)'
+  notes: Open for pickup and delivery
   phone: (718) 638-8866
   services:
     chownow: 'https://direct.chownow.com/order/13995/locations/19649'
-  status: open
   url: 'https://geido.nyc'
+
 - name: Gen Sushi
+  last_updated: 12/23
   category: food
-  hours: 4 - 9PM
-  last_updated: 7/3
+  hours: 5 - 10PM (Tue - Fri), 1 - 10PM (Sat / Sun)
+  phone: (718) 398-3550
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/gen-restaurant-employee-fund'
   notes: 'Open for outdoor dining, pickup and delivery.'
-  phone: (718) 398-3550
   services:
     upserve: 'https://app.upserve.com/s/gen-brooklyn'
   social:
     instagram: 'https://www.instagram.com/gen.brooklyn/'
-  status: open
   url: 'http://www.genbrooklyn.com'
+
 - name: Gold Star Beer Counter
+  last_updated: 12/23
   category: bar
-  hours: 11AM - 9PM
-  last_updated: 9/27
+  hours: 12AM - 9PM (Coffee & pastries 8AM - 12PM)
   notes: >-
-    Outdoor seating now open (4 - 9PM, Thurs - Sun). Check website and 
+    Beer to-go window and outdoor seating available. Check website and 
     <a href="https://untappd.com/v/gold-star-beer-counter/3171446">Untappd</a>
     for inventory.
   social:
     instagram: 'https://www.instagram.com/goldstarbeercounter/'
     untappd: 'https://untappd.com/v/gold-star-beer-counter/3171446'
-  status: open
   url: 'http://goldstarbeercounter.com'
+
 - name: Gorilla Coffee
+  last_updated: 12/23
   category: cafe
   hours: 7AM - 9PM
-  last_updated: 7/8
-  notes: Outdoor seating is available. Also open for pickup.
+  phone: (347) 987-3765
+  notes: Outdoor seating is available. Also open for pickup and online ordering.
   social:
     instagram: 'https://www.instagram.com/gorillacoffee/'
-  status: open
   url: 'https://gorillacoffee.com'
-- name: Good Life
-  category: bar
-  hours: 4 - 10PM (Thu - Sun)
-  last_updated: 8/7
-  links:
-    - title: Staff relief fund
-      url: 'https://www.gofundme.com/f/ode-to-babel-team'
-  notes: >-
-    Outdoor seating is available.
-    Also open for cocktails to go, accepting orders via Venmo.
-    Window only on Thursday.
-  social:
-    instagram: 'https://www.instagram.com/goodlifebk/'
-  status: open
+
+# hidden due to lack of updates
+# - name: Good Life
+#   last_updated: 12/23
+#   category: bar
+#   social:
+#     instagram: 'https://www.instagram.com/goodlifebk/'
+
 - name: Gran Caffe De Martini
+  last_updated: 12/23
   category: cafe
-  hours: 9AM - 5PM (Fri - Tue)
-  last_updated: 6/22
+  hours: 8AM - 5PM (Mon - Fri), 9AM - 6PM (Sat / Sun)
+  phone: (929) 306-8332
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/gran-caffe-de-martini-fund'
     - title: Gift cards
       url: 'https://www.caffedemartini.com/product/gift-card/'
   notes: Open outdoor dining and pickup.
-  phone: (929) 306-8332
   services:
     caviar: 'https://www.trycaviar.com/m/gran-caffe-de-martini-19266'
     seamless: 'https://www.seamless.com/menu/gran-caffe-de-martini-609-vanderbilt-ave-brooklyn/1008604'
   social:
     instagram: 'https://www.instagram.com/grancaffedemartini/'
-  status: open
   url: 'https://www.caffedemartini.com'
+
 - name: El Gran Castillo de Jagua
+  last_updated: 12/23
   category: food
-  last_updated: 4/30
-  notes: Open with a limited menu for pickup and delivery
   phone: (718) 622-8700
-  status: open
+  notes: Open for pickup and delivery
   url: 'https://www.elgrancastillo.com'
+
 - name: Homeslice Pizzeria
+  last_updated: 12/23
   category: food
-  hours: "11:30 - 12:00AM (Mon -\_Thu), 11:30 - 2:30AM (Fri/Sat), 11:30 - 12:00AM (Sun)"
-  last_updated: 3/30
+  hours: 11:30 - 10:00PM
   phone: (347) 632-9824
   services:
     slice: 'https://slicelife.com/restaurants/ny/brooklyn/11238/brooklyn-s-homeslice-pizzeria/menu'
   social:
     instagram: 'https://www.instagram.com/brooklyns_homeslice/'
-  status: open
   url: 'https://www.brooklynshomeslicepizza.com'
+
 - name: Hungry Ghost
+  last_updated: 12/23
   category: cafe
   hours: 7AM - 5PM
-  last_updated: 3/23
+  notes: Open for pickup
   links:
+    - title: Order online
+      url: 'https://hungry-ghost-coffee.square.site/'
     - title: Gift cards (20% off)
       url: 'https://squareup.com/gift/86HHGQC7C1RMH/order'
-  notes: Open for pickup
   social:
     instagram: 'https://www.instagram.com/hungryghostcoffee/'
-  status: open
   url: 'https://www.hungryghostcoffee.com/'
+
 - name: Inaka Asian Cuisine
+  last_updated: 12/23
   category: food
-  last_updated: 5/23
+  hours: 11:30AM - 10PM (Tue - Fri), 12:30 - 10PM (Sat / Sun)
+  phone: (718) 398-8168
+  notes: Open for pickup and delivery
   links:
     - title: Order online
       url: 'https://www.beyondmenu.com/37303/brooklyn/inaka-asian-cuisine-brooklyn-11238.aspx'
-  notes: Open for pickup and delivery
-  status: open
   url: 'http://inakany.com'
+
 - name: The Islands
+  last_updated: 12/23
   category: food
-  hours: '2 - 10:30PM (Tue - Thu), 1 - 10:30PM (Fri), 12 - 10:30PM (Sat/Sun)'
-  last_updated: 4/21
-  notes: 'Open for outdoor dining, pickup and delivery.'
+  hours: 1 - 10PM (Tue - Thu), 12 - 10PM (Sun)
   phone: (718) 398-3575
+  notes: 'Open for outdoor dining, pickup and delivery.'
   services:
     postmates: 'https://postmates.com/merchant/the-islands-brooklyn-1'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/the-islands/9jFnKcjVRBuUOpsVlzSgsg'
-  status: open
+
 - name: James
+  last_updated: 12/23
   category: food
-  hours: '4 - 9PM (Mon - Sat), 2 - 7PM (Sun)'
+  hours: '4 - 9PM (Thu - Tue), brunch 12 - 4PM Sun'
+  phone: (718) 942-4255
   links:
-    - last_updated: 7/3
       title: Staff relief fund
       url: 'https://www.gofundme.com/f/james-staff-emergency-relief-fund'
   notes: Outdoor seating is available. Also open for pickup and delivery.
-  phone: (718) 942-4255
   services:
-    caviar: 'https://www.trycaviar.com/m/james-19693'
     chownow: 'https://direct.chownow.com/order/21833/locations/31667'
+    caviar: 'https://www.trycaviar.com/m/james-19693'
   social:
+    facebook: 'https://www.facebook.com/jamesrestaurant'
     instagram: 'https://www.instagram.com/jamesbklyn/'
-  status: open
   url: 'http://www.jamesrestaurantny.com'
-- name: Joyce Bakeshop
-  category: cafe
-  hours: 9AM - 5PM (Wed - Sun)
-  last_updated: 6/19
-  links:
-    - title: Staff relief fund
-      url: 'https://www.gofundme.com/f/Audrey-Coworker-Disaster-Relief'
-  notes: Open for pickup
-  phone: (718) 623-7470
-  social:
-    facebook: 'https://www.facebook.com/Joyce-Bakeshop-107322189660/'
-    instagram: 'https://www.instagram.com/joycebakeshop/'
-  status: open
-  url: 'http://www.joycebakeshop.com'
+
 - name: Joy Indian
+  last_updated: 12/23
   category: food
-  hours: 12 - 8PM
-  last_updated: 5/8
-  notes: Open for pickup and delivery
+  hours: 11:30AM - 3PM, 5 - 10PM (Sun - Fri), 11:30 - 10PM (Fri / Sat)
   phone: (718) 230-1165
+  notes: Open for pickup and delivery
   url: 'http://joyindianrestaurant.com'
+
 - name: Kami Asian
-  category: food
   last_updated: 5/18
-  notes: “Please call us to place your order”
+  category: food
   phone: (718) 398-3888
-  status: open
+  notes: “Please call us to place your order”
   url: 'http://kamiasian.com'
+
 - name: Ki Sushi
   category: food
   hours: '12:30 - 2:30PM (everyday but Sunday), 5 - 9PM (everyday)'
@@ -743,8 +801,8 @@
   phone: (718) 230-1381
   social:
     instagram: 'https://www.instagram.com/ki_sushi_flatbush/'
-  status: open
   url: 'http://www.kisushigroup.com'
+
 - name: Kimchi Grill
   category: food
   hours: '11:30AM - 10:00PM (10:30PM Fri/Sat)'
@@ -755,15 +813,15 @@
     chownow: 'https://direct.chownow.com/order/11256/locations/15554'
   social:
     instagram: 'https://www.instagram.com/kimchigrill/'
-  status: open
   url: 'https://www.kimchigrill.com'
+
 - name: Kombit Bar and Restaurant
   category: food
   last_updated: 8/7
   notes: 'Now open with outdoor seating.'
   social:
     instagram: 'https://www.instagram.com/kombitbar/'
-  status: open
+
 - name: Konditori
   category: cafe
   last_updated: 7/3
@@ -774,7 +832,7 @@
   phone: (773) 797-2118
   social:
     instagram: 'https://www.instagram.com/konditori/'
-  status: open
+
 - name: Kulushkat
   category: food
   hours: 11 - 10PM (Tue - Sun)
@@ -785,8 +843,8 @@
     chownow: 'https://direct.chownow.com/order/8549/locations/11540'
   social:
     instagram: 'https://www.instagram.com/kulushkat/'
-  status: open
   url: 'https://kulushkat.com'
+
 - name: LaLou
   category: food
   hours: '5:30 - 9:30PM (Tues - Thu), 5 - 10:30PM (Fri), 12 - 10:30PM (Sat), 12 - 9PM (Sun)'
@@ -800,25 +858,23 @@
     tock: 'https://www.exploretock.com/lalou/'
   social:
     instagram: 'https://www.instagram.com/laloubrooklyn/'
-  status: open
   url: 'https://laloubrooklyn.com'
+
 - name: Leland Eating and Drinking House
-  url: https://www.gofundme.com/f/uhzc2y-help-me-open-my-dream-restaurant
+  category: food
+  last_updated: 12/23
   social:
     instagram: https://www.instagram.com/p/CDEQ44XjFyw/
-  category: food
-  status: open
   notes: >-
-    Planned to open in the 755 Dean St. space in June but 
-    was obviously unable to. Please read their story on 
-    <a href="https://www.gofundme.com/f/uhzc2y-help-me-open-my-dream-restaurant">GoFundMe</a>
-    and consider helping out!
+    Now open!
   links:
     - title: GoFundMe
       url: https://www.gofundme.com/f/uhzc2y-help-me-open-my-dream-restaurant
+  url: https://www.gofundme.com/f/uhzc2y-help-me-open-my-dream-restaurant
+
 - name: Life Reorganized
-  category: store
   last_updated: 4/23
+  category: store
   notes: >-
     “Solving home, life and small business problems to get your life
     reorganized. Offering remote assistance only (see website for service
@@ -826,12 +882,12 @@
   phone: (917) 745-5433
   social:
     instagram: 'https://www.instagram.com/lifereorganized/'
-  status: open
   url: 'https://www.getmylifereorganized.com'
+
 - name: Lincoln Station
+  last_updated: 11/14
   category: food
   hours: 5 - 8PM
-  last_updated: 11/14
   notes: >-
     Call ahead for pickup through the front door or order online for delivery.
     Send requests to <a
@@ -842,29 +898,29 @@
     seamless: 'https://www.seamless.com/menu/lincoln-station-409-lincoln-pl-brooklyn/315738'
   social:
     instagram: 'https://instagram.com/lincolnstationbk'
-  status: open
   url: 'https://www.stationfoods.com'
+
 - name: Little Cupcake Bakeshop
+  last_updated: 4/30
   category: cafe
   hours: '8AM - 10PM (Sun - Thu), 8AM - 11PM (Fri - Sat)'
-  last_updated: 4/30
   notes: >-
     Open for pickup. Also <a href="http://www.littlecupcakebakeshop.com">online
     ordering</a> from their website
   phone: (718) 783-0770
   social:
     instagram: 'https://www.instagram.com/littlecupcakebakeshop/'
-  status: open
   url: 'http://www.littlecupcakebakeshop.com'
+
 - name: Little MissMuffin N Her Stuffin
-  category: food
   last_updated: 5/7
+  category: food
   notes: >-
     “Aside from the eponymous muffins, they also have wonderful patties and
     other Caribbean food”
   social:
     instagram: 'https://www.instagram.com/littlemissmuffinny/'
-  status: open
+
 - name: LOOK by Plant Love House
   category: food
   hours: 12 - 10PM (Tue - Sun)
@@ -880,94 +936,87 @@
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/look-by-plant-love-house/IvIM_ZVuRniuCfOkMg9uXw'
   social:
     instagram: 'https://www.instagram.com/byplantlovehouse/'
-  status: open
   url: 'https://www.plantlovehouse.com/look'
+
 - name: Lowerline
+  last_updated: 12/23
   category: food
   hours: 4 - 9PM (Tue - Fri), 12 - 9PM (Sat / Sun)
-  last_updated: 8/7
+  phone: (347) 533-7110
+  notes: Outdoor seating available. Also open for pickup and delivery
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/help-lowerline-keep-nola-cuisine-alive-in-brooklyn'
     - title: Gift cards
       url: 'https://squareup.com/gift/W0XRH9R9BY895/order'
-  notes: Outdoor seating available. Also open for pickup and delivery
-  phone: (347) 533-7110
   services:
     caviar: 'https://www.trycaviar.com/m/lowerline-11359'
     doordash: 'https://www.doordash.com/store/lowerline-brooklyn-524902/'
   social:
     instagram: 'https://www.instagram.com/lowerline/'
-  status: open
   url: 'https://www.lowerlinebk.com'
+
 - name: Maison Yaki
+  last_updated: 12/23
   category: food
-  hours: '5:30 - 9PM (Wed - Sun), 1 - 3PM (Sat / Sun)'
-  last_updated: 8/7
+  hours: '3 - 9PM (Wed - Fri), 1 - 9PM (Sat / Sun)'
+  phone: (718) 552-2609
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund'
   notes: >-
-    The current pop-up at Maison Yaki
-    is from Chef Michelle Williams of Good IV the Soul.
+    Supersonic at Masion Yaki is the latest pop-up residency
+    featuring Chef Taylor Hester gourmet hot dogs.
   services:
     resy: 'https://resy.com/cities/ny/maison-yaki'
   social:
     instagram: 'https://www.instagram.com/maisonyaki/'
   url: 'http://www.maisonyaki.com/'
+
 - name: Maya Taqueria
+  last_updated: 12/23
   category: food
-  hours: 11AM - 12AM
-  last_updated: 7/3
+  hours: 11AM - 10PM
   notes: 'Open for outdoor dining, pickup and delivery.'
-  phone: (732) 535-2717
+  phone: (718) 638-6292
   services:
     chownow: 'https://direct.chownow.com/order/7470/locations/10000'
     seamless: 'https://www.seamless.com/menu/maya-taqueria-prospect-heights-637-vanderbilt-ave-brooklyn/80416'
   social:
     instagram: 'https://www.instagram.com/mayataqueria/'
-  status: open
   url: 'https://www.mayataqueria.com'
+
 - name: Mei Chi Liquors
+  last_updated: 12/23
   category: wine-liquor
-  hours: '10:30AM - 8PM (Mon - Sat), 12 - 8PM (Sun)'
-  last_updated: 7/3
+  hours: '10:30AM - 8PM (Sun - Thu), 10:30AM - 9PM (Fri / Sat)'
   notes: Open for pickup and delivery
   phone: (718) 622-1403
-  status: open
-  url: 'https://www.brooklyncellars.com'
-- name: MeMe’s Diner
-  category: food
-  hours: '5 - 9PM (Thu - Fri), 12 - 9PM (Sat - Sun)'
-  last_updated: 7/3
-  links:
-    - title: Staff relief fund
-      url: 'https://www.memesdiner.com/covid-19-staff-fund-donation'
-    - title: Gift cards
-      url: 'https://www.memesdiner.com/gift-certificates'
-  phone: (718) 636-2900
   social:
-    instagram: 'https://www.instagram.com/memesdiner/'
-  status: open
-  url: 'https://www.memesdiner.com'
+    instagram: 'https://www.instagram.com/mei_chi_liquor/'
+  url: 'https://www.brooklyncellars.com'
+
 - name: Mermaid’s Garden
+  last_updated: 12/23
   category: grocery
-  hours: '12 - 7PM (Tue - Fri), 11AM - 6PM (Sat/Sun)'
-  last_updated: 7/3
+  hours: '12 - 7PM (Mon - Fri), 11AM - 6PM (Sat / Sun)'
+  phone: (718) 638-1910
   notes: >-
     Pickup or delivery available via
     <a href="https://www.mercato.com/shop/mermaids-garden">Mercato</a>.
-  phone: (718) 638-1910
   social:
     instagram: 'https://www.instagram.com/mgfishnyc/'
-  status: open
   url: 'https://www.mermaidsgardennyc.com'
+
 - name: Mexicocina Agaveria
+  last_updated: 12/23
   category: food
-  hours: 9AM - 11PM (12AM Fri/Sat)
-  last_updated: 7/3
-  notes: 'Open for outdoor dining, pickup and delivery.'
+  hours: 12 - 10PM (Tue - Sat), 12 - 9PM (Sun / Mon)
   phone: (347) 663-2951
+  notes: 'Open for outdoor dining, pickup and delivery.'
+  links:
+    - title: Order online
+      url: 'https://mexicocina-brooklyn.foodieordersecure.com/'
   services:
     caviar: 'https://www.trycaviar.com/m/mexicocina-agaveria-12562'
     postmates: 'https://postmates.com/merchant/mexicocina-agaveria-brooklyn'
@@ -975,69 +1024,70 @@
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/mexicocina-agaveria/GDr95U2KSjmDvI-oJF323g'
   social:
     instagram: 'https://www.instagram.com/mexicocina_agaveria/'
-  status: open
-  url: 'https://mexicocinanyc.com'
+  url: 'https://mexicocinanyc.com/brooklyn-agaveria/'
+
 - name: Milk Bar
+  last_updated: 12/23
   category: cafe
-  hours: 8AM - 2PM
-  last_updated: 7/23
+  hours: 8AM - 2PM (Mon - Fri), 8AM - 4PM (Sat / Sun)
+  notes: Open for outdoor dining and pickup.
   links:
     - title: Gift cards
       url: 'https://www.milkbarbrooklyn.com/gift-certificates'
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/milk-bar-brunswick-team-relief-fund'
-  notes: Open for outdoor dining and pickup.
   social:
+    facebook: 'https://www.facebook.com/milkbarbrooklyn'
     instagram: 'https://www.instagram.com/milkbarbrooklyn/'
-  status: open
+  services:
+    chownow: 'https://direct.chownow.com/order/26291/locations/38938'
   url: 'https://www.milkbarbrooklyn.com'
+
 - name: Mille-Feuille
+  last_updated: 12/23
   category: cafe
-  hours: 9AM - 4PM
-  last_updated: 5/21
+  hours: 8AM - 5PM
+  phone: (347) 350-8838
+  notes: 'Open for pickup and delivery'
   links:
+    - title: Order online
+      url: 'https://millefeuillebakery.square.site/'
     - title: Gift cards
-      url: 'https://www.millefeuille-nyc.com/pages/gift-card'
-  notes: >-
-    Store is open again, with delivery also available in advance through their
-    <a href="https://millefeuillebakery.square.site">online store</a> Order
-    before 4PM the day before, with deliveries 8 - 10AM Thu/Sat. Delivers to
-    Prospect Heights, Park Slope, Brooklyn Heights, Clinton Hill, Crown Heights,
-    or Bedford Stuyvesant.
+      url: 'https://squareup.com/gift/CBFYDTWZK7GYQ/order'
   social:
     instagram: 'https://www.instagram.com/millefeuillenyc/'
-  status: open
   url: 'https://www.millefeuille-nyc.com'
+
 - name: Mitchell’s Soul Food
+  last_updated: 12/23
   category: food
-  last_updated: 4/20
-  notes: “Seems open for pickup”
+  notes: 'Open for pickup'
   phone: (718) 789-3212
-  status: open
+
 - name: Mokbar
+  last_updated: 12/23
   category: food
-  hours: 12 - 5PM (Mon - Fri)
-  last_updated: 5/21
+  hours: 12 - 9PM (Wed - Sun)
+  phone: (347) 987-3042
+  notes: >-
+    Open for pickup and delivery
   links:
+    - title: Order online
+      url: 'https://www.makeitbutter.com/mokbar/mokbar-ii'
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/feed-our-warriors'
-  notes: >-
-    Open for pickup and delivery. DIY ramen kits and curbside pickup are still
-    available by emailing <a
-    href="mailto:orders@mokbar.com">orders@mokbar.com</a>.
-  phone: (347) 987-3042
   services:
     caviar: 'https://www.trycaviar.com/m/mokbar-brooklyn-5085'
     seamless: 'https://www.seamless.com/menu/mokbar-ii-212-flatbush-ave-brooklyn/396396'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/mokbar-park-slope/bzwJfOzHRmOOYaScpluzyA'
   social:
     instagram: 'https://www.instagram.com/mokbar_nyc/'
-  status: open
   url: 'https://www.mokbar.com'
+
 - name: Morgan’s BBQ
+  last_updated: 12/23
   category: food
-  hours: '1 - 10:30PM (Mon - Thu), 1 - 11 (Fri), 12 - 11PM (Sat), 12 - 10:30PM (Sun)'
-  last_updated: 6/22
+  hours: '12 - 10PM (delivery until 11PM)'
   links:
     - title: Gift cards
       url: 'https://www.morgansbrooklynbarbecue.com/store/gift-cards/'
@@ -1051,30 +1101,40 @@
     seamless: 'https://www.seamless.com/menu/morgans-brooklyn-barbecue-267-flatbush-ave-brooklyn/317192'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/morgans-barbeque-prospect-heights/gzrcH1RcQju4pNh82lG1vg'
   social:
+    facebook: 'https://www.facebook.com/morgansbrooklynbbq/'
     instagram: 'https://www.instagram.com/morgansbrooklynbbq/'
-  status: open
   url: 'https://www.morgansbrooklynbarbecue.com'
+
 - name: Mumbai Place
+  last_updated: 12/23
   category: food
-  hours: '12 - 10:30PM'
-  last_updated: 8/7
+  hours: '12 - 10PM'
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 398-7776
+  links:
+    - title: Order online
+      url: 'https://www.mumbaiplaceny.com/order'
   services:
     seamless: 'https://www.grubhub.com/restaurant/mumbai-place-655-vanderbilt-ave-brooklyn/334916'
-  status: open
+  url: 'https://www.mumbaiplaceny.com/'
+
 - name: Muse
+  last_updated: 12/23
   category: food
-  hours: '1 - 8:30PM (Mon/Wed/Thu), 12:30PM - 8:30PM (Fri - Sun)'
-  last_updated: 6/12
+  hours: '4 - 10PM (Wed - Mon)'
+  phone: (347) 442-0443
+  links:
+    - title: Order online
+      url: 'https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=62edb62e-e0ac-4440-986d-1ac991199229'
   social:
+    facebook: 'https://www.facebook.com/musebklyn'
     instagram: 'https://www.instagram.com/musethai/'
-  status: open
   url: 'https://musebklyn.com'
+
 - name: Nacho Macho Taco
+  last_updated: 12/23
   category: food
   hours: 11AM - 10PM
-  last_updated: 3/18
   notes: Open for pickup and delivery
   phone: (718) 622-2727
   services:
@@ -1082,50 +1142,54 @@
   social:
     facebook: 'https://www.facebook.com/NachoMachoTacoBK/'
     instagram: 'https://www.instagram.com/nachomachotacobk/'
-  status: open
   url: 'http://www.nachomachotaco.net'
+
 - name: Nourish Thai
+  last_updated: 12/23
   category: food
-  hours: '12 - 10:30PM'
-  last_updated: 6/22
+  hours: '12 - 10:00PM'
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 789-3981
   services:
-    caviar: 'https://www.trycaviar.com/m/nourish-thai-12825'
     chownow: 'https://eat.chownow.com/discover/restaurant/11724'
+    caviar: 'https://www.trycaviar.com/m/nourish-thai-12825'
     seamless: 'https://www.seamless.com/menu/nourish-637a-vanderbilt-ave-brooklyn/429623'
   social:
+    facebook: 'https://www.facebook.com/283358058777333'
     instagram: 'https://www.instagram.com/nourishthai/'
   url: 'https://www.nourishthai.com'
+
 - name: Nûrish
+  last_updated: 12/23
   category: food
-  hours: 7AM - 8PM (6PM Sun)
-  last_updated: 3/21
+  hours: 7AM - 8PM (Mon - Sat) 7AM - 6PM (Sun)
   notes: Open for pickup and delivery
   phone: (718) 484-1122
   services:
     seamless: 'https://www.seamless.com/menu/nurish-637-washington-ave-brooklyn/1540554'
   social:
     instagram: 'https://www.instagram.com/nurishbk/'
-  status: open
   url: 'https://www.nurishbk.com'
+
 - name: Ode to Babel
+  last_updated: 12/23
   category: bar
-  hours: 4 - 11PM (Thu - Sat), 2 - 9PM (Sun)
-  last_updated: 7/23
+  hours: 4 - 10PM (Thu - Sun)
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/ode-to-babel-team'
-  notes: Outdoor seating is available. Also open for pickup and delivery with orders through Venmo
-  # services:
-  #   seamless:
+  notes: Outdoor seating is available. Also open for pickup and delivery
+  services:
+    seamless: 'https://www.seamless.com/menu/ode-to-babel-706-washington-ave-new-york/2250322'
   social:
     instagram: 'https://instagram.com/odetobabel'
-  statue: open
+  url: 'https://www.odetobabel.com/'
+
 - name: Ogliastro Pizza Bar
+  last_updated: 12/23
   category: food
-  hours: 5 - 9PM
-  last_updated: 7/3
+  hours: 5 - 10PM
+  phone: (718) 789-3700
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/please-help-the-ogliostro-staff'
@@ -1135,24 +1199,25 @@
     slice: 'https://slicelife.com/restaurants/ny/brooklyn/11238/ogliastro-pizza-bar/menu'
   social:
     instagram: 'https://www.instagram.com/ogliastro.brooklyn/'
-  status: open
   url: 'https://www.ogliastropizzabar.com'
+
 - name: Olde Brooklyn Bagel Shoppe
+  last_updated: 12/23
   category: cafe
-  hours: 8AM - 6PM (delivery until 5PM)
-  last_updated: 7/3
+  hours: 8AM - 6PM (delivery 7:30AM - 4PM)
   notes: 'Open for outdoor dining, pickup and delivery'
   phone: (718) 622-6227
   services:
     seamless: 'https://www.seamless.com/menu/olde-brooklyn-bagel-shoppe-645-vanderbilt-ave-brooklyn/263151'
   social:
+    facebook: 'https://www.facebook.com/pages/category/Bagel-Shop/Olde-Brooklyn-Bagel-Shoppe-142360249170445/'
     instagram: 'https://www.instagram.com/oldebkbagels/'
-  status: open
   url: 'http://www.oldebrooklynbagelshop.com'
+
 - name: Olmsted
+  last_updated: 12/23
   category: food
-  hours: 5 - 10PM (Wed - Sun)
-  last_updated: 6/19
+  hours: 5 - 10PM (Wed - Sun), 12 -3PM (Sat / Sun lunch)
   links:
     - title: Order online
       url: 'https://bbot.menu/olmsteddeliveryorpickup/'
@@ -1162,53 +1227,61 @@
       url: 'https://ecommerce.custcon.com/Purchase/Select?c=3e6823e0-52c7-4c1b-af3d-1bb13862c508'
   notes: >-
     Open for outdoor dining. Olmsted Trading Post hours
-    2 - 10PM (Wed - Fri), 12 - 10PM (Sat / Sun).
+    4:30 - 10PM (Wed - Fri), 12 - 10PM (Sat), 12 - 9PM (Sun).
   services:
+    seamless: 'https://www.seamless.com/menu/olmsted-659-vanderbilt-ave-brooklyn/2365207'
     resy: 'https://resy.com/cities/ny/olmsted'
   social:
+    facebook: 'https://www.facebook.com/olmstedNYC/'
     instagram: 'https://www.instagram.com/olmstednyc/'
-  status: open
   url: 'http://olmstednyc.com/'
+
 - name: Ovenly
+  last_updated: 12/23
   category: cafe
   hours: '7:30AM - 6PM (Mon - Fri), 8AM - 6PM (Sat / Sun)'
-  last_updated: 8/7
+  notes: Outdoor seating is available. Also open for pickup.
   links:
+    - title: Order online
+      url: 'https://store.oven.ly/'
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/ovenly-employee-fund'
     - title: Gift cards
       url: 'https://squareup.com/gift/8BW3A1HN5907S/order'
-  notes: Outdoor seating is available. Also open for pickup.
+  services:
+    caviar: 'https://www.trycaviar.com/m/ovenly--park-slope-7325'
+    goldbelly: 'https://www.goldbelly.com/ovenly'
   social:
     instagram: 'https://www.instagram.com/ovenly/'
-  status: open
   url: 'https://www.oven.ly'
+
 - name: Oxalis
-  status: closed
+  last_updated: 12/23
   category: food
-  hours: '3 - 7PM (Tue - Sun, cocktails only Tue - Thu)'
-  last_updated: 11/14
+  phone: (347) 627-8298
+  hours: '4 - 9PM (Fri), 12 - 9PM (Sat / Sun)'
   links:
-    - title: Pantry box
-      url: 'https://boxalis.com'
+    - title: Oxalis Pantry
+      url: 'https://www.oxalispantry.com/'
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/oxalis-employee-relief-fund'
     - title: Gift cards
       url: 'https://www.oxalisnyc.com/store/gift-cards/'
   notes: >-
-    Open for outdoor dining, pickup and delivery.
-    Breakfast burritos available 10am until sold out Fri - Sun.
-  phone: (347) 627-8298
+    Winter Market with hot food, sherry and natural wine.
+    Breakfast burritos available 10am until sold out Thu - Sun.
+    Compost drop off Sunday mornings from 10am until full. (Go early!)
   services:
-    resy: 'https://resy.com/cities/ny/fausto'
+    resy: 'https://resy.com/cities/ny/oxalisnyc'
   social:
+    facebook: 'https://www.facebook.com/oxalisnyc'
     instagram: 'https://www.instagram.com/oxalisnyc/'
-  status: open
   url: 'https://www.oxalisnyc.com'
+
 - name: Patsy’s Pizzeria
+  last_updated: 12/23
   category: food
-  hours: 12PM - 10PM (11PM Fri/Sat)
-  last_updated: 7/3
+  hours: 4 - 10PM (Mon - Thu), 12 - 10PM (Fri - Sun)
   links:
     - title: Order online
       url: 'https://eat.9fold.me/index.html#/10769'
@@ -1217,59 +1290,83 @@
   services:
     seamless: 'https://www.seamless.com/menu/patsys-pizzeria-450-dean-st-brooklyn/320844'
   social:
+    facebook: 'https://www.facebook.com/PatsysPizzaBrooklyn/'
     instagram: 'https://www.instagram.com/patsyspizzabk/'
-  status: open
   url: 'https://parkslope.patsyspizza.nyc'
-- name: Pennyhouse Cafe
+
+- name: Penny House Cafe
+  last_updated: 12/23
   category: cafe
   hours: 6AM - 6PM
-  last_updated: 5/7
   notes: Open for pickup
   phone: (347) 240-7281
   social:
+    facebook: 'https://www.facebook.com/pennyhousecafe2006'
     instagram: 'https://www.instagram.com/pennyhousecafe2006/'
-  status: open
   url: 'http://www.pennyhousecafe.com'
+
 - name: Piquant
+  last_updated: 12/23
   category: food
-  hours: 11AM - 5PM (Tue - Sun)
-  last_updated: 7/3
+  hours: '2 - 9:30PM (Mon - Fri), 10AM - 9:30PM (Sat / Sun)'
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 484-4114
   social:
     instagram: 'https://www.instagram.com/piquantnyc/'
   url: 'https://www.piquantnyc.com'
+
 - name: Poke Tiky
+  last_updated: 12/23
   category: food
-  hours: '10AM - 7PM (Mon - Fri), 8AM - 7PM (Sat / Sun)'
-  last_updated: 7/19
-  notes: 'New poke bar on Vanderbilt Ave in the former Buds and Beans space. Open for outdoor dining, pickup or delivery.'
+  hours: '11AM - 8PM (Mon - Wed), 11AM - 9PM (Thu / Fri), 10AM - 8:30PM (Sat), 10AM - 8PM (Sun)'
+  notes: 'Open for outdoor dining, pickup or delivery.'
   phone: (347) 365-5214
+  links:
+    - title: Order online
+      url: 'https://ritual.co/order/poke-tiky-bar-vanderbilt-ave-bergen-st-prospect-heights/6e65'
   services:
     doordash: https://www.doordash.com/store/poke-tiky-bar-caffe-brooklyn-1058092/en-US
+  url: 'https://poketikybar.com/'
+
 - name: Puerto Viejo
+  last_updated: 12/23
   category: food
-  hours: 11AM – 11PM (Mon – Sat)
-  last_updated: 7/3
-  notes: Outdoor seating is available. Also open for pickup and delivery.
   phone: (718) 398-3758
+  hours: 11AM - 10PM (Mon - Sat)
+  notes: >-
+    Call to order for local delivery. Open for outdoor dining, pickup and delivery.
+  services:
+    caviar: 'https://www.trycaviar.com/t/brooklyn-queens/puerto-viejo-733'
   social:
+    facebook: 'https://www.facebook.com/PuertoViejoNY'
     instagram: 'https://www.instagram.com/puertoviejony/'
   url: 'http://www.puertoviejony.com/'
+
 - name: Private Yoga Lessons
-  category: service
   last_updated: 3/25
+  category: service
   notes: >-
     Offering virtual private yoga and meditation lessons 
     via FaceTime, Zoom, and Google Hangouts.
     <a href="mailto:alli@privateyogasoho.com">alli@privateyogasoho.com</a>
   phone: (740) 221-3048
-  status: open
   url: 'https://www.privateyogasoho.com'
-- name: R&D Foods
+
+- name: Prospect Butcher Co.
+  last_updated: 12/23
   category: food
-  hours: 9AM - 5PM (Wed - Sun)
-  last_updated: 7/19
+  phone: 347-763-9500
+  notes: >-
+    Local butcher opening soon in the former Daly Pie space
+  links:
+    - title: Gift cards
+      url: 'https://pl.mxmerchant.com/mxcustomer/d/6c2e1749-d662-4075-9b27-cf0175a6592f/v3'
+  url: 'https://prospectbutcher.co/'
+
+- name: R&D Foods
+  last_updated: 12/23
+  category: food
+  hours: 8AM - 7PM
   links:
     - title: Gift cards
       url: 'https://www.rdfoodsbklyn.com/gifts'
@@ -1278,32 +1375,39 @@
   services:
     chownow: 'https://ordering.chownow.com/order/11145/locations'
   social:
+    facebook: 'https://www.facebook.com/RDFoods'
     instagram: 'https://www.instagram.com/rdfoods/'
   url: 'https://www.rdfoodsbklyn.com/'
+
 - name: Ruby Kitchen
-  category: food
   last_updated: 5/8
+  category: food
   notes: Open for pickup and delivery
   phone: (718) 789-4633
   services:
     seamless: 'https://www.seamless.com/menu/ruby-kitchen-162-park-pl-brooklyn/66954'
-  status: open
+
 - name: Shaka Shaka Tiki/Companion Cafe
+  last_updated: 12/23
   category: food
-  hours: '4 - 10PM'
-  last_updated: 7/19
+  hours: '8AM - 10PM'
+  phone: (347) 689-3184
+  notes: 
   links:
+    - title: Order online from Companion Cafe
+      url: 'https://www.companioncafeordering.com/'
+    - title: Order online from Shaka Shaka Tiki
+      url: 'https://shakashakatiki.square.site/'
     - title: Gift cards
       url: 'https://squareup.com/gift/ED4WJ2F6HECQZ/order'
-  notes: 
   social:
     instagram: 'https://www.instagram.com/shakashakatiki/'
-  status: open
   url: 'https://www.companioncafebk.com'
+
 - name: Shane’s Brooklyn
+  last_updated: 12/23
   category: food
-  hours: '9AM - 6PM'
-  last_updated: 8/7
+  hours: '9AM - 6PM (Sun - Wed), 9AM - 10PM (Thu - Sat)'
   notes: 'Open for outdoor dining, pickup and delivery.'
   services:
     doordash: 'https://www.doordash.com/store/shanes-brooklyn-brooklyn-179024/en-US'
@@ -1311,48 +1415,52 @@
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/shanes-brooklyn/TsKwjyqQSaGcQNr4An9WBg'
   social:
     instagram: 'https://www.instagram.com/shanes_brooklyn/'
+
 - name: Sharlene’s Bar
+  last_updated: 12/23
   category: bar
-  hours: 3 - 11PM
-  last_updated: 8/7
+  hours: 3 - 10PM
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/sharlene039s-bar'
   notes: 'Now open for takeout and table service.'
   social:
     instagram: 'https://www.instagram.com/sharlenesbar/'
-  status: open
+
 - name: Sit & Wonder
+  last_updated: 12/23
   category: cafe
   hours: '7:30AM - 2PM'
-  last_updated: 5/1
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/for-our-amazing-baristas'
+    - title: Gift cards
+      url: 'https://squareup.com/gift/7Z9GD4FCSS1V4/order'
   social:
     instagram: 'https://www.instagram.com/sitandwondercoffeeshop/'
-  status: open
   url: 'http://sitandwonder.net/index.html'
+
 - name: Sofreh
+  last_updated: 12/23
   category: food
-  hours: '5 - 8:30PM (Tue - Sun)'
-  last_updated: 6/22
+  hours: '5:30 - 9PM (Tue - Sun)'
+  notes: Open for outdoor dining and pickup.
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/sofreh-employee-emergency-relief-fund'
     - title: Gift cards
       url: 'https://www.sofrehnyc.com/giftcards'
-  notes: Open for outdoor dining and pickup.
   services:
-    resy: 'https://resy.com/cities/ny/sofreh'
+    chownow: 'https://direct.chownow.com/order/26544/locations/39340'
     upserve: 'https://app.upserve.com/s/sofreh-nyc-brooklyn'
+    resy: 'https://resy.com/cities/ny/sofreh'
   social:
     instagram: 'https://www.instagram.com/sofreh_brooklyn/'
-  status: open
   url: 'https://www.sofrehnyc.com'
+
 - name: Specific Gravity
+  last_updated: 12/23
   category: store
-  last_updated: 3/24
   links:
     - title: Gift cards
       url: 'https://specificgravitynyc.com/products/gift-card-1'
@@ -1361,216 +1469,237 @@
     or call to schedule.
   phone: (347) 291-1766
   social:
+    facebook: 'https://www.facebook.com/SpecificGravityNYC/'
     instagram: 'https://www.instagram.com/specific_gravity/'
   url: 'https://specificgravitynyc.com'
+
 - name: Stocked Cafe & Burgers
+  last_updated: 12/23
   category: food
-  last_updated: 7/3
   notes: >-
-    Open for outdoor dining, pickup and delivery.
-    Located on Washington Ave. (Their Vanderbilt location has closed.)
+    Open for outdoor dining, pickup and delivery on Washington Ave.
   phone: (718) 872-5304
   services:
     chownow: 'https://direct.chownow.com/order/18160/locations/26048'
   social:
     instagram: 'https://www.instagram.com/stockedbrooklyn/'
-  status: open
   url: 'https://www.stockedbrooklyn.com'
+
 - name: Sugarcane
+  last_updated: 12/23
   category: food
-  last_updated: 3/29
   notes: Call ahead to order
   phone: (718) 230-3954
   social:
     instagram: 'https://www.instagram.com/sugarcane_restaurant/'
-  status: open
-  url: 'http://www.sugarcanerestaurant.com'
+
 - name: Sunshine & Co.
+  last_updated: 12/23
   category: food
-  hours: 4 - 10PM (Wed - Sun)
-  last_updated: 7/16
+  hours: 4 - 10PM (Wed - Fri), 11AM - 4PM / 5 - 9PM (Sat / Sun til 10PM)
+  phone: (347) 750-5275
+  notes: 'Open for outdoor dining, now with brunch service.'
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/sunshine-co-staff'
-  notes: 'Open for outdoor dining.'
   social:
     instagram: 'https://www.instagram.com/sunshinecobk/'
-  status: open
   url: 'http://www.sunshinecobk.com'
+
 - name: Sweet Chick
+  last_updated: 12/23
   category: food
-  hours: 12 - 11PM
-  last_updated: 7/6
+  hours: 12 - 10PM
   notes: >-
     Open for outdoor dining, pickup and delivery as 
     <a href="https://www.instagram.com/LILSWEETCHICK/">Lil’ Sweet Chick</a>.
   phone: (718) 484-7724
   services:
+    chownow: 'https://direct.chownow.com/order/25827/locations/38171'
     seamless: 'https://www.seamless.com/menu/sweet-chick-prospect-heights-341-flatbush-ave-brooklyn/1685999'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/sweet-chick-flatbush/GQauqkOlQCikYdNl20DTTA'
   social:
+    facebook: 'https://www.facebook.com/SweetChickLife'
     instagram: 'https://www.instagram.com/sweetchicklife/'
-  status: open
   url: 'https://www.sweetchick.com'
+
 - name: Sweet Polly
+  last_updated: 12/23
   category: bar
-  hours: '2 - 10PM (Wed - Thu), 2 - 11PM (Fri), 12 - 11PM (Sat), 12 - 10PM (Sun)'
-  last_updated: 7/3
+  hours: '4 - 10PM (Wed - Fri),  12 - 10PM (Sat / Sun)'
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/sweet-polly-team-relief-fund'
-    - title: Gift cards (20% off)
+    - title: Gift cards
       url: 'https://squareup.com/gift/89TMFJQFPZE0N/order'
   notes: Outdoor seating is available. Also open for pickup.
   phone: (718) 484-9600
   services:
     upserve: 'https://app.upserve.com/s/sweet-polly-brooklyn'
   social:
+    facebook: 'https://www.facebook.com/sweetpollynyc/'
     instagram: 'https://www.instagram.com/sweetpollynyc/'
-  status: open
   url: 'http://www.sweetpollynyc.com'
+
 - name: Tom’s Restaurant
+  last_updated: 12/23
   category: food
-  last_updated: 3/17
   notes: Open for pickup and delivery
-  phone: (212) 864-6137
+  phone: (718) 636-9738
+  hours: '7AM - 5PM (Mon - Fri), 7AM - 9PM (Sat), 8AM - 8PM (Sun)'
   services:
     seamless: 'https://www.seamless.com/menu/toms-restaurant-782-washington-ave-brooklyn/297390'
   social:
     instagram: 'https://www.instagram.com/tomsbrooklyn/'
-  status: open
   url: 'https://tomsbrooklyn.com'
+
 - name: Udom Thai
+  last_updated: 12/23
   category: food
-  hours: '11AM - 10:15PM'
-  last_updated: 3/30
+  hours: '11:15AM - 10PM'
   notes: >-
-    <a href="https://www.opendining.net/menu/4fd8ca07000d972008000172#ordering-for-prompt">Order
+    <a href="https://www.opendining.net/menu/4fd8ca07000d972008000172">Order
     online</a> for pickup and delivery
   phone: (718) 622-8424
   social:
+    facebook: 'https://www.facebook.com/UdomThai'
     instagram: 'https://www.instagram.com/udomthai/'
-  status: open
   url: 'https://www.udomthai.com'
+
 - name: Underhill Greek Eatery
+  last_updated: 12/23
   category: food
-  hours: '3:30 - 9:30PM'
-  notes: 10% off pickup orders of $50+
+  hours: '2:30 - 9PM'
   phone: (718) 484-3744
   services:
     caviar: 'https://www.trycaviar.com/m/underhill-cafe-and-grill-10596'
     doordash: 'https://www.doordash.com/store/underhill-cafe-and-grill-brooklyn-312894/en-US'
     postmates: 'https://postmates.com/merchant/underhill-cafe-grill-brooklyn'
-    seamless: 'https://www.seamless.com/menu/view/768940'
+    seamless: 'https://www.seamless.com/menu/underhill-cafe-and-grill-760-dean-st-brooklyn/768940'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/underhill-cafe-%26-grill/a9MCFJrEQKy95yjuR4e4Rg'
   social:
+    facebook: 'https://www.facebook.com/underhillbrooklyn/'
     instagram: 'https://www.instagram.com/underhillgreekeatery/'
-  status: open
   url: 'https://underhillbrooklyn.com/'
+
 - name: Unnameable Books
+  last_updated: 12/23
   category: store
-  hours: 11AM - 7PM
-  last_updated: 8/7
+  hours: 11AM - 7PM (Sun - Fri), 11 - 9PM (Fri / Sat)
   links:
     - title: Online store
       url: 'https://unnameablebooks.square.site'
-  notes: 'Order online or contact to arrage an informal pickup time. Currently unable to accept secondhand books.'
+  notes: >-
+    Two at a time inside.
   phone: (718) 789-1534
   social:
+    facebook: 'https://www.facebook.com/unnameable'
     instagram: 'https://www.instagram.com/unnameablebooks/'
   url: 'http://unnameablebooks.blogspot.com'
+
 - name: Van Leeuwen Ice Cream
+  last_updated: 12/23
   category: dessert
-  hours: 11AM - 11PM (12AM Fri/Sat)
+  hours: 12 - 10PM
   links:
     - title: Gift cards
       url: 'https://squareup.com/gift/FR6ZMQGP6CJ1S/order?external_source=giveandgetlocal'
   notes: Order online for pickup and delivery.
   phone: (347) 240-7453
   services:
-    caviar: 'https://trycaviar.app.link/7jIqsTuzjW'
+    caviar: 'https://www.trycaviar.com/store/van-leeuwen-ice-cream-brooklyn-773893/en-US'
     postmates: 'https://postmates.com/merchant/van-leeuwen-ice-cream-brooklyn'
     uber_eats: 'https://www.ubereats.com/en-US/new-york/food-delivery/van-leeuwen-artisan-ice-cream-prospect-heights/lRdl_U-mS8yow9R-xiO2ZQ/'
+    goldbelly: 'https://www.goldbelly.com/van-leeuwen-artisan-ice-cream'
   social:
+    facebook: 'https://www.facebook.com/vanleeuwenicecream/'
     instagram: 'https://www.instagram.com/vanleeuwenicecream/'
-  status: open
   url: 'https://vanleeuwenicecream.com/location/prospect-heights/'
+
 - name: Vanderbilt Wine Merchants
+  last_updated: 12/23
   category: wine-liquor
-  hours: 11AM - 7PM (Mon - Sat)
-  last_updated: 5/7
+  hours: 12 - 7PM
   notes: >-
-    Order pickup is available 3pm - 7pm each day and neighborhood delivery
-    Tuesday through Saturday (1pm cutoff for same day delivery).
+    Free neighborhood delivery within a one-mile radius
+    Monday through Saturday (3pm cutoff for same day delivery).
   social:
+    facebook: 'https://www.facebook.com/VanderbiltWine'
     instagram: 'https://instagram.com/vanderbiltwine'
-  status: open
   url: 'https://vanderbilt.wine'
+
 - name: Washington Ave. Cafe
+  last_updated: 3/29
   category: cafe
   hours: '5:30AM - 4:00PM'
-  last_updated: 3/29
   notes: Open for pickup and delivery
   phone: (718) 230-3734
   services:
     seamless: 'https://www.seamless.com/menu/washington-avenue-cafe-621-washington-ave-brooklyn/900005'
-  status: open
+
 - name: Weather Up
+  last_updated: 12/23
   category: bar
-  hours: 4 - 9PM
-  last_updated: 7/8
+  hours: 4 - 10PM (Wed - Fri), 2 - 10PM (Sat / Sun)
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/weather-up-staff-relief'    
   notes: Outdoor seating is available. Also open for pickup.
   social:
     instagram: 'https://www.instagram.com/weatherupbars/'
-  status: open
   url: 'http://www.weatherupnyc.com/'
+
 - name: White Tiger
+  last_updated: 12/23
   category: food
-  hours: '5 - 9PM (Wed / Thu), 5 - 10PM (Fri), 3 - 10PM (Sat), 3 - 9PM (Sun)'
-  last_updated: 7/23
-  notes: 'Open for outdoor dining, pickup and delivery.'
+  notes: 'Closed for the holidays, reopening Jan. 6, 2021'
+  hours: '5 - 9PM (Wed / Thu), 5 - 10PM (Fri), 1 - 9PM (Sat - Sun)'
   phone: (718) 552-2272
   services:
+    toast: 'https://www.toasttab.com/white-tiger/v3'
     doordash: 'https://www.doordash.com/store/white-tiger-brooklyn-132915/en-US'
     seamless: 'https://www.seamless.com/menu/white-tiger-601-vanderbilt-ave-brooklyn/1981045'
-    toast: 'https://www.toasttab.com/white-tiger/v3'
   social:
+    facebook: 'https://www.facebook.com/White-Tiger-449227641948568/'
     instagram: 'https://www.instagram.com/whitetigerbklyn/'
-  status: open
   url: 'http://www.whitetiger.nyc'
+
 - name: Wine Exchange
+  last_updated: 12/23
   category: wine-liquor
-  last_updated: 7/8
   notes: >-
     Open for pickup and delivery, now with online ordering.
     Five people at a time inside.
   phone: (718) 783-7500
   social:
     instagram: 'https://www.instagram.com/wineexchangebkn/'
-  status: open
-  url: 'https://www.wineexchangebkn.com'
+  url: 'https://wineexchangebkn.com/'
+
 - name: The Winey Neighbor
+  last_updated: 12/23
   category: wine-liquor
-  last_updated: 3/26
   notes: >-
     <a href="https://wineyneighbor.com/#&StoreFrontLocationHash=%23%2Fwidget%2F5a6f49faf4a6613ee3696dbb%2Fcontainers">Order
     online</a> for pickup and delivery
   phone: (347) 715-6693
+  hours: '1 - 8PM (Mon - Wed), 1 - 9PM (Thu / Fri), 11AM - 9PM (Sat), 12 - 9PM (Sun)'
   social:
+    facebook: 'https://www.facebook.com/wineyneighbor'
     instagram: 'https://www.instagram.com/wineyneighbor/'
-  status: open
   url: 'https://wineyneighbor.com'
+
 - name: Zaytoons
+  last_updated: 12/23
   category: food
-  last_updated: 3/17
+  hours: '11:30 AM - 10PM (Mon - Sat), 11:30AM - 9:30PM (Sun)'
   notes: Open for pickup and delivery
   phone: (718) 230-3200
+  links:
+    - title: Order online
+      url: 'https://zaytoons.foodieordersecure.com/'
   services:
-    caviar: 'https://www.trycaviar.com/m/zaytoons-12972'
+    caviar: 'https://www.trycaviar.com/store/zaytoons-brooklyn-1048506/en-US'
   social:
+    facebook: 'https://www.facebook.com/zaytoonsrestaurant/'
     instagram: 'https://www.instagram.com/zaytoonsrestaurant/'
-  status: open
   url: 'https://zaytoons.com'
