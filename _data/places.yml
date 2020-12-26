@@ -177,6 +177,17 @@
     untappd: 'https://untappd.com/v/beer-street-south/9792005'
   url: 'https://beerstreetsouth550.com'
 
+- name: Beer Witch
+  last_updated: 12/26
+  category: bar
+  hours: 2 - 8PM (Mon - Thu), 12 - 9PM (Fri), 10AM - 9PM (Sat), 10AM - 7PM (Sun)
+  notes: 'New craft beer store on Bergen St, just over the border in Park Slope.'
+  links:
+    - title: Order online
+      url: 'https://www.clover.com/online-ordering/beer-witch-brooklyn'
+  url: https://www.beerwitchbrooklyn.com/
+  
+
 - name: Bergen Bagels
   last_updated: 12/25
   category: food
@@ -238,21 +249,16 @@
     instagram: 'https://www.instagram.com/bklynclay/'
   url: 'https://bklynclay.com'
 
-- name: BKLYN Larder
-  last_updated: 12/25
-  category: grocery
-  hours: 10 - 6PM (Tue - Sun)
-  links:
-    - title: Order online
-      url: 'https://bklynlarder.revelup.com/weborder/?establishment=2#index'
-    - title: Gift cards
-      url: 'https://www.bklynlarder.com/gift-cards/'
-  notes: Open for pickup and delivery
-  phone: (718) 783-1250
+- name: BKLYN Cream
+  last_updated: 12/26
+  category: dessert
+  hours: 2 - 9PM (Sun - Thu), 2 - 10PM (Fri / Sat)
+  notes: 'New scoop shop on Bergen in the former Snowdays space.'
+  services:
+    seamless: 'https://www.seamless.com/menu/bklyn-cream-459-bergen-st-brooklyn/2396984'
   social:
-    facebook: 'https://www.facebook.com/BKLYN-LARDER-115860655123816/'
-    instagram: 'https://www.instagram.com/bklynlarder/'
-  url: 'https://www.bklynlarder.com'
+    instagram: 'https://www.instagram.com/bklyncreamnyc/'
+  url: 'https://www.bklyncream.com/'
 
 - name: BKLYN Crepe & Juice
   last_updated: 12/25
@@ -270,6 +276,23 @@
     facebook: 'https://www.facebook.com/bklyn.crepe'
     instagram: 'https://www.instagram.com/bklyncrepe/'
   url: 'http://brooklyncrepe.com'
+
+- name: BKLYN Larder
+  last_updated: 12/25
+  category: grocery
+  hours: 10 - 6PM (Tue - Sun)
+  links:
+    - title: Order online
+      url: 'https://bklynlarder.revelup.com/weborder/?establishment=2#index'
+    - title: Gift cards
+      url: 'https://www.bklynlarder.com/gift-cards/'
+  notes: Open for pickup and delivery
+  phone: (718) 783-1250
+  social:
+    facebook: 'https://www.facebook.com/BKLYN-LARDER-115860655123816/'
+    instagram: 'https://www.instagram.com/bklynlarder/'
+  url: 'https://www.bklynlarder.com'
+
 
 - name: Black Iron Burger
   last_updated: 12/25
@@ -367,6 +390,19 @@
     instagram: 'https://www.instagram.com/broccolinonyc/'
   url: 'https://www.broccolinonyc.com'
 
+- name: Brooklyn High Low
+  last_updated: 12/26
+  category: cafe
+  hours: 10AM - 3:30PM (Fri - Sun)
+  phone: (347) 295-3968 
+  notes: 'New afternoon tea spot on Vanderbilt Ave. DM or call for availability.'
+  link:
+    - title: Reserve through OpenTable
+      url: 'https://www.opentable.com/r/brooklyn-high-low-reservations-brooklyn'
+  social:
+    instagram: 'https://instagram.com/brooklynhighlow'
+  url: 'https://www.brooklynhighlow.com/'
+
 - name: Brooklyn Metal Works
   last_updated: 12/25
   category: service
@@ -400,6 +436,20 @@
   social:
     instagram: 'https://www.instagram.com/cataldosbk/'
   url: 'http://www.cataldos54.com'
+
+- name: Charm Bar
+  last_updated: 12/26
+  category: bar
+  hours: 3 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)
+  phone: (347) 799-2345
+  notes: 'New restaurant on Dean St. Open for outdoor dining, pickup and delivery.'
+  services:
+    seamless: 'https://www.seamless.com/menu/charm-bar--restaurant-448-dean-st-brooklyn/2466647'
+    doordash: 'https://www.doordash.com/store/charm-bar-restaurant-brooklyn-1368887/en-US'
+  social:
+    facebook: 'https://www.facebook.com/charm.bar.37'
+    instagram: 'https://www.instagram.com/charmbarbk/'
+  url: 'http://www.charmbarrestaurant.com/'
 
 - name: Cheryl’s Global Soul
   last_updated: 12/25
