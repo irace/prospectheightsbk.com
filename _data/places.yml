@@ -1306,7 +1306,7 @@
   url: 'https://www.oven.ly'
 
 - name: Oxalis
-  last_updated: 12/25
+  last_updated: 12/27
   category: food
   phone: (347) 627-8298
   hours: '4 - 9PM (Fri), 12 - 9PM (Sat / Sun)'
@@ -1322,6 +1322,8 @@
     Breakfast burritos available 10am until sold out Thu - Sun.
     Compost drop off Sunday mornings from 10am until full. (Go early!)
   services:
+    seamless: 'https://www.seamless.com/menu/oxalis-pantry-791-washington-ave-brooklyn/2454842'
+    caviar: 'https://www.trycaviar.com/store/OxalisPantry-524932/en-US'
     resy: 'https://resy.com/cities/ny/oxalisnyc'
   social:
     facebook: 'https://www.facebook.com/oxalisnyc'
