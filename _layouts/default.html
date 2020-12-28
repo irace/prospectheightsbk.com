@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    {% include head.html %}
-  </head>
-  <body class="w-100 sans-serif bg-black-10 code">
-  <header class="w-100 ph2">
-    {% include header.html %}
-  </header>
-
-  <main class="w-100 black-70">
-  {{ content }}
-  </main>
-  
-  {% include footer.html %}
-
-  </body>
+<head>
+{% include head.html %}
+</head>
+<body class="typography">
+<header>
+{% include header.html %}
+</header>
+<main>
+{{ content }}
+</main>
+<footer>
+{% include footer.html %}
+</footer>
+</body>
 </html>
