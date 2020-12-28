@@ -16,7 +16,7 @@ layout: default
 <section id="{{ category.name }}">
   {% assign cat_items = places | where: "category", category.name %}
 
-  <h2 class="f3">{{ category.heading }}</h2>
+  <h2 class="heading-3">{{ category.heading }}</h2>
   {% for place in cat_items %}
     {% include place.html %}
   {% endfor %}

@@ -4,12 +4,60 @@
 
 @import "node_modules/tachyons-sass/tachyons.scss";
 
-.typography {
+body {
   font-family: 'Inter', 'Neue Haas Unica', system-ui, 'Helvetica Neue', 'Helvetica', sans-serif;
 }
 
+.wrapper {
+  @extend .w-100, .pa3, .ph5-ns;
+}
+
+.heading-1 {
+  @extend .f1, .fw8, .lh-solid, .black-80;
+}
+
+.heading-2 {
+  @extend .f2, .fw8, .lh-title, .black-80;
+}
+
+.heading-3 {
+  @extend .f3, .fw8, .lh-title, .black;
+}
+
+.heading-4 {
+  @extend .text-small, .ttu, .tracked, .black-50;
+}
+
+.heading-5 {
+  @extend .f6, .black-80;
+}
+
+.text {
+  @extend .measure-xwide, .f5, .lh-copy, .black-80;
+}
+
+.text-large {
+  @extend .measure-xwide, .f4, .lh-copy, .black-80;
+}
+
+.text-small {
+  @extend .f7;
+}
+
+.measure-xwide {
+  max-width: 42em;
+}
+
 a {
-  @extend .link, .dim, .dark-blue;
+  @extend .link, .underline, .color-inherit;
+}
+
+.button {
+  @extend .dib, .dim, .pv2, .ph3, .br3, .bg-navy, .white-80, .fw8, .no-underline;
+
+  &.large {
+    @extend .f4;
+  }
 }
 
 .service_icon {
@@ -19,7 +67,13 @@ a {
 }
 
 .social_icon {
+  @extend .o-40;
+  transition: opacity 200ms ease-in-out;
   width: 32px;
+
+  &:hover {
+    @extend .o-100;
+  }
 
   &.mini {
     width: 16px;
