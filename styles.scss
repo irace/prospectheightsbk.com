@@ -4,8 +4,8 @@
 
 @import "node_modules/tachyons-sass/tachyons.scss";
 
-.yellowtail {
-  font-family: "Yellowtail", cursive;
+.typography {
+  font-family: 'Inter', 'Neue Haas Unica', system-ui, 'Helvetica Neue', 'Helvetica', sans-serif;
 }
 
 a {
@@ -15,11 +15,11 @@ a {
 .service_icon {
   @extend .br3;
 
-  width: 35px;
+  width: 32px;
 }
 
 .social_icon {
-  width: 25px;
+  width: 32px;
 
   &.mini {
     width: 16px;
