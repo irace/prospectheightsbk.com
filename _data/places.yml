@@ -560,15 +560,6 @@
     instagram: 'https://www.instagram.com/dickeys.bk/'
   url: 'https://www.dickeys.com/locations/New-York/Brooklyn/1683-brooklyn'
 
-- name: Don Chingon
-  last_updated: 7/3
-  category: food
-  notes: Open for outdoor dining and pickup.
-  phone: (718) 576-3521
-  social:
-    instagram: 'https://www.instagram.com/donchingonnyc/'
-  url: 'http://donchingon.nyc'
-
 - name: Dough Studio
   last_updated: 5/13
   category: dessert
