@@ -17,14 +17,7 @@ layout: default
   <h2 class="w-100 f2 lh-solid tc">Full Directory</h2>
   <h3 class="w-100 nt3 f3 lh-copy ttu tc light-red">All Open Businesses</h3>
   <div class="flex flex-wrap">
-  {% for place in places %}{% unless place.status == "closed" %}
-    {% include place_mini.html %}
-  {% endunless %}{% endfor %}
-  </div>
-
-  <h3 class="w-100 mt3 f3 lh-copy ttu tc light-red">Temporarily closed 😢</h3>
-  <div class="flex flex-wrap">
-  {% for place in closed_places %}
+  {% for place in places %}
     {% include place_mini.html %}
   {% endfor %}
   </div>
