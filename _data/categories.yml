@@ -1,12 +1,9 @@
-- name: bar
-  display_name: Bar
-  category_heading: Bars
 - name: cafe
   display_name: Cafe
   category_heading: Cafes
-- name: food
-  display_name: Restaurant
-  category_heading: Restaurants
+- name: food-drink
+  display_name: Bar / Restaurant
+  category_heading: Bars & Restaurants
 - name: dessert
   display_name: Dessert
   category_heading: Desserts
