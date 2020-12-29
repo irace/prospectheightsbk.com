@@ -4,19 +4,20 @@ layout: default
 ---
 
 {% assign places = site.data.places | sort: "name" %}
+{% assign categories = site.data.categories | sort: "display_name" %}
 
 <nav>
-  Jump to: 
-  {% for category in site.data.categories %}
+  <span class="heading-4">Jump to: </span>
+  {% for category in categories %}
   <a href="#{{category.name}}">{{category.heading}}</a>
   {% endfor %}
 </nav>
 
-{% for category in site.data.categories %}
-<section id="{{ category.name }}">
+{% for category in categories %}
+<section id="{{ category.name }}" class="section">
   {% assign cat_items = places | where: "category", category.name %}
 
-  <h2 class="heading-3">{{ category.heading }}</h2>
+  <h2 class="heading-2">{{ category.heading }}</h2>
   {% for place in cat_items %}
     {% include place.html %}
   {% endfor %}
@@ -24,11 +25,9 @@ layout: default
 </section>
 {% endfor %}
 
-<div class="">
-  <h2 class="">Full Directory</h2>
-  <div class="">
+<section class="section">
+  <h2 class="heading-2">Full Directory</h2>
   {% for place in places %}
     {% include place_mini.html %}
   {% endfor %}
-  </div>
-</div>
+</section>

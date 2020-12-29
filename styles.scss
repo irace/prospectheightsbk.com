@@ -4,49 +4,45 @@
 
 @import "node_modules/tachyons-sass/tachyons.scss";
 
+// Typography
+
 body {
   font-family: 'Inter', 'Neue Haas Unica', system-ui, 'Helvetica Neue', 'Helvetica', sans-serif;
 }
 
-.wrapper {
-  @extend .w-100, .pa3, .ph5-ns;
-}
-
 .heading-1 {
-  @extend .f1, .fw8, .lh-solid, .black-80;
+  @extend .f1, .fw8, .lh-solid, .near-black;
 }
 
 .heading-2 {
-  @extend .f2, .fw8, .lh-title, .black-80;
+  @extend .f2, .fw8, .lh-solid, .near-black;
 }
 
 .heading-3 {
-  @extend .f3, .fw8, .lh-title, .black;
+  @extend .f3, .fw8, .lh-title, .ma0, .black;
 }
 
 .heading-4 {
-  @extend .text-small, .ttu, .tracked, .black-50;
+  @extend .f8, .ttu, .tracked, .gray;
 }
 
 .heading-5 {
-  @extend .f6, .black-80;
+  @extend .f6, .near-black;
 }
 
 .text {
-  @extend .measure-xwide, .f5, .lh-copy, .black-80;
+  @extend .measure-xwide, .f5, .lh-copy, .near-black;
 }
 
 .text-large {
-  @extend .measure-xwide, .f4, .lh-copy, .black-80;
+  @extend .measure-xwide, .f4, .lh-copy, .near-black;
 }
 
 .text-small {
   @extend .f7;
 }
 
-.measure-xwide {
-  max-width: 42em;
-}
+// Basics
 
 a {
   @extend .link, .underline, .color-inherit;
@@ -60,13 +56,21 @@ a {
   }
 }
 
-.service_icon {
+.hover-link {
+  @extend .no-underline;
+
+  &:hover {
+    @extend .underline;
+  }
+}
+
+.service-icon {
   @extend .br3;
 
   width: 32px;
 }
 
-.social_icon {
+.social-icon {
   @extend .o-40;
   transition: opacity 200ms ease-in-out;
   width: 32px;
@@ -78,4 +82,53 @@ a {
   &.mini {
     width: 16px;
   }
+}
+
+// Layout 
+
+.wrapper {
+  @extend .w-100, .pa3, .ph4-ns, .ph6-l;
+}
+
+.section {
+  @extend .pt3, .flex, .flex-wrap, .justify-between;
+
+  .heading-2 {
+    @extend .w-100, .bg-white, .pv2, .mt2, .mb3, .bb, .b--black-10;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+}
+
+.place-card {
+  @extend .w-100, .w-48-ns, .w-30-l, .pv2, .mb4;
+  @extend .flex, .flex-column;
+  border-top: 0.5rem solid black;
+  border-bottom: 0.125rem solid rgba(0,0,0,0.2);
+
+  .key-info {
+    @extend .flex, .justify-between;
+  }
+  .place-notes {
+    @extend .fw5;
+  }
+
+  .heading-4 {
+    @extend .mt0, .mb1, .pv1, .bt, .b--black-10;
+  }
+
+}
+
+// Utils to extend Tachyons
+
+.measure-xwide {
+  max-width: 42em;
+}
+.f8 {
+  font-size: 0.625rem;
+}
+
+@media screen and (min-width: 30em) {
+  .w-48-ns { width: 48%; }
 }
