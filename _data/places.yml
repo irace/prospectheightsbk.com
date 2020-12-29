@@ -24,7 +24,7 @@
 
 - name: Alta Calidad
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '11:30AM - 9:30PM (Sun - Thu), 11:30AM - 10PM (Fri / Sat)'
   links:
     - title: Staff relief fund
@@ -43,7 +43,7 @@
 
 - name: Amorina Pizza
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '4 - 9PM (Sun, Wed / Thu), 4 - 10PM (Fri / Sat)'
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 230-3030
@@ -67,7 +67,7 @@
 
 - name: Antonio’s Pizza
   last_updated: 3/30
-  category: food
+  category: food-drink
   hours: 11AM - 9PM
   notes: Open for pickup and delivery
   phone: ‭(718) 398-2300‬
@@ -81,7 +81,7 @@
 
 - name: Art Cafe & Bar
   last_updated: 12/25
-  category: food
+  category: food-drink
   phone: (718) 857-2522
   social:
     facebook: 'https://www.facebook.com/pages/Art-Cafe/527841370624131'
@@ -102,7 +102,7 @@
   url: 'https://www.bakeryonbergen.com/'
 
 - name: Banh Mi Place
-  category: food
+  category: food-drink
   last_updated: 12/25
   notes: Open for pickup and delivery
   services:
@@ -151,7 +151,7 @@
 
 - name: The Bearded Lady
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 2 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)
   links:
     - title: Staff relief fund
@@ -190,7 +190,7 @@
 
 - name: Bergen Bagels
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 6AM - 10PM
   notes: Open for pickup and delivery
   phones: (718) 789-7600
@@ -296,7 +296,7 @@
 
 - name: Black Iron Burger
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '2 - 9:30PM (Mon - Fri), 12 - 9:30PM (Sat), 12 - 9PM (Sun)'
   links:
     - title: Staff relief fund
@@ -314,7 +314,7 @@
 
 - name: Bleachers Sports Bar & Grill
   last_updated: 12/25
-  category: food
+  category: food-drink
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 857-1111
   services:
@@ -342,7 +342,7 @@
 
 - name: Born Thai
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '12:30 - 10PM'
   notes: Open for outdoor dining, pickup and delivery.
   phone: (347) 663-3674
@@ -360,7 +360,7 @@
 
 - name: Branded Saloon
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '5 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)'
   phone: (718) 484-8704
   links:
@@ -380,7 +380,7 @@
 
 - name: Broccolino
   last_updated: 12/25
-  category: food
+  category: food-drink
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 678-4200
   services:
@@ -416,7 +416,7 @@
 
 - name: Burrito Bar & Kitchen
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 4 - 9PM
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 230-8646
@@ -429,7 +429,7 @@
 
 - name: Cataldo’s
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '11AM - 10PM'
   notes: Open for outdoor dining and pickup.
   phone: (718) 857-6700
@@ -453,7 +453,7 @@
 
 - name: Cheryl’s Global Soul
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 10AM - 8PM (delivery 12 - 7:30PM)
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (347) 529-2855
@@ -464,7 +464,7 @@
 
 - name: Chick-P
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 11AM - 10PM (Mon - Sat), 11AM - 9PM (Sun)
   notes: >-
     10% off when ordering directly from
@@ -480,7 +480,7 @@
 
 - name: Chuko
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '5:30 - 9PM (Sun - Thu), 5:30 - 10PM (Fri / Sat), lunch 12 - 3PM (Sat / Sun)'
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (347) 425-9570
@@ -520,7 +520,7 @@
 
 - name: Citrico
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '4 - 10PM (Mon - Fri), 9AM - 10PM (Sat / Sun)'
   phone: (347) 955-4519
   notes: 'Open for outdoor dining, pickup and delivery.'
@@ -547,7 +547,7 @@
 
 - name: Dickey’s BBQ Pit
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 11AM - 9PM
   phone: (347) 889-5400
   notes: Open for pickup and delivery
@@ -589,7 +589,7 @@
 
 - name: El Paso Mexican Grill
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 
   phone: (917) 905-3401
   services:
@@ -609,7 +609,7 @@
 
 - name: Faun
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 5 - 10PM (Wed - Sun)
   phone: (718) 576-6120
   links:
@@ -630,7 +630,7 @@
 
 - name: Fausto
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '5:30 - 9PM (Wed - Sat), 5:30 - 8PM (Sun)'
   phone: (917) 909-1427
   notes: Open for pickup and delivery
@@ -675,7 +675,7 @@
 
 - name: Geido
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '4:30 - 9PM (Wed - Sun)'
   notes: Open for pickup and delivery
   phone: (718) 638-8866
@@ -685,7 +685,7 @@
 
 - name: Gen Sushi
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 5 - 10PM (Tue - Fri), 1 - 10PM (Sat / Sun)
   phone: (718) 398-3550
   links:
@@ -748,14 +748,14 @@
 
 - name: El Gran Castillo de Jagua
   last_updated: 12/25
-  category: food
+  category: food-drink
   phone: (718) 622-8700
   notes: Open for pickup and delivery
   url: 'https://www.elgrancastillo.com'
 
 - name: Homeslice Pizzeria
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 11:30 - 10:00PM
   phone: (347) 632-9824
   services:
@@ -780,7 +780,7 @@
 
 - name: Inaka Asian Cuisine
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 11:30AM - 10PM (Tue - Fri), 12:30 - 10PM (Sat / Sun)
   phone: (718) 398-8168
   notes: Open for pickup and delivery
@@ -791,7 +791,7 @@
 
 - name: The Islands
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 1 - 10PM (Tue - Thu), 12 - 10PM (Sun)
   phone: (718) 398-3575
   notes: 'Open for outdoor dining, pickup and delivery.'
@@ -801,7 +801,7 @@
 
 - name: James
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '4 - 9PM (Thu - Tue), brunch 12 - 4PM Sun'
   phone: (718) 942-4255
   links:
@@ -818,7 +818,7 @@
 
 - name: Joy Indian
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 11:30AM - 3PM, 5 - 10PM (Sun - Fri), 11:30 - 10PM (Fri / Sat)
   phone: (718) 230-1165
   notes: Open for pickup and delivery
@@ -826,13 +826,13 @@
 
 - name: Kami Asian
   last_updated: 5/18
-  category: food
+  category: food-drink
   phone: (718) 398-3888
   notes: “Please call us to place your order”
   url: 'http://kamiasian.com'
 
 - name: Ki Sushi
-  category: food
+  category: food-drink
   hours: '12:30 - 2:30PM (everyday but Sunday), 5 - 9PM (everyday)'
   last_updated: 7/3
   links:
@@ -845,7 +845,7 @@
   url: 'http://www.kisushigroup.com'
 
 - name: Kimchi Grill
-  category: food
+  category: food-drink
   hours: '11:30AM - 10:00PM (10:30PM Fri/Sat)'
   last_updated: 4/1
   notes: Open for pickup and delivery
@@ -857,7 +857,7 @@
   url: 'https://www.kimchigrill.com'
 
 - name: Kombit Bar and Restaurant
-  category: food
+  category: food-drink
   last_updated: 8/7
   notes: 'Now open with outdoor seating.'
   social:
@@ -875,7 +875,7 @@
     instagram: 'https://www.instagram.com/konditori/'
 
 - name: Kulushkat
-  category: food
+  category: food-drink
   hours: 11 - 10PM (Tue - Sun)
   last_updated: 7/3
   notes: 'Open for outdoor dining, pickup and delivery.'
@@ -887,7 +887,7 @@
   url: 'https://kulushkat.com'
 
 - name: LaLou
-  category: food
+  category: food-drink
   hours: '5:30 - 9:30PM (Tues - Thu), 5 - 10:30PM (Fri), 12 - 10:30PM (Sat), 12 - 9PM (Sun)'
   last_updated: 9/27
   links:
@@ -902,7 +902,7 @@
   url: 'https://laloubrooklyn.com'
 
 - name: Leland Eating and Drinking House
-  category: food
+  category: food-drink
   last_updated: 12/25
   social:
     instagram: https://www.instagram.com/p/CDEQ44XjFyw/
@@ -927,7 +927,7 @@
 
 - name: Lincoln Station
   last_updated: 11/14
-  category: food
+  category: food-drink
   hours: 5 - 8PM
   notes: >-
     Call ahead for pickup through the front door or order online for delivery.
@@ -955,7 +955,7 @@
 
 - name: Little MissMuffin N Her Stuffin
   last_updated: 5/7
-  category: food
+  category: food-drink
   notes: >-
     “Aside from the eponymous muffins, they also have wonderful patties and
     other Caribbean food”
@@ -963,7 +963,7 @@
     instagram: 'https://www.instagram.com/littlemissmuffinny/'
 
 - name: LOOK by Plant Love House
-  category: food
+  category: food-drink
   hours: 12 - 10PM (Tue - Sun)
   last_updated: 7/3
   links:
@@ -981,7 +981,7 @@
 
 - name: Lowerline
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 4 - 9PM (Tue - Fri), 12 - 9PM (Sat / Sun)
   phone: (347) 533-7110
   notes: Outdoor seating available. Also open for pickup and delivery
@@ -999,7 +999,7 @@
 
 - name: Maison Yaki
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '3 - 9PM (Wed - Fri), 1 - 9PM (Sat / Sun)'
   phone: (718) 552-2609
   links:
@@ -1016,7 +1016,7 @@
 
 - name: Maya Taqueria
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 11AM - 10PM
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 638-6292
@@ -1051,7 +1051,7 @@
 
 - name: Mexicocina Agaveria
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 12 - 10PM (Tue - Sat), 12 - 9PM (Sun / Mon)
   phone: (347) 663-2951
   notes: 'Open for outdoor dining, pickup and delivery.'
@@ -1101,13 +1101,13 @@
 
 - name: Mitchell’s Soul Food
   last_updated: 12/25
-  category: food
+  category: food-drink
   notes: 'Open for pickup'
   phone: (718) 789-3212
 
 - name: Mokbar
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 12 - 9PM (Wed - Sun)
   phone: (347) 987-3042
   notes: >-
@@ -1127,7 +1127,7 @@
 
 - name: Morgan’s BBQ
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '12 - 10PM (delivery until 11PM)'
   links:
     - title: Gift cards
@@ -1148,7 +1148,7 @@
 
 - name: Mumbai Place
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '12 - 10PM'
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 398-7776
@@ -1161,7 +1161,7 @@
 
 - name: Muse
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '4 - 10PM (Wed - Mon)'
   phone: (347) 442-0443
   links:
@@ -1174,7 +1174,7 @@
 
 - name: Nacho Macho Taco
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 11AM - 10PM
   notes: Open for pickup and delivery
   phone: (718) 622-2727
@@ -1187,7 +1187,7 @@
 
 - name: Nourish Thai
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '12 - 10:00PM'
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 789-3981
@@ -1202,7 +1202,7 @@
 
 - name: Nûrish
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 7AM - 8PM (Mon - Sat) 7AM - 6PM (Sun)
   notes: Open for pickup and delivery
   phone: (718) 484-1122
@@ -1228,7 +1228,7 @@
 
 - name: Ogliastro Pizza Bar
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 5 - 10PM
   phone: (718) 789-3700
   links:
@@ -1257,7 +1257,7 @@
 
 - name: Olmsted
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 5 - 10PM (Wed - Sun), 12 -3PM (Sat / Sun lunch)
   links:
     - title: Order online
@@ -1298,7 +1298,7 @@
 
 - name: Oxalis
   last_updated: 12/27
-  category: food
+  category: food-drink
   phone: (347) 627-8298
   hours: '4 - 9PM (Fri), 12 - 9PM (Sat / Sun)'
   links:
@@ -1323,7 +1323,7 @@
 
 - name: Patsy’s Pizzeria
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 4 - 10PM (Mon - Thu), 12 - 10PM (Fri - Sun)
   links:
     - title: Order online
@@ -1350,7 +1350,7 @@
 
 - name: Piquant
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '2 - 9:30PM (Mon - Fri), 10AM - 9:30PM (Sat / Sun)'
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 484-4114
@@ -1360,7 +1360,7 @@
 
 - name: Poke Tiky
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '11AM - 8PM (Mon - Wed), 11AM - 9PM (Thu / Fri), 10AM - 8:30PM (Sat), 10AM - 8PM (Sun)'
   notes: 'Open for outdoor dining, pickup or delivery.'
   phone: (347) 365-5214
@@ -1373,7 +1373,7 @@
 
 - name: Puerto Viejo
   last_updated: 12/25
-  category: food
+  category: food-drink
   phone: (718) 398-3758
   hours: 11AM - 10PM (Mon - Sat)
   notes: >-
@@ -1408,7 +1408,7 @@
 
 - name: R&D Foods
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 8AM - 7PM
   links:
     - title: Gift cards
@@ -1424,7 +1424,7 @@
 
 - name: Ruby Kitchen
   last_updated: 5/8
-  category: food
+  category: food-drink
   notes: Open for pickup and delivery
   phone: (718) 789-4633
   services:
@@ -1432,7 +1432,7 @@
 
 - name: Shaka Shaka Tiki/Companion Cafe
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '8AM - 10PM'
   phone: (347) 689-3184
   notes: 
@@ -1449,7 +1449,7 @@
 
 - name: Shane’s Brooklyn
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '9AM - 6PM (Sun - Wed), 9AM - 10PM (Thu - Sat)'
   notes: 'Open for outdoor dining, pickup and delivery.'
   services:
@@ -1485,7 +1485,7 @@
 
 - name: Sofreh
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '5:30 - 9PM (Tue - Sun)'
   notes: Open for outdoor dining and pickup.
   links:
@@ -1518,7 +1518,7 @@
 
 - name: Stocked Cafe & Burgers
   last_updated: 12/25
-  category: food
+  category: food-drink
   notes: >-
     Open for outdoor dining, pickup and delivery on Washington Ave.
   phone: (718) 872-5304
@@ -1530,7 +1530,7 @@
 
 - name: Sugarcane
   last_updated: 12/25
-  category: food
+  category: food-drink
   notes: Call ahead to order
   phone: (718) 230-3954
   social:
@@ -1538,7 +1538,7 @@
 
 - name: Sunshine & Co.
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 4 - 10PM (Wed - Fri), 11AM - 4PM / 5 - 9PM (Sat / Sun til 10PM)
   phone: (347) 750-5275
   notes: 'Open for outdoor dining, now with brunch service.'
@@ -1551,7 +1551,7 @@
 
 - name: Sweet Chick
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: 12 - 10PM
   notes: >-
     Open for outdoor dining, pickup and delivery as 
@@ -1586,7 +1586,7 @@
 
 - name: Tom’s Restaurant
   last_updated: 12/25
-  category: food
+  category: food-drink
   notes: Open for pickup and delivery
   phone: (718) 636-9738
   hours: '7AM - 5PM (Mon - Fri), 7AM - 9PM (Sat), 8AM - 8PM (Sun)'
@@ -1598,7 +1598,7 @@
 
 - name: Udom Thai
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '11:15AM - 10PM'
   notes: >-
     <a href="https://www.opendining.net/menu/4fd8ca07000d972008000172">Order
@@ -1611,7 +1611,7 @@
 
 - name: Underhill Greek Eatery
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '2:30 - 9PM'
   phone: (718) 484-3744
   services:
@@ -1694,7 +1694,7 @@
 
 - name: White Tiger
   last_updated: 12/25
-  category: food
+  category: food-drink
   notes: 'Closed for the holidays, reopening Jan. 6, 2021'
   hours: '5 - 9PM (Wed / Thu), 5 - 10PM (Fri), 1 - 9PM (Sat - Sun)'
   phone: (718) 552-2272
@@ -1733,7 +1733,7 @@
 
 - name: Zaytoons
   last_updated: 12/25
-  category: food
+  category: food-drink
   hours: '11:30 AM - 10PM (Mon - Sat), 11:30AM - 9:30PM (Sun)'
   notes: Open for pickup and delivery
   phone: (718) 230-3200
