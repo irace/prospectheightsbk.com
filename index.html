@@ -8,9 +8,13 @@ layout: default
 
 <nav>
   <span class="heading-4">Jump to: </span>
-  {% for category in categories %}
-  <a href="#{{category.name}}">{{category.heading}}</a>
+  <ul class="list pl0 mv2">
+    {% for category in categories %}
+    <li class="dib mr2"><a href="#{{category.name}}">{{category.heading}}</a></li>
   {% endfor %}
+    <li class="dib mr2"><a href="#directory">Full Directory</a></li>
+  </ul>
+  
 </nav>
 
 {% for category in categories %}
@@ -25,7 +29,7 @@ layout: default
 </section>
 {% endfor %}
 
-<section class="section">
+<section id="directory" class="directory section">
   <h2 class="heading-2">Full Directory</h2>
   {% for place in places %}
     {% include place_mini.html %}
