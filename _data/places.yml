@@ -82,12 +82,12 @@
 - name: Art Cafe & Bar
   last_updated: 12/25
   category: food-drink
+  hours: 12PM - 12AM (Sun / Mon), 10AM - 1AM (Tue - Thu), 10AM - 2AM (Fri / Sat)
   phone: (718) 857-2522
+  notes: 'Outdoor seating is available.'
   social:
     facebook: 'https://www.facebook.com/pages/Art-Cafe/527841370624131'
     instagram: 'https://www.instagram.com/artcafebrooklyn/'
-  hours: 12PM - 12AM (Sun / Mon), 10AM - 1AM (Tue - Thu), 10AM - 2AM (Fri / Sat)
-  notes: 'Outdoor seating is available.'
 
 - name: The Bakery on Bergen
   last_updated: 12/25
@@ -109,7 +109,7 @@
     seamless: 'https://www.seamless.com/menu/banh-mi-place-824-washington-ave-brooklyn/310686'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/banh-mi-place/01MKo6J-RmCWJFzMsQzgXg'
   social:
-    facebook:'https://www.facebook.com/pages/Banh-Mi-Place/512832582210701'
+    facebook: 'https://www.facebook.com/pages/Banh-Mi-Place/512832582210701'
   url: 'https://banhmiplacebklyn.com/'
 
 - name: Bar Goto Niban
