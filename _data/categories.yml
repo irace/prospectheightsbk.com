@@ -2,8 +2,8 @@
   display_name: Cafe
   heading: Cafes
 - name: food-drink
-  display_name: Bar / Restaurant
-  heading: Bars & Restaurants
+  display_name: 'Bar / Restaurant'
+  heading: 'Bars & Restaurants'
 - name: dessert
   display_name: Dessert
   heading: Desserts
