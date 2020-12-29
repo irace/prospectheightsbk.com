@@ -15,17 +15,24 @@
     {% endif %}
   </div>
 
-    {% if place.phone %}
-      <div class="text-small gray"><a class="hover-link" href="tel:{{ place.phone }}">{{ place.phone }}</a></div>
+    {% if place.phone or place.address %}
+      <div class="text-small gray">
+        {% if place.address %}{{ place.address }}{% if place.address and place.phone %} · {% endif %}{% endif%}
+        {% if place.phone %}<a class="hover-link" href="tel:{{ place.phone }}">{{ place.phone }}</a>{% endif%}
+      </div>
       {% endif %}
     <div>
       <p class="place-notes">{{ place.notes }}</p>
     </div>
 
-    {% if place.hours %}
+    {% if place.hours or place.classic_hours %}
     <div class="hours">
       <h4 class="heading-4">Hours</h4>
-      <p>{{ place.hours }}</p>
+      {% if place.hours %}
+        {% include hours_block.html %}
+        {% else %}
+        <p class="classic-hours">{{ place.classic_hours }}</p>
+      {% endif %}
     </div>
     {% endif %}
 
@@ -33,6 +40,8 @@
     <div class="mv1">
       <h4 class="heading-4">How to Support</h4>
 
+      
+      <h5 class="heading-5">Online Ordering</h5>
       {% for service in place.services %}
       <a href="{{service[1]}}"><img class="service-icon" src="icons/{{service[0]}}.png" alt="{{service[0]}}" /></a>
       {% endfor %}
