@@ -1,24 +1,21 @@
-- name: bar
-  display_name: Bar
-  category_heading: Bars
 - name: cafe
   display_name: Cafe
-  category_heading: Cafes
-- name: food
-  display_name: Restaurant
-  category_heading: Restaurants
+  heading: Cafes
+- name: food-drink
+  display_name: 'Bar / Restaurant'
+  heading: 'Bars & Restaurants'
 - name: dessert
   display_name: Dessert
-  category_heading: Desserts
+  heading: Desserts
 - name: grocery
   display_name: Grocer
-  category_heading: Grocers
+  heading: Grocers
 - name: service
   display_name: Service
-  category_heading: Services
+  heading: Services
 - name: store
   display_name: Store
-  category_heading: Stores
+  heading: Stores
 - name: wine-liquor
   display_name: 'Wine & Liquor'
-  category_heading: 'Wine & Liquor Stores'
+  heading: 'Wine & Liquor Stores'

@@ -1,6 +1,6 @@
 - name: 333 Lounge
   last_updated: 12/25
-  category: bar
+  category: food-drink
   hours: '4 - 10PM (Mon - Sat), 2 - 10PM (Sun)'
   notes: >-
     Open for pickup. Call or <a href="mailto:333bknyc@gmail.com">email</a> to place an order.
@@ -113,7 +113,7 @@
   url: 'https://banhmiplacebklyn.com/'
 
 - name: Bar Goto Niban
-  category: bar
+  category: food-drink
   hours: 5 - 10PM (Tue - Sat), 3 - 8:30PM (Sun)
   last_updated: 12/25
   notes: 'Open for outdoor dining, pickup and delivery.'
@@ -125,7 +125,7 @@
 
 - name: Bar Meridian
   last_updated: 12/25
-  category: bar
+  category: food-drink
   hours: 4 - 10PM (Thu), 2 - 10PM (Fri - Sun)
   links:
     - title: Gift cards
@@ -165,7 +165,7 @@
 
 - name: Beer Street South
   last_updated: 12/25
-  category: bar
+  category: food-drink
   hours: 4 - 8PM (Mon - Fri), 2 - 8PM (Sat / Sun)
   links:
     - title: Gift cards
@@ -179,7 +179,7 @@
 
 - name: Beer Witch
   last_updated: 12/26
-  category: bar
+  category: food-drink
   hours: 2 - 8PM (Mon - Thu), 12 - 9PM (Fri), 10AM - 9PM (Sat), 10AM - 7PM (Sun)
   notes: 'New craft beer store on Bergen St, just over the border in Park Slope.'
   links:
@@ -203,7 +203,7 @@
 
 - name: Bierwax
   last_updated: 12/25
-  category: bar
+  category: food-drink
   hours: '4 - 10PM (Mon - Fri), 12 - 10PM (Sat), 12 - 9PM (Sun)'
   links:
     - title: Order online
@@ -222,7 +222,7 @@
 
 - name: Bilt Bar
   last_updated: 12/25
-  category: bar
+  category: food-drink
   hours: '3 - 8PM (Fri - Sun)'
   phone: '(347) 295-3579'
   links:
@@ -439,7 +439,7 @@
 
 - name: Charm Bar
   last_updated: 12/26
-  category: bar
+  category: food-drink
   hours: 3 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)
   phone: (347) 799-2345
   notes: 'New restaurant on Dean St. Open for outdoor dining, pickup and delivery.'
@@ -535,7 +535,7 @@
 
 - name: Covenhoven
   last_updated: 12/25
-  category: bar
+  category: food-drink
   hours: 2 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)
   notes: Outdoor seating is available. Also open for pickup.
   phone: (718) 483-9950
@@ -599,7 +599,7 @@
 
 - name: Eve’s Lounge
   last_updated: 7/3
-  category: bar
+  category: food-drink
   hours: 5 - 10PM
   notes: Open for outdoor dining and pickup.
   phone: (347) 442-5959
@@ -700,7 +700,7 @@
 
 - name: Gold Star Beer Counter
   last_updated: 12/25
-  category: bar
+  category: food-drink
   hours: 12AM - 9PM (Coffee & pastries 8AM - 12PM)
   notes: >-
     Beer to-go window and outdoor seating available. Check website and 
@@ -724,7 +724,7 @@
 # hidden due to lack of updates
 # - name: Good Life
 #   last_updated: 12/25
-#   category: bar
+#   category: food-drink
 #   social:
 #     instagram: 'https://www.instagram.com/goodlifebk/'
 
@@ -1214,7 +1214,7 @@
 
 - name: Ode to Babel
   last_updated: 12/25
-  category: bar
+  category: food-drink
   hours: 4 - 10PM (Thu - Sun)
   links:
     - title: Staff relief fund
@@ -1397,7 +1397,7 @@
 
 - name: Prospect Butcher Co.
   last_updated: 12/25
-  category: food
+  category: grocery
   phone: 347-763-9500
   notes: >-
     Local butcher opening soon in the former Daly Pie space
@@ -1461,7 +1461,7 @@
 
 - name: Sharlene’s Bar
   last_updated: 12/25
-  category: bar
+  category: food-drink
   hours: 3 - 10PM
   links:
     - title: Staff relief fund
@@ -1568,7 +1568,7 @@
 
 - name: Sweet Polly
   last_updated: 12/25
-  category: bar
+  category: food-drink
   hours: '4 - 10PM (Wed - Fri),  12 - 10PM (Sat / Sun)'
   links:
     - title: Staff relief fund
@@ -1682,7 +1682,7 @@
 
 - name: Weather Up
   last_updated: 12/25
-  category: bar
+  category: food-drink
   hours: 4 - 10PM (Wed - Fri), 2 - 10PM (Sat / Sun)
   links:
     - title: Staff relief fund
