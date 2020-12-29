@@ -70,6 +70,10 @@ a {
   width: 32px;
 }
 
+.social-icons {
+  flex-shrink: 0;
+}
+
 .social-icon {
   @extend .o-40;
   transition: opacity 200ms ease-in-out;
@@ -131,12 +135,12 @@ a {
     @extend .fw5;
   }
 
-  .heading-4 {
-    @extend .mt0, .mb1, .pv1, .bt, .b--black-10;
-  }
+  .place-section {
+    @extend .mt1, .pt1, .mv2, .bt, .b--black-10;
 
-  .hours {
-    @extend .pb2;
+    .heading-4 {
+      @extend .mv1;
+    }
   }
 
   .classic-hours {
@@ -155,6 +159,14 @@ a {
     }
     &--hours {
       @extend .pa1, .f7, .fw7, .black-60;
+    }
+  }
+
+  .place-list {
+    @extend .list, .pl0, .ma0, .flex, .flex-wrap;
+
+    li {
+      @extend .mv1, .w-50, .fw5;
     }
   }
 
