@@ -42,12 +42,16 @@
       hours: 11:30AM - 10PM
       span: 2
   classic_hours: '11:30AM - 9:30PM (Sun - Thu), 11:30AM - 10PM (Fri / Sat)'
+  notes: 'A modern Mexican restaurant at the corner of Dean and Vanderbilt.'
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/alta-calidad-employee-relief-fund'
     - title: Gift cards
       url: 'https://www.toasttab.com/alta-calidad/giftcards'
-  notes: 'Open for outdoor dining, pickup and delivery.'
   services:
     seamless: >-
       https://www.seamless.com/menu/alta-calidad-552-vanderbilt-ave-brooklyn/460349
@@ -664,6 +668,13 @@
 - name: Fermented Grapes
   last_updated: 8/7
   category: wine-liquor
+  hours:
+    - days: Sun - Mon
+      hours: Closed
+      span: 2
+    - days: Tue - Sat
+      hours: 12 - 8PM
+      span: 5
   classic_hours: 12 - 8PM (Tue - Sat)
   phone: (718) 230-3216
   notes: >-
@@ -1413,7 +1424,7 @@
 
 - name: Prospect Butcher Co.
   last_updated: 12/25
-  category: food-drink
+  category: grocery
   phone: 347-763-9500
   notes: >-
     Local butcher opening soon in the former Daly Pie space
