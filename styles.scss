@@ -11,7 +11,7 @@ body {
 }
 
 .heading-1 {
-  @extend .f1, .fw8, .lh-solid, .near-black;
+  @extend .f1, .fw8, .lh-solid, .mt4, .mb2, .near-black;
 }
 
 .heading-2 {
@@ -27,7 +27,7 @@ body {
 }
 
 .heading-5 {
-  @extend .f6, .near-black;
+  @extend .f6, .fw7, .mid-gray, .mv2;
 }
 
 .text {
@@ -35,7 +35,7 @@ body {
 }
 
 .text-large {
-  @extend .measure-xwide, .f4, .lh-copy, .near-black;
+  @extend .measure-xwide, .f4, .lh-copy, .mv2, .near-black;
 }
 
 .text-small {
@@ -86,8 +86,17 @@ a {
 
 // Layout 
 
+.hero {
+  @extend .flex, .flex-column, .justify-between;
+
+  @media screen and (min-width: 60em) {
+    flex-direction: row;
+    align-items: flex-end;
+  }
+}
+
 .wrapper {
-  @extend .w-100, .pa3, .ph4-ns, .ph6-l;
+  @extend .w-100, .pv1, .ph3, .ph4-ns, .ph6-xl;
 }
 
 .section {
@@ -99,10 +108,18 @@ a {
     top: 0;
     z-index: 1;
   }
+
+  &.directory {
+    @extend .pt0, .pb3, .bg-near-white;
+
+    .heading-2 {
+      @extend .mt0;
+    }
+  }
 }
 
 .place-card {
-  @extend .w-100, .w-48-ns, .w-30-l, .pv2, .mb4;
+  @extend .w-100, .w-48-ns, .w-32-l, .pv2, .mb4;
   @extend .flex, .flex-column;
   border-top: 0.5rem solid black;
   border-bottom: 0.125rem solid rgba(0,0,0,0.2);
@@ -118,6 +135,29 @@ a {
     @extend .mt0, .mb1, .pv1, .bt, .b--black-10;
   }
 
+  .hours {
+    @extend .pb2;
+  }
+
+  .classic-hours {
+    @extend .mv1;
+  }
+
+  .hours-block {
+    @extend .mid-gray, .bg-navy-12, .pa1, .flex, .flex-column, .justify-center, .items-center, .tc;
+    // flex-shrink: 0;
+    min-height: 2rem;
+    margin: -2px;
+    border: 2px solid white;
+
+    &--days {
+      @extend .f8, .ttu, .tracked, .black-40;
+    }
+    &--hours {
+      @extend .pa1, .f7, .fw7, .black-60;
+    }
+  }
+
 }
 
 // Utils to extend Tachyons
@@ -128,7 +168,23 @@ a {
 .f8 {
   font-size: 0.625rem;
 }
+.f9 {
+  font-size: 0.5rem;
+}
+
+.bg-navy-12 {
+  background-color: rgba(29,85,134,0.12);
+}
+
 
 @media screen and (min-width: 30em) {
   .w-48-ns { width: 48%; }
+}
+
+@media screen and (min-width: 60em) {
+  .w-32-l { width: 32%; }
+}
+
+@media screen and (min-width: 90em) {
+  .ph6-xl { padding-left: 8rem; padding-right: 8rem; }
 }
