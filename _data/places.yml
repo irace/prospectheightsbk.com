@@ -1,10 +1,18 @@
 - name: 333 Lounge
   last_updated: 12/25
   category: food-drink
-  hours: '4 - 10PM (Mon - Sat), 2 - 10PM (Sun)'
+  address: 333 Flatbush Ave.
+  phone: (718) 399-8008
+  hours:
+    - days: Sun
+      hours: 2 - 10PM
+      span: 1
+    - days: Mon - Sat
+      hours: 4 - 10PM
+      span: 6
+  classic_hours: '4 - 10PM (Mon - Sat), 2 - 10PM (Sun)'
   notes: >-
     Open for pickup. Call or <a href="mailto:333bknyc@gmail.com">email</a> to place an order.
-  phone: (718) 399-8008
   social:
     instagram: 'https://www.instagram.com/333.lounge/'
     facebook: 'https://www.facebook.com/333loungenbk/'
@@ -13,7 +21,7 @@
 - name: Acme Pet Food Inc
   last_updated: 4/13
   category: store
-  hours: '10AM - 7PM (Mon - Fri), 10AM - 5PM (Sat), 11AM - 5PM (Sun)'
+  classic_hours: '10AM - 7PM (Mon - Fri), 10AM - 5PM (Sat), 11AM - 5PM (Sun)'
   notes: >-
     “Limit exposure to our staff and yourself,
     please wear a mask when visiting, wait outside if crowded.
@@ -25,7 +33,15 @@
 - name: Alta Calidad
   last_updated: 12/25
   category: food-drink
-  hours: '11:30AM - 9:30PM (Sun - Thu), 11:30AM - 10PM (Fri / Sat)'
+  address: 552 Vanderbilt Ave.
+  hours:
+    - days: Sun - Thu
+      hours: 11:30AM - 9:30PM
+      span: 5
+    - days: Fri - Sat
+      hours: 11:30AM - 10PM
+      span: 2
+  classic_hours: '11:30AM - 9:30PM (Sun - Thu), 11:30AM - 10PM (Fri / Sat)'
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/alta-calidad-employee-relief-fund'
@@ -44,7 +60,7 @@
 - name: Amorina Pizza
   last_updated: 12/25
   category: food-drink
-  hours: '4 - 9PM (Sun, Wed / Thu), 4 - 10PM (Fri / Sat)'
+  classic_hours: '4 - 9PM (Sun, Wed / Thu), 4 - 10PM (Fri / Sat)'
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 230-3030
   services:
@@ -58,7 +74,7 @@
 - name: Ample Hills
   last_updated: 12/25
   category: dessert
-  hours: '1 - 9PM (Sun - Thu), 1 - 10PM (Fri / Sat)'
+  classic_hours: '1 - 9PM (Sun - Thu), 1 - 10PM (Fri / Sat)'
   notes: 'Reopened as of July 23 under new ownership.'
   social:
     facebook: 'https://www.facebook.com/amplehills/'
@@ -68,7 +84,7 @@
 - name: Antonio’s Pizza
   last_updated: 3/30
   category: food-drink
-  hours: 11AM - 9PM
+  classic_hours: 11AM - 9PM
   notes: Open for pickup and delivery
   phone: ‭(718) 398-2300‬
   services:
@@ -82,7 +98,7 @@
 - name: Art Cafe & Bar
   last_updated: 12/25
   category: food-drink
-  hours: 12PM - 12AM (Sun / Mon), 10AM - 1AM (Tue - Thu), 10AM - 2AM (Fri / Sat)
+  classic_hours: 12PM - 12AM (Sun / Mon), 10AM - 1AM (Tue - Thu), 10AM - 2AM (Fri / Sat)
   phone: (718) 857-2522
   notes: 'Outdoor seating is available.'
   social:
@@ -92,7 +108,7 @@
 - name: The Bakery on Bergen
   last_updated: 12/25
   category: cafe
-  hours: 12 - 7PM (Tue - Sun)
+  classic_hours: 12 - 7PM (Tue - Sun)
   notes: 'Outdoor seating is available.'
   services:
     seamless: 'https://www.seamless.com/menu/the-bakery-on-bergen-740-bergen-st-brooklyn/921677'
@@ -114,7 +130,7 @@
 
 - name: Bar Goto Niban
   category: food-drink
-  hours: 5 - 10PM (Tue - Sat), 3 - 8:30PM (Sun)
+  classic_hours: 5 - 10PM (Tue - Sat), 3 - 8:30PM (Sun)
   last_updated: 12/25
   notes: 'Open for outdoor dining, pickup and delivery.'
   services:
@@ -126,7 +142,7 @@
 - name: Bar Meridian
   last_updated: 12/25
   category: food-drink
-  hours: 4 - 10PM (Thu), 2 - 10PM (Fri - Sun)
+  classic_hours: 4 - 10PM (Thu), 2 - 10PM (Fri - Sun)
   links:
     - title: Gift cards
       url: 'https://www.toasttab.com/bar-meridian/giftcards'
@@ -141,7 +157,7 @@
 - name: BCakeNY
   last_updated: 12/25
   category: dessert
-  hours: 10AM - 6PM (Mon), 12 - 7PM (Tue - Fri), 10AM - 5PM (Sat / Sun)
+  classic_hours: 10AM - 6PM (Mon), 12 - 7PM (Tue - Fri), 10AM - 5PM (Sat / Sun)
   notes: 'Outdoor seating is available.'
   phone: (347) 787-7199
   social:
@@ -152,7 +168,7 @@
 - name: The Bearded Lady
   last_updated: 12/25
   category: food-drink
-  hours: 2 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)
+  classic_hours: 2 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/bearded-lady-staff-support-fund'
@@ -166,7 +182,7 @@
 - name: Beer Street South
   last_updated: 12/25
   category: food-drink
-  hours: 4 - 8PM (Mon - Fri), 2 - 8PM (Sat / Sun)
+  classic_hours: 4 - 8PM (Mon - Fri), 2 - 8PM (Sat / Sun)
   links:
     - title: Gift cards
       url: 'https://squareup.com/gift/C3K54BY60YNAP/order'
@@ -180,7 +196,7 @@
 - name: Beer Witch
   last_updated: 12/26
   category: food-drink
-  hours: 2 - 8PM (Mon - Thu), 12 - 9PM (Fri), 10AM - 9PM (Sat), 10AM - 7PM (Sun)
+  classic_hours: 2 - 8PM (Mon - Thu), 12 - 9PM (Fri), 10AM - 9PM (Sat), 10AM - 7PM (Sun)
   notes: 'New craft beer store on Bergen St, just over the border in Park Slope.'
   links:
     - title: Order online
@@ -191,7 +207,7 @@
 - name: Bergen Bagels
   last_updated: 12/25
   category: food-drink
-  hours: 6AM - 10PM
+  classic_hours: 6AM - 10PM
   notes: Open for pickup and delivery
   phones: (718) 789-7600
   services:
@@ -204,7 +220,7 @@
 - name: Bierwax
   last_updated: 12/25
   category: food-drink
-  hours: '4 - 10PM (Mon - Fri), 12 - 10PM (Sat), 12 - 9PM (Sun)'
+  classic_hours: '4 - 10PM (Mon - Fri), 12 - 10PM (Sat), 12 - 9PM (Sun)'
   links:
     - title: Order online
       url: 'https://my-site-100819-102620.square.site'
@@ -223,7 +239,7 @@
 - name: Bilt Bar
   last_updated: 12/25
   category: food-drink
-  hours: '3 - 8PM (Fri - Sun)'
+  classic_hours: '3 - 8PM (Fri - Sun)'
   phone: '(347) 295-3579'
   links:
     - title: Staff relief fund
@@ -236,7 +252,7 @@
 - name: BKLYN Clay
   last_updated: 12/25
   category: service
-  hours: 9AM - 9PM
+  classic_hours: 9AM - 9PM
   links:
     - title: Staff relief fund
       url: 'https://www.bklynclay.com/checkout/donate?donatePageId=5e795b6604497b59a692c207'
@@ -252,7 +268,7 @@
 - name: BKLYN Cream
   last_updated: 12/26
   category: dessert
-  hours: 2 - 9PM (Sun - Thu), 2 - 10PM (Fri / Sat)
+  classic_hours: 2 - 9PM (Sun - Thu), 2 - 10PM (Fri / Sat)
   notes: 'New scoop shop on Bergen in the former Snowdays space.'
   services:
     seamless: 'https://www.seamless.com/menu/bklyn-cream-459-bergen-st-brooklyn/2396984'
@@ -264,7 +280,7 @@
   last_updated: 12/25
   category: cafe
   phone: (718) 638-1023
-  hours: 8AM - 8PM
+  classic_hours: 8AM - 8PM
   notes: Open for pickup and delivery
   services:
     caviar: 'https://www.trycaviar.com/store/brooklyn-crepe---juice-brooklyn-32612/en-US'
@@ -280,7 +296,7 @@
 - name: BKLYN Larder
   last_updated: 12/25
   category: grocery
-  hours: 10 - 6PM (Tue - Sun)
+  classic_hours: 10 - 6PM (Tue - Sun)
   links:
     - title: Order online
       url: 'https://bklynlarder.revelup.com/weborder/?establishment=2#index'
@@ -297,7 +313,7 @@
 - name: Black Iron Burger
   last_updated: 12/25
   category: food-drink
-  hours: '2 - 9:30PM (Mon - Fri), 12 - 9:30PM (Sat), 12 - 9PM (Sun)'
+  classic_hours: '2 - 9:30PM (Mon - Fri), 12 - 9:30PM (Sat), 12 - 9PM (Sun)'
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/1xwz41clg0'
@@ -327,7 +343,7 @@
 - name: Blue Marble
   last_updated: 12/25
   category: dessert
-  hours: '8AM - 9PM (Mon - Thu), 9AM - 9PM (Fri - Sun)'
+  classic_hours: '8AM - 9PM (Mon - Thu), 9AM - 9PM (Fri - Sun)'
   notes: >-
     Coffee, pastries, pints, and cups available from the take-out window
     or for delivery via Postmates. “Our hours and offerings may vary, but we will post daily.”'
@@ -343,7 +359,7 @@
 - name: Born Thai
   last_updated: 12/25
   category: food-drink
-  hours: '12:30 - 10PM'
+  classic_hours: '12:30 - 10PM'
   notes: Open for outdoor dining, pickup and delivery.
   phone: (347) 663-3674
   links:
@@ -361,7 +377,7 @@
 - name: Branded Saloon
   last_updated: 12/25
   category: food-drink
-  hours: '5 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)'
+  classic_hours: '5 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)'
   phone: (718) 484-8704
   links:
     - title: Order online
@@ -393,7 +409,7 @@
 - name: Brooklyn High Low
   last_updated: 12/26
   category: cafe
-  hours: 10AM - 3:30PM (Fri - Sun)
+  classic_hours: 10AM - 3:30PM (Fri - Sun)
   phone: (347) 295-3968 
   notes: 'New afternoon tea spot on Vanderbilt Ave. DM or call for availability.'
   link:
@@ -417,7 +433,7 @@
 - name: Burrito Bar & Kitchen
   last_updated: 12/25
   category: food-drink
-  hours: 4 - 9PM
+  classic_hours: 4 - 9PM
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 230-8646
   services:
@@ -430,7 +446,7 @@
 - name: Cataldo’s
   last_updated: 12/25
   category: food-drink
-  hours: '11AM - 10PM'
+  classic_hours: '11AM - 10PM'
   notes: Open for outdoor dining and pickup.
   phone: (718) 857-6700
   social:
@@ -440,7 +456,7 @@
 - name: Charm Bar
   last_updated: 12/26
   category: food-drink
-  hours: 3 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)
+  classic_hours: 3 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)
   phone: (347) 799-2345
   notes: 'New restaurant on Dean St. Open for outdoor dining, pickup and delivery.'
   services:
@@ -454,7 +470,7 @@
 - name: Cheryl’s Global Soul
   last_updated: 12/25
   category: food-drink
-  hours: 10AM - 8PM (delivery 12 - 7:30PM)
+  classic_hours: 10AM - 8PM (delivery 12 - 7:30PM)
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (347) 529-2855
   social:
@@ -465,7 +481,7 @@
 - name: Chick-P
   last_updated: 12/25
   category: food-drink
-  hours: 11AM - 10PM (Mon - Sat), 11AM - 9PM (Sun)
+  classic_hours: 11AM - 10PM (Mon - Sat), 11AM - 9PM (Sun)
   notes: >-
     10% off when ordering directly from
     <a href="https://eat.9fold.me/index.html#/10955">their website</a>
@@ -481,7 +497,7 @@
 - name: Chuko
   last_updated: 12/25
   category: food-drink
-  hours: '5:30 - 9PM (Sun - Thu), 5:30 - 10PM (Fri / Sat), lunch 12 - 3PM (Sat / Sun)'
+  classic_hours: '5:30 - 9PM (Sun - Thu), 5:30 - 10PM (Fri / Sat), lunch 12 - 3PM (Sat / Sun)'
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (347) 425-9570
   services:
@@ -494,7 +510,7 @@
 - name: 'Ciao, Gloria'
   last_updated: 12/25
   category: cafe
-  hours: '8:30AM - 4PM (Mon - Fri), 9AM - 5PM (Sat / Sun)'
+  classic_hours: '8:30AM - 4PM (Mon - Fri), 9AM - 5PM (Sat / Sun)'
   phone: (716) 666-2426
   notes: 'Open for outdoor dining, pickup and delivery.'
   links:
@@ -521,7 +537,7 @@
 - name: Citrico
   last_updated: 12/25
   category: food-drink
-  hours: '4 - 10PM (Mon - Fri), 9AM - 10PM (Sat / Sun)'
+  classic_hours: '4 - 10PM (Mon - Fri), 9AM - 10PM (Sat / Sun)'
   phone: (347) 955-4519
   notes: 'Open for outdoor dining, pickup and delivery.'
   links:
@@ -536,7 +552,7 @@
 - name: Covenhoven
   last_updated: 12/25
   category: food-drink
-  hours: 2 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)
+  classic_hours: 2 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)
   notes: Outdoor seating is available. Also open for pickup.
   phone: (718) 483-9950
   social:
@@ -548,7 +564,7 @@
 - name: Dickey’s BBQ Pit
   last_updated: 12/25
   category: food-drink
-  hours: 11AM - 9PM
+  classic_hours: 11AM - 9PM
   phone: (347) 889-5400
   notes: Open for pickup and delivery
   links:
@@ -574,7 +590,7 @@
 - name: Doughnut Plant
   last_updated: 12/25
   category: cafe
-  hours: 8AM - 4PM (Wed - Sun)
+  classic_hours: 8AM - 4PM (Wed - Sun)
   phone: (212) 505-3700,245
   links:
     - title: Order online
@@ -590,7 +606,7 @@
 - name: El Paso Mexican Grill
   last_updated: 12/25
   category: food-drink
-  hours: 
+  classic_hours: 
   phone: (917) 905-3401
   services:
     seamless: 'https://www.seamless.com/menu/el-paso-mexican-grill-ii-387-flatbush-ave-brooklyn/309183'
@@ -600,7 +616,7 @@
 - name: Eve’s Lounge
   last_updated: 7/3
   category: food-drink
-  hours: 5 - 10PM
+  classic_hours: 5 - 10PM
   notes: Open for outdoor dining and pickup.
   phone: (347) 442-5959
   social:
@@ -610,7 +626,7 @@
 - name: Faun
   last_updated: 12/25
   category: food-drink
-  hours: 5 - 10PM (Wed - Sun)
+  classic_hours: 5 - 10PM (Wed - Sun)
   phone: (718) 576-6120
   links:
     - title: Staff relief fund
@@ -631,7 +647,7 @@
 - name: Fausto
   last_updated: 12/25
   category: food-drink
-  hours: '5:30 - 9PM (Wed - Sat), 5:30 - 8PM (Sun)'
+  classic_hours: '5:30 - 9PM (Wed - Sat), 5:30 - 8PM (Sun)'
   phone: (917) 909-1427
   notes: Open for pickup and delivery
   links:
@@ -648,7 +664,7 @@
 - name: Fermented Grapes
   last_updated: 8/7
   category: wine-liquor
-  hours: 12 - 8PM (Tue - Sat)
+  classic_hours: 12 - 8PM (Tue - Sat)
   phone: (718) 230-3216
   notes: >-
     Open for contactless pickup and delivery with 
@@ -662,7 +678,7 @@
 - name: 'Four & Twenty Blackbirds'
   last_updated: 12/25
   category: dessert
-  hours: 8AM - 7PM (Mon - Fri), 9AM - 7PM (Sat / Sun)
+  classic_hours: 8AM - 7PM (Mon - Fri), 9AM - 7PM (Sat / Sun)
   phone: (347) 350-5110
   services:
     caviar: 'https://www.trycaviar.com/store/four-and-twenty-blackbirds-brooklyn-313450/en-US'
@@ -676,7 +692,7 @@
 - name: Geido
   last_updated: 12/25
   category: food-drink
-  hours: '4:30 - 9PM (Wed - Sun)'
+  classic_hours: '4:30 - 9PM (Wed - Sun)'
   notes: Open for pickup and delivery
   phone: (718) 638-8866
   services:
@@ -686,7 +702,7 @@
 - name: Gen Sushi
   last_updated: 12/25
   category: food-drink
-  hours: 5 - 10PM (Tue - Fri), 1 - 10PM (Sat / Sun)
+  classic_hours: 5 - 10PM (Tue - Fri), 1 - 10PM (Sat / Sun)
   phone: (718) 398-3550
   links:
     - title: Staff relief fund
@@ -701,7 +717,7 @@
 - name: Gold Star Beer Counter
   last_updated: 12/25
   category: food-drink
-  hours: 12AM - 9PM (Coffee & pastries 8AM - 12PM)
+  classic_hours: 12AM - 9PM (Coffee & pastries 8AM - 12PM)
   notes: >-
     Beer to-go window and outdoor seating available. Check website and 
     <a href="https://untappd.com/v/gold-star-beer-counter/3171446">Untappd</a>
@@ -714,7 +730,7 @@
 - name: Gorilla Coffee
   last_updated: 12/25
   category: cafe
-  hours: 7AM - 9PM
+  classic_hours: 7AM - 9PM
   phone: (347) 987-3765
   notes: Outdoor seating is available. Also open for pickup and online ordering.
   social:
@@ -731,7 +747,7 @@
 - name: Gran Caffe De Martini
   last_updated: 12/25
   category: cafe
-  hours: 8AM - 5PM (Mon - Fri), 9AM - 6PM (Sat / Sun)
+  classic_hours: 8AM - 5PM (Mon - Fri), 9AM - 6PM (Sat / Sun)
   phone: (929) 306-8332
   links:
     - title: Staff relief fund
@@ -756,7 +772,7 @@
 - name: Homeslice Pizzeria
   last_updated: 12/25
   category: food-drink
-  hours: 11:30 - 10:00PM
+  classic_hours: 11:30 - 10:00PM
   phone: (347) 632-9824
   services:
     slice: 'https://slicelife.com/restaurants/ny/brooklyn/11238/brooklyn-s-homeslice-pizzeria/menu'
@@ -767,7 +783,7 @@
 - name: Hungry Ghost
   last_updated: 12/25
   category: cafe
-  hours: 7AM - 5PM
+  classic_hours: 7AM - 5PM
   notes: Open for pickup
   links:
     - title: Order online
@@ -781,7 +797,7 @@
 - name: Inaka Asian Cuisine
   last_updated: 12/25
   category: food-drink
-  hours: 11:30AM - 10PM (Tue - Fri), 12:30 - 10PM (Sat / Sun)
+  classic_hours: 11:30AM - 10PM (Tue - Fri), 12:30 - 10PM (Sat / Sun)
   phone: (718) 398-8168
   notes: Open for pickup and delivery
   links:
@@ -792,7 +808,7 @@
 - name: The Islands
   last_updated: 12/25
   category: food-drink
-  hours: 1 - 10PM (Tue - Thu), 12 - 10PM (Sun)
+  classic_hours: 1 - 10PM (Tue - Thu), 12 - 10PM (Sun)
   phone: (718) 398-3575
   notes: 'Open for outdoor dining, pickup and delivery.'
   services:
@@ -802,7 +818,7 @@
 - name: James
   last_updated: 12/25
   category: food-drink
-  hours: '4 - 9PM (Thu - Tue), brunch 12 - 4PM Sun'
+  classic_hours: '4 - 9PM (Thu - Tue), brunch 12 - 4PM Sun'
   phone: (718) 942-4255
   links:
       title: Staff relief fund
@@ -819,7 +835,7 @@
 - name: Joy Indian
   last_updated: 12/25
   category: food-drink
-  hours: 11:30AM - 3PM, 5 - 10PM (Sun - Fri), 11:30 - 10PM (Fri / Sat)
+  classic_hours: 11:30AM - 3PM, 5 - 10PM (Sun - Fri), 11:30 - 10PM (Fri / Sat)
   phone: (718) 230-1165
   notes: Open for pickup and delivery
   url: 'http://joyindianrestaurant.com'
@@ -833,7 +849,7 @@
 
 - name: Ki Sushi
   category: food-drink
-  hours: '12:30 - 2:30PM (everyday but Sunday), 5 - 9PM (everyday)'
+  classic_hours: '12:30 - 2:30PM (everyday but Sunday), 5 - 9PM (everyday)'
   last_updated: 7/3
   links:
     - title: Order online
@@ -846,7 +862,7 @@
 
 - name: Kimchi Grill
   category: food-drink
-  hours: '11:30AM - 10:00PM (10:30PM Fri/Sat)'
+  classic_hours: '11:30AM - 10:00PM (10:30PM Fri/Sat)'
   last_updated: 4/1
   notes: Open for pickup and delivery
   phone: (718) 360-1839
@@ -876,7 +892,7 @@
 
 - name: Kulushkat
   category: food-drink
-  hours: 11 - 10PM (Tue - Sun)
+  classic_hours: 11 - 10PM (Tue - Sun)
   last_updated: 7/3
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (347) 799-1972
@@ -888,7 +904,7 @@
 
 - name: LaLou
   category: food-drink
-  hours: '5:30 - 9:30PM (Tues - Thu), 5 - 10:30PM (Fri), 12 - 10:30PM (Sat), 12 - 9PM (Sun)'
+  classic_hours: '5:30 - 9:30PM (Tues - Thu), 5 - 10:30PM (Fri), 12 - 10:30PM (Sat), 12 - 9PM (Sun)'
   last_updated: 9/27
   links:
     - title: Staff relief fund
@@ -928,7 +944,7 @@
 - name: Lincoln Station
   last_updated: 11/14
   category: food-drink
-  hours: 5 - 8PM
+  classic_hours: 5 - 8PM
   notes: >-
     Call ahead for pickup through the front door or order online for delivery.
     Send requests to <a
@@ -944,7 +960,7 @@
 - name: Little Cupcake Bakeshop
   last_updated: 4/30
   category: cafe
-  hours: '8AM - 10PM (Sun - Thu), 8AM - 11PM (Fri - Sat)'
+  classic_hours: '8AM - 10PM (Sun - Thu), 8AM - 11PM (Fri - Sat)'
   notes: >-
     Open for pickup. Also <a href="http://www.littlecupcakebakeshop.com">online
     ordering</a> from their website
@@ -964,7 +980,7 @@
 
 - name: LOOK by Plant Love House
   category: food-drink
-  hours: 12 - 10PM (Tue - Sun)
+  classic_hours: 12 - 10PM (Tue - Sun)
   last_updated: 7/3
   links:
     - title: Gift cards
@@ -982,7 +998,7 @@
 - name: Lowerline
   last_updated: 12/25
   category: food-drink
-  hours: 4 - 9PM (Tue - Fri), 12 - 9PM (Sat / Sun)
+  classic_hours: 4 - 9PM (Tue - Fri), 12 - 9PM (Sat / Sun)
   phone: (347) 533-7110
   notes: Outdoor seating available. Also open for pickup and delivery
   links:
@@ -1000,7 +1016,7 @@
 - name: Maison Yaki
   last_updated: 12/25
   category: food-drink
-  hours: '3 - 9PM (Wed - Fri), 1 - 9PM (Sat / Sun)'
+  classic_hours: '3 - 9PM (Wed - Fri), 1 - 9PM (Sat / Sun)'
   phone: (718) 552-2609
   links:
     - title: Staff relief fund
@@ -1017,7 +1033,7 @@
 - name: Maya Taqueria
   last_updated: 12/25
   category: food-drink
-  hours: 11AM - 10PM
+  classic_hours: 11AM - 10PM
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 638-6292
   services:
@@ -1030,7 +1046,7 @@
 - name: Mei Chi Liquors
   last_updated: 12/25
   category: wine-liquor
-  hours: '10:30AM - 8PM (Sun - Thu), 10:30AM - 9PM (Fri / Sat)'
+  classic_hours: '10:30AM - 8PM (Sun - Thu), 10:30AM - 9PM (Fri / Sat)'
   notes: Open for pickup and delivery
   phone: (718) 622-1403
   social:
@@ -1040,7 +1056,7 @@
 - name: Mermaid’s Garden
   last_updated: 12/25
   category: grocery
-  hours: '12 - 7PM (Mon - Fri), 11AM - 6PM (Sat / Sun)'
+  classic_hours: '12 - 7PM (Mon - Fri), 11AM - 6PM (Sat / Sun)'
   phone: (718) 638-1910
   notes: >-
     Pickup or delivery available via
@@ -1052,7 +1068,7 @@
 - name: Mexicocina Agaveria
   last_updated: 12/25
   category: food-drink
-  hours: 12 - 10PM (Tue - Sat), 12 - 9PM (Sun / Mon)
+  classic_hours: 12 - 10PM (Tue - Sat), 12 - 9PM (Sun / Mon)
   phone: (347) 663-2951
   notes: 'Open for outdoor dining, pickup and delivery.'
   links:
@@ -1070,7 +1086,7 @@
 - name: Milk Bar
   last_updated: 12/25
   category: cafe
-  hours: 8AM - 2PM (Mon - Fri), 8AM - 4PM (Sat / Sun)
+  classic_hours: 8AM - 2PM (Mon - Fri), 8AM - 4PM (Sat / Sun)
   notes: Open for outdoor dining and pickup.
   links:
     - title: Gift cards
@@ -1087,7 +1103,7 @@
 - name: Mille-Feuille
   last_updated: 12/25
   category: cafe
-  hours: 8AM - 5PM
+  classic_hours: 8AM - 5PM
   phone: (347) 350-8838
   notes: 'Open for pickup and delivery'
   links:
@@ -1108,7 +1124,7 @@
 - name: Mokbar
   last_updated: 12/25
   category: food-drink
-  hours: 12 - 9PM (Wed - Sun)
+  classic_hours: 12 - 9PM (Wed - Sun)
   phone: (347) 987-3042
   notes: >-
     Open for pickup and delivery
@@ -1128,7 +1144,7 @@
 - name: Morgan’s BBQ
   last_updated: 12/25
   category: food-drink
-  hours: '12 - 10PM (delivery until 11PM)'
+  classic_hours: '12 - 10PM (delivery until 11PM)'
   links:
     - title: Gift cards
       url: 'https://www.morgansbrooklynbarbecue.com/store/gift-cards/'
@@ -1149,7 +1165,7 @@
 - name: Mumbai Place
   last_updated: 12/25
   category: food-drink
-  hours: '12 - 10PM'
+  classic_hours: '12 - 10PM'
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 398-7776
   links:
@@ -1162,7 +1178,7 @@
 - name: Muse
   last_updated: 12/25
   category: food-drink
-  hours: '4 - 10PM (Wed - Mon)'
+  classic_hours: '4 - 10PM (Wed - Mon)'
   phone: (347) 442-0443
   links:
     - title: Order online
@@ -1175,7 +1191,7 @@
 - name: Nacho Macho Taco
   last_updated: 12/25
   category: food-drink
-  hours: 11AM - 10PM
+  classic_hours: 11AM - 10PM
   notes: Open for pickup and delivery
   phone: (718) 622-2727
   services:
@@ -1188,7 +1204,7 @@
 - name: Nourish Thai
   last_updated: 12/25
   category: food-drink
-  hours: '12 - 10:00PM'
+  classic_hours: '12 - 10:00PM'
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 789-3981
   services:
@@ -1203,7 +1219,7 @@
 - name: Nûrish
   last_updated: 12/25
   category: food-drink
-  hours: 7AM - 8PM (Mon - Sat) 7AM - 6PM (Sun)
+  classic_hours: 7AM - 8PM (Mon - Sat) 7AM - 6PM (Sun)
   notes: Open for pickup and delivery
   phone: (718) 484-1122
   services:
@@ -1215,7 +1231,7 @@
 - name: Ode to Babel
   last_updated: 12/25
   category: food-drink
-  hours: 4 - 10PM (Thu - Sun)
+  classic_hours: 4 - 10PM (Thu - Sun)
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/ode-to-babel-team'
@@ -1229,7 +1245,7 @@
 - name: Ogliastro Pizza Bar
   last_updated: 12/25
   category: food-drink
-  hours: 5 - 10PM
+  classic_hours: 5 - 10PM
   phone: (718) 789-3700
   links:
     - title: Staff relief fund
@@ -1245,7 +1261,7 @@
 - name: Olde Brooklyn Bagel Shoppe
   last_updated: 12/25
   category: cafe
-  hours: 8AM - 6PM (delivery 7:30AM - 4PM)
+  classic_hours: 8AM - 6PM (delivery 7:30AM - 4PM)
   notes: 'Open for outdoor dining, pickup and delivery'
   phone: (718) 622-6227
   services:
@@ -1258,7 +1274,7 @@
 - name: Olmsted
   last_updated: 12/25
   category: food-drink
-  hours: 5 - 10PM (Wed - Sun), 12 -3PM (Sat / Sun lunch)
+  classic_hours: 5 - 10PM (Wed - Sun), 12 -3PM (Sat / Sun lunch)
   links:
     - title: Order online
       url: 'https://bbot.menu/olmsteddeliveryorpickup/'
@@ -1280,7 +1296,7 @@
 - name: Ovenly
   last_updated: 12/25
   category: cafe
-  hours: '7:30AM - 6PM (Mon - Fri), 8AM - 6PM (Sat / Sun)'
+  classic_hours: '7:30AM - 6PM (Mon - Fri), 8AM - 6PM (Sat / Sun)'
   notes: Outdoor seating is available. Also open for pickup.
   links:
     - title: Order online
@@ -1300,7 +1316,7 @@
   last_updated: 12/27
   category: food-drink
   phone: (347) 627-8298
-  hours: '4 - 9PM (Fri), 12 - 9PM (Sat / Sun)'
+  classic_hours: '4 - 9PM (Fri), 12 - 9PM (Sat / Sun)'
   links:
     - title: Oxalis Pantry
       url: 'https://www.oxalispantry.com/'
@@ -1324,7 +1340,7 @@
 - name: Patsy’s Pizzeria
   last_updated: 12/25
   category: food-drink
-  hours: 4 - 10PM (Mon - Thu), 12 - 10PM (Fri - Sun)
+  classic_hours: 4 - 10PM (Mon - Thu), 12 - 10PM (Fri - Sun)
   links:
     - title: Order online
       url: 'https://eat.9fold.me/index.html#/10769'
@@ -1340,7 +1356,7 @@
 - name: Penny House Cafe
   last_updated: 12/25
   category: cafe
-  hours: 6AM - 6PM
+  classic_hours: 6AM - 6PM
   notes: Open for pickup
   phone: (347) 240-7281
   social:
@@ -1351,7 +1367,7 @@
 - name: Piquant
   last_updated: 12/25
   category: food-drink
-  hours: '2 - 9:30PM (Mon - Fri), 10AM - 9:30PM (Sat / Sun)'
+  classic_hours: '2 - 9:30PM (Mon - Fri), 10AM - 9:30PM (Sat / Sun)'
   notes: 'Open for outdoor dining, pickup and delivery.'
   phone: (718) 484-4114
   social:
@@ -1361,7 +1377,7 @@
 - name: Poke Tiky
   last_updated: 12/25
   category: food-drink
-  hours: '11AM - 8PM (Mon - Wed), 11AM - 9PM (Thu / Fri), 10AM - 8:30PM (Sat), 10AM - 8PM (Sun)'
+  classic_hours: '11AM - 8PM (Mon - Wed), 11AM - 9PM (Thu / Fri), 10AM - 8:30PM (Sat), 10AM - 8PM (Sun)'
   notes: 'Open for outdoor dining, pickup or delivery.'
   phone: (347) 365-5214
   links:
@@ -1375,7 +1391,7 @@
   last_updated: 12/25
   category: food-drink
   phone: (718) 398-3758
-  hours: 11AM - 10PM (Mon - Sat)
+  classic_hours: 11AM - 10PM (Mon - Sat)
   notes: >-
     Call to order for local delivery. Open for outdoor dining, pickup and delivery.
   services:
@@ -1409,7 +1425,7 @@
 - name: R&D Foods
   last_updated: 12/25
   category: food-drink
-  hours: 8AM - 7PM
+  classic_hours: 8AM - 7PM
   links:
     - title: Gift cards
       url: 'https://www.rdfoodsbklyn.com/gifts'
@@ -1433,7 +1449,7 @@
 - name: Shaka Shaka Tiki/Companion Cafe
   last_updated: 12/25
   category: food-drink
-  hours: '8AM - 10PM'
+  classic_hours: '8AM - 10PM'
   phone: (347) 689-3184
   notes: 
   links:
@@ -1450,7 +1466,7 @@
 - name: Shane’s Brooklyn
   last_updated: 12/25
   category: food-drink
-  hours: '9AM - 6PM (Sun - Wed), 9AM - 10PM (Thu - Sat)'
+  classic_hours: '9AM - 6PM (Sun - Wed), 9AM - 10PM (Thu - Sat)'
   notes: 'Open for outdoor dining, pickup and delivery.'
   services:
     doordash: 'https://www.doordash.com/store/shanes-brooklyn-brooklyn-179024/en-US'
@@ -1462,7 +1478,7 @@
 - name: Sharlene’s Bar
   last_updated: 12/25
   category: food-drink
-  hours: 3 - 10PM
+  classic_hours: 3 - 10PM
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/sharlene039s-bar'
@@ -1473,7 +1489,7 @@
 - name: Sit & Wonder
   last_updated: 12/25
   category: cafe
-  hours: '7:30AM - 2PM'
+  classic_hours: '7:30AM - 2PM'
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/for-our-amazing-baristas'
@@ -1486,7 +1502,7 @@
 - name: Sofreh
   last_updated: 12/25
   category: food-drink
-  hours: '5:30 - 9PM (Tue - Sun)'
+  classic_hours: '5:30 - 9PM (Tue - Sun)'
   notes: Open for outdoor dining and pickup.
   links:
     - title: Staff relief fund
@@ -1539,7 +1555,7 @@
 - name: Sunshine & Co.
   last_updated: 12/25
   category: food-drink
-  hours: 4 - 10PM (Wed - Fri), 11AM - 4PM / 5 - 9PM (Sat / Sun til 10PM)
+  classic_hours: 4 - 10PM (Wed - Fri), 11AM - 4PM / 5 - 9PM (Sat / Sun til 10PM)
   phone: (347) 750-5275
   notes: 'Open for outdoor dining, now with brunch service.'
   links:
@@ -1552,7 +1568,7 @@
 - name: Sweet Chick
   last_updated: 12/25
   category: food-drink
-  hours: 12 - 10PM
+  classic_hours: 12 - 10PM
   notes: >-
     Open for outdoor dining, pickup and delivery as 
     <a href="https://www.instagram.com/LILSWEETCHICK/">Lil’ Sweet Chick</a>.
@@ -1569,7 +1585,7 @@
 - name: Sweet Polly
   last_updated: 12/25
   category: food-drink
-  hours: '4 - 10PM (Wed - Fri),  12 - 10PM (Sat / Sun)'
+  classic_hours: '4 - 10PM (Wed - Fri),  12 - 10PM (Sat / Sun)'
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/sweet-polly-team-relief-fund'
@@ -1589,7 +1605,7 @@
   category: food-drink
   notes: Open for pickup and delivery
   phone: (718) 636-9738
-  hours: '7AM - 5PM (Mon - Fri), 7AM - 9PM (Sat), 8AM - 8PM (Sun)'
+  classic_hours: '7AM - 5PM (Mon - Fri), 7AM - 9PM (Sat), 8AM - 8PM (Sun)'
   services:
     seamless: 'https://www.seamless.com/menu/toms-restaurant-782-washington-ave-brooklyn/297390'
   social:
@@ -1599,7 +1615,7 @@
 - name: Udom Thai
   last_updated: 12/25
   category: food-drink
-  hours: '11:15AM - 10PM'
+  classic_hours: '11:15AM - 10PM'
   notes: >-
     <a href="https://www.opendining.net/menu/4fd8ca07000d972008000172">Order
     online</a> for pickup and delivery
@@ -1612,7 +1628,7 @@
 - name: Underhill Greek Eatery
   last_updated: 12/25
   category: food-drink
-  hours: '2:30 - 9PM'
+  classic_hours: '2:30 - 9PM'
   phone: (718) 484-3744
   services:
     caviar: 'https://www.trycaviar.com/m/underhill-cafe-and-grill-10596'
@@ -1628,7 +1644,7 @@
 - name: Unnameable Books
   last_updated: 12/25
   category: store
-  hours: 11AM - 7PM (Sun - Fri), 11 - 9PM (Fri / Sat)
+  classic_hours: 11AM - 7PM (Sun - Fri), 11 - 9PM (Fri / Sat)
   links:
     - title: Online store
       url: 'https://unnameablebooks.square.site'
@@ -1643,7 +1659,7 @@
 - name: Van Leeuwen Ice Cream
   last_updated: 12/25
   category: dessert
-  hours: 12 - 10PM
+  classic_hours: 12 - 10PM
   links:
     - title: Gift cards
       url: 'https://squareup.com/gift/FR6ZMQGP6CJ1S/order?external_source=giveandgetlocal'
@@ -1662,7 +1678,7 @@
 - name: Vanderbilt Wine Merchants
   last_updated: 12/25
   category: wine-liquor
-  hours: 12 - 7PM
+  classic_hours: 12 - 7PM
   notes: >-
     Free neighborhood delivery within a one-mile radius
     Monday through Saturday (3pm cutoff for same day delivery).
@@ -1674,7 +1690,7 @@
 - name: Washington Ave. Cafe
   last_updated: 3/29
   category: cafe
-  hours: '5:30AM - 4:00PM'
+  classic_hours: '5:30AM - 4:00PM'
   notes: Open for pickup and delivery
   phone: (718) 230-3734
   services:
@@ -1683,7 +1699,7 @@
 - name: Weather Up
   last_updated: 12/25
   category: food-drink
-  hours: 4 - 10PM (Wed - Fri), 2 - 10PM (Sat / Sun)
+  classic_hours: 4 - 10PM (Wed - Fri), 2 - 10PM (Sat / Sun)
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/weather-up-staff-relief'    
@@ -1696,7 +1712,7 @@
   last_updated: 12/25
   category: food-drink
   notes: 'Closed for the holidays, reopening Jan. 6, 2021'
-  hours: '5 - 9PM (Wed / Thu), 5 - 10PM (Fri), 1 - 9PM (Sat - Sun)'
+  classic_hours: '5 - 9PM (Wed / Thu), 5 - 10PM (Fri), 1 - 9PM (Sat - Sun)'
   phone: (718) 552-2272
   services:
     toast: 'https://www.toasttab.com/white-tiger/v3'
@@ -1725,7 +1741,7 @@
     <a href="https://wineyneighbor.com/#&StoreFrontLocationHash=%23%2Fwidget%2F5a6f49faf4a6613ee3696dbb%2Fcontainers">Order
     online</a> for pickup and delivery
   phone: (347) 715-6693
-  hours: '1 - 8PM (Mon - Wed), 1 - 9PM (Thu / Fri), 11AM - 9PM (Sat), 12 - 9PM (Sun)'
+  classic_hours: '1 - 8PM (Mon - Wed), 1 - 9PM (Thu / Fri), 11AM - 9PM (Sat), 12 - 9PM (Sun)'
   social:
     facebook: 'https://www.facebook.com/wineyneighbor'
     instagram: 'https://www.instagram.com/wineyneighbor/'
@@ -1734,7 +1750,7 @@
 - name: Zaytoons
   last_updated: 12/25
   category: food-drink
-  hours: '11:30 AM - 10PM (Mon - Sat), 11:30AM - 9:30PM (Sun)'
+  classic_hours: '11:30 AM - 10PM (Mon - Sat), 11:30AM - 9:30PM (Sun)'
   notes: Open for pickup and delivery
   phone: (718) 230-3200
   links:
