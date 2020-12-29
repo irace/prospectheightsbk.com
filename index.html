@@ -4,11 +4,11 @@ layout: default
 ---
 
 {% assign places = site.data.places | sort: "name" %}
-{% assign closed_places = site.data.places | where: "status", "closed" %}
+{% assign categories = site.data.categories | sort: "display_name" %}
 
 <div class="flex flex-wrap center pv2 ph2 ph5-ns">
-  {% for category in site.data.categories %}
-    {% include category_section.html cat=category.name heading=category.category_heading %}
+  {% for category in categories %}
+    {% include category_section.html cat=category.name heading=category.heading %}
   {% endfor %}
 </div>
 
