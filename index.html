@@ -19,13 +19,13 @@ layout: default
 
 {% for category in categories %}
 <section id="{{ category.name }}" class="section">
-  {% assign cat_items = places | where: "category", category.name %}
+  {% assign category_places = places | where: "category", category.name %}
 
   <div class="section-heading">
     <h2 class="heading-2">{{ category.heading }}</h2>
     <a href="#top" class="back-to-top">↑</a>
   </div>
-  {% for place in cat_items %}
+  {% for place in category_places %}
     {% include place.html %}
   {% endfor %}
 
