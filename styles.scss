@@ -104,13 +104,17 @@ a {
 }
 
 .section {
-  @extend .pt3, .flex, .flex-wrap, .justify-between;
+  @extend .pt3, .flex, .flex-wrap, .justify-between, .relative;
 
-  .heading-2 {
+  .section-heading {
     @extend .w-100, .bg-white, .pv2, .mt2, .mb3, .bb, .b--black-10;
     position: sticky;
     top: 0;
     z-index: 1;
+    
+    .heading-2 {
+      @extend .ma0, .tracked-tightish;
+    }
   }
 
   &.directory {
@@ -118,6 +122,15 @@ a {
 
     .heading-2 {
       @extend .mt0;
+    }
+  }
+
+  .back-to-top {
+    @extend .db, .absolute, .top-1, .right-0, .f7, .navy, .br-pill, .pv2, .ph1, .no-underline, .bg-black-05;
+    transition: background-color 200ms ease-in-out;
+
+    &:hover {
+      @extend .bg-black-20;
     }
   }
 }
@@ -159,6 +172,10 @@ a {
     }
     &--hours {
       @extend .pa1, .f7, .fw7, .black-60;
+
+      &.closed {
+        @extend .fw4;
+      }
     }
   }
 
@@ -186,6 +203,10 @@ a {
 
 .bg-navy-12 {
   background-color: rgba(29,85,134,0.12);
+}
+
+.tracked-tightish {
+  letter-spacing: -0.036rem;
 }
 
 

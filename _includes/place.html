@@ -35,7 +35,7 @@
             <div class="hours-block--days">
               {{block.days}}
             </div>
-            <div class="hours-block--hours">
+            <div class="hours-block--hours {% if block.hours == 'Closed'%}closed{% endif %}">
               {{block.hours}}
             </div>
           </div>
