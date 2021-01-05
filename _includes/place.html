@@ -28,7 +28,7 @@
       {% if place.hours %}
         <div class="flex">
           {% for block in place.hours %}
-          <div class="hours-block {% if block.hours == 'Closed'%}closed{% endif %}" {% if block.span %}style="flex-grow: {{block.span}};"{% endif %}>
+          <div class="hours-block {% if block.hours == 'Closed'%}closed{% endif %}"{% if block.span %} style="flex-grow: {{block.span}};"{% endif %}>
             <div class="hours-block--days">
               {{block.days}}
             </div>
