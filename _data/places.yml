@@ -10,9 +10,10 @@
     - days: Mon - Sat
       hours: 4 - 10PM
       span: 6
-  classic_hours: '4 - 10PM (Mon - Sat), 2 - 10PM (Sun)'
+  supports:
+    - Pickup
   notes: >-
-    Open for pickup. Call or <a href="mailto:333bknyc@gmail.com">email</a> to place an order.
+    Call or <a href="mailto:333bknyc@gmail.com">email</a> to place an order for pickup. Also offering their lounge space for rental.
   social:
     instagram: 'https://www.instagram.com/333.lounge/'
     facebook: 'https://www.facebook.com/333loungenbk/'
@@ -21,12 +22,23 @@
 - name: Acme Pet Food Inc
   last_updated: 4/13
   category: store
-  classic_hours: '10AM - 7PM (Mon - Fri), 10AM - 5PM (Sat), 11AM - 5PM (Sun)'
-  notes: >-
-    “Limit exposure to our staff and yourself,
-    please wear a mask when visiting, wait outside if crowded.
-    No contact curbside and local home delivery available.”
+  address: 628 Vanderbilt Ave.
   phone: (718) 789-8062
+  hours:
+    - days: Sun
+      hours: 11AM - 5PM
+      span: 1
+    - days: Mon - Fri
+      hours: 10AM - 7PM
+      span: 5
+    - days: Sat
+      hours: 10AM - 5PM
+      span: 1
+  supports:
+    - Curbside Pickup
+    - Delivery
+  notes: >-
+    The neighborhood pet supply store, open for more than 35 years.
   social:
     instagram: 'https://www.instagram.com/acmepetfood/'
 
@@ -41,32 +53,50 @@
     - days: Fri - Sat
       hours: 11:30AM - 10PM
       span: 2
-  classic_hours: '11:30AM - 9:30PM (Sun - Thu), 11:30AM - 10PM (Fri / Sat)'
-  notes: 'A modern Mexican restaurant at the corner of Dean and Vanderbilt.'
+  notes: >-
+    A modern Mexican restaurant at the corner of Dean and Vanderbilt.
   supports:
-    - Outdoor Dining
+    - Outdoor Seating
     - Pickup
     - Delivery
   links:
-    - title: Staff relief fund
+    - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/alta-calidad-employee-relief-fund'
-    - title: Gift cards
+    - title: Gift Cards
       url: 'https://www.toasttab.com/alta-calidad/giftcards'
   services:
     seamless: >-
       https://www.seamless.com/menu/alta-calidad-552-vanderbilt-ave-brooklyn/460349
     toast: 'https://www.toasttab.com/alta-calidad/v3'
   social:
-    facebook: 'https://www.facebook.com/altacalidad'
     instagram: 'https://www.instagram.com/altacalidadbk/'
+    facebook: 'https://www.facebook.com/altacalidad'
   url: 'https://altacalidadbk.com'
 
 - name: Amorina Pizza
   last_updated: 12/25
   category: food-drink
-  classic_hours: '4 - 9PM (Sun, Wed / Thu), 4 - 10PM (Fri / Sat)'
-  notes: 'Open for outdoor dining, pickup and delivery.'
+  address: 624 Vanderbilt Ave.
   phone: (718) 230-3030
+  hours:
+    - days: Sun
+      hours: 4 - 9PM
+      span: 1
+    - days: Mon - Tue
+      hours: Closed
+      span: 2
+    - days: Wed - Thu
+      hours: 4 - 9PM
+      span: 2
+    - days: Fri - Sat
+      hours: 4 - 10PM
+      span: 2
+  notes: >-
+    Roman-style artisanal pizza and pasta in the heart of Prospect Heights.
+  supports:
+    - Outdoor Seating
+    - Pickup
+    - Delivery
   services:
     chownow: 'https://direct.chownow.com/order/21483/locations/31103'
     seamless: >-
@@ -78,19 +108,34 @@
 - name: Ample Hills
   last_updated: 12/25
   category: dessert
-  classic_hours: '1 - 9PM (Sun - Thu), 1 - 10PM (Fri / Sat)'
-  notes: 'Reopened as of July 23 under new ownership.'
+  address: 623 Vanderbilt Ave.
+  phone: (718) 483-8199
+  hours:
+    - days: Sun - Thu
+      hours: 1 - 9PM
+      span: 5
+    - days: Fri - Sat
+      hours: 1 - 10PM
+      span: 2
+  notes: >-
+    The original Prospect Heights scoop shop, under new ownership.
   social:
-    facebook: 'https://www.facebook.com/amplehills/'
     instagram: 'https://www.instagram.com/amplehills/'
-  url: 'https://www.amplehills.com'
+    facebook: 'https://www.facebook.com/amplehills/'
+  url: 'https://www.amplehills.com/location/prospect-heights'
 
 - name: Antonio’s Pizza
   last_updated: 3/30
   category: food-drink
-  classic_hours: 11AM - 9PM
-  notes: Open for pickup and delivery
+  address: 318 Flatbush Ave.
   phone: ‭(718) 398-2300‬
+  hours:
+    - days: Sun - Sat
+      hours: 11AM - 9PM
+      span: 7
+  supports:
+    - Pickup
+    - Delivery
   services:
     seamless: >-
       https://www.seamless.com/menu/antonios-pizzeria--restaurant-318-flatbush-ave-brooklyn/66813
@@ -102,29 +147,65 @@
 - name: Art Cafe & Bar
   last_updated: 12/25
   category: food-drink
-  classic_hours: 12PM - 12AM (Sun / Mon), 10AM - 1AM (Tue - Thu), 10AM - 2AM (Fri / Sat)
+  address: 884-886 Pacific St.
   phone: (718) 857-2522
-  notes: 'Outdoor seating is available.'
+  hours:
+    - days: Sun - Mon
+      hours: 12PM - 12AM
+      span: 2
+    - days: Tue - Thu
+      hours: 10AM - 1AM
+      span: 3
+    - days: Fri - Sat
+      hours: 10AM - 2AM
+      span: 2
+  supports:
+    - Outdoor Seating
   social:
-    facebook: 'https://www.facebook.com/pages/Art-Cafe/527841370624131'
     instagram: 'https://www.instagram.com/artcafebrooklyn/'
+    facebook: 'https://www.facebook.com/pages/Art-Cafe/527841370624131'
 
 - name: The Bakery on Bergen
   last_updated: 12/25
   category: cafe
-  classic_hours: 12 - 7PM (Tue - Sun)
-  notes: 'Outdoor seating is available.'
+  address: 740 Bergen St.
+  phone: (917) 519-6549
+  hours:
+    - days: Sun
+      hours: 12 - 7PM
+      span: 1
+    - days: Mon
+      hours: Closed
+      span: 1
+    - days: Tue - Sat
+      hours: 12 - 7PM
+      span: 5
+  supports:
+    - Outdoor Seating
   services:
     seamless: 'https://www.seamless.com/menu/the-bakery-on-bergen-740-bergen-st-brooklyn/921677'
   social:
-    facebook: 'https://www.facebook.com/The-BAKERY-on-bergen-320305438166950/'
     instagram: 'https://www.instagram.com/thebakeryonbergen/'
+    facebook: 'https://www.facebook.com/The-BAKERY-on-bergen-320305438166950/'
   url: 'https://www.bakeryonbergen.com/'
 
 - name: Banh Mi Place
-  category: food-drink
   last_updated: 12/25
-  notes: Open for pickup and delivery
+  category: food-drink
+  address: 824 Washington Ave.
+  phone: (718) 552-2660
+  hours:
+    - days: Sun
+      hours:  11:30AM - 9PM
+    - days: Mon - Thu
+      hours: 11:30AM - 9:30PM
+      span: 4
+    - days: Fri - Sat
+      hours: 11:30AM - 10PM
+      span: 2
+  supports:
+    - Pickup
+    - Delivery
   services:
     seamless: 'https://www.seamless.com/menu/banh-mi-place-824-washington-ave-brooklyn/310686'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/banh-mi-place/01MKo6J-RmCWJFzMsQzgXg'
@@ -133,10 +214,22 @@
   url: 'https://banhmiplacebklyn.com/'
 
 - name: Bar Goto Niban
-  category: food-drink
-  classic_hours: 5 - 10PM (Tue - Sat), 3 - 8:30PM (Sun)
   last_updated: 12/25
-  notes: 'Open for outdoor dining, pickup and delivery.'
+  category: food-drink
+  hours: 
+    - days: Sun
+      hours: 3 - 8:30PM
+      span: 1
+    - days: Mon
+      hours: Closed
+      span: 1
+    - days: Tue - Sat
+      hours: 5 - 10PM
+      span: 5
+  supports:
+    - Outdoor dining
+    - Pickup
+    - Delivery
   services:
     upserve: 'https://app.upserve.com/s/bar-goto-niban-brooklyn'
   social:
@@ -146,11 +239,26 @@
 - name: Bar Meridian
   last_updated: 12/25
   category: food-drink
-  classic_hours: 4 - 10PM (Thu), 2 - 10PM (Fri - Sun)
+  address: 406 Prospect Pl.
+  hours:
+    - days: Sun
+      hours: 2 - 10PM
+      span: 1
+    - days: Mon - Wed
+      hours: Closed
+      span: 3
+    - days: Thu
+      hours: 4 - 10PM
+      span: 1
+    - days: Fri - Sat
+      hours: 2 - 10PM
+      span: 2
   links:
-    - title: Gift cards
+    - title: Gift Cards
       url: 'https://www.toasttab.com/bar-meridian/giftcards'
-  notes: Outdoor seating is available. Also open for pickup
+  supports:
+    - Outdoor Dining
+    - Pickup
   services:
     resy: https://resy.com/cities/ny/bar-meridian
   social:
@@ -161,59 +269,106 @@
 - name: BCakeNY
   last_updated: 12/25
   category: dessert
-  classic_hours: 10AM - 6PM (Mon), 12 - 7PM (Tue - Fri), 10AM - 5PM (Sat / Sun)
-  notes: 'Outdoor seating is available.'
   phone: (347) 787-7199
+  notes: >-
+    Serving cake jars, cupcakes, and inventive custom cakes.
+  hours:
+    - days: Sun
+      hours: 10AM - 5PM
+    - days: Mon
+      hours: 10AM - 6PM
+    - days: Tue - Fri
+      hours: 12 - 7PM
+      span: 4
+    - days: Sat
+      hours: 10AM - 5PM
   social:
-    facebook: 'https://www.facebook.com/BCakeNY/'
     instagram: 'https://www.instagram.com/bcakeny/'
+    facebook: 'https://www.facebook.com/BCakeNY/'
   url: 'https://www.bcakeny.com/bcakenyshop/'
 
 - name: The Bearded Lady
   last_updated: 12/25
   category: food-drink
-  classic_hours: 2 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)
-  links:
-    - title: Staff relief fund
-      url: 'https://www.gofundme.com/f/bearded-lady-staff-support-fund'
-  notes: Open for outdoor dining and pickup.
+  address: 686A Washington Ave.
   phone: (718) 230-7600
+  hours:
+    - days: Sun
+      hours: 12 - 10PM
+    - days: Mon - Fri
+      hours: 2 - 10PM
+      span: 5
+    - days: Sat
+      hours: 12 - 10PM
+  notes: Open for outdoor dining and pickup.
+  links:
+    - title: Staff Relief Fund
+      url: 'https://www.gofundme.com/f/bearded-lady-staff-support-fund'
   social:
-    facebook: 'https://www.facebook.com/BeardedLadyBrooklyn/'
     instagram: 'https://www.instagram.com/bearded_lady_brooklyn/'
+    facebook: 'https://www.facebook.com/BeardedLadyBrooklyn/'
   url: 'http://www.beardedladybrooklyn.com'
 
 - name: Beer Street South
   last_updated: 12/25
   category: food-drink
-  classic_hours: 4 - 8PM (Mon - Fri), 2 - 8PM (Sat / Sun)
+  address: 550 Vanderbilt Ave.
+  hours:
+    - days: Sun
+      hours: 2 - 8PM
+    - days: Mon - Fri
+      hours: 4 - 8PM
+      span: 5
+    - days: Sat
+      hours: 2 - 8PM
+  supports:
+    - Outdoor Seating
+    - Pickup
+    - Online Orders
   links:
-    - title: Gift cards
+    - title: Gift Cards
       url: 'https://squareup.com/gift/C3K54BY60YNAP/order'
-  notes: 'Outdoor seating is available. Also open for pickup or <a href="https://beerstreetsouth550.com">online orders</a>'
+    - title: Online Orders
+      url: 'https://beerstreetsouth550.com'
   social:
-    facebook: 'http://www.facebook.com/beerstreetny'
     instagram: 'https://www.instagram.com/beerstreetsouth/'
+    facebook: 'http://www.facebook.com/beerstreetny'
     untappd: 'https://untappd.com/v/beer-street-south/9792005'
   url: 'https://beerstreetsouth550.com'
 
 - name: Beer Witch
   last_updated: 12/26
   category: food-drink
-  classic_hours: 2 - 8PM (Mon - Thu), 12 - 9PM (Fri), 10AM - 9PM (Sat), 10AM - 7PM (Sun)
-  notes: 'New craft beer store on Bergen St, just over the border in Park Slope.'
+  address: 460 Bergen St.
+  hours:
+    - days: Sun
+      hours: 10AM - 7PM
+    - days: Mon - Thu
+      hours: 2 - 8PM
+      span: 4
+    - days: Fri
+      hours: 12 - 9PM
+    - days: Sat
+      hours: 10AM - 9PM
+  notes: >-
+    New craft beer store just over the border in Park Slope.
   links:
-    - title: Order online
+    - title: Online Orders
       url: 'https://www.clover.com/online-ordering/beer-witch-brooklyn'
   url: https://www.beerwitchbrooklyn.com/
-  
 
 - name: Bergen Bagels
   last_updated: 12/25
   category: food-drink
-  classic_hours: 6AM - 10PM
-  notes: Open for pickup and delivery
+  address: 473 Bergen Ave.
   phones: (718) 789-7600
+  hours:
+    - days: Sun - Sat
+      hours: 6AM - 10PM
+      span: 7
+  supports:
+    - Pickup
+    - Delivery
   services:
     doordash: 'https://www.doordash.com/store/bergen-bagels-brooklyn-312992/en-US'
     seamless: 'https://www.seamless.com/menu/bergen-bagels-on-bergen-473-bergen-st-brooklyn/549250'
@@ -224,16 +379,27 @@
 - name: Bierwax
   last_updated: 12/25
   category: food-drink
-  classic_hours: '4 - 10PM (Mon - Fri), 12 - 10PM (Sat), 12 - 9PM (Sun)'
-  links:
-    - title: Order online
-      url: 'https://my-site-100819-102620.square.site'
-    - title: Staff relief fund
-      url: 'https://www.gofundme.com/f/covid19-relief-fund-for-bierwax-staff'
-    - title: Gift cards
-      url: 'https://squareup.com/gift/MY2KY2405T5NT/order'
-  notes: Outdoor seating is available. Also open for pickup and delivery.
+  address: 556 Vanderbilt Ave.
   phone: (347) 533-8449
+  hours: 
+    - days: Sun
+      hours: 12 - 9PM
+    - days: Mon - Fri
+      hours: 4 - 10PM
+      span: 5
+    - days: Sat
+      hours: 12 - 10PM
+  links:
+    - title: Online Orders
+      url: 'https://my-site-100819-102620.square.site'
+    - title: Staff Relief Fund
+      url: 'https://www.gofundme.com/f/covid19-relief-fund-for-bierwax-staff'
+    - title: Gift Cards
+      url: 'https://squareup.com/gift/MY2KY2405T5NT/order'
+  supports:
+    - Outdoor Seating
+    - Pickup
+    - Delivery
   social:
     instagram: 'https://www.instagram.com/bierwax/'
     facebook: 'https://www.facebook.com/BierWax/'
@@ -243,37 +409,61 @@
 - name: Bilt Bar
   last_updated: 12/25
   category: food-drink
-  classic_hours: '3 - 8PM (Fri - Sun)'
-  phone: '(347) 295-3579'
+  address: 583 Vanderbilt Ave.
+  phone: (347) 295-3579
+  hours: 
+    - days: Sun
+      hours: 3 - 8PM
+    - days: Mon - Thu
+      hours: Closed
+      span: 4
+    - days: Fri - Sat
+      hours: 3 - 8PM
+      span: 2
   links:
-    - title: Staff relief fund
+    - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/bilt-bar-bartenders-relief-fund'
-  notes: Outdoor seating is available. Also open for pickup food and drinks
+  supports:
+    - Outdoor Dining
+    - Pickup
   social:
-    facebook: 'https://www.facebook.com/pages/category/Lounge/Bilt-Bar-100153434688553/'
     instagram: 'https://www.instagram.com/biltbar/'
+    facebook: 'https://www.facebook.com/pages/category/Lounge/Bilt-Bar-100153434688553/'
 
 - name: BKLYN Clay
   last_updated: 12/25
   category: service
-  classic_hours: 9AM - 9PM
+  address: 535 Carlton Ave.
+  phone: (845) 481-3842
+  hours:
+    - days: Sun - Sat
+      hours: 9AM - 9PM
+      span: 7
   links:
-    - title: Staff relief fund
+    - title: Staff Relief Fund
       url: 'https://www.bklynclay.com/checkout/donate?donatePageId=5e795b6604497b59a692c207'
-    - title: Gift cards
+    - title: Gift Cards
       url: 'https://www.bklynclay.com/gift-certificates'
   notes: >-
     Open to members only. For questions, email <a href="mailto:info@bklynclay.com">info@bklynclay.com</a>
   social:
-    facebook: 'https://www.facebook.com/bklynclay'
     instagram: 'https://www.instagram.com/bklynclay/'
+    facebook: 'https://www.facebook.com/bklynclay'
   url: 'https://bklynclay.com'
 
 - name: BKLYN Cream
   last_updated: 12/26
   category: dessert
-  classic_hours: 2 - 9PM (Sun - Thu), 2 - 10PM (Fri / Sat)
-  notes: 'New scoop shop on Bergen in the former Snowdays space.'
+  address: 459 Bergen St.
+  hours:
+    - days: Sun - Thu
+      hours: 2 - 9PM
+      span: 5
+    - days: Fri - Sat
+      hours: 2 - 10PM
+      span: 2
+  notes: >-
+    New scoop shop with old-school charm in the former Snowdays space behind BKLYN Crepe.
   services:
     seamless: 'https://www.seamless.com/menu/bklyn-cream-459-bergen-st-brooklyn/2396984'
   social:
@@ -283,9 +473,15 @@
 - name: BKLYN Crepe & Juice
   last_updated: 12/25
   category: cafe
+  address: 214 Flatbush Ave.
   phone: (718) 638-1023
-  classic_hours: 8AM - 8PM
-  notes: Open for pickup and delivery
+  hours:
+    - days: Sun - Sat
+      hours: 8AM - 8PM
+      span: 7
+  supports:
+    - Pickup
+    - Delivery
   services:
     caviar: 'https://www.trycaviar.com/store/brooklyn-crepe---juice-brooklyn-32612/en-US'
     doordash: 'https://www.doordash.com/store/brooklyn-crepe-juice-brooklyn-32612/en-US'
@@ -293,81 +489,119 @@
     seamless: 'https://www.grubhub.com/restaurant/bklyn-crepe-214-flatbush-ave-brooklyn/310415'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/brooklyn-crepe-%26-juice-park-slope/7x5ubkWWQYiRliRSAiuF4Q'
   social:
-    facebook: 'https://www.facebook.com/bklyn.crepe'
     instagram: 'https://www.instagram.com/bklyncrepe/'
+    facebook: 'https://www.facebook.com/bklyn.crepe'
   url: 'http://brooklyncrepe.com'
 
 - name: BKLYN Larder
   last_updated: 12/25
   category: grocery
-  classic_hours: 10 - 6PM (Tue - Sun)
+  address: 228 Flatbush Ave.
+  phone: (718) 783-1250
+  hours:
+    - days: Sun
+      hours: 10 - 6PM
+    - days: Mon
+      hours: Closed
+    - days: Tue - Sat
+      hours: 10 - 6PM
   links:
-    - title: Order online
+    - title: Online Orders
       url: 'https://bklynlarder.revelup.com/weborder/?establishment=2#index'
-    - title: Gift cards
+    - title: Gift Cards
       url: 'https://www.bklynlarder.com/gift-cards/'
   notes: Open for pickup and delivery
-  phone: (718) 783-1250
   social:
-    facebook: 'https://www.facebook.com/BKLYN-LARDER-115860655123816/'
     instagram: 'https://www.instagram.com/bklynlarder/'
+    facebook: 'https://www.facebook.com/BKLYN-LARDER-115860655123816/'
   url: 'https://www.bklynlarder.com'
 
 
 - name: Black Iron Burger
   last_updated: 12/25
   category: food-drink
-  classic_hours: '2 - 9:30PM (Mon - Fri), 12 - 9:30PM (Sat), 12 - 9PM (Sun)'
-  links:
-    - title: Staff relief fund
-      url: 'https://www.gofundme.com/f/1xwz41clg0'
-    - title: Gift cards
-      url: 'https://www.blackironburger.com/gift-cards/'
-  notes: 'Open for outdoor dining, pickup and delivery.'
+  address: 234 Flatbush Ave.
   phone: (929) 419-6888
+  hours:
+    - days: Sun
+      hours: 12 - 9PM
+    - days: Mon - Fri
+      hours: 2 - 9:30PM
+      span: 5
+    - days: Sat
+      hours: 12 - 9:30PM
+  links:
+    - title: Staff Relief Fund
+      url: 'https://www.gofundme.com/f/1xwz41clg0'
+    - title: Gift Cards
+      url: 'https://www.blackironburger.com/gift-cards/'
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   services:
     seamless: 'https://www.seamless.com/menu/black-iron-burger-234-flatbush-ave-brooklyn/1452872'
   social:
-    facebook: 'https://www.facebook.com/Blackironburgernyc/'
     instagram: 'https://www.instagram.com/blackironburger'
+    facebook: 'https://www.facebook.com/Blackironburgernyc/'
   url: 'https://www.blackironburger.com/location/black-iron-burger-park-slope/'
 
 - name: Bleachers Sports Bar & Grill
   last_updated: 12/25
   category: food-drink
-  notes: 'Open for outdoor dining, pickup and delivery.'
+  address: 240 Flatbush Ave.
   phone: (718) 857-1111
+  supports:
+      - Outdoor Dining
+      - Pickup
+      - Delivery
   services:
     seamless: 'https://www.seamless.com/menu/bleachers-sports-bar-240-flatbush-ave-brooklyn/1119107'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/bleachers-sports-bar/rJs5gMYQSF-t_xv03XLxCA'
   social:
-    facebook: 'https://www.facebook.com/240bleachers/'
     instagram: 'https://www.instagram.com/240bleachers/'
+    facebook: 'https://www.facebook.com/240bleachers/'
 
 - name: Blue Marble
   last_updated: 12/25
   category: dessert
-  classic_hours: '8AM - 9PM (Mon - Thu), 9AM - 9PM (Fri - Sun)'
+  address: 186 Underhill Ave.
+  phone: (718) 399-6926
+  hours:
+    - days: Sun
+      hours: 9AM - 9PM
+    - days: Mon - Thu
+      hours: 8AM - 9PM
+      span: 4
+    - days: Fri - Sat
+      hours: 9AM - 9PM
+      span: 2
   notes: >-
     Coffee, pastries, pints, and cups available from the take-out window
     or for delivery via Postmates. “Our hours and offerings may vary, but we will post daily.”'
-  phone: (718) 399-6926
   services:
     goldbelly: 'https://www.goldbelly.com/blue-marble-organic-ice-cream'
     postmates: 'https://postmates.com/merchant/blue-marble-brooklyn'
   social:
-    facebook: 'https://www.facebook.com/bluemarbleicecream/'
     instagram: 'https://www.instagram.com/bluemarblebk/'
+    facebook: 'https://www.facebook.com/bluemarbleicecream/'
   url: 'https://www.bluemarbleicecream.com'
 
 - name: Born Thai
   last_updated: 12/25
   category: food-drink
-  classic_hours: '12:30 - 10PM'
-  notes: Open for outdoor dining, pickup and delivery.
+  address: 293 Flatbush Ave.
   phone: (347) 663-3674
+  hours:
+    - days: Sun - Sat
+      hours: 12:30 - 10PM
+      span: 7
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   links:
-    - title: Order online
+    - title: Online Orders
       url: 'https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=5e889b98-7f3f-467a-8eae-adc91eaa6008'
   services:
     doordash: 'https://www.doordash.com/store/born-thai-brooklyn-28507/en-US'
@@ -381,16 +615,27 @@
 - name: Branded Saloon
   last_updated: 12/25
   category: food-drink
-  classic_hours: '5 - 10PM (Mon - Fri), 12 - 10PM (Sat / Sun)'
+  address: 603 Vanderbilt Ave.
   phone: (718) 484-8704
+  hours:
+    - days: Sun
+      hours: 12 - 10PM
+    - days: Mon - Fri
+      hours: 5 - 10PM
+      span: 5
+    - days: Sat
+      hours: 12 - 10PM
   links:
-    - title: Order online
+    - title: Online Orders
       url: 'https://branded.revelup.com/weborder/?establishment=1'
     - title: Merchandise
       url: 'https://www.brandedsaloon.com/support-branded'
-    - title: Relief fund
+    - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/relief-fund-for-branded-saloon'
-  notes: Open for outdoor dining, pickup and delivery.
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   services:
     doordash: 'https://www.doordash.com/store/branded-cattle-saloon-inc-brooklyn-893199/1318299/en-US'
     seamless: 'https://www.seamless.com/menu/branded-saloon-603-vanderbilt-ave-brooklyn/298472'
@@ -401,23 +646,37 @@
 - name: Broccolino
   last_updated: 12/25
   category: food-drink
-  notes: 'Open for outdoor dining, pickup and delivery.'
+  address: 446A Dean St.
   phone: (718) 678-4200
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   services:
     chownow: 'https://direct.chownow.com/order/1935/locations/2543'
   social:
-    facebook: 'https://www.facebook.com/NYCbroccolino/'
     instagram: 'https://www.instagram.com/broccolinonyc/'
+    facebook: 'https://www.facebook.com/NYCbroccolino/'
   url: 'https://www.broccolinonyc.com'
 
 - name: Brooklyn High Low
   last_updated: 12/26
   category: cafe
-  classic_hours: 10AM - 3:30PM (Fri - Sun)
-  phone: (347) 295-3968 
-  notes: 'New afternoon tea spot on Vanderbilt Ave. DM or call for availability.'
-  link:
-    - title: Reserve through OpenTable
+  address: 611 Vanderbilt Ave.
+  phone: (347) 295-3968
+  hours:
+    - days: Sun
+      hours: 10AM - 3:30PM
+    - days: Mon - Thu
+      hours: Closed
+      span: 4
+    - days: Fri - Sat
+      hours: 10AM - 3:30PM
+      span: 2
+  notes: >-
+    New afternoon tea spot on Vanderbilt Ave. DM or call for availability.
+  links:
+    - title: OpenTable Reservations
       url: 'https://www.opentable.com/r/brooklyn-high-low-reservations-brooklyn'
   social:
     instagram: 'https://instagram.com/brooklynhighlow'
@@ -426,25 +685,34 @@
 - name: Brooklyn Metal Works
   last_updated: 12/25
   category: service
+  address: 640 Dean St.
+  phone: (347) 762-4757
   notes: >-
     An appointment is needed to use the space,
     email <a href="mailto:info@bkmetalworks.com">info@bkmetalworks.com</a> to book.
   social:
-    facebook: 'http://www.facebook.com/BrooklynMetalWorks'
     instagram: 'https://www.instagram.com/brooklynmetalworks/'
+    facebook: 'http://www.facebook.com/BrooklynMetalWorks'
   url: 'http://bkmetalworks.com'
 
 - name: Burrito Bar & Kitchen
   last_updated: 12/25
   category: food-drink
-  classic_hours: 4 - 9PM
-  notes: 'Open for outdoor dining, pickup and delivery.'
+  address: 307 Flatbush Ave.
   phone: (718) 230-8646
+  hours:
+    - days: Sun - Sat
+      hours: 4 - 9PM
+      span: 7
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   services:
     chownow: 'https://direct.chownow.com/order/7878/locations/10581'
   social:
-    facebook: 'https://www.facebook.com/BurritoBarBrooklyn'
     instagram: 'https://www.instagram.com/burritobarbk'
+    facebook: 'https://www.facebook.com/BurritoBarBrooklyn'
   url: 'https://www.burritobarbrooklyn.com'
 
 - name: Cataldo’s
