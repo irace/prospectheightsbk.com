@@ -168,7 +168,7 @@ a {
     border: 2px solid white;
 
     &.closed {
-      @extend .fw4, .bg-near-white;
+      @extend .fw4, .bg-white;
     }
 
     &--days {
