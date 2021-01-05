@@ -28,11 +28,11 @@
       {% if place.hours %}
         <div class="flex">
           {% for block in place.hours %}
-          <div class="hours-block" style="flex-grow: {{block.span}};">
+          <div class="hours-block {% if block.hours == 'Closed'%}closed{% endif %}" style="flex-grow: {{block.span}};">
             <div class="hours-block--days">
               {{block.days}}
             </div>
-            <div class="hours-block--hours {% if block.hours == 'Closed'%}closed{% endif %}">
+            <div class="hours-block--hours">
               {{block.hours}}
             </div>
           </div>
@@ -44,7 +44,7 @@
     </div>
     {% endif %}
 
-    {% if place.services %}
+    {% if place.services or place.supports %}
     <div class="place-section">
       <h4 class="heading-4">How to Support</h4>
       {% if place.supports %}
@@ -55,10 +55,12 @@
       </ul>
       {% endif %}
       
+      {% if place.services %}
       <h5 class="heading-5">Online Ordering</h5>
       {% for service in place.services %}
       <a href="{{service[1]}}"><img class="service-icon" src="icons/{{service[0]}}.png" alt="{{service[0]}}" /></a>
       {% endfor %}
+      {% endif %}
     </div>
     {% endif %}
 

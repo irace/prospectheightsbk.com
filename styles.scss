@@ -27,7 +27,7 @@ body {
 }
 
 .heading-5 {
-  @extend .f6, .fw7, .mid-gray, .mv2;
+  @extend .f6, .fw5, .mid-gray, .mv2;
 }
 
 .text {
@@ -145,14 +145,14 @@ a {
     @extend .flex, .justify-between;
   }
   .place-notes {
-    @extend .fw5;
+    @extend .fw5, .mt3, .mb2;
   }
 
   .place-section {
     @extend .mt1, .pt1, .mv2, .bt, .b--black-10;
 
     .heading-4 {
-      @extend .mv1;
+      @extend .mt0, .mb1;
     }
   }
 
@@ -161,21 +161,21 @@ a {
   }
 
   .hours-block {
-    @extend .mid-gray, .bg-navy-12, .pa1, .flex, .flex-column, .justify-center, .items-center, .tc;
+    @extend .mid-gray, .bg-navy-12, .pa1, .flex, .flex-column, .justify-center, .items-center, .tc, .fw7;
     // flex-shrink: 0;
     min-height: 2rem;
     margin: -2px;
     border: 2px solid white;
 
+    &.closed {
+      @extend .fw4, .bg-near-white;
+    }
+
     &--days {
-      @extend .f8, .ttu, .tracked, .black-40;
+      @extend .f8, .fw4, .ttu, .tracked, .black-40;
     }
     &--hours {
-      @extend .pa1, .f7, .fw7, .black-60;
-
-      &.closed {
-        @extend .fw4;
-      }
+      @extend .pa1, .f7, .black-60;
     }
   }
 
