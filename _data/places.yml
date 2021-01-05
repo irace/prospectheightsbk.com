@@ -505,6 +505,7 @@
       hours: Closed
     - days: Tue - Sat
       hours: 10 - 6PM
+      span: 5
   links:
     - title: Online Orders
       url: 'https://bklynlarder.revelup.com/weborder/?establishment=2#index'

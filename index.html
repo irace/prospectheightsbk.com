@@ -33,7 +33,10 @@ layout: default
 {% endfor %}
 
 <section id="directory" class="directory section">
-  <h2 class="heading-2">Full Directory</h2>
+  <div class="section-heading full-directory">
+    <h2 class="heading-2">Full Directory</h2>
+    <a href="#top" class="back-to-top">↑</a>
+  </div>
   {% for place in places %}
     {% include place_mini.html %}
   {% endfor %}

@@ -115,6 +115,10 @@ a {
     .heading-2 {
       @extend .ma0, .tracked-tightish;
     }
+    
+    &.full-directory {
+      @extend .mt0;
+    }
   }
 
   &.directory {
