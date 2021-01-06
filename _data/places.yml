@@ -927,8 +927,8 @@
     So if you love cinnamon rolls or pizza, you better try ours.
     Delivery in Brooklyn 🧡”
   social:
-    facebook: 'https://www.facebook.com/Dough-Studio-105988981103219'
     instagram: 'https://www.instagram.com/doughstudio_/'
+    facebook: 'https://www.facebook.com/Dough-Studio-105988981103219'
 
 - name: Doughnut Plant
   last_updated: 12/25
@@ -1773,8 +1773,8 @@
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/milk-bar-brunswick-team-relief-fund'
   social:
-    facebook: 'https://www.facebook.com/milkbarbrooklyn'
     instagram: 'https://www.instagram.com/milkbarbrooklyn/'
+    facebook: 'https://www.facebook.com/milkbarbrooklyn'
   services:
     chownow: 'https://direct.chownow.com/order/26291/locations/38938'
   url: 'https://www.milkbarbrooklyn.com'
@@ -2091,9 +2091,9 @@
   links:
     - title: Oxalis Pantry
       url: 'https://www.oxalispantry.com/'
-    - title: Staff relief fund
+    - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/oxalis-employee-relief-fund'
-    - title: Gift cards
+    - title: Gift Cards
       url: 'https://www.oxalisnyc.com/store/gift-cards/'
   services:
     seamless: 'https://www.seamless.com/menu/oxalis-pantry-791-washington-ave-brooklyn/2454842'
