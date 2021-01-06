@@ -218,6 +218,8 @@
 - name: Bar Goto Niban
   last_updated: 12/25
   category: food-drink
+  address: 474 Bergen St.
+  phone: (718) 629-8986
   hours: 
     - days: Mon
       hours: Closed
@@ -227,7 +229,7 @@
     - days: Sun
       hours: 3 - 8:30PM
   supports:
-    - Outdoor dining
+    - Outdoor Dining
     - Pickup
     - Delivery
   services:
@@ -740,8 +742,8 @@
     seamless: 'https://www.seamless.com/menu/charm-bar--restaurant-448-dean-st-brooklyn/2466647'
     doordash: 'https://www.doordash.com/store/charm-bar-restaurant-brooklyn-1368887/en-US'
   social:
-    facebook: 'https://www.facebook.com/charm.bar.37'
     instagram: 'https://www.instagram.com/charmbarbk/'
+    facebook: 'https://www.facebook.com/charm.bar.37'
   url: 'http://www.charmbarrestaurant.com/'
 
 - name: Cheryl’s Global Soul
@@ -758,8 +760,8 @@
     - Pickup
     - Delivery
   social:
-    facebook: 'https://www.facebook.com/CherylsGlobalSoul'
     instagram: 'https://www.instagram.com/cherylsglobalsoul/'
+    facebook: 'https://www.facebook.com/CherylsGlobalSoul'
   url: 'https://www.cherylsglobalsoul.com'
 
 - name: Chick-P
@@ -891,8 +893,8 @@
     - Outdoor Seating
     - Pickup
   social:
-    facebook: 'https://www.facebook.com/covenhovennyc'
     instagram: 'https://www.instagram.com/covenhovennyc/'
+    facebook: 'https://www.facebook.com/covenhovennyc'
     untappd: 'https://untappd.com/v/covenhoven/1406024'
   url: 'https://www.covenhovennyc.com'
 
@@ -1008,8 +1010,8 @@
     caviar: 'https://www.trycaviar.com/m/faun-17403'
     resy: 'https://resy.com/cities/ny/faun'
   social:
-    facebook: 'https://facebook.com/faunnyc'
     instagram: 'https://www.instagram.com/faun.nyc/'
+    facebook: 'https://facebook.com/faunnyc'
   url: 'https://faun.nyc'
 
 - name: Fausto
@@ -1317,8 +1319,8 @@
     chownow: 'https://direct.chownow.com/order/21833/locations/31667'
     caviar: 'https://www.trycaviar.com/m/james-19693'
   social:
-    facebook: 'https://www.facebook.com/jamesrestaurant'
     instagram: 'https://www.instagram.com/jamesbklyn/'
+    facebook: 'https://www.facebook.com/jamesrestaurant'
   url: 'http://www.jamesrestaurantny.com'
 
 - name: Joy Indian
@@ -1645,16 +1647,16 @@
   url: 'https://www.lowerlinebk.com'
 
 - name: Maison Yaki
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
-  classic_hours: '3 - 9PM (Wed - Fri), 1 - 9PM (Sat / Sun)'
+  address: 626 Vanderbilt Ave.
   phone: (718) 552-2609
+  # classic_hours: '3 - 9PM (Wed - Fri), 1 - 9PM (Sat / Sun)'
   links:
-    - title: Staff relief fund
+    - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund'
   notes: >-
-    Supersonic at Masion Yaki is the latest pop-up residency
-    featuring Chef Taylor Hester gourmet hot dogs.
+    Temporarily closed, planning to reopen after completing the Black Entrepreneur Series.
   services:
     resy: 'https://resy.com/cities/ny/maison-yaki'
   social:
@@ -1664,9 +1666,16 @@
 - name: Maya Taqueria
   last_updated: 12/25
   category: food-drink
-  classic_hours: 11AM - 10PM
-  notes: 'Open for outdoor dining, pickup and delivery.'
+  address: 637 Vanderbilt Ave.
   phone: (718) 638-6292
+  hours:
+    - days: Mon - Sun
+      hours: 11AM - 10PM
+      span: 7
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   services:
     chownow: 'https://direct.chownow.com/order/7470/locations/10000'
     seamless: 'https://www.seamless.com/menu/maya-taqueria-prospect-heights-637-vanderbilt-ave-brooklyn/80416'
@@ -1677,9 +1686,20 @@
 - name: Mei Chi Liquors
   last_updated: 12/25
   category: wine-liquor
-  classic_hours: '10:30AM - 8PM (Sun - Thu), 10:30AM - 9PM (Fri / Sat)'
-  notes: Open for pickup and delivery
+  address: 391 Flatbush Ave.
   phone: (718) 622-1403
+  hours: 
+    - days: Mon - Thu
+      hours: 10:30AM - 8PM
+      span: 4
+    - days: Fri - Sat
+      hours: 10:30AM - 9PM
+      span: 2
+    - days: Sun
+      hours: 10:30AM - 8PM
+  supports:
+    - Pickup
+    - Delivery
   social:
     instagram: 'https://www.instagram.com/mei_chi_liquor/'
   url: 'https://www.brooklyncellars.com'
@@ -1687,8 +1707,15 @@
 - name: Mermaid’s Garden
   last_updated: 12/25
   category: grocery
-  classic_hours: '12 - 7PM (Mon - Fri), 11AM - 6PM (Sat / Sun)'
+  address: 644 Vanderbilt Ave.
   phone: (718) 638-1910
+  hours: 
+    - days: Mon - Fri
+      hours: 12 - 7PM
+      span: 5
+    - days: Sat - Sun
+      hours: 11AM - 6PM
+      span: 2
   notes: >-
     Pickup or delivery available via
     <a href="https://www.mercato.com/shop/mermaids-garden">Mercato</a>.
@@ -1699,11 +1726,22 @@
 - name: Mexicocina Agaveria
   last_updated: 12/25
   category: food-drink
-  classic_hours: 12 - 10PM (Tue - Sat), 12 - 9PM (Sun / Mon)
+  address: 708 Washington Ave.
   phone: (347) 663-2951
-  notes: 'Open for outdoor dining, pickup and delivery.'
+  hours:
+    - days: Mon
+      hours: 12 - 9PM
+    - days: Tue - Sat
+      hours: 12 - 10PM
+      span: 5
+    - days: Sun
+      hours: 12 - 9PM
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   links:
-    - title: Order online
+    - title: Online Orders
       url: 'https://mexicocina-brooklyn.foodieordersecure.com/'
   services:
     caviar: 'https://www.trycaviar.com/m/mexicocina-agaveria-12562'
@@ -1717,12 +1755,22 @@
 - name: Milk Bar
   last_updated: 12/25
   category: cafe
-  classic_hours: 8AM - 2PM (Mon - Fri), 8AM - 4PM (Sat / Sun)
-  notes: Open for outdoor dining and pickup.
+  address: 620 Vanderbilt Ave.
+  phone: (718) 230-0844
+  hours: 
+    - days: Mon - Fri
+      hours: 8AM - 2PM
+      span: 5
+    - days: Sat - Sun
+      hours: 8AM - 4PM
+      span: 2
+  supports:
+    - Outdoor Dining
+    - Pickup
   links:
-    - title: Gift cards
+    - title: Gift Cards
       url: 'https://www.milkbarbrooklyn.com/gift-certificates'
-    - title: Staff relief fund
+    - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/milk-bar-brunswick-team-relief-fund'
   social:
     facebook: 'https://www.facebook.com/milkbarbrooklyn'
@@ -1734,13 +1782,19 @@
 - name: Mille-Feuille
   last_updated: 12/25
   category: cafe
-  classic_hours: 8AM - 5PM
+  address: 622 Vanderbilt Ave.
   phone: (347) 350-8838
-  notes: 'Open for pickup and delivery'
+  hours:
+    - days: Mon - Sun
+      hours: 8AM - 5PM
+      span: 7
+  supports:
+    - Pickup
+    - Delivery
   links:
-    - title: Order online
+    - title: Online Orders
       url: 'https://millefeuillebakery.square.site/'
-    - title: Gift cards
+    - title: Gift Cards
       url: 'https://squareup.com/gift/CBFYDTWZK7GYQ/order'
   social:
     instagram: 'https://www.instagram.com/millefeuillenyc/'
@@ -1749,20 +1803,30 @@
 - name: Mitchell’s Soul Food
   last_updated: 12/25
   category: food-drink
-  notes: 'Open for pickup'
+  address: 617 Vanderbilt Ave.
   phone: (718) 789-3212
+  supports:
+    - Pickup
 
 - name: Mokbar
   last_updated: 12/25
   category: food-drink
-  classic_hours: 12 - 9PM (Wed - Sun)
+  address: 212 Flatbush Ave.
   phone: (347) 987-3042
-  notes: >-
-    Open for pickup and delivery
+  hours:
+    - days: Mon - Tue
+      hours: Closed
+      span: 2
+    - days: Wed - Sun
+      hours: 12 - 9PM
+      span: 5
+  supports:
+    - Pickup
+    - Delivery
   links:
-    - title: Order online
+    - title: Online Orders
       url: 'https://www.makeitbutter.com/mokbar/mokbar-ii'
-    - title: Staff relief fund
+    - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/feed-our-warriors'
   services:
     caviar: 'https://www.trycaviar.com/m/mokbar-brooklyn-5085'
@@ -1775,32 +1839,46 @@
 - name: Morgan’s BBQ
   last_updated: 12/25
   category: food-drink
-  classic_hours: '12 - 10PM (Delivery until 11PM)'
+  address: 267 Flatbush Ave.
+  phone: (718) 622-2224
+  hours:
+    - days: Mon - Sun
+      hours: 12 - 10PM (Delivery until 11PM)
+      span: 7
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   links:
-    - title: Gift cards
+    - title: Gift Cards
       url: 'https://www.morgansbrooklynbarbecue.com/store/gift-cards/'
     - title: Merchandise
       url: 'https://www.morgansbrooklynbarbecue.com/store/'
-  notes: 'Open for outdoor dining, pickup and delivery.'
-  phone: (718) 622-2224
   services:
     caviar: 'https://www.trycaviar.com/m/morgans-brooklyn-barbecue-11362'
     doordash: 'https://www.doordash.com/store/morgan-s-barbecue-brooklyn-22100/en-US'
     seamless: 'https://www.seamless.com/menu/morgans-brooklyn-barbecue-267-flatbush-ave-brooklyn/317192'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/morgans-barbeque-prospect-heights/gzrcH1RcQju4pNh82lG1vg'
   social:
-    facebook: 'https://www.facebook.com/morgansbrooklynbbq/'
     instagram: 'https://www.instagram.com/morgansbrooklynbbq/'
+    facebook: 'https://www.facebook.com/morgansbrooklynbbq/'
   url: 'https://www.morgansbrooklynbarbecue.com'
 
 - name: Mumbai Place
   last_updated: 12/25
   category: food-drink
-  classic_hours: '12 - 10PM'
-  notes: 'Open for outdoor dining, pickup and delivery.'
+  address: 655 Vanderbilt Ave.
   phone: (718) 398-7776
+  hours:
+    - days: Mon - Sun
+      hours: 12 - 10PM
+      span: 7
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   links:
-    - title: Order online
+    - title: Online Orders
       url: 'https://www.mumbaiplaceny.com/order'
   services:
     seamless: 'https://www.grubhub.com/restaurant/mumbai-place-655-vanderbilt-ave-brooklyn/334916'
@@ -1809,50 +1887,78 @@
 - name: Muse
   last_updated: 12/25
   category: food-drink
-  classic_hours: '4 - 10PM (Wed - Mon)'
+  address: 689 Washington Ave.
   phone: (347) 442-0443
+  hours:
+    - days: Mon
+      hours: 4 - 10PM
+    - days: Tue
+      hours: Closed
+    - days: Wed - Sun
+      hours: 4 - 10PM
+      span: 5
   links:
-    - title: Order online
+    - title: Online Orders
       url: 'https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=62edb62e-e0ac-4440-986d-1ac991199229'
   social:
-    facebook: 'https://www.facebook.com/musebklyn'
     instagram: 'https://www.instagram.com/musethai/'
+    facebook: 'https://www.facebook.com/musebklyn'
   url: 'https://musebklyn.com'
 
 - name: Nacho Macho Taco
   last_updated: 12/25
   category: food-drink
-  classic_hours: 11AM - 10PM
-  notes: Open for pickup and delivery
+  address: 417 Prospect Pl.
   phone: (718) 622-2727
+  hours:
+    - days: Mon - Sun
+      hours: 11AM - 10PM
+      span: 7
+  supports:
+    - Pickup
+    - Delivery
   services:
     seamless: 'https://www.seamless.com/menu/nacho-macho-taco-prospect-pl-417-prospect-pl-brooklyn/302901'
   social:
-    facebook: 'https://www.facebook.com/NachoMachoTacoBK/'
     instagram: 'https://www.instagram.com/nachomachotacobk/'
+    facebook: 'https://www.facebook.com/NachoMachoTacoBK/'
   url: 'http://www.nachomachotaco.net'
 
 - name: Nourish Thai
   last_updated: 12/25
   category: food-drink
-  classic_hours: '12 - 10:00PM'
-  notes: 'Open for outdoor dining, pickup and delivery.'
+  address: 637A Vanderbilt Ave.
   phone: (718) 789-3981
+  hours:
+    - days: Mon - Sun
+      hours: 12 - 10PM
+      span: 7
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   services:
     chownow: 'https://eat.chownow.com/discover/restaurant/11724'
     caviar: 'https://www.trycaviar.com/m/nourish-thai-12825'
     seamless: 'https://www.seamless.com/menu/nourish-637a-vanderbilt-ave-brooklyn/429623'
   social:
-    facebook: 'https://www.facebook.com/283358058777333'
     instagram: 'https://www.instagram.com/nourishthai/'
+    facebook: 'https://www.facebook.com/283358058777333'
   url: 'https://www.nourishthai.com'
 
 - name: Nûrish
   last_updated: 12/25
   category: food-drink
-  classic_hours: 7AM - 8PM (Mon - Sat) 7AM - 6PM (Sun)
-  notes: Open for pickup and delivery
+  address: 637 Washington Ave.
   phone: (718) 484-1122
+  hours:
+    - days: Mon - Sat
+      hours: 7AM - 8PM
+    - days: Sun
+      hours: 7AM - 6PM
+  supports:
+    - Pickup
+    - Delivery
   services:
     seamless: 'https://www.seamless.com/menu/nurish-637-washington-ave-brooklyn/1540554'
   social:
@@ -1862,7 +1968,14 @@
 - name: Ode to Babel
   last_updated: 12/25
   category: food-drink
-  classic_hours: 4 - 10PM (Thu - Sun)
+  address: 772 Dean St.
+  hours: 
+    - days: Mon - Wed
+      hours: Closed
+      span: 3
+    - days: Thu - Sun
+      hours: 4 - 10PM
+      span: 4
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/ode-to-babel-team'
@@ -1876,12 +1989,19 @@
 - name: Ogliastro Pizza Bar
   last_updated: 12/25
   category: food-drink
-  classic_hours: 5 - 10PM
+  address: 784 Washington Ave.
   phone: (718) 789-3700
+  hours:
+    - days: Mon - Sun
+      hours: 5 - 10PM
+      span: 7
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   links:
-    - title: Staff relief fund
+    - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/please-help-the-ogliostro-staff'
-  notes: 'Open for outdoor dining, pickup and delivery.'
   services:
     seamless: 'https://www.seamless.com/menu/ogliastro-pizza-bar-784-washington-ave-brooklyn/322585'
     slice: 'https://slicelife.com/restaurants/ny/brooklyn/11238/ogliastro-pizza-bar/menu'
@@ -1892,49 +2012,66 @@
 - name: Olde Brooklyn Bagel Shoppe
   last_updated: 12/25
   category: cafe
-  classic_hours: 8AM - 6PM (Delivery 7:30AM - 4PM)
-  notes: 'Open for outdoor dining, pickup and delivery'
+  address: 645 Vanderbilt Ave.
   phone: (718) 622-6227
+  hours:
+    - days: Mon - Sun
+      hours: 8AM - 6PM (Delivery 7:30AM - 4PM)
+      span: 7
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   services:
     seamless: 'https://www.seamless.com/menu/olde-brooklyn-bagel-shoppe-645-vanderbilt-ave-brooklyn/263151'
   social:
-    facebook: 'https://www.facebook.com/pages/category/Bagel-Shop/Olde-Brooklyn-Bagel-Shoppe-142360249170445/'
     instagram: 'https://www.instagram.com/oldebkbagels/'
+    facebook: 'https://www.facebook.com/pages/category/Bagel-Shop/Olde-Brooklyn-Bagel-Shoppe-142360249170445/'
   url: 'http://www.oldebrooklynbagelshop.com'
 
 - name: Olmsted
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
-  classic_hours: 5 - 10PM (Wed - Sun), 12 -3PM (Sat / Sun lunch)
-  links:
-    - title: Order online
-      url: 'https://bbot.menu/olmsteddeliveryorpickup/'
-    - title: Staff relief fund
-      url: 'https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund'
-    - title: Gift cards
-      url: 'https://ecommerce.custcon.com/Purchase/Select?c=3e6823e0-52c7-4c1b-af3d-1bb13862c508'
+  address: 659 Vanderbilt Ave.
+  phone: (718) 552-2610
+  # classic_hours: 5 - 10PM (Wed - Sun), 12 -3PM (Sat / Sun lunch)
   notes: >-
-    Open for outdoor dining. Olmsted Trading Post hours
-    4:30 - 10PM (Wed - Fri), 12 - 10PM (Sat), 12 - 9PM (Sun).
+    Temporarily closed until Jan. 13, 2021.
+  links:
+    - title: Online Orders
+      url: 'https://bbot.menu/olmsteddeliveryorpickup/'
+    - title: Staff Relief Fund
+      url: 'https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund'
+    - title: Gift Cards
+      url: 'https://ecommerce.custcon.com/Purchase/Select?c=3e6823e0-52c7-4c1b-af3d-1bb13862c508'
   services:
     seamless: 'https://www.seamless.com/menu/olmsted-659-vanderbilt-ave-brooklyn/2365207'
     resy: 'https://resy.com/cities/ny/olmsted'
   social:
-    facebook: 'https://www.facebook.com/olmstedNYC/'
     instagram: 'https://www.instagram.com/olmstednyc/'
+    facebook: 'https://www.facebook.com/olmstedNYC/'
   url: 'http://olmstednyc.com/'
 
 - name: Ovenly
   last_updated: 12/25
   category: cafe
-  classic_hours: '7:30AM - 6PM (Mon - Fri), 8AM - 6PM (Sat / Sun)'
-  notes: Outdoor seating is available. Also open for pickup.
+  address: 210 Flatbush Ave.
+  hours:
+    - days: Mon - Fri
+      hours: 7:30AM - 6PM
+      span: 5
+    - days: Sat - Sun
+      hours: 8AM - 6PM
+      span: 2
+  supports:
+    - Outdoor Seating
+    - Pickup
   links:
-    - title: Order online
+    - title: Online Orders
       url: 'https://store.oven.ly/'
-    - title: Staff relief fund
+    - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/ovenly-employee-fund'
-    - title: Gift cards
+    - title: Gift Cards
       url: 'https://squareup.com/gift/8BW3A1HN5907S/order'
   services:
     caviar: 'https://www.trycaviar.com/m/ovenly--park-slope-7325'
@@ -1944,10 +2081,13 @@
   url: 'https://www.oven.ly'
 
 - name: Oxalis
-  last_updated: 12/27
+  last_updated: 1/6
   category: food-drink
+  address: 791 Washington Ave.
   phone: (347) 627-8298
-  classic_hours: '4 - 9PM (Fri), 12 - 9PM (Sat / Sun)'
+  # classic_hours: '4 - 9PM (Fri), 12 - 9PM (Sat / Sun)'
+  notes: >-
+    Temporarily closed.
   links:
     - title: Oxalis Pantry
       url: 'https://www.oxalispantry.com/'
@@ -1955,10 +2095,6 @@
       url: 'https://www.gofundme.com/f/oxalis-employee-relief-fund'
     - title: Gift cards
       url: 'https://www.oxalisnyc.com/store/gift-cards/'
-  notes: >-
-    Winter Market with hot food, sherry and natural wine.
-    Breakfast burritos available 10am until sold out Thu - Sun.
-    Compost drop off Sunday mornings from 10am until full. (Go early!)
   services:
     seamless: 'https://www.seamless.com/menu/oxalis-pantry-791-washington-ave-brooklyn/2454842'
     caviar: 'https://www.trycaviar.com/store/OxalisPantry-524932/en-US'
