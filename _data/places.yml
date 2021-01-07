@@ -1071,7 +1071,7 @@
   phone: (347) 350-5110
   hours:
     - days: Mon - Fri
-      horus: 8AM - 7PM
+      hours: 8AM - 7PM
       span: 5
     - days: Sat - Sun
       hours: 9AM - 7PM
@@ -1656,7 +1656,7 @@
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund'
   notes: >-
-    Temporarily closed, planning to reopen after completing the Black Entrepreneur Series.
+    Temporarily closed.
   services:
     resy: 'https://resy.com/cities/ny/maison-yaki'
   social:
@@ -2231,23 +2231,27 @@
   last_updated: 12/25
   category: grocery
   address: 665 Vanderbilt Ave.
-  phone: 347-763-9500
+  phone: (347) 763-9500
+  hours:
+    - days: Mon - Sun
+      hours: 11AM - 5PM
+      span: 7 
   notes: >-
     Newly opened local butcher in the former Daly Pie space.
   links:
-    - title: Gift cards
+    - title: Gift Cards
       url: 'https://pl.mxmerchant.com/mxcustomer/d/6c2e1749-d662-4075-9b27-cf0175a6592f/v3'
   url: 'https://prospectbutcher.co/'
 
 - name: R&D Foods
   last_updated: 12/25
-  category: food-drink
+  category: grocery
   address: 602 Vanderbilt Ave.
   phone: (347) 915-1196
   hours:
-    days: Mon - Sun
-    hours: 8AM - 7PM
-    span: 7
+    - days: Mon - Sun
+      hours: 8AM - 7PM
+      span: 7
   links:
     - title: Gift Cards
       url: 'https://www.rdfoodsbklyn.com/gifts'
@@ -2291,11 +2295,11 @@
       span: 7
   notes: 
   links:
-    - title: Order online from Companion Cafe
+    - title: 'Online Orders: Companion&nbsp;Cafe'
       url: 'https://www.companioncafeordering.com/'
-    - title: Order online from Shaka Shaka Tiki
+    - title: 'Online Orders: Shaka&nbsp;Shaka&nbsp;Tiki'
       url: 'https://shakashakatiki.square.site/'
-    - title: Gift cards
+    - title: Gift Cards
       url: 'https://squareup.com/gift/ED4WJ2F6HECQZ/order'
   social:
     instagram: 'https://www.instagram.com/shakashakatiki/'
@@ -2367,6 +2371,7 @@
       hours: Closed
     - days: Tue - Sun
       hours: 5:30 - 9PM
+      span: 6
   supports:
     - Outdoor Dining
     - Pickup
@@ -2535,6 +2540,7 @@
   hours:
     - days: Mon - Sun
       hours: 11:15AM - 10PM
+      span: 7
   notes: >-
     <a href="https://www.opendining.net/menu/4fd8ca07000d972008000172">Order
     online</a> for pickup and delivery
@@ -2621,6 +2627,7 @@
   hours:
     - days: Mon - Sun
       hours: 12 - 7PM
+      span: 7
   notes: >-
     Free neighborhood delivery within a one-mile radius
     Monday through Saturday (3pm cutoff for same day delivery).
@@ -2637,6 +2644,7 @@
   hours:
     - days: Mon - Sun
       hours: 5:30AM - 4:00PM
+      span: 7
   supports:
     - Pickup
     - Delivery
