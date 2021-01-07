@@ -1,5 +1,5 @@
 - name: 333 Lounge
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 333 Flatbush Ave.
   phone: (718) 399-8008
@@ -19,7 +19,7 @@
   url: 'https://www.333lounge.com'
 
 - name: Acme Pet Food Inc
-  last_updated: 4/13
+  last_updated: 1/6
   category: store
   address: 628 Vanderbilt Ave.
   phone: (718) 789-8062
@@ -40,7 +40,7 @@
     instagram: 'https://www.instagram.com/acmepetfood/'
 
 - name: Alta Calidad
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 552 Vanderbilt Ave.
   hours:
@@ -73,7 +73,7 @@
   url: 'https://altacalidadbk.com'
 
 - name: Amorina Pizza
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 624 Vanderbilt Ave.
   phone: (718) 230-3030
@@ -104,7 +104,7 @@
   url: 'http://www.amorinapizza.com/'
 
 - name: Ample Hills
-  last_updated: 12/25
+  last_updated: 1/6
   category: dessert
   address: 623 Vanderbilt Ave.
   phone: (718) 483-8199
@@ -145,7 +145,7 @@
   url: 'https://www.antoniosbrooklyn.com'
 
 - name: Art Cafe & Bar
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 884-886 Pacific St.
   phone: (718) 857-2522
@@ -172,7 +172,7 @@
     facebook: 'https://www.facebook.com/pages/Art-Cafe/527841370624131'
 
 - name: The Bakery on Bergen
-  last_updated: 12/25
+  last_updated: 1/6
   category: cafe
   address: 740 Bergen St.
   phone: (917) 519-6549
@@ -192,7 +192,7 @@
   url: 'https://www.bakeryonbergen.com/'
 
 - name: Banh Mi Place
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 824 Washington Ave.
   phone: (718) 552-2660
@@ -216,7 +216,7 @@
   url: 'https://banhmiplacebklyn.com/'
 
 - name: Bar Goto Niban
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 474 Bergen St.
   phone: (718) 629-8986
@@ -239,7 +239,7 @@
   url: 'https://www.bargoto.com/location/bar-goto-niban/'
 
 - name: Bar Meridian
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 406 Prospect Pl.
   hours:
@@ -265,7 +265,7 @@
   url: 'https://www.barmeridian.com'
 
 - name: BCakeNY
-  last_updated: 12/25
+  last_updated: 1/6
   category: dessert
   phone: (347) 787-7199
   notes: >-
@@ -285,7 +285,7 @@
   url: 'https://www.bcakeny.com/bcakenyshop/'
 
 - name: The Bearded Lady
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 686A Washington Ave.
   phone: (718) 230-7600
@@ -306,7 +306,7 @@
   url: 'http://www.beardedladybrooklyn.com'
 
 - name: Beer Street South
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 550 Vanderbilt Ave.
   hours:
@@ -332,7 +332,7 @@
   url: 'https://beerstreetsouth550.com'
 
 - name: Beer Witch
-  last_updated: 12/26
+  last_updated: 1/6
   category: food-drink
   address: 460 Bergen St.
   hours:
@@ -353,7 +353,7 @@
   url: https://www.beerwitchbrooklyn.com/
 
 - name: Bergen Bagels
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 473 Bergen Ave.
   phones: (718) 789-7600
@@ -372,7 +372,7 @@
   url: 'http://www.bergenbagels.com/'
 
 - name: Bierwax
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 556 Vanderbilt Ave.
   phone: (347) 533-8449
@@ -402,7 +402,7 @@
   url: 'https://www.bierwaxnyc.com'
 
 - name: Bilt Bar
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 583 Vanderbilt Ave.
   phone: (347) 295-3579
@@ -424,7 +424,7 @@
     facebook: 'https://www.facebook.com/pages/category/Lounge/Bilt-Bar-100153434688553/'
 
 - name: BKLYN Clay
-  last_updated: 12/25
+  last_updated: 1/6
   category: service
   address: 535 Carlton Ave.
   phone: (845) 481-3842
@@ -445,7 +445,7 @@
   url: 'https://bklynclay.com'
 
 - name: BKLYN Cream
-  last_updated: 12/26
+  last_updated: 1/6
   category: dessert
   address: 459 Bergen St.
   hours:
@@ -466,7 +466,7 @@
   url: 'https://www.bklyncream.com/'
 
 - name: BKLYN Crepe & Juice
-  last_updated: 12/25
+  last_updated: 1/6
   category: cafe
   address: 214 Flatbush Ave.
   phone: (718) 638-1023
@@ -489,7 +489,7 @@
   url: 'http://brooklyncrepe.com'
 
 - name: BKLYN Larder
-  last_updated: 12/25
+  last_updated: 1/6
   category: grocery
   address: 228 Flatbush Ave.
   phone: (718) 783-1250
@@ -512,7 +512,7 @@
 
 
 - name: Black Iron Burger
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 234 Flatbush Ave.
   phone: (929) 419-6888
@@ -541,7 +541,7 @@
   url: 'https://www.blackironburger.com/location/black-iron-burger-park-slope/'
 
 - name: Bleachers Sports Bar & Grill
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 240 Flatbush Ave.
   phone: (718) 857-1111
@@ -557,7 +557,7 @@
     facebook: 'https://www.facebook.com/240bleachers/'
 
 - name: Blue Marble
-  last_updated: 12/25
+  last_updated: 1/6
   category: dessert
   address: 186 Underhill Ave.
   phone: (718) 399-6926
@@ -580,7 +580,7 @@
   url: 'https://www.bluemarbleicecream.com'
 
 - name: Born Thai
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 293 Flatbush Ave.
   phone: (347) 663-3674
@@ -605,7 +605,7 @@
   url: 'https://www.bornbklyn.com/'
 
 - name: Branded Saloon
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 603 Vanderbilt Ave.
   phone: (718) 484-8704
@@ -635,7 +635,7 @@
   url: 'https://www.brandedsaloon.com'
 
 - name: Broccolino
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 446A Dean St.
   phone: (718) 678-4200
@@ -651,7 +651,7 @@
   url: 'https://www.broccolinonyc.com'
 
 - name: Brooklyn High Low
-  last_updated: 12/26
+  last_updated: 1/6
   category: cafe
   address: 611 Vanderbilt Ave.
   phone: (347) 295-3968
@@ -672,7 +672,7 @@
   url: 'https://www.brooklynhighlow.com/'
 
 - name: Brooklyn Metal Works
-  last_updated: 12/25
+  last_updated: 1/6
   category: service
   address: 640 Dean St.
   phone: (347) 762-4757
@@ -685,7 +685,7 @@
   url: 'http://bkmetalworks.com'
 
 - name: Burrito Bar & Kitchen
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 307 Flatbush Ave.
   phone: (718) 230-8646
@@ -705,7 +705,7 @@
   url: 'https://www.burritobarbrooklyn.com'
 
 - name: Cataldo’s
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 554 Vanderbilt Ave.
   phone: (718) 857-6700
@@ -723,7 +723,7 @@
   url: 'http://www.cataldos54.com'
 
 - name: Charm Bar
-  last_updated: 12/26
+  last_updated: 1/6
   category: food-drink
   address: 448 Dean St.
   phone: (347) 799-2345
@@ -747,7 +747,7 @@
   url: 'http://www.charmbarrestaurant.com/'
 
 - name: Cheryl’s Global Soul
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 236 Underhill Ave.
   phone: (347) 529-2855
@@ -765,7 +765,7 @@
   url: 'https://www.cherylsglobalsoul.com'
 
 - name: Chick-P
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 490 Bergen St.
   phone: (718) 783-1525
@@ -787,7 +787,7 @@
   url: 'https://www.chick-p.com'
 
 - name: Chuko
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 565 Vanderbilt Ave.
   phone: (347) 425-9570
@@ -814,7 +814,7 @@
   url: 'http://www.chukobk.com'
 
 - name: 'Ciao, Gloria'
-  last_updated: 12/25
+  last_updated: 1/6
   category: cafe
   address: 550 Vanderbilt Ave.
   phone: (716) 666-2426
@@ -853,7 +853,7 @@
     instagram: 'https://www.instagram.com/cinnamon_girl_bk/'
 
 - name: Citrico
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 681 Washington Ave.
   phone: (347) 955-4519
@@ -878,7 +878,7 @@
   url: 'http://citricobrooklyn.com/'
 
 - name: Covenhoven
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 730 Classon Ave.
   phone: (718) 483-9950
@@ -899,7 +899,7 @@
   url: 'https://www.covenhovennyc.com'
 
 - name: Dickey’s BBQ Pit
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 196A Flatbush Ave
   phone: (347) 889-5400
@@ -931,7 +931,7 @@
     facebook: 'https://www.facebook.com/Dough-Studio-105988981103219'
 
 - name: Doughnut Plant
-  last_updated: 12/25
+  last_updated: 1/6
   category: cafe
   address: 245 Flatbush Ave.
   phone: (212) 505-3700,245
@@ -958,7 +958,7 @@
   url: 'https://www.doughnutplant.com/location/brooklyn/'
 
 - name: El Paso Mexican Grill
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 387 Flatbush Ave.
   phone: (201) 482-7247
@@ -969,7 +969,7 @@
     instagram: 'https://www.instagram.com/elpasomexgrill/'
 
 - name: Eve’s Lounge
-  last_updated: 7/3
+  last_updated: 1/6
   category: food-drink
   address: 769 Washington Ave.
   phone: (347) 442-5959
@@ -985,7 +985,7 @@
   url: 'https://eves769.com'
 
 - name: Faun
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 606 Vanderbilt Ave.
   phone: (718) 576-6120
@@ -1015,7 +1015,7 @@
   url: 'https://faun.nyc'
 
 - name: Fausto
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 348 Flatbush Ave.
   phone: (917) 909-1427
@@ -1043,7 +1043,7 @@
   url: 'https://www.faustobrooklyn.com'
 
 - name: Fermented Grapes
-  last_updated: 8/7
+  last_updated: 1/6
   category: wine-liquor
   address: 651 Vanderbilt Ave.
   phone: (718) 230-3216
@@ -1056,16 +1056,18 @@
     - days: Sun
       hours: Closed
   notes: >-
-    Open for contactless pickup and delivery with 
-    walkups now available. Call or email 
+    Call or email 
     <a href="mailto:customerservice@fermentedgrapes.net">customerservice@fermentedgrapes.net</a>
     with what you’re looking for and a phone number to pre-order.
+  supports:
+    - Pickup
+    - Delivery
   social:
     instagram: 'https://www.instagram.com/fermentedgrapesbk/'
   url: 'http://www.fermentedgrapes.net'
 
 - name: 'Four & Twenty Blackbirds'
-  last_updated: 12/25
+  last_updated: 1/6
   category: dessert
   address: 634 Dean St.
   phone: (347) 350-5110
@@ -1086,7 +1088,7 @@
   url: 'https://birdsblack.com/'
 
 - name: Geido
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 331 Flatbush Ave.
   phone: (718) 638-8866
@@ -1105,7 +1107,7 @@
   url: 'https://geido.nyc'
 
 - name: Gen Sushi
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 659 Washington Ave.
   phone: (718) 398-3550
@@ -1132,7 +1134,7 @@
   url: 'http://www.genbrooklyn.com'
 
 - name: Gold Star Beer Counter
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 176 Underhill Ave.
   phone: (347) 955-5031
@@ -1150,7 +1152,7 @@
   url: 'http://goldstarbeercounter.com'
 
 - name: Gorilla Coffee
-  last_updated: 12/25
+  last_updated: 1/6
   address: 472 Bergen St.
   phone: (347) 987-3765
   category: cafe
@@ -1168,13 +1170,13 @@
 
 # hidden due to lack of updates
 # - name: Good Life
-#   last_updated: 12/25
+#   last_updated: 1/6
 #   category: food-drink
 #   social:
 #     instagram: 'https://www.instagram.com/goodlifebk/'
 
 - name: Gran Caffe De Martini
-  last_updated: 12/25
+  last_updated: 1/6
   category: cafe
   address: 609 Vanderbilt Ave.
   phone: (929) 306-8332
@@ -1201,7 +1203,7 @@
   url: 'https://www.caffedemartini.com'
 
 - name: El Gran Castillo de Jagua
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 355 Flatbush Ave.
   phone: (718) 622-8700
@@ -1215,7 +1217,7 @@
   url: 'https://www.elgrancastillo.com'
 
 - name: Homeslice Pizzeria
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 567 Vanderbilt Ave.
   phone: (347) 632-9824
@@ -1230,7 +1232,7 @@
   url: 'https://www.brooklynshomeslicepizza.com'
 
 - name: Hungry Ghost
-  last_updated: 12/25
+  last_updated: 1/6
   category: cafe
   address: '253 Flatbush Ave. · 183 Sterling Pl.'
   hours:
@@ -1251,7 +1253,7 @@
   url: 'https://www.hungryghostcoffee.com/'
 
 - name: Inaka Asian Cuisine
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 597 Vanderbilt Ave.
   phone: (718) 398-8168
@@ -1273,7 +1275,7 @@
   url: 'http://inakany.com'
 
 - name: The Islands
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 671 Washington Ave.
   phone: (718) 398-3575
@@ -1295,7 +1297,7 @@
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/the-islands/9jFnKcjVRBuUOpsVlzSgsg'
 
 - name: James
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 605 Carlton Ave.
   phone: (718) 942-4255
@@ -1447,7 +1449,7 @@
   url: https://konditori.com/our-locations/prospect-heights/
 
 - name: Kulushkat
-  last_updated: 7/3
+  last_updated: 1/6
   category: food-drink
   address: 446C Dean St.
   phone: (347) 799-1972
@@ -1523,7 +1525,7 @@
   url: 'https://www.lelandbrooklyn.com/'
 
 - name: Life Reorganized
-  last_updated: 4/23
+  last_updated: 4/23/2020
   category: service
   phone: (917) 745-5433
   notes: >-
@@ -1581,7 +1583,7 @@
   url: 'http://www.littlecupcakebakeshop.com'
 
 - name: Little MissMuffin N Her Stuffin
-  last_updated: 5/7
+  last_updated: 5/7/2020
   category: food-drink
   address: 768 Washington Ave.
   notes: >-
@@ -1591,7 +1593,7 @@
     instagram: 'https://www.instagram.com/littlemissmuffinny/'
 
 - name: LOOK by Plant Love House
-  last_updated: 7/3
+  last_updated: 1/6
   category: food-drink
   address: 622 Washington Ave.
   phone: (718) 622-0026
@@ -1617,7 +1619,7 @@
   url: 'https://www.plantlovehouse.com/look'
 
 - name: Lowerline
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 794 Washington Ave.
   phone: (347) 533-7110
@@ -1664,7 +1666,7 @@
   url: 'http://www.maisonyaki.com/'
 
 - name: Maya Taqueria
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 637 Vanderbilt Ave.
   phone: (718) 638-6292
@@ -1684,7 +1686,7 @@
   url: 'https://www.mayataqueria.com'
 
 - name: Mei Chi Liquors
-  last_updated: 12/25
+  last_updated: 1/6
   category: wine-liquor
   address: 391 Flatbush Ave.
   phone: (718) 622-1403
@@ -1705,7 +1707,7 @@
   url: 'https://www.brooklyncellars.com'
 
 - name: Mermaid’s Garden
-  last_updated: 12/25
+  last_updated: 1/6
   category: grocery
   address: 644 Vanderbilt Ave.
   phone: (718) 638-1910
@@ -1724,7 +1726,7 @@
   url: 'https://www.mermaidsgardennyc.com'
 
 - name: Mexicocina Agaveria
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 708 Washington Ave.
   phone: (347) 663-2951
@@ -1753,7 +1755,7 @@
   url: 'https://mexicocinanyc.com/brooklyn-agaveria/'
 
 - name: Milk Bar
-  last_updated: 12/25
+  last_updated: 1/6
   category: cafe
   address: 620 Vanderbilt Ave.
   phone: (718) 230-0844
@@ -1780,7 +1782,7 @@
   url: 'https://www.milkbarbrooklyn.com'
 
 - name: Mille-Feuille
-  last_updated: 12/25
+  last_updated: 1/6
   category: cafe
   address: 622 Vanderbilt Ave.
   phone: (347) 350-8838
@@ -1801,7 +1803,7 @@
   url: 'https://www.millefeuille-nyc.com'
 
 - name: Mitchell’s Soul Food
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 617 Vanderbilt Ave.
   phone: (718) 789-3212
@@ -1809,7 +1811,7 @@
     - Pickup
 
 - name: Mokbar
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 212 Flatbush Ave.
   phone: (347) 987-3042
@@ -1837,7 +1839,7 @@
   url: 'https://www.mokbar.com'
 
 - name: Morgan’s BBQ
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 267 Flatbush Ave.
   phone: (718) 622-2224
@@ -1865,7 +1867,7 @@
   url: 'https://www.morgansbrooklynbarbecue.com'
 
 - name: Mumbai Place
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 655 Vanderbilt Ave.
   phone: (718) 398-7776
@@ -1885,7 +1887,7 @@
   url: 'https://www.mumbaiplaceny.com/'
 
 - name: Muse
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 689 Washington Ave.
   phone: (347) 442-0443
@@ -1906,7 +1908,7 @@
   url: 'https://musebklyn.com'
 
 - name: Nacho Macho Taco
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 417 Prospect Pl.
   phone: (718) 622-2727
@@ -1925,7 +1927,7 @@
   url: 'http://www.nachomachotaco.net'
 
 - name: Nourish Thai
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 637A Vanderbilt Ave.
   phone: (718) 789-3981
@@ -1947,7 +1949,7 @@
   url: 'https://www.nourishthai.com'
 
 - name: Nûrish
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 637 Washington Ave.
   phone: (718) 484-1122
@@ -1966,7 +1968,7 @@
   url: 'https://www.nurishbk.com'
 
 - name: Ode to Babel
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 772 Dean St.
   hours: 
@@ -1987,7 +1989,7 @@
   url: 'https://www.odetobabel.com/'
 
 - name: Ogliastro Pizza Bar
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 784 Washington Ave.
   phone: (718) 789-3700
@@ -2010,7 +2012,7 @@
   url: 'https://www.ogliastropizzabar.com'
 
 - name: Olde Brooklyn Bagel Shoppe
-  last_updated: 12/25
+  last_updated: 1/6
   category: cafe
   address: 645 Vanderbilt Ave.
   phone: (718) 622-6227
@@ -2053,7 +2055,7 @@
   url: 'http://olmstednyc.com/'
 
 - name: Ovenly
-  last_updated: 12/25
+  last_updated: 1/6
   category: cafe
   address: 210 Flatbush Ave.
   hours:
@@ -2105,7 +2107,7 @@
   url: 'https://www.oxalisnyc.com'
 
 - name: Patsy’s Pizzeria
-  last_updated: 12/25
+  last_updated: 1/6
   address: 450 Dean St.
   phone: (718) 622-2268
   category: food-drink
@@ -2131,7 +2133,7 @@
   url: 'https://parkslope.patsyspizza.nyc'
 
 - name: Penny House Cafe
-  last_updated: 12/25
+  last_updated: 1/6
   category: cafe
   address: 732 Washington Ave.
   phone: (347) 240-7281
@@ -2147,7 +2149,7 @@
   url: 'http://www.pennyhousecafe.com'
 
 - name: Piquant
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 259 Flatbush Ave.
   phone: (718) 484-4114
@@ -2167,7 +2169,7 @@
   url: 'https://www.piquantnyc.com'
 
 - name: Poke Tiky
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 564 Vanderbilt Ave.
   phone: (347) 365-5214
@@ -2194,7 +2196,7 @@
   url: 'https://poketikybar.com/'
 
 - name: Puerto Viejo
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 564 Grand Ave.
   phone: (718) 398-3758
@@ -2218,7 +2220,7 @@
   url: 'http://www.puertoviejony.com/'
 
 - name: Private Yoga Lessons
-  last_updated: 3/25
+  last_updated: 3/25/2020
   category: service
   phone: (740) 221-3048
   notes: >-
@@ -2228,7 +2230,7 @@
   url: 'https://www.privateyogasoho.com'
 
 - name: Prospect Butcher Co.
-  last_updated: 12/25
+  last_updated: 1/6
   category: grocery
   address: 665 Vanderbilt Ave.
   phone: (347) 763-9500
@@ -2244,7 +2246,7 @@
   url: 'https://prospectbutcher.co/'
 
 - name: R&D Foods
-  last_updated: 12/25
+  last_updated: 1/6
   category: grocery
   address: 602 Vanderbilt Ave.
   phone: (347) 915-1196
@@ -2285,7 +2287,7 @@
     postmates: 'https://postmates.com/merchant/ruby-kitchen-brooklyn'
 
 - name: Shaka Shaka Tiki/Companion Cafe
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 64 Sixth Ave.
   phone: (347) 689-3184
@@ -2306,7 +2308,7 @@
   url: 'https://www.companioncafebk.com'
 
 - name: Shane’s Brooklyn
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 794 Washington Ave.
   hours:
@@ -2330,7 +2332,7 @@
     instagram: 'https://www.instagram.com/shanes_brooklyn/'
 
 - name: Sharlene’s Bar
-  last_updated: 12/25
+  last_updated: 1/6
   address: 353 Flatbush Ave.
   category: food-drink
   hours:
@@ -2347,7 +2349,7 @@
     instagram: 'https://www.instagram.com/sharlenesbar/'
 
 - name: Sit & Wonder
-  last_updated: 12/25
+  last_updated: 1/6
   category: cafe
   hours:
     - days: Mon - Sun
@@ -2363,7 +2365,7 @@
   url: 'http://sitandwonder.net/index.html'
 
 - name: Sofreh
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 75 St. Marks Ave
   hours:
@@ -2389,7 +2391,7 @@
   url: 'https://www.sofrehnyc.com'
 
 - name: Specific Gravity
-  last_updated: 12/25
+  last_updated: 1/6
   category: store
   address: 613 Vanderbilt Ave.
   phone: (347) 291-1766
@@ -2405,7 +2407,7 @@
   url: 'https://specificgravitynyc.com'
 
 - name: Stocked Cafe & Burgers
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 663 Washington Ave.
   phone: (718) 872-5304
@@ -2422,7 +2424,7 @@
   url: 'https://www.stockedbrooklyn.com'
 
 - name: Sugarcane
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 238 Flatbush Ave.
   phone: (718) 230-3954
@@ -2431,7 +2433,7 @@
     instagram: 'https://www.instagram.com/sugarcane_restaurant/'
 
 - name: Sunshine & Co.
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 780 Washington Ave.
   phone: (347) 750-5275
@@ -2456,7 +2458,7 @@
   url: 'http://www.sunshinecobk.com'
 
 - name: Sweet Chick
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 341 Flatbush Ave.
   phone: (718) 484-7724
@@ -2481,7 +2483,7 @@
   url: 'https://www.sweetchick.com'
 
 - name: Sweet Polly
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 71 Sixth Ave.
   phone: (718) 484-9600
@@ -2511,7 +2513,7 @@
   url: 'http://www.sweetpollynyc.com'
 
 - name: Tom’s Restaurant
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 782 Washington Ave.
   phone: (718) 636-9738
@@ -2533,7 +2535,7 @@
   url: 'https://tomsbrooklyn.com'
 
 - name: Udom Thai
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 661 Washington Ave.
   phone: (718) 622-8424
@@ -2550,7 +2552,7 @@
   url: 'https://www.udomthai.com'
 
 - name: Underhill Greek Eatery
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 760 Dean St.
   phone: (718) 484-3744
@@ -2573,7 +2575,7 @@
   url: 'https://underhillbrooklyn.com/'
 
 - name: Unnameable Books
-  last_updated: 12/25
+  last_updated: 1/6
   category: store
   address: 600 Vanderbilt Ave.
   phone: (718) 789-1534
@@ -2597,7 +2599,7 @@
   url: 'http://unnameablebooks.blogspot.com'
 
 - name: Van Leeuwen Ice Cream
-  last_updated: 12/25
+  last_updated: 1/6
   category: dessert
   address: 550 Vanderbilt Ave
   phone: (347) 240-7453
@@ -2620,7 +2622,7 @@
   url: 'https://vanleeuwenicecream.com/location/prospect-heights/'
 
 - name: Vanderbilt Wine Merchants
-  last_updated: 12/25
+  last_updated: 1/6
   category: wine-liquor
   address: 573 Vanderbilt Ave.
   phone: (718) 398-1800
@@ -2652,7 +2654,7 @@
     seamless: 'https://www.seamless.com/menu/washington-avenue-cafe-621-washington-ave-brooklyn/900005'
 
 - name: Weather Up
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 589 Vanderbilt Ave.
   hours:
@@ -2701,7 +2703,7 @@
   url: 'http://www.whitetiger.nyc'
 
 - name: Wine Exchange
-  last_updated: 12/25
+  last_updated: 1/6
   category: wine-liquor
   address: 595 Vanderbilt Ave.
   phone: (718) 783-7500
@@ -2713,7 +2715,7 @@
   url: 'https://wineexchangebkn.com/'
 
 - name: The Winey Neighbor
-  last_updated: 12/25
+  last_updated: 1/6
   category: wine-liquor
   address: 679 Washington Ave.
   phone: (347) 715-6693
@@ -2737,7 +2739,7 @@
   url: 'https://wineyneighbor.com'
 
 - name: Zaytoons
-  last_updated: 12/25
+  last_updated: 1/6
   category: food-drink
   address: 594 Vanderbilt Ave.
   phone: (718) 230-3200
