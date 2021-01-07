@@ -843,7 +843,7 @@
 - name: Cinnamon Girl
   last_updated: 1/6
   category: cafe
-  address: 80 6th Ave.
+  address: 80 Sixth Ave.
   hours:
     - days: Mon - Sun
       hours: 8AM - 8PM
@@ -2087,7 +2087,7 @@
   phone: (347) 627-8298
   # classic_hours: '4 - 9PM (Fri), 12 - 9PM (Sat / Sun)'
   notes: >-
-    Temporarily closed.
+    Final weekend of Oxalis Pantry before a winter pause.
   links:
     - title: Oxalis Pantry
       url: 'https://www.oxalispantry.com/'
@@ -2100,43 +2100,68 @@
     caviar: 'https://www.trycaviar.com/store/OxalisPantry-524932/en-US'
     resy: 'https://resy.com/cities/ny/oxalisnyc'
   social:
-    facebook: 'https://www.facebook.com/oxalisnyc'
     instagram: 'https://www.instagram.com/oxalisnyc/'
+    facebook: 'https://www.facebook.com/oxalisnyc'
   url: 'https://www.oxalisnyc.com'
 
 - name: Patsy’s Pizzeria
   last_updated: 12/25
-  category: food-drink
-  classic_hours: 4 - 10PM (Mon - Thu), 12 - 10PM (Fri - Sun)
-  links:
-    - title: Order online
-      url: 'https://eat.9fold.me/index.html#/10769'
-  notes: 'Open for outdoor dining, pickup and delivery.'
+  address: 450 Dean St.
   phone: (718) 622-2268
+  category: food-drink
+  hours:
+    - days: Mon - Thu
+      hours: 4 - 10PM
+      span: 4
+    - days: Fri - Sun
+      hours: 12 - 10PM
+      span: 3
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
+  links:
+    - title: Online Orders
+      url: 'https://eat.9fold.me/index.html#/10769'
   services:
     seamless: 'https://www.seamless.com/menu/patsys-pizzeria-450-dean-st-brooklyn/320844'
   social:
-    facebook: 'https://www.facebook.com/PatsysPizzaBrooklyn/'
     instagram: 'https://www.instagram.com/patsyspizzabk/'
+    facebook: 'https://www.facebook.com/PatsysPizzaBrooklyn/'
   url: 'https://parkslope.patsyspizza.nyc'
 
 - name: Penny House Cafe
   last_updated: 12/25
   category: cafe
-  classic_hours: 6AM - 6PM
-  notes: Open for pickup
+  address: 732 Washington Ave.
   phone: (347) 240-7281
+  hours:
+    - days: Mon - Sun
+      hours: 6AM - 6PM
+      span: 7
+  supports:
+    - Pickup
   social:
-    facebook: 'https://www.facebook.com/pennyhousecafe2006'
     instagram: 'https://www.instagram.com/pennyhousecafe2006/'
+    facebook: 'https://www.facebook.com/pennyhousecafe2006'
   url: 'http://www.pennyhousecafe.com'
 
 - name: Piquant
   last_updated: 12/25
   category: food-drink
-  classic_hours: '2 - 9:30PM (Mon - Fri), 10AM - 9:30PM (Sat / Sun)'
-  notes: 'Open for outdoor dining, pickup and delivery.'
+  address: 259 Flatbush Ave.
   phone: (718) 484-4114
+  hours:
+    - days: Mon - Fri
+      hours: 2 - 9:30PM
+      span: 5
+    - days: Sat - Sun
+      hours: 10AM - 9:30PM
+      span: 2
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   social:
     instagram: 'https://www.instagram.com/piquantnyc/'
   url: 'https://www.piquantnyc.com'
@@ -2144,11 +2169,25 @@
 - name: Poke Tiky
   last_updated: 12/25
   category: food-drink
-  classic_hours: '11AM - 8PM (Mon - Wed), 11AM - 9PM (Thu / Fri), 10AM - 8:30PM (Sat), 10AM - 8PM (Sun)'
-  notes: 'Open for outdoor dining, pickup or delivery.'
+  address: 564 Vanderbilt Ave.
   phone: (347) 365-5214
+  hours:
+    - days: Mon - Wed
+      hours: 11AM - 8PM
+      span: 3
+    - days: Thu - Fri
+      hours: 11AM - 9PM
+      span: 2
+    - days: Sat
+      hours: 10AM - 8:30PM
+    - days: Sun
+      hours: 10AM - 8PM
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   links:
-    - title: Order online
+    - title: Online Orders
       url: 'https://ritual.co/order/poke-tiky-bar-vanderbilt-ave-bergen-st-prospect-heights/6e65'
   services:
     doordash: https://www.doordash.com/store/poke-tiky-bar-caffe-brooklyn-1058092/en-US
@@ -2157,33 +2196,44 @@
 - name: Puerto Viejo
   last_updated: 12/25
   category: food-drink
+  address: 564 Grand Ave.
   phone: (718) 398-3758
-  classic_hours: 11AM - 10PM (Mon - Sat)
+  hours:
+    - days: Mon - Sat
+      hours: 11AM - 10PM
+      span: 6
+    - days: Sun
+      hours: Closed
   notes: >-
-    Call to order for local delivery. Open for outdoor dining, pickup and delivery.
+    Call to order for local delivery.
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   services:
     caviar: 'https://www.trycaviar.com/t/brooklyn-queens/puerto-viejo-733'
   social:
-    facebook: 'https://www.facebook.com/PuertoViejoNY'
     instagram: 'https://www.instagram.com/puertoviejony/'
+    facebook: 'https://www.facebook.com/PuertoViejoNY'
   url: 'http://www.puertoviejony.com/'
 
 - name: Private Yoga Lessons
   last_updated: 3/25
   category: service
+  phone: (740) 221-3048
   notes: >-
     Offering virtual private yoga and meditation lessons 
     via FaceTime, Zoom, and Google Hangouts.
     <a href="mailto:alli@privateyogasoho.com">alli@privateyogasoho.com</a>
-  phone: (740) 221-3048
   url: 'https://www.privateyogasoho.com'
 
 - name: Prospect Butcher Co.
   last_updated: 12/25
   category: grocery
+  address: 665 Vanderbilt Ave.
   phone: 347-763-9500
   notes: >-
-    Local butcher opening soon in the former Daly Pie space
+    Newly opened local butcher in the former Daly Pie space.
   links:
     - title: Gift cards
       url: 'https://pl.mxmerchant.com/mxcustomer/d/6c2e1749-d662-4075-9b27-cf0175a6592f/v3'
@@ -2192,32 +2242,53 @@
 - name: R&D Foods
   last_updated: 12/25
   category: food-drink
-  classic_hours: 8AM - 7PM
+  address: 602 Vanderbilt Ave.
+  phone: (347) 915-1196
+  hours:
+    days: Mon - Sun
+    hours: 8AM - 7PM
+    span: 7
   links:
-    - title: Gift cards
+    - title: Gift Cards
       url: 'https://www.rdfoodsbklyn.com/gifts'
   notes: Outdoor seating is available. Also open for pickup and delivery.
-  phone: (347) 915-1196
   services:
     chownow: 'https://ordering.chownow.com/order/11145/locations'
   social:
-    facebook: 'https://www.facebook.com/RDFoods'
     instagram: 'https://www.instagram.com/rdfoods/'
+    facebook: 'https://www.facebook.com/RDFoods'
   url: 'https://www.rdfoodsbklyn.com/'
 
 - name: Ruby Kitchen
-  last_updated: 5/8
+  last_updated: 1/6
   category: food-drink
-  notes: Open for pickup and delivery
+  address: 162 Park Pl.
   phone: (718) 789-4633
+  hours:
+    - days: Mon - Thu
+      hours: 11AM - 10:30PM
+      span: 4
+    - days: Fri - Sat
+      hours: 11AM - 11:30PM
+      span: 2
+    - days: Sun
+      hours: 12 - 10:30PM
+  supports:
+    - Pickup
+    - Delivery
   services:
     seamless: 'https://www.seamless.com/menu/ruby-kitchen-162-park-pl-brooklyn/66954'
+    postmates: 'https://postmates.com/merchant/ruby-kitchen-brooklyn'
 
 - name: Shaka Shaka Tiki/Companion Cafe
   last_updated: 12/25
   category: food-drink
-  classic_hours: '8AM - 10PM'
+  address: 64 Sixth Ave.
   phone: (347) 689-3184
+  hours:
+    - days: Mon - Sun
+      hours: 8AM - 10PM
+      span: 7
   notes: 
   links:
     - title: Order online from Companion Cafe
@@ -2233,8 +2304,20 @@
 - name: Shane’s Brooklyn
   last_updated: 12/25
   category: food-drink
-  classic_hours: '9AM - 6PM (Sun - Wed), 9AM - 10PM (Thu - Sat)'
-  notes: 'Open for outdoor dining, pickup and delivery.'
+  address: 794 Washington Ave.
+  hours:
+    - days: Mon - Wed
+      hours: 9AM - 6PM
+      span: 3
+    - days: Thu - Sat
+      hours: 9AM - 10PM
+      span: 3
+    - days: Sun
+      hours: 9AM - 6PM
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   services:
     doordash: 'https://www.doordash.com/store/shanes-brooklyn-brooklyn-179024/en-US'
     postmates: 'https://postmates.com/merchant/cafe-shane-on-washington-brooklyn'
@@ -2244,23 +2327,32 @@
 
 - name: Sharlene’s Bar
   last_updated: 12/25
+  address: 353 Flatbush Ave.
   category: food-drink
-  classic_hours: 3 - 10PM
+  hours:
+    - days: Mon - Sun
+      hours: 3 - 10PM
+      span: 7
+  supports:
+    - Outdoor Seating
+    - Takeout
   links:
-    - title: Staff relief fund
+    - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/sharlene039s-bar'
-  notes: 'Now open for takeout and table service.'
   social:
     instagram: 'https://www.instagram.com/sharlenesbar/'
 
 - name: Sit & Wonder
   last_updated: 12/25
   category: cafe
-  classic_hours: '7:30AM - 2PM'
+  hours:
+    - days: Mon - Sun
+      hours: 7:30AM - 2PM
+      span: 7
   links:
-    - title: Staff relief fund
+    - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/for-our-amazing-baristas'
-    - title: Gift cards
+    - title: Gift Cards
       url: 'https://squareup.com/gift/7Z9GD4FCSS1V4/order'
   social:
     instagram: 'https://www.instagram.com/sitandwondercoffeeshop/'
@@ -2269,12 +2361,19 @@
 - name: Sofreh
   last_updated: 12/25
   category: food-drink
-  classic_hours: '5:30 - 9PM (Tue - Sun)'
-  notes: Open for outdoor dining and pickup.
+  address: 75 St. Marks Ave
+  hours:
+    - days: Mon
+      hours: Closed
+    - days: Tue - Sun
+      hours: 5:30 - 9PM
+  supports:
+    - Outdoor Dining
+    - Pickup
   links:
-    - title: Staff relief fund
+    - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/sofreh-employee-emergency-relief-fund'
-    - title: Gift cards
+    - title: Gift Cards
       url: 'https://www.sofrehnyc.com/giftcards'
   services:
     chownow: 'https://direct.chownow.com/order/26544/locations/39340'
@@ -2287,24 +2386,30 @@
 - name: Specific Gravity
   last_updated: 12/25
   category: store
-  links:
-    - title: Gift cards
-      url: 'https://specificgravitynyc.com/products/gift-card-1'
+  address: 613 Vanderbilt Ave.
+  phone: (347) 291-1766
   notes: >-
     Open by appointment. <a href="mailto:shop@specificgravitynyc.com">Email</a>
     or call to schedule.
-  phone: (347) 291-1766
+  links:
+    - title: Gift Cards
+      url: 'https://specificgravitynyc.com/products/gift-card-1'
   social:
-    facebook: 'https://www.facebook.com/SpecificGravityNYC/'
     instagram: 'https://www.instagram.com/specific_gravity/'
+    facebook: 'https://www.facebook.com/SpecificGravityNYC/'
   url: 'https://specificgravitynyc.com'
 
 - name: Stocked Cafe & Burgers
   last_updated: 12/25
   category: food-drink
-  notes: >-
-    Open for outdoor dining, pickup and delivery on Washington Ave.
+  address: 663 Washington Ave.
   phone: (718) 872-5304
+  notes: >-
+    The cafe and burger spot has conslidated on Washington Ave.
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   services:
     chownow: 'https://direct.chownow.com/order/18160/locations/26048'
   social:
@@ -2314,19 +2419,32 @@
 - name: Sugarcane
   last_updated: 12/25
   category: food-drink
-  notes: Call ahead to order
+  address: 238 Flatbush Ave.
   phone: (718) 230-3954
+  notes: Call ahead to order
   social:
     instagram: 'https://www.instagram.com/sugarcane_restaurant/'
 
 - name: Sunshine & Co.
   last_updated: 12/25
   category: food-drink
-  classic_hours: 4 - 10PM (Wed - Fri), 11AM - 4PM / 5 - 9PM (Sat / Sun til 10PM)
+  address: 780 Washington Ave.
   phone: (347) 750-5275
-  notes: 'Open for outdoor dining, now with brunch service.'
+  hours: 
+    - days: Mon - Tue
+      hours: Closed
+      span: 2
+    - days: Wed - Fri
+      hours: 4 - 10PM
+      span: 3
+    - days: Sat
+      hours: 11AM-4PM / 5-9PM
+    - days: Sun
+      hours: 11AM-4PM / 5-10PM
+  supports:
+    - Outdoor Dining
   links:
-    - title: Staff relief fund
+    - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/sunshine-co-staff'
   social:
     instagram: 'https://www.instagram.com/sunshinecobk/'
@@ -2335,44 +2453,74 @@
 - name: Sweet Chick
   last_updated: 12/25
   category: food-drink
-  classic_hours: 12 - 10PM
-  notes: >-
-    Open for outdoor dining, pickup and delivery as 
-    <a href="https://www.instagram.com/LILSWEETCHICK/">Lil’ Sweet Chick</a>.
+  address: 341 Flatbush Ave.
   phone: (718) 484-7724
+  hours:
+    - days: Mon - Sun
+      hours: 12 - 10PM
+      span: 7
+  notes: >-
+    Serving fried chicken sandwiches and more as
+    <a href="https://www.instagram.com/LILSWEETCHICK/">Lil’ Sweet Chick</a>.
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   services:
     chownow: 'https://direct.chownow.com/order/25827/locations/38171'
     seamless: 'https://www.seamless.com/menu/sweet-chick-prospect-heights-341-flatbush-ave-brooklyn/1685999'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/sweet-chick-flatbush/GQauqkOlQCikYdNl20DTTA'
   social:
-    facebook: 'https://www.facebook.com/SweetChickLife'
     instagram: 'https://www.instagram.com/sweetchicklife/'
+    facebook: 'https://www.facebook.com/SweetChickLife'
   url: 'https://www.sweetchick.com'
 
 - name: Sweet Polly
   last_updated: 12/25
   category: food-drink
-  classic_hours: '4 - 10PM (Wed - Fri),  12 - 10PM (Sat / Sun)'
-  links:
-    - title: Staff relief fund
-      url: 'https://www.gofundme.com/f/sweet-polly-team-relief-fund'
-    - title: Gift cards
-      url: 'https://squareup.com/gift/89TMFJQFPZE0N/order'
-  notes: Outdoor seating is available. Also open for pickup.
+  address: 71 Sixth Ave.
   phone: (718) 484-9600
+  hours:
+    - days: Mon - Tue
+      hours: Closed
+      span: 2
+    - days: Wed - FriW
+      hours: 4 - 10PM
+      span: 3
+    - days: Sat - Sun
+      hours: 12 - 10PM
+      span: 2
+  links:
+    - title: Staff Relief Fund
+      url: 'https://www.gofundme.com/f/sweet-polly-team-relief-fund'
+    - title: Gift Cards
+      url: 'https://squareup.com/gift/89TMFJQFPZE0N/order'
+  supports:
+    - Outdoor Seating
+    - Pickup
   services:
     upserve: 'https://app.upserve.com/s/sweet-polly-brooklyn'
   social:
-    facebook: 'https://www.facebook.com/sweetpollynyc/'
     instagram: 'https://www.instagram.com/sweetpollynyc/'
+    facebook: 'https://www.facebook.com/sweetpollynyc/'
   url: 'http://www.sweetpollynyc.com'
 
 - name: Tom’s Restaurant
   last_updated: 12/25
   category: food-drink
-  notes: Open for pickup and delivery
+  address: 782 Washington Ave.
   phone: (718) 636-9738
-  classic_hours: '7AM - 5PM (Mon - Fri), 7AM - 9PM (Sat), 8AM - 8PM (Sun)'
+  hours:
+    - days: Mon - Fri
+      hours: 7AM - 5PM
+      span: 5
+    - days: Sat
+      hours: 7AM - 9PM
+    - days: Sun
+      hours: 8AM - 8PM
+  supports: 
+    - Pickup
+    - Delivery
   services:
     seamless: 'https://www.seamless.com/menu/toms-restaurant-782-washington-ave-brooklyn/297390'
   social:
@@ -2382,21 +2530,31 @@
 - name: Udom Thai
   last_updated: 12/25
   category: food-drink
-  classic_hours: '11:15AM - 10PM'
+  address: 661 Washington Ave.
+  phone: (718) 622-8424
+  hours:
+    - days: Mon - Sun
+      hours: 11:15AM - 10PM
   notes: >-
     <a href="https://www.opendining.net/menu/4fd8ca07000d972008000172">Order
     online</a> for pickup and delivery
-  phone: (718) 622-8424
   social:
-    facebook: 'https://www.facebook.com/UdomThai'
     instagram: 'https://www.instagram.com/udomthai/'
+    facebook: 'https://www.facebook.com/UdomThai'
   url: 'https://www.udomthai.com'
 
 - name: Underhill Greek Eatery
   last_updated: 12/25
   category: food-drink
-  classic_hours: '2:30 - 9PM'
+  address: 760 Dean St.
   phone: (718) 484-3744
+  hours:
+    - days: Mon - Sun
+      hours: 2:30 - 9PM
+      span: 7
+  supports:
+    - Pickup
+    - Delivery
   services:
     caviar: 'https://www.trycaviar.com/m/underhill-cafe-and-grill-10596'
     doordash: 'https://www.doordash.com/store/underhill-cafe-and-grill-brooklyn-312894/en-US'
@@ -2404,71 +2562,103 @@
     seamless: 'https://www.seamless.com/menu/underhill-cafe-and-grill-760-dean-st-brooklyn/768940'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/underhill-cafe-%26-grill/a9MCFJrEQKy95yjuR4e4Rg'
   social:
-    facebook: 'https://www.facebook.com/underhillbrooklyn/'
     instagram: 'https://www.instagram.com/underhillgreekeatery/'
+    facebook: 'https://www.facebook.com/underhillbrooklyn/'
   url: 'https://underhillbrooklyn.com/'
 
 - name: Unnameable Books
   last_updated: 12/25
   category: store
-  classic_hours: 11AM - 7PM (Sun - Fri), 11 - 9PM (Fri / Sat)
+  address: 600 Vanderbilt Ave.
+  phone: (718) 789-1534
+  hours:
+    - days: Mon - Thu
+      hours: 11AM - 7PM
+      span: 5
+    - days: Fri - Sat
+      hours: 11 - 9PM
+      span: 2
+    - days: Sun
+      hours: 11AM - 7PM
   links:
-    - title: Online store
+    - title: Online Store
       url: 'https://unnameablebooks.square.site'
   notes: >-
     Two at a time inside.
-  phone: (718) 789-1534
   social:
-    facebook: 'https://www.facebook.com/unnameable'
     instagram: 'https://www.instagram.com/unnameablebooks/'
+    facebook: 'https://www.facebook.com/unnameable'
   url: 'http://unnameablebooks.blogspot.com'
 
 - name: Van Leeuwen Ice Cream
   last_updated: 12/25
   category: dessert
-  classic_hours: 12 - 10PM
+  address: 550 Vanderbilt Ave
+  phone: (347) 240-7453
+  hours:
+    - days: Mon - Sat
+      hours: 12 - 10PM
+      span: 7
   links:
-    - title: Gift cards
+    - title: Gift Cards
       url: 'https://squareup.com/gift/FR6ZMQGP6CJ1S/order?external_source=giveandgetlocal'
   notes: Order online for pickup and delivery.
-  phone: (347) 240-7453
   services:
     caviar: 'https://www.trycaviar.com/store/van-leeuwen-ice-cream-brooklyn-773893/en-US'
     postmates: 'https://postmates.com/merchant/van-leeuwen-ice-cream-brooklyn'
     uber_eats: 'https://www.ubereats.com/en-US/new-york/food-delivery/van-leeuwen-artisan-ice-cream-prospect-heights/lRdl_U-mS8yow9R-xiO2ZQ/'
     goldbelly: 'https://www.goldbelly.com/van-leeuwen-artisan-ice-cream'
   social:
-    facebook: 'https://www.facebook.com/vanleeuwenicecream/'
     instagram: 'https://www.instagram.com/vanleeuwenicecream/'
+    facebook: 'https://www.facebook.com/vanleeuwenicecream/'
   url: 'https://vanleeuwenicecream.com/location/prospect-heights/'
 
 - name: Vanderbilt Wine Merchants
   last_updated: 12/25
   category: wine-liquor
-  classic_hours: 12 - 7PM
+  address: 573 Vanderbilt Ave.
+  phone: (718) 398-1800
+  hours:
+    - days: Mon - Sun
+      hours: 12 - 7PM
   notes: >-
     Free neighborhood delivery within a one-mile radius
     Monday through Saturday (3pm cutoff for same day delivery).
   social:
-    facebook: 'https://www.facebook.com/VanderbiltWine'
     instagram: 'https://instagram.com/vanderbiltwine'
+    facebook: 'https://www.facebook.com/VanderbiltWine'
   url: 'https://vanderbilt.wine'
 
 - name: Washington Ave. Cafe
   last_updated: 3/29
   category: cafe
-  classic_hours: '5:30AM - 4:00PM'
-  notes: Open for pickup and delivery
+  address: 621 Washington Ave.
   phone: (718) 230-3734
+  hours:
+    - days: Mon - Sun
+      hours: 5:30AM - 4:00PM
+  supports:
+    - Pickup
+    - Delivery
   services:
     seamless: 'https://www.seamless.com/menu/washington-avenue-cafe-621-washington-ave-brooklyn/900005'
 
 - name: Weather Up
   last_updated: 12/25
   category: food-drink
-  classic_hours: 4 - 10PM (Wed - Fri), 2 - 10PM (Sat / Sun)
+  address: 589 Vanderbilt Ave.
+  hours:
+    - days: Mon - Tue
+      hours: Closed
+      span: 2
+    - days: Wed - Fri
+      hours: 4 - 10PM
+      span: 3
+    - days: Sat - Sun
+      hours: 2 - 10PM
+      span: 2
   links:
-    - title: Staff relief fund
+    - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/weather-up-staff-relief'    
   notes: Outdoor seating is available. Also open for pickup.
   social:
@@ -2498,17 +2688,18 @@
     doordash: 'https://www.doordash.com/store/white-tiger-brooklyn-132915/en-US'
     seamless: 'https://www.seamless.com/menu/white-tiger-601-vanderbilt-ave-brooklyn/1981045'
   social:
-    facebook: 'https://www.facebook.com/White-Tiger-449227641948568/'
     instagram: 'https://www.instagram.com/whitetigerbklyn/'
+    facebook: 'https://www.facebook.com/White-Tiger-449227641948568/'
   url: 'http://www.whitetiger.nyc'
 
 - name: Wine Exchange
   last_updated: 12/25
   category: wine-liquor
+  address: 595 Vanderbilt Ave.
+  phone: (718) 783-7500
   notes: >-
     Open for pickup and delivery, now with online ordering.
     Five people at a time inside.
-  phone: (718) 783-7500
   social:
     instagram: 'https://www.instagram.com/wineexchangebkn/'
   url: 'https://wineexchangebkn.com/'
@@ -2516,28 +2707,47 @@
 - name: The Winey Neighbor
   last_updated: 12/25
   category: wine-liquor
+  address: 679 Washington Ave.
+  phone: (347) 715-6693
   notes: >-
     <a href="https://wineyneighbor.com/#&StoreFrontLocationHash=%23%2Fwidget%2F5a6f49faf4a6613ee3696dbb%2Fcontainers">Order
     online</a> for pickup and delivery
-  phone: (347) 715-6693
-  classic_hours: '1 - 8PM (Mon - Wed), 1 - 9PM (Thu / Fri), 11AM - 9PM (Sat), 12 - 9PM (Sun)'
+  hours:
+    - days: Mon - Wed
+      hours: 1 - 8PM
+      span: 3
+    - days: Thu - Fri
+      hours: 1 - 9PM
+      span: 2
+    - days: Sat
+      hours: 11AM - 9PM
+    - days: Sun
+      hours: 12 - 9PM
   social:
-    facebook: 'https://www.facebook.com/wineyneighbor'
     instagram: 'https://www.instagram.com/wineyneighbor/'
+    facebook: 'https://www.facebook.com/wineyneighbor'
   url: 'https://wineyneighbor.com'
 
 - name: Zaytoons
   last_updated: 12/25
   category: food-drink
-  classic_hours: '11:30 AM - 10PM (Mon - Sat), 11:30AM - 9:30PM (Sun)'
-  notes: Open for pickup and delivery
+  address: 594 Vanderbilt Ave.
   phone: (718) 230-3200
+  hours:
+    - days: Mon - Sat
+      hours: 11:30 AM - 10PM
+      span: 6
+    - days: Sun
+      hours: 11:30AM - 9:30PM
+  supports:
+    - Pickup
+    - Delivery
   links:
-    - title: Order online
+    - title: Online Orders
       url: 'https://zaytoons.foodieordersecure.com/'
   services:
     caviar: 'https://www.trycaviar.com/store/zaytoons-brooklyn-1048506/en-US'
   social:
-    facebook: 'https://www.facebook.com/zaytoonsrestaurant/'
     instagram: 'https://www.instagram.com/zaytoonsrestaurant/'
+    facebook: 'https://www.facebook.com/zaytoonsrestaurant/'
   url: 'https://zaytoons.com'
