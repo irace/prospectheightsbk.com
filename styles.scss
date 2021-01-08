@@ -4,24 +4,224 @@
 
 @import "node_modules/tachyons-sass/tachyons.scss";
 
-.yellowtail {
-  font-family: "Yellowtail", cursive;
+// Typography
+
+body {
+  font-family: 'Inter', 'Neue Haas Unica', system-ui, 'Helvetica Neue', 'Helvetica', sans-serif;
 }
+
+.heading-1 {
+  @extend .f1, .fw8, .lh-solid, .mt4, .mb2, .near-black;
+}
+
+.heading-2 {
+  @extend .f2, .fw8, .lh-solid, .near-black;
+}
+
+.heading-3 {
+  @extend .f3, .fw8, .lh-title, .ma0, .black;
+}
+
+.heading-4 {
+  @extend .f8, .ttu, .tracked, .gray;
+}
+
+.heading-5 {
+  @extend .f6, .fw5, .mid-gray, .mv2;
+}
+
+.text {
+  @extend .measure-xwide, .f5, .lh-copy, .near-black;
+}
+
+.text-large {
+  @extend .measure-xwide, .f4, .lh-copy, .mv2, .near-black;
+}
+
+.text-small {
+  @extend .f7;
+}
+
+// Basics
 
 a {
-  @extend .link, .dim, .dark-blue;
+  @extend .link, .underline, .color-inherit;
 }
 
-.service_icon {
+.button {
+  @extend .dib, .dim, .pv2, .ph3, .br3, .bg-navy, .white-80, .fw8, .no-underline;
+
+  &.large {
+    @extend .f4;
+  }
+}
+
+.hover-link {
+  @extend .no-underline;
+
+  &:hover {
+    @extend .underline;
+  }
+}
+
+.service-icon {
   @extend .br3;
 
-  width: 35px;
+  width: 32px;
 }
 
-.social_icon {
-  width: 25px;
+.social-icons {
+  flex-shrink: 0;
+}
+
+.social-icon {
+  @extend .o-40;
+  transition: opacity 200ms ease-in-out;
+  width: 32px;
+
+  &:hover {
+    @extend .o-100;
+  }
 
   &.mini {
     width: 16px;
   }
+}
+
+// Layout 
+
+.hero {
+  @extend .flex, .flex-column, .justify-between;
+
+  @media screen and (min-width: 60em) {
+    flex-direction: row;
+    align-items: flex-end;
+  }
+}
+
+.wrapper {
+  @extend .w-100, .pv1, .ph3, .ph4-ns, .ph6-xl;
+}
+
+.section {
+  @extend .pt3, .flex, .flex-wrap, .justify-between, .relative;
+
+  .section-heading {
+    @extend .w-100, .bg-white, .pv2, .mt2, .mb3, .bb, .b--black-10;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    
+    .heading-2 {
+      @extend .ma0, .tracked-tightish;
+    }
+    
+    &.full-directory {
+      @extend .mt0;
+    }
+  }
+
+  &.directory {
+    @extend .pt0, .pb3, .bg-near-white;
+
+    .heading-2 {
+      @extend .mt0;
+    }
+  }
+
+  .back-to-top {
+    @extend .db, .absolute, .top-1, .right-0, .f7, .navy, .br-pill, .pv2, .ph1, .no-underline, .bg-black-05;
+    transition: background-color 200ms ease-in-out;
+
+    &:hover {
+      @extend .bg-black-20;
+    }
+  }
+}
+
+.place-card {
+  @extend .w-100, .w-48-ns, .w-32-l, .pv2, .mb4;
+  @extend .flex, .flex-column;
+  border-top: 0.5rem solid black;
+  border-bottom: 0.125rem solid rgba(0,0,0,0.2);
+
+  .key-info {
+    @extend .flex, .justify-between;
+  }
+  .place-notes {
+    @extend .fw5, .mt3, .mb2;
+  }
+
+  .place-section {
+    @extend .mt1, .pt1, .mv2, .bt, .b--black-10;
+
+    .heading-4 {
+      @extend .mt0, .mb1;
+    }
+  }
+
+  .classic-hours {
+    @extend .mv1;
+  }
+
+  .hours-block {
+    @extend .mid-gray, .bg-navy-12, .pa1, .flex, .flex-column, .justify-center, .items-center, .tc, .fw7;
+    // flex-shrink: 0;
+    min-height: 2rem;
+    margin: -2px;
+    border: 2px solid white;
+
+    &.closed {
+      @extend .fw4, .bg-white;
+    }
+
+    &--days {
+      @extend .f8, .fw4, .ttu, .tracked, .black-40;
+    }
+    &--hours {
+      @extend .pa1, .f7, .black-60;
+    }
+  }
+
+  .place-list {
+    @extend .list, .pl0, .ma0, .flex, .flex-wrap;
+
+    li {
+      @extend .mv1, .w-50, .fw5;
+    }
+  }
+
+}
+
+// Utils to extend Tachyons
+
+.measure-xwide {
+  max-width: 42em;
+}
+.f8 {
+  font-size: 0.625rem;
+}
+.f9 {
+  font-size: 0.5rem;
+}
+
+.bg-navy-12 {
+  background-color: rgba(29,85,134,0.12);
+}
+
+.tracked-tightish {
+  letter-spacing: -0.036rem;
+}
+
+
+@media screen and (min-width: 30em) {
+  .w-48-ns { width: 48%; }
+}
+
+@media screen and (min-width: 60em) {
+  .w-32-l { width: 32%; }
+}
+
+@media screen and (min-width: 90em) {
+  .ph6-xl { padding-left: 8rem; padding-right: 8rem; }
 }

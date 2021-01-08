@@ -6,19 +6,38 @@ layout: default
 {% assign places = site.data.places | sort: "name" %}
 {% assign categories = site.data.categories | sort: "display_name" %}
 
-<div class="flex flex-wrap center pv2 ph2 ph5-ns">
-  {% for category in categories %}
-    {% include category_section.html cat=category.name heading=category.heading %}
+<nav>
+  <span class="heading-4">Jump to: </span>
+  <ul class="list pl0 mv2">
+    {% for category in categories %}
+    <li class="dib mr2"><a href="#{{category.name}}">{{category.heading}}</a></li>
   {% endfor %}
-</div>
+    <li class="dib mr2"><a href="#directory">Full Directory</a></li>
+  </ul>
+  
+</nav>
 
-<div class="w100 bg-white pt1 pb5 ph2 ph5-ns mt4 bt-ns b--black-20">
-  <div class="flex flex-wrap center">
-  <h2 class="w-100 f2 lh-solid tc">Full Directory</h2>
-  <h3 class="w-100 nt3 f3 lh-copy ttu tc light-red">All Open Businesses</h3>
-  <div class="flex flex-wrap">
+{% for category in categories %}
+<section id="{{ category.name }}" class="section">
+  {% assign category_places = places | where: "category", category.name %}
+
+  <div class="section-heading">
+    <h2 class="heading-2">{{ category.heading }}</h2>
+    <a href="#top" class="back-to-top">↑</a>
+  </div>
+  {% for place in category_places %}
+    {% include place.html %}
+  {% endfor %}
+
+</section>
+{% endfor %}
+
+<section id="directory" class="directory section">
+  <div class="section-heading full-directory">
+    <h2 class="heading-2">Full Directory</h2>
+    <a href="#top" class="back-to-top">↑</a>
+  </div>
   {% for place in places %}
     {% include place_mini.html %}
   {% endfor %}
-  </div>
-</div>
+</section>

@@ -1,41 +1,83 @@
-<div class="w-100 w-50-ns w-third-l pa2">
-  <div class="bg-white shadow-4 br2 h-100 pa3 flex flex-column items-start">
-    <div class="f4 lh-copy ttu">
-      {% if place.url %}<a class="link dim dark-blue" href="{{ place.url }}">{{ place.name }}</a>{% else %} {{ place.name }} {% endif %}
-      {% if place.social.instagram %}<a class="v-mid" href="{{ place.social.instagram }}"><img class="social_icon" src="icons/instagram.png"/></a>{% endif %}
-      {% if place.social.facebook %}<a class="v-mid" href="{{ place.social.facebook }}"><img class="social_icon" src="icons/facebook.png"/></a>{% endif %}
-      {% if place.social.untappd %}<a class="v-mid" href="{{ place.untappd }}"><img class="social_icon" src="icons/untappd.png"/></a>{% endif %}
-    </div>
-    {% unless place.status == "closed" %}
-    {% if place.phone %}
-    <div class="f7 lh-copy black-70"><a class="link dim purple" href="tel:{{ place.phone }}">{{ place.phone }}</a></div>
-    {% endif %}
-    {% if place.hours %}
-    <div class="f7 lh-copy black-70">{{ place.hours }}</div>
-    {% endif %}
-    {% endunless %}
-    
-    <div>
-      <p class="i f6 lh-copy mv2">{{ place.notes }}</p>
-    </div>
-    {% if place.links %}
-    <div class="mb2">
-    {% for link in place.links %}
-      <p class="f6 lh-solid mv2"><a class="link dim dark-green" href="{{ link.url }}">{{ link.title }}</a></p>
-    {% endfor %}
-    </div>
-    {% endif %}
-    {% unless place.status == "closed" %}
-    {% if place.services %}
-    <div class="mv1" style="margin-top: auto;">
-      {% for service in place.services %}
-      <a href="{{service[1]}}"><img class="service_icon" src="icons/{{service[0]}}.png" alt="{{service[0]}}" /></a>
+<div id="{{place.name | slugify}}" class="place-card">
+  <div class="key-info">
+    <h3 class="heading-3">
+      {% if place.url %}<a href="{{ place.url }}">{{ place.name }}</a>{% else %} {{ place.name }} {% endif %}
+    </h3>
+    {% if place.social %}
+    <div class="social-icons">
+      {% for network in place.social %}
+      <a class="v-mid" href="{{ network[1] }}"><img class="social-icon" src="icons/{{ network[0] }}.png" alt="{{ network[0] }}"></a>
       {% endfor %}
     </div>
     {% endif %}
-    {% endunless %}
+  </div>
+
+    {% if place.phone or place.address %}
+      <div class="text-small gray">
+        {% if place.address %}{{ place.address }}{% if place.address and place.phone %} · {% endif %}{% endif%}
+        {% if place.phone %}<a class="hover-link" href="tel:{{ place.phone }}">{{ place.phone }}</a>{% endif%}
+      </div>
+      {% endif %}
+    <div>
+      <p class="place-notes">{{ place.notes }}</p>
+    </div>
+
+    {% if place.hours or place.classic_hours %}
+    <div class="place-section">
+      <h4 class="heading-4">Hours</h4>
+      {% if place.hours %}
+        <div class="flex">
+          {% for block in place.hours %}
+          <div class="hours-block {% if block.hours == 'Closed'%}closed{% endif %}"{% if block.span %} style="flex-grow: {{block.span}};"{% endif %}>
+            <div class="hours-block--days">
+              {{block.days}}
+            </div>
+            <div class="hours-block--hours">
+              {{block.hours}}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+        {% else %}
+        <p class="classic-hours">{{ place.classic_hours }}</p>
+      {% endif %}
+    </div>
+    {% endif %}
+
+    {% if place.services or place.supports %}
+    <div class="place-section">
+      <h4 class="heading-4">How to Support</h4>
+      {% if place.supports %}
+      <ul class="place-list">
+        {% for item in place.supports %}
+        <li><img style="width: 16px; vertical-align: baseline;" src="icons/check.svg"> {{item}}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      
+      {% if place.services %}
+      <h5 class="heading-5">Online Ordering</h5>
+      {% for service in place.services %}
+      <a href="{{service[1]}}"><img class="service-icon" src="icons/{{service[0]}}.png" alt="{{service[0]}}" /></a>
+      {% endfor %}
+      {% endif %}
+    </div>
+    {% endif %}
+
+    {% if place.links %}
+    <div class="place-section">
+      <h4 class="heading-4">More Links</h4>
+
+      <ul class="place-list">
+        {% for link in place.links %}
+        <li><a class="link dim dark-green" href="{{ link.url }}">{{ link.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
     {% if place.last_updated %}
-    <div class="f7 lh-copy black-40" {% unless place.services %}style="margin-top: auto;"{% endunless %}>Last updated: {{ place.last_updated }}</div>
+    <div class="f7 lh-copy black-40" style="margin-top: auto;">Last updated: {{ place.last_updated }}</div>
     {% endif %}
   </div>
 </div>
