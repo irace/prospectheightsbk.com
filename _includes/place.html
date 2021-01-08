@@ -1,7 +1,7 @@
 <div id="{{place.name | slugify}}" class="place-card">
   <div class="key-info">
     <h3 class="heading-3">
-      {% if place.url %}<a class="hover-link" href="{{ place.url }}">{{ place.name }}</a>{% else %} {{ place.name }} {% endif %}
+      {% if place.url %}<a href="{{ place.url }}">{{ place.name }}</a>{% else %} {{ place.name }} {% endif %}
     </h3>
     {% if place.social %}
     <div class="social-icons">
