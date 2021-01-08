@@ -323,8 +323,8 @@
   links:
     - title: Gift Cards
       url: 'https://squareup.com/gift/C3K54BY60YNAP/order'
-    - title: Online Orders
-      url: 'https://beerstreetsouth550.com'
+  services:
+    direct: 'https://beerstreetsouth550.com' 
   social:
     instagram: 'https://www.instagram.com/beerstreetsouth/'
     facebook: 'http://www.facebook.com/beerstreetny'
@@ -347,9 +347,8 @@
       hours: 10AM - 7PM
   notes: >-
     New craft beer store just over the border in Park Slope.
-  links:
-    - title: Online Orders
-      url: 'https://www.clover.com/online-ordering/beer-witch-brooklyn'
+  services:
+    direct: 'https://www.clover.com/online-ordering/beer-witch-brooklyn'
   url: https://www.beerwitchbrooklyn.com/
 
 - name: Bergen Bagels
@@ -385,8 +384,6 @@
     - days: Sun
       hours: 12 - 9PM
   links:
-    - title: Online Orders
-      url: 'https://my-site-100819-102620.square.site'
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/covid19-relief-fund-for-bierwax-staff'
     - title: Gift Cards
@@ -395,6 +392,8 @@
     - Outdoor Seating
     - Pickup
     - Delivery
+  services:
+    direct: 'https://my-site-100819-102620.square.site'
   social:
     instagram: 'https://www.instagram.com/bierwax/'
     facebook: 'https://www.facebook.com/BierWax/'
@@ -500,11 +499,13 @@
       hours: 10 - 6PM
       span: 6
   links:
-    - title: Online Orders
-      url: 'https://bklynlarder.revelup.com/weborder/?establishment=2#index'
     - title: Gift Cards
       url: 'https://www.bklynlarder.com/gift-cards/'
-  notes: Open for pickup and delivery
+  services:
+    direct: 'https://bklynlarder.square.site/'
+  supports:
+    - Pickup
+    - Delivery
   social:
     instagram: 'https://www.instagram.com/bklynlarder/'
     facebook: 'https://www.facebook.com/BKLYN-LARDER-115860655123816/'
@@ -592,10 +593,8 @@
     - Outdoor Dining
     - Pickup
     - Delivery
-  links:
-    - title: Online Orders
-      url: 'https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=5e889b98-7f3f-467a-8eae-adc91eaa6008'
   services:
+    direct: 'https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=5e889b98-7f3f-467a-8eae-adc91eaa6008'
     doordash: 'https://www.doordash.com/store/born-thai-brooklyn-28507/en-US'
     postmates: 'https://postmates.com/merchant/born-thai-brooklyn'
     seamless: 'https://www.seamless.com/menu/born-thai-293-flatbush-ave-brooklyn/1152911'
@@ -617,8 +616,6 @@
       hours: 12 - 10PM
       span: 2
   links:
-    - title: Online Orders
-      url: 'https://branded.revelup.com/weborder/?establishment=1'
     - title: Merchandise
       url: 'https://www.brandedsaloon.com/support-branded'
     - title: Staff Relief Fund
@@ -628,6 +625,7 @@
     - Pickup
     - Delivery
   services:
+    direct: 'https://branded.revelup.com/weborder/?establishment=1'
     doordash: 'https://www.doordash.com/store/branded-cattle-saloon-inc-brooklyn-893199/1318299/en-US'
     seamless: 'https://www.seamless.com/menu/branded-saloon-603-vanderbilt-ave-brooklyn/298472'
   social:
@@ -776,9 +774,9 @@
     - days: Sun
       hours: 11AM - 9PM
   notes: >-
-    Get 10% off when ordering directly from
-    <a href="https://eat.9fold.me/index.html#/10955">their website</a>.
+    Get 10% off when ordering directly from their website.
   services:
+    direct: 'https://eat.9fold.me/index.html#/10955'
     doordash: 'https://www.doordash.com/store/chick-p-brooklyn-28639/en-US'
     postmates: 'https://postmates.com/merchant/chick-p-brooklyn'
     seamless: 'https://www.seamless.com/menu/chick-p-490-bergen-st-brooklyn/262480'
@@ -827,13 +825,12 @@
       span: 2
   notes: 'Open for outdoor dining, pickup and delivery.'
   links:
-    - title: Online Orders
-      url: 'https://ciaogloria.square.site'
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/ciao-gloria-employee-fund'
     - title: Gift Cards
       url: 'https://squareup.com/gift/0TSZB8YWYDFH0/order'
   services:
+    direct: 'https://ciaogloria.square.site'
     caviar: 'https://www.trycaviar.com/store/ciao--gloria-brooklyn-975195/en-US'
     doordash: 'https://www.doordash.com/store/ciao-gloria-brooklyn-975195/en-US'
   social:
@@ -868,10 +865,8 @@
     - Outdoor Dining
     - Pickup
     - Delivery
-  links:
-    - title: Online Orders
-      url: 'http://citricobrooklyn.com/order-online/'
   services:
+    direct: 'http://citricobrooklyn.com/order-online/'
     seamless: 'https://www.seamless.com/menu/citrico-681-washington-ave-brooklyn/291612'
   social:
     instagram: 'https://www.instagram.com/citricobk/'
@@ -910,10 +905,8 @@
   supports:
     - Pickup
     - Delivery
-  links:
-    - title: Online Orders
-      url: https://www.dickeys.com/quote/order-menu/1683-brooklyn/limited-time-only-108
   services:
+    direct: 'https://www.dickeys.com/quote/order-menu/1683-brooklyn/limited-time-only-108'
     seamless: 'https://www.seamless.com/menu/dickeys-barbecue-pit-196-a-flatbush-ave-brooklyn/736492'
   social:
     instagram: 'https://www.instagram.com/dickeys.bk/'
@@ -947,11 +940,10 @@
     - Delivery
     - Nationwide Shipping
   links:
-    - title: Online Orders
-      url: 'https://order.doughnutplant.com/locations/doughnutplant'
     - title: Gift Cards
       url: 'https://www.doughnutplant.com/store/gift-cards/'
   services:
+    direct: 'https://order.doughnutplant.com/locations/doughnutplant'
     goldbelly: 'https://www.goldbelly.com/doughnut-plant'
   social:
     instagram: 'https://www.instagram.com/doughnutplant/'
@@ -1143,9 +1135,7 @@
       hours: 12 - 9PM (Coffee & Pastries 8AM - 12PM)
       span: 7
   notes: >-
-    Beer to-go window and outdoor seating available. Check website and 
-    <a href="https://untappd.com/v/gold-star-beer-counter/3171446">Untappd</a>
-    for inventory.
+    Beer to-go window and outdoor seating available. Check website and Untappd for inventory.
   social:
     instagram: 'https://www.instagram.com/goldstarbeercounter/'
     untappd: 'https://untappd.com/v/gold-star-beer-counter/3171446'
@@ -1163,7 +1153,8 @@
   supports:
     - Outdoor Seating
     - Pickup
-    - Online Orders
+  services:
+    direct: https://gorillacoffee.com/
   social:
     instagram: 'https://www.instagram.com/gorillacoffee/'
   url: 'https://gorillacoffee.com'
@@ -1240,14 +1231,14 @@
       hours: 7AM - 5PM
       span: 7
   notes: >-
-    Local café with two locations in the neighborhood.
+    Two locations in the neighborhood.
   supports:
     - Pickup
   links:
-    - title: Online Orders
-      url: 'https://hungry-ghost-coffee.square.site/'
     - title: Gift Cards (20% Off)
       url: 'https://squareup.com/gift/86HHGQC7C1RMH/order'
+  services:
+    direct: 'https://hungry-ghost-coffee.square.site/'
   social:
     instagram: 'https://www.instagram.com/hungryghostcoffee/'
   url: 'https://www.hungryghostcoffee.com/'
@@ -1269,9 +1260,8 @@
   supports: 
     - Pickup
     - Delivery
-  links:
-    - title: Online Orders
-      url: 'https://www.beyondmenu.com/37303/brooklyn/inaka-asian-cuisine-brooklyn-11238.aspx'
+  services:
+    direct: 'https://www.beyondmenu.com/37303/brooklyn/inaka-asian-cuisine-brooklyn-11238.aspx'
   url: 'http://inakany.com'
 
 - name: The Islands
@@ -1311,7 +1301,7 @@
       hours: 4 - 9PM (Brunch 12 - 4PM Sun)
       span: 4
   links:
-      title: Staff Relief Fund
+    - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/james-staff-emergency-relief-fund'
   supports:
     - Outdoor Dining
@@ -1342,9 +1332,8 @@
   supports:
     - Pickup
     - Delivery
-  links:
-    - title: Online Orders
-      url: 'https://joyindianrestaurant.com/order' 
+  services:
+    direct: 'https://joyindianrestaurant.com/order' 
   url: 'http://joyindianrestaurant.com'
 
 - name: Kami Asian
@@ -1363,9 +1352,8 @@
       span: 2
     - days: Sun
       hours: 5 - 11PM
-  links:
-    - title: Online Orders
-      url: 'https://kamiasian.menucities.com/catalog.aspx?cid=66'
+  services:
+    direct: 'https://kamiasian.menucities.com/catalog.aspx?cid=66'
   social:
     facebook: 'https://www.facebook.com/kamiRestaurant'
   url: 'http://kamiasian.com'
@@ -1385,9 +1373,8 @@
     - Outdoor Dining
     - Pickup
     - Delivery
-  links:
-    - title: Online Orders
-      url: 'http://www.kisushigroup.com/catalog.aspx?cid=2'
+  services:
+    direct: 'http://www.kisushigroup.com/catalog.aspx?cid=2'
   social:
     instagram: 'https://www.instagram.com/ki_sushi_flatbush/'
   url: 'http://www.kisushigroup.com'
@@ -1718,9 +1705,11 @@
     - days: Sat - Sun
       hours: 11AM - 6PM
       span: 2
-  notes: >-
-    Pickup or delivery available via
-    <a href="https://www.mercato.com/shop/mermaids-garden">Mercato</a>.
+  supports:
+    - Pickup
+    - Delivery
+  services:
+    mercato: 'https://www.mercato.com/shop/mermaids-garden'
   social:
     instagram: 'https://www.instagram.com/mgfishnyc/'
   url: 'https://www.mermaidsgardennyc.com'
@@ -1742,10 +1731,8 @@
     - Outdoor Dining
     - Pickup
     - Delivery
-  links:
-    - title: Online Orders
-      url: 'https://mexicocina-brooklyn.foodieordersecure.com/'
   services:
+    direct: 'https://mexicocina-brooklyn.foodieordersecure.com/'
     caviar: 'https://www.trycaviar.com/m/mexicocina-agaveria-12562'
     postmates: 'https://postmates.com/merchant/mexicocina-agaveria-brooklyn'
     seamless: 'https://www.seamless.com/menu/mexicocina-agaveria-708-washington-ave-brooklyn/1136372'
@@ -1793,9 +1780,9 @@
   supports:
     - Pickup
     - Delivery
+  services:
+    direct: 'https://millefeuillebakery.square.site/'
   links:
-    - title: Online Orders
-      url: 'https://millefeuillebakery.square.site/'
     - title: Gift Cards
       url: 'https://squareup.com/gift/CBFYDTWZK7GYQ/order'
   social:
@@ -1826,11 +1813,10 @@
     - Pickup
     - Delivery
   links:
-    - title: Online Orders
-      url: 'https://www.makeitbutter.com/mokbar/mokbar-ii'
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/feed-our-warriors'
   services:
+    direct: 'https://www.makeitbutter.com/mokbar/mokbar-ii'
     caviar: 'https://www.trycaviar.com/m/mokbar-brooklyn-5085'
     seamless: 'https://www.seamless.com/menu/mokbar-ii-212-flatbush-ave-brooklyn/396396'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/mokbar-park-slope/bzwJfOzHRmOOYaScpluzyA'
@@ -1879,10 +1865,8 @@
     - Outdoor Dining
     - Pickup
     - Delivery
-  links:
-    - title: Online Orders
-      url: 'https://www.mumbaiplaceny.com/order'
   services:
+    direct: 'https://www.mumbaiplaceny.com/order'
     seamless: 'https://www.grubhub.com/restaurant/mumbai-place-655-vanderbilt-ave-brooklyn/334916'
   url: 'https://www.mumbaiplaceny.com/'
 
@@ -1899,9 +1883,8 @@
     - days: Wed - Sun
       hours: 4 - 10PM
       span: 5
-  links:
-    - title: Online Orders
-      url: 'https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=62edb62e-e0ac-4440-986d-1ac991199229'
+  services:
+    direct: 'https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=62edb62e-e0ac-4440-986d-1ac991199229'
   social:
     instagram: 'https://www.instagram.com/musethai/'
     facebook: 'https://www.facebook.com/musebklyn'
@@ -1981,7 +1964,10 @@
   links:
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/ode-to-babel-team'
-  notes: Outdoor seating is available. Also open for pickup and delivery
+  supports:
+    - Outdoor Seating
+    - Pickup
+    - Delivery
   services:
     seamless: 'https://www.seamless.com/menu/ode-to-babel-706-washington-ave-new-york/2250322'
   social:
@@ -2036,17 +2022,25 @@
   category: food-drink
   address: 659 Vanderbilt Ave.
   phone: (718) 552-2610
-  # classic_hours: 5 - 10PM (Wed - Sun), 12 -3PM (Sat / Sun lunch)
+  # hours:
+  #   - days: Mon - Tue
+  #     hours: Closed
+  #     span: 2
+  #   - days: Wed - Fri
+  #     hours: 5 - 10PM
+  #     span: 3
+  #   - days: Sat - Sun
+  #     hours: 12 - 3PM, 5 - 10PM
+  #     span: 2
   notes: >-
-    Temporarily closed until Jan. 13, 2021.
+    Temporarily closed until Jan. 13.
   links:
-    - title: Online Orders
-      url: 'https://bbot.menu/olmsteddeliveryorpickup/'
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund'
     - title: Gift Cards
       url: 'https://ecommerce.custcon.com/Purchase/Select?c=3e6823e0-52c7-4c1b-af3d-1bb13862c508'
   services:
+    direct: 'https://bbot.menu/olmsteddeliveryorpickup/'
     seamless: 'https://www.seamless.com/menu/olmsted-659-vanderbilt-ave-brooklyn/2365207'
     resy: 'https://resy.com/cities/ny/olmsted'
   social:
@@ -2069,13 +2063,12 @@
     - Outdoor Seating
     - Pickup
   links:
-    - title: Online Orders
-      url: 'https://store.oven.ly/'
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/ovenly-employee-fund'
     - title: Gift Cards
       url: 'https://squareup.com/gift/8BW3A1HN5907S/order'
   services:
+    direct: 'https://store.oven.ly/'
     caviar: 'https://www.trycaviar.com/m/ovenly--park-slope-7325'
     goldbelly: 'https://www.goldbelly.com/ovenly'
   social:
@@ -2089,7 +2082,7 @@
   phone: (347) 627-8298
   # classic_hours: '4 - 9PM (Fri), 12 - 9PM (Sat / Sun)'
   notes: >-
-    Final weekend of Oxalis Pantry before a winter pause.
+    Oxalis Pantry ends for a winter pause on Jan. 10.
   links:
     - title: Oxalis Pantry
       url: 'https://www.oxalispantry.com/'
@@ -2122,10 +2115,8 @@
     - Outdoor Dining
     - Pickup
     - Delivery
-  links:
-    - title: Online Orders
-      url: 'https://eat.9fold.me/index.html#/10769'
   services:
+    direct: 'https://eat.9fold.me/index.html#/10769'
     seamless: 'https://www.seamless.com/menu/patsys-pizzeria-450-dean-st-brooklyn/320844'
   social:
     instagram: 'https://www.instagram.com/patsyspizzabk/'
@@ -2188,11 +2179,9 @@
     - Outdoor Dining
     - Pickup
     - Delivery
-  links:
-    - title: Online Orders
-      url: 'https://ritual.co/order/poke-tiky-bar-vanderbilt-ave-bergen-st-prospect-heights/6e65'
   services:
-    doordash: https://www.doordash.com/store/poke-tiky-bar-caffe-brooklyn-1058092/en-US
+    direct: 'https://ritual.co/order/poke-tiky-bar-vanderbilt-ave-bergen-st-prospect-heights/6e65'
+    doordash: 'https://www.doordash.com/store/poke-tiky-bar-caffe-brooklyn-1058092/en-US'
   url: 'https://poketikybar.com/'
 
 - name: Puerto Viejo
@@ -2428,7 +2417,7 @@
   category: food-drink
   address: 238 Flatbush Ave.
   phone: (718) 230-3954
-  notes: Call ahead to order
+  notes: Call ahead to order.
   social:
     instagram: 'https://www.instagram.com/sugarcane_restaurant/'
 
@@ -2543,9 +2532,11 @@
     - days: Mon - Sun
       hours: 11:15AM - 10PM
       span: 7
-  notes: >-
-    <a href="https://www.opendining.net/menu/4fd8ca07000d972008000172">Order
-    online</a> for pickup and delivery
+  services:
+    direct: 'https://www.opendining.net/menu/4fd8ca07000d972008000172'
+  supports:
+    - Pickup
+    - Delivery
   social:
     instagram: 'https://www.instagram.com/udomthai/'
     facebook: 'https://www.facebook.com/UdomThai'
@@ -2610,7 +2601,9 @@
   links:
     - title: Gift Cards
       url: 'https://squareup.com/gift/FR6ZMQGP6CJ1S/order?external_source=giveandgetlocal'
-  notes: Order online for pickup and delivery.
+  supports:
+      - Pickup 
+      - Delivery
   services:
     caviar: 'https://www.trycaviar.com/store/van-leeuwen-ice-cream-brooklyn-773893/en-US'
     postmates: 'https://postmates.com/merchant/van-leeuwen-ice-cream-brooklyn'
@@ -2708,8 +2701,12 @@
   address: 595 Vanderbilt Ave.
   phone: (718) 783-7500
   notes: >-
-    Open for pickup and delivery, now with online ordering.
     Five people at a time inside.
+  supports:
+    - Pickup
+    - Delivery
+  services:
+    direct: 'https://wineexchangebkn.com/'
   social:
     instagram: 'https://www.instagram.com/wineexchangebkn/'
   url: 'https://wineexchangebkn.com/'
@@ -2719,9 +2716,6 @@
   category: wine-liquor
   address: 679 Washington Ave.
   phone: (347) 715-6693
-  notes: >-
-    <a href="https://wineyneighbor.com/#&StoreFrontLocationHash=%23%2Fwidget%2F5a6f49faf4a6613ee3696dbb%2Fcontainers">Order
-    online</a> for pickup and delivery
   hours:
     - days: Mon - Wed
       hours: 1 - 8PM
@@ -2733,6 +2727,11 @@
       hours: 11AM - 9PM
     - days: Sun
       hours: 12 - 9PM
+  services:
+    direct: 'https://wineyneighbor.com/#&StoreFrontLocationHash=%23%2Fwidget%2F5a6f49faf4a6613ee3696dbb%2Fcontainers'
+  supports:
+    - Pickup
+    - Delivery
   social:
     instagram: 'https://www.instagram.com/wineyneighbor/'
     facebook: 'https://www.facebook.com/wineyneighbor'
@@ -2752,10 +2751,8 @@
   supports:
     - Pickup
     - Delivery
-  links:
-    - title: Online Orders
-      url: 'https://zaytoons.foodieordersecure.com/'
   services:
+    direct: 'https://zaytoons.foodieordersecure.com/'
     caviar: 'https://www.trycaviar.com/store/zaytoons-brooklyn-1048506/en-US'
   social:
     instagram: 'https://www.instagram.com/zaytoonsrestaurant/'
