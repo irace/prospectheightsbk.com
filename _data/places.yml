@@ -1931,6 +1931,27 @@
     facebook: 'https://www.facebook.com/NachoMachoTacoBK/'
   url: 'http://www.nachomachotaco.net'
 
+- name: Nimbooda
+  last_updated: 1/10
+  category: food-drink
+  address: 664 Washington Ave.
+  phone: (718) 622-4616
+  hours:
+    - days: Mon - Thu
+      hours: 11:30AM - 10:30PM
+      span: 4
+    - days: Fri - Sat
+      hours: 11:30AM - 11PM
+      span: 2
+    - days: Sun
+      hours: 11:30AM - 10:30PM
+  services:
+    direct: 'https://www.ezcater.com/catering/pvt/nimbooda-3'
+  social:
+    instagram: 'https://www.instagram.com/nimboodanyc'
+    facebook: 'https://www.facebook.com/nimboodanyc'
+  url: 'https://nimboodanyc.com/'
+
 - name: Nourish Thai
   last_updated: 1/6
   category: food-drink
