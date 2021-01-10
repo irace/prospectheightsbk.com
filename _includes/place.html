@@ -22,10 +22,10 @@
       <p class="place-notes">{{ place.notes }}</p>
     </div>
 
-    {% if place.hours or place.classic_hours %}
+    {% unless place.status == 'closed' %}
+    {% if place.hours %}
     <div class="place-section">
       <h4 class="heading-4">Hours</h4>
-      {% if place.hours %}
         <div class="flex">
           {% for block in place.hours %}
           <div class="hours-block {% if block.hours == 'Closed'%}closed{% endif %}"{% if block.span %} style="flex-grow: {{block.span}};"{% endif %}>
@@ -38,9 +38,6 @@
           </div>
           {% endfor %}
         </div>
-        {% else %}
-        <p class="classic-hours">{{ place.classic_hours }}</p>
-      {% endif %}
     </div>
     {% endif %}
 
@@ -63,10 +60,11 @@
       {% endif %}
     </div>
     {% endif %}
+    {% endunless %}
 
     {% if place.links %}
     <div class="place-section">
-      <h4 class="heading-4">More Links</h4>
+      <h4 class="heading-4">Links</h4>
 
       <ul class="place-list">
         {% for link in place.links %}
