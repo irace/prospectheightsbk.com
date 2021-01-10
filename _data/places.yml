@@ -2646,7 +2646,7 @@
     seamless: 'https://www.seamless.com/menu/washington-avenue-cafe-621-washington-ave-brooklyn/900005'
 
 - name: Weather Up
-  last_updated: 1/6
+  last_updated: 1/10
   category: food-drink
   address: 589 Vanderbilt Ave.
   hours:
@@ -2659,10 +2659,17 @@
     - days: Sat - Sun
       hours: 2 - 10PM
       span: 2
+  notes: >-
+    Classic craft cocktails, now offering delivery.
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/weather-up-staff-relief'    
-  notes: Outdoor seating is available. Also open for pickup.
+  supports:
+    - Outdoor Seating
+    - Pickup
+    - Delivery
+  services:
+    seamless: 'https://www.seamless.com/menu/weather-up-589-vanderbilt-ave-brooklyn/2486038'
   social:
     instagram: 'https://www.instagram.com/weatherupbars/'
   url: 'http://www.weatherupnyc.com/'
