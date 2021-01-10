@@ -98,7 +98,7 @@
   services:
     chownow: 'https://direct.chownow.com/order/21483/locations/31103'
     seamless: 'https://www.seamless.com/menu/amorina-cucina-rustica-624-vanderbilt-ave-brooklyn/292222'
-    grubhub: 'https://www.grubhub.com/restaurant/menu/amorina-cucina-rustica-624-vanderbilt-ave-brooklyn/292222'
+    grubhub: 'https://www.grubhub.com/restaurant/amorina-cucina-rustica-624-vanderbilt-ave-brooklyn/292222'
   social:
     instagram: 'https://www.instagram.com/amorinapizza/'
   url: 'http://www.amorinapizza.com/'
@@ -1948,7 +1948,7 @@
     chownow: 'https://eat.chownow.com/discover/restaurant/11724'
     caviar: 'https://www.trycaviar.com/m/nourish-thai-12825'
     seamless: 'https://www.seamless.com/menu/nourish-637a-vanderbilt-ave-brooklyn/429623'
-    grubhub: 'https://www.grubhub.com/restaurant/menu/nourish-637a-vanderbilt-ave-brooklyn/429623'
+    grubhub: 'https://www.grubhub.com/restaurant/nourish-637a-vanderbilt-ave-brooklyn/429623'
   social:
     instagram: 'https://www.instagram.com/nourishthai/'
     facebook: 'https://www.facebook.com/283358058777333'
@@ -1988,15 +1988,17 @@
   notes: >-
     Offering co-working space in pre-booked slots weekdays from 10AM - 5PM.
   links:
+    - title: Donate
+      url: 'https://www.odetobabel.com/checkout/donate?donatePageId=5fc954f6c0364528a362a6ef'
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/ode-to-babel-team'
   supports:
     - Outdoor Seating
     - Pickup
-    - Delivery
-  services:
-    seamless: 'https://www.seamless.com/menu/ode-to-babel-706-washington-ave-new-york/2250322'
-    grubhub: 'https://www.grubhub.com/restaurant/ode-to-babel-706-washington-ave-new-york/2250322'
+  #   - Delivery
+  # services:
+  #   seamless: 'https://www.seamless.com/menu/ode-to-babel-706-washington-ave-new-york/2250322'
+  #   grubhub: 'https://www.grubhub.com/restaurant/ode-to-babel-706-washington-ave-new-york/2250322'
   social:
     instagram: 'https://instagram.com/odetobabel'
   url: 'https://www.odetobabel.com/'
