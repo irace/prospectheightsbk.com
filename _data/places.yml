@@ -73,7 +73,8 @@
   url: 'https://altacalidadbk.com'
 
 - name: Amorina Pizza
-  last_updated: 1/6
+  last_updated: 1/10
+  status: closed
   category: food-drink
   address: 624 Vanderbilt Ave.
   phone: (718) 230-3030
@@ -90,7 +91,7 @@
     - days: Sun
       hours: 4 - 9PM
   notes: >-
-    Roman-style artisanal pizza and pasta in the heart of Prospect Heights.
+    Temporarily closed — “hibernation, if you will” — until the weather warms up.
   supports:
     - Outdoor Seating
     - Pickup
@@ -964,7 +965,6 @@
   category: food-drink
   address: 387 Flatbush Ave.
   phone: (201) 482-7247
-  classic_hours: 
   services:
     seamless: 'https://www.seamless.com/menu/el-paso-mexican-grill-ii-387-flatbush-ave-brooklyn/309183'
     grubhub: 'https://www.grubhub.com/restaurant/el-paso-mexican-grill-ii-387-flatbush-ave-brooklyn/309183'
@@ -1011,7 +1011,7 @@
   services:
     seamless: 'https://www.seamless.com/menu/faun-606-vanderbilt-ave-brooklyn/2423917'
     grubhub: 'https://www.grubhub.com/restaurant/faun-606-vanderbilt-ave-brooklyn/2423917'
-    caviar: 'https://www.trycaviar.com/m/faun-17403'
+    caviar: 'https://www.trycaviar.com/store/faun-brooklyn-133004/en-US'
     resy: 'https://resy.com/cities/ny/faun'
   social:
     instagram: 'https://www.instagram.com/faun.nyc/'
@@ -1039,7 +1039,8 @@
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/fausto-employee-fund'
   services:
-    caviar: 'https://www.trycaviar.com/m/fausto-9171'
+    caviar: 'https://www.trycaviar.com/store/fausto-brooklyn-993209/en-US'
+    doordash: 'https://www.doordash.com/store/fausto-brooklyn-993209/en-US'
     resy: 'https://resy.com/cities/ny/fausto'
     tock: 'https://www.exploretock.com/fausto'
   social:
@@ -1200,7 +1201,7 @@
     - title: Gift Cards
       url: 'https://www.caffedemartini.com/product/gift-card/'
   services:
-    caviar: 'https://www.trycaviar.com/m/gran-caffe-de-martini-19266'
+    caviar: 'https://www.trycaviar.com/store/gran-caffe--de-martini-brooklyn-524751/en-US'
     seamless: 'https://www.seamless.com/menu/gran-caffe-de-martini-609-vanderbilt-ave-brooklyn/1008604'
     grubhub: 'https://www.grubhub.com/restaurant/gran-caffe-de-martini-609-vanderbilt-ave-brooklyn/1008604'
   social:
@@ -1323,7 +1324,6 @@
     - Delivery
   services:
     chownow: 'https://direct.chownow.com/order/21833/locations/31667'
-    caviar: 'https://www.trycaviar.com/m/james-19693'
   social:
     instagram: 'https://www.instagram.com/jamesbklyn/'
     facebook: 'https://www.facebook.com/jamesrestaurant'
@@ -1554,7 +1554,8 @@
     - Pickup
     - Delivery
   services:
-    caviar: 'https://www.trycaviar.com/m/lincoln-station-758'
+    caviar: 'https://www.trycaviar.com/store/lincoln-station-brooklyn-20974/en-US'
+    doordash: 'https://www.doordash.com/store/lincoln-station-brooklyn-20974/en-US'
     seamless: 'https://www.seamless.com/menu/lincoln-station-409-lincoln-pl-brooklyn/315738'
     grubhub: 'https://www.grubhub.com/restaurant/lincoln-station-409-lincoln-pl-brooklyn/315738'
   social:
@@ -1613,7 +1614,8 @@
     - Pickup
     - Delivery
   services:
-    caviar: 'https://www.trycaviar.com/m/look-by-plant-love-house-11405'
+    caviar: 'https://www.trycaviar.com/store/look-by-plant-love-house-brooklyn-132880/en-US'
+    doordash: 'https://www.doordash.com/store/look-by-plant-love-house-brooklyn-132880/en-US'
     seamless: 'https://www.seamless.com/menu/look-by-plant-love-house-622-washington-ave-brooklyn/344210'
     grubhub: 'https://www.grubhub.com/restaurant/look-by-plant-love-house-622-washington-ave-brooklyn/344210'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/look-by-plant-love-house/IvIM_ZVuRniuCfOkMg9uXw'
@@ -1645,23 +1647,32 @@
     - title: Gift Cards
       url: 'https://squareup.com/gift/W0XRH9R9BY895/order'
   services:
-    caviar: 'https://www.trycaviar.com/m/lowerline-11359'
-    doordash: 'https://www.doordash.com/store/lowerline-brooklyn-524902/'
+    caviar: 'https://www.trycaviar.com/store/lowerline-brooklyn-524902/en-US'
+    doordash: 'https://www.doordash.com/store/lowerline-brooklyn-524902/en-US'
   social:
     instagram: 'https://www.instagram.com/lowerline/'
   url: 'https://www.lowerlinebk.com'
 
 - name: Maison Yaki
   last_updated: 1/6
+  status: closed
   category: food-drink
   address: 626 Vanderbilt Ave.
   phone: (718) 552-2609
-  # classic_hours: '3 - 9PM (Wed - Fri), 1 - 9PM (Sat / Sun)'
+  hours:
+    - days : Mon - Tue
+      hours: Closed
+    - days: Wed - Fri
+      hours: 3 - 9PM
+      span: 3
+    - days: Sat - Sun
+      hours: 1 - 9PM
+      span: 2
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund'
   notes: >-
-    Temporarily closed.
+    Temporarily closed following their successful Black Entrepreneurs Series.
   services:
     resy: 'https://resy.com/cities/ny/maison-yaki'
   social:
@@ -1750,7 +1761,8 @@
     - Delivery
   services:
     direct: 'https://mexicocina-brooklyn.foodieordersecure.com/'
-    caviar: 'https://www.trycaviar.com/m/mexicocina-agaveria-12562'
+    caviar: 'https://www.trycaviar.com/store/mexicocina-agaveria-brooklyn-981365/en-US'
+    doordash: 'https://www.doordash.com/store/mexicocina-agaveria-brooklyn-981365/en-US'
     postmates: 'https://postmates.com/merchant/mexicocina-agaveria-brooklyn'
     seamless: 'https://www.seamless.com/menu/mexicocina-agaveria-708-washington-ave-brooklyn/1136372'
     grubhub: 'https://www.grubhub.com/restaurant/mexicocina-agaveria-708-washington-ave-brooklyn/1136372'
@@ -1835,7 +1847,8 @@
       url: 'https://www.gofundme.com/f/feed-our-warriors'
   services:
     direct: 'https://www.makeitbutter.com/mokbar/mokbar-ii'
-    caviar: 'https://www.trycaviar.com/m/mokbar-brooklyn-5085'
+    caviar: 'https://www.trycaviar.com/store/mokbar-brooklyn-313085/en-US'
+    doordash: 'https://www.doordash.com/store/mokbar-brooklyn-313085/en-US'
     seamless: 'https://www.seamless.com/menu/mokbar-ii-212-flatbush-ave-brooklyn/396396'
     grubhub: 'https://www.grubhub.com/restaurant/mokbar-ii-212-flatbush-ave-brooklyn/396396'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/mokbar-park-slope/bzwJfOzHRmOOYaScpluzyA'
@@ -1862,7 +1875,7 @@
     - title: Merchandise
       url: 'https://www.morgansbrooklynbarbecue.com/store/'
   services:
-    caviar: 'https://www.trycaviar.com/m/morgans-brooklyn-barbecue-11362'
+    caviar: 'https://www.trycaviar.com/store/morgan-s-barbecue-brooklyn-22100/en-US'
     doordash: 'https://www.doordash.com/store/morgan-s-barbecue-brooklyn-22100/en-US'
     seamless: 'https://www.seamless.com/menu/morgans-brooklyn-barbecue-267-flatbush-ave-brooklyn/317192'
     grubhub: 'https://www.grubhub.com/restaurant/morgans-brooklyn-barbecue-267-flatbush-ave-brooklyn/317192'
@@ -1967,7 +1980,8 @@
     - Delivery
   services:
     chownow: 'https://eat.chownow.com/discover/restaurant/11724'
-    caviar: 'https://www.trycaviar.com/m/nourish-thai-12825'
+    caviar: 'https://www.trycaviar.com/store/nourish-brooklyn-132982/en-US'
+    doordash: 'https://www.doordash.com/store/nourish-brooklyn-132982/en-US'
     seamless: 'https://www.seamless.com/menu/nourish-637a-vanderbilt-ave-brooklyn/429623'
     grubhub: 'https://www.grubhub.com/restaurant/nourish-637a-vanderbilt-ave-brooklyn/429623'
   social:
@@ -2071,19 +2085,20 @@
 
 - name: Olmsted
   last_updated: 1/6
+  status: closed
   category: food-drink
   address: 659 Vanderbilt Ave.
   phone: (718) 552-2610
-  # hours:
-  #   - days: Mon - Tue
-  #     hours: Closed
-  #     span: 2
-  #   - days: Wed - Fri
-  #     hours: 5 - 10PM
-  #     span: 3
-  #   - days: Sat - Sun
-  #     hours: 12 - 3PM, 5 - 10PM
-  #     span: 2
+  hours:
+    - days: Mon - Tue
+      hours: Closed
+      span: 2
+    - days: Wed - Fri
+      hours: 5 - 10PM
+      span: 3
+    - days: Sat - Sun
+      hours: 12 - 3PM, 5 - 10PM
+      span: 2
   notes: >-
     Temporarily closed until Jan. 13.
   links:
@@ -2122,20 +2137,30 @@
       url: 'https://squareup.com/gift/8BW3A1HN5907S/order'
   services:
     direct: 'https://store.oven.ly/'
-    caviar: 'https://www.trycaviar.com/m/ovenly--park-slope-7325'
+    caviar: 'https://www.trycaviar.com/store/ovenly-brooklyn-875245/en-US'
+    doordash: 'https://www.doordash.com/store/ovenly-brooklyn-875245/en-US'
     goldbelly: 'https://www.goldbelly.com/ovenly'
   social:
     instagram: 'https://www.instagram.com/ovenly/'
   url: 'https://www.oven.ly'
 
 - name: Oxalis
-  last_updated: 1/6
+  last_updated: 1/10
+  status: closed
   category: food-drink
   address: 791 Washington Ave.
   phone: (347) 627-8298
-  # classic_hours: '4 - 9PM (Fri), 12 - 9PM (Sat / Sun)'
+  hours:
+    - days: Mon - Thu
+      hours: Closed
+      span: 4
+    - days: Fri
+      hours: 4 - 9PM
+    - days: Sat - Sun
+      hours: 12 - 9PM
+      span: 2
   notes: >-
-    Oxalis Pantry ends for a winter pause on Jan. 10.
+    Temporarily closed winter pause starting Jan. 10.
   links:
     - title: Oxalis Pantry
       url: 'https://www.oxalispantry.com/'
@@ -2257,7 +2282,7 @@
     - Pickup
     - Delivery
   services:
-    caviar: 'https://www.trycaviar.com/t/brooklyn-queens/puerto-viejo-733'
+    caviar: 'https://www.trycaviar.com/store/puerto-viejo-brooklyn-19731/en-US'
   social:
     instagram: 'https://www.instagram.com/puertoviejony/'
     facebook: 'https://www.facebook.com/PuertoViejoNY'
@@ -2668,6 +2693,7 @@
       - Delivery
   services:
     caviar: 'https://www.trycaviar.com/store/van-leeuwen-ice-cream-brooklyn-773893/en-US'
+    doordash: 'https://www.doordash.com/store/van-leeuwen-ice-cream-brooklyn-773893/en-US'
     postmates: 'https://postmates.com/merchant/van-leeuwen-ice-cream-brooklyn'
     uber_eats: 'https://www.ubereats.com/en-US/new-york/food-delivery/van-leeuwen-artisan-ice-cream-prospect-heights/lRdl_U-mS8yow9R-xiO2ZQ/'
     goldbelly: 'https://www.goldbelly.com/van-leeuwen-artisan-ice-cream'
@@ -2826,6 +2852,7 @@
   services:
     direct: 'https://zaytoons.foodieordersecure.com/'
     caviar: 'https://www.trycaviar.com/store/zaytoons-brooklyn-1048506/en-US'
+    doordash: 'https://www.doordash.com/store/zaytoons-brooklyn-1048506/en-US'
   social:
     instagram: 'https://www.instagram.com/zaytoonsrestaurant/'
     facebook: 'https://www.facebook.com/zaytoonsrestaurant/'
