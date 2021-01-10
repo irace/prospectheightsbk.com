@@ -623,8 +623,6 @@
       hours: 12 - 10PM
       span: 2
   links:
-    - title: Merchandise
-      url: 'https://www.brandedsaloon.com/support-branded'
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/relief-fund-for-branded-saloon'
   supports:
@@ -708,7 +706,7 @@
   social:
     instagram: 'https://www.instagram.com/burritobarbk'
     facebook: 'https://www.facebook.com/BurritoBarBrooklyn'
-  url: 'https://www.burritobarbrooklyn.com'
+  url: 'https://www.burritobarbrooklyn.com/'
 
 - name: Cataldo’s
   last_updated: 1/6
@@ -2240,7 +2238,7 @@
   social:
     instagram: 'https://www.instagram.com/puertoviejony/'
     facebook: 'https://www.facebook.com/PuertoViejoNY'
-  url: 'http://www.puertoviejony.com/'
+  url: 'https://www.puertoviejony.com/'
 
 - name: Private Yoga Lessons
   last_updated: 3/25/2020
@@ -2269,7 +2267,7 @@
   url: 'https://prospectbutcher.co/'
 
 - name: R&D Foods
-  last_updated: 1/6
+  last_updated: 1/10
   category: grocery
   address: 602 Vanderbilt Ave.
   phone: (347) 915-1196
@@ -2278,9 +2276,12 @@
       hours: 8AM - 7PM
       span: 7
   links:
-    - title: Gift Cards
-      url: 'https://www.rdfoodsbklyn.com/gifts'
-  notes: Outdoor seating is available. Also open for pickup and delivery.
+    - title: 'Gift Cards & Merch'
+      url: 'https://www.rdfoodsbklyn.com/swag-shop'
+  supports:
+    - Outdoor Seating
+    - Pickup
+    - Delivery
   services:
     chownow: 'https://ordering.chownow.com/order/11145/locations'
   social:
@@ -2638,7 +2639,7 @@
       span: 7
   links:
     - title: Gift Cards
-      url: 'https://squareup.com/gift/FR6ZMQGP6CJ1S/order?external_source=giveandgetlocal'
+      url: 'https://squareup.com/gift/FR6ZMQGP6CJ1S/order'
   supports:
       - Pickup 
       - Delivery
