@@ -1302,16 +1302,16 @@
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/the-islands/9jFnKcjVRBuUOpsVlzSgsg'
 
 - name: James
-  last_updated: 1/6
+  last_updated: 1/12
   category: food-drink
   address: 605 Carlton Ave.
   phone: (718) 942-4255
   hours:
-    - days: Mon - Tue
+    - days: Mon
       hours: 4 - 9PM
-      span: 2
-    - days: Wed
+    - days: Tue - Wed
       hours: Closed
+      span: 2
     - days: Thu - Sun
       hours: 4 - 9PM (Brunch 12 - 4PM Sun)
       span: 4
