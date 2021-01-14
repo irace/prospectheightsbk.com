@@ -2084,8 +2084,7 @@
   url: 'http://www.oldebrooklynbagelshop.com'
 
 - name: Olmsted
-  last_updated: 1/6
-  status: closed
+  last_updated: 1/13
   category: food-drink
   address: 659 Vanderbilt Ave.
   phone: (718) 552-2610
@@ -2097,10 +2096,10 @@
       hours: 5 - 10PM
       span: 3
     - days: Sat - Sun
-      hours: 12 - 3PM, 5 - 10PM
+      hours: 12 - 10PM
       span: 2
   notes: >-
-    Temporarily closed until Jan. 13.
+    Trading Post and Cozy Cottage have reopened. Sat & Sun lunch until 3PM, dinner at 5PM
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund'
@@ -2557,7 +2556,7 @@
   url: 'https://www.sweetchick.com'
 
 - name: Sweet Polly
-  last_updated: 1/6
+  last_updated: 1/13
   category: food-drink
   address: 71 Sixth Ave.
   phone: (718) 484-9600
@@ -2565,7 +2564,7 @@
     - days: Mon - Tue
       hours: Closed
       span: 2
-    - days: Wed - FriW
+    - days: Wed - Fri
       hours: 4 - 10PM
       span: 3
     - days: Sat - Sun
