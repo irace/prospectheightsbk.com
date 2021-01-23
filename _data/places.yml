@@ -224,12 +224,13 @@
   address: 474 Bergen St.
   phone: (718) 629-8986
   hours: 
-    - days: Mon
+    - days: Mon - Tue
       hours: Closed
-    - days: Tue - Sat
+      span: 2
+    - days: Wed - Fri
       hours: 5 - 10PM
-      span: 5
-    - days: Sun
+      span: 3
+    - days: Sat - Sun
       hours: 3 - 8:30PM
   supports:
     - Outdoor Dining
