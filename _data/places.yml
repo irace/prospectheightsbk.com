@@ -219,7 +219,7 @@
   url: 'https://banhmiplacebklyn.com/'
 
 - name: Bar Goto Niban
-  last_updated: 1/6
+  last_updated: 1/23
   category: food-drink
   address: 474 Bergen St.
   phone: (718) 629-8986
@@ -1416,7 +1416,7 @@
   url: 'https://www.kimchigrill.com'
 
 - name: Kombit Bar and Restaurant
-  last_updated: 1/14
+  last_updated: 1/23
   category: food-drink
   address: 279 Flatbush Ave.
   phone: (718) 399-2000
@@ -1432,6 +1432,8 @@
     - Pickup
     - Delivery
   services:
+    seamless: 'https://www.seamless.com/menu/kombit-279-flatbush-ave-brooklyn/2494124'
+    grubhub: 'https://www.grubhub.com/restaurant/kombit-279-flatbush-ave-brooklyn/2494124'
     postmates: 'https://postmates.com/merchant/kombit-brooklyn'
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/kombit/xjLtYP3vRKqbA5ymW4XmGQ'
   social:
