@@ -289,7 +289,7 @@
   url: 'https://www.bcakeny.com/bcakenyshop/'
 
 - name: The Bearded Lady
-  last_updated: 1/6
+  last_updated: 1/25
   category: food-drink
   address: 686A Washington Ave.
   phone: (718) 230-7600
@@ -304,6 +304,9 @@
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/bearded-lady-staff-support-fund'
+  supports:
+    doordash: 'https://www.doordash.com/store/bearded-lady-brooklyn-1225994/en-US'
+    caviar: 'https://www.trycaviar.com/store/bearded-lady-brooklyn-1225994/en-US'
   social:
     instagram: 'https://www.instagram.com/bearded_lady_brooklyn/'
     facebook: 'https://www.facebook.com/BeardedLadyBrooklyn/'
