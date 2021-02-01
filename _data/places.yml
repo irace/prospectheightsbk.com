@@ -1525,14 +1525,16 @@
       hours: 1 - 8PM
       span: 5
   notes: >-
-    Newly opened neighborhood restaurant.
+    Newly opened neighborhood restaurant. “We are booking private cozy cabins and adding heaters outside. We have gift cards too now!”
   supports:
     - Outdoor Dining
     - Pickup
   social:
     instagram: https://www.instagram.com/lelandbrooklyn/
+    facebook: https://www.facebook.com/LelandBrooklyn
   services:
     toast: 'https://www.toasttab.com/lelandeatinganddrinkinghouse/v3'
+    resy: 'https://resy.com/cities/ny/leland-eating-and-drinking-house?date=2021-01-11&seats=2'
   url: 'https://www.lelandbrooklyn.com/'
 
 - name: Life Reorganized
