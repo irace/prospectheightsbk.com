@@ -1484,7 +1484,7 @@
   url: 'https://kulushkat.com'
 
 - name: LaLou
-  last_updated: 1/6
+  last_updated: 2/13
   category: food-drink
   address: 581 Vanderbilt Ave.
   hours:
@@ -1494,7 +1494,7 @@
       hours: 5:30 - 10PM
       span: 3
     - days: Fri - Sun
-      hours: 5 - 10PM (Lunch 12 - 4PM Sat / Sun)
+      hours: 5 - 10PM (Lunch 12 - 4PM)
       span: 3
   links:
     - title: Staff Relief Fund
@@ -1666,27 +1666,29 @@
   url: 'https://www.lowerlinebk.com'
 
 - name: Maison Yaki
-  last_updated: 1/6
-  status: closed
+  last_updated: 2/13
   category: food-drink
   address: 626 Vanderbilt Ave.
   phone: (718) 552-2609
   hours:
-    - days : Mon - Tue
-      hours: Closed
-    - days: Wed - Fri
-      hours: 3 - 9PM
-      span: 3
+    - days : Mon - Fri
+      hours: 5 - 10PM
+      span: 5
     - days: Sat - Sun
-      hours: 1 - 9PM
+      hours: 3 - 10PM
       span: 2
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund'
   notes: >-
-    Temporarily closed following their successful Black Entrepreneurs Series.
+    Reopened as of 2/10
   services:
+    doordash: 'https://www.doordash.com/store/maison-yaki-brooklyn-993219/en-US'
+    caviar: 'https://www.trycaviar.com/store/maison-yaki-brooklyn-993219/en-US'
+    seamless: 'https://www.seamless.com/menu/maison-yaki-626-vanderbilt-ave-brooklyn/2569903'
+    grubhub: 'https://www.grubhub.com/restaurant/maison-yaki-626-vanderbilt-ave-brooklyn/2569903'
     resy: 'https://resy.com/cities/ny/maison-yaki'
+    
   social:
     instagram: 'https://www.instagram.com/maisonyaki/'
   url: 'http://www.maisonyaki.com/'
@@ -1869,19 +1871,23 @@
   url: 'https://www.mokbar.com'
 
 - name: Morgan’s BBQ
-  last_updated: 1/6
+  last_updated: 2/13
   category: food-drink
   address: 267 Flatbush Ave.
   phone: (718) 622-2224
+  status: closed
   hours:
     - days: Mon - Sun
       hours: 12 - 10PM (Delivery until 11PM)
       span: 7
+  notes: 'Temporarily closed after a kitchen fire.'
   supports:
     - Outdoor Dining
     - Pickup
     - Delivery
   links:
+    - title: GoFundMe for Morgan’s and neighbors
+      url: 'https://www.gofundme.com/f/emergency-fire-response-fund'
     - title: Gift Cards
       url: 'https://www.morgansbrooklynbarbecue.com/store/gift-cards/'
     - title: Merchandise
@@ -2416,12 +2422,12 @@
     instagram: 'https://www.instagram.com/shanes_brooklyn/'
 
 - name: Sharlene’s Bar
-  last_updated: 1/6
+  last_updated: 2/13
   address: 353 Flatbush Ave.
   category: food-drink
   hours:
     - days: Mon - Sun
-      hours: 3 - 10PM
+      hours: 2 - 10PM
       span: 7
   supports:
     - Outdoor Seating
@@ -2596,6 +2602,17 @@
     instagram: 'https://www.instagram.com/sweetpollynyc/'
     facebook: 'https://www.facebook.com/sweetpollynyc/'
   url: 'http://www.sweetpollynyc.com'
+
+- name: Tiny’s Cantina
+  last_updated: 2/12
+  category: food-drink
+  address: 229 Flatbush Ave.
+  status: closed
+  notes: >-
+    New restaurant coming soon by the Morgan's BBQ team in the former Shorty’s space. 
+  social:
+    instagram: 'https://instagram.com/tinyscantina'
+  url: 'https://www.tinyscantina.com/'
 
 - name: Tom’s Restaurant
   last_updated: 1/6
