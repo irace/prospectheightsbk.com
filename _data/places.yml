@@ -836,12 +836,15 @@
     - days: Sat - Sun
       hours: 9AM - 5PM
       span: 2
-  notes: 'Open for outdoor dining, pickup and delivery.'
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/ciao-gloria-employee-fund'
     - title: Gift Cards
       url: 'https://squareup.com/gift/0TSZB8YWYDFH0/order'
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   services:
     direct: 'https://ciaogloria.square.site'
     caviar: 'https://www.trycaviar.com/store/ciao--gloria-brooklyn-975195/en-US'
@@ -2609,7 +2612,7 @@
   address: 229 Flatbush Ave.
   status: closed
   notes: >-
-    New restaurant coming soon by the Morgan's BBQ team in the former Shorty’s space. 
+    New restaurant coming soon by the Morgan's BBQ team in the former Shorty’s space.
   social:
     instagram: 'https://instagram.com/tinyscantina'
   url: 'https://www.tinyscantina.com/'
