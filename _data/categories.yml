@@ -1,24 +1,21 @@
-- name: bar
-  heading: Bars
-  order: 2
+- name: food-drink
+  heading: 'Bars & Restaurants'
+  order: 1
 - name: cafe
   heading: Cafes
-  order: 3
-- name: food-drink
-  heading: 'Restaurants'
-  order: 1
+  order: 2
 - name: dessert
   heading: Desserts
-  order: 4
+  order: 3
 - name: grocery
   heading: Grocers
-  order: 5
+  order: 4
 - name: service
   heading: Services
-  order: 6
+  order: 5
 - name: store
   heading: Stores
-  order: 7
+  order: 6
 - name: wine-liquor
   heading: 'Wine & Liquor Stores'
-  order: 8
+  order: 7
