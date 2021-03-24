@@ -1,21 +1,21 @@
-- name: cafe
-  display_name: Cafe
-  heading: Cafes
 - name: food-drink
-  display_name: 'Bar / Restaurant'
   heading: 'Bars & Restaurants'
+  order: 1
+- name: cafe
+  heading: Cafes
+  order: 2
 - name: dessert
-  display_name: Dessert
   heading: Desserts
+  order: 3
 - name: grocery
-  display_name: Grocer
   heading: Grocers
+  order: 4
 - name: service
-  display_name: Service
   heading: Services
+  order: 5
 - name: store
-  display_name: Store
   heading: Stores
+  order: 6
 - name: wine-liquor
-  display_name: 'Wine & Liquor'
   heading: 'Wine & Liquor Stores'
+  order: 7
