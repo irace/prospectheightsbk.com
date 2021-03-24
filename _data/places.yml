@@ -389,6 +389,7 @@
     - title: Gift Cards
       url: 'https://squareup.com/gift/MY2KY2405T5NT/order'
   supports:
+    - Indoor Seating
     - Outdoor Seating
     - Pickup
     - Delivery
@@ -1528,6 +1529,7 @@
   notes: >-
     Newly opened neighborhood restaurant. “We are booking private cozy cabins and adding heaters outside. We have gift cards too now!”
   supports:
+    - Indoor Dining
     - Outdoor Dining
     - Pickup
   social:
@@ -2053,7 +2055,7 @@
       hours: 12 - 10PM
       span: 7
   supports:
-    - Indoor Dining
+    - Indoor Seating
   social:
     instagram: 'https://www.instagram.com/oceans8billiards/'
     facebook: 'https://www.facebook.com/Oceans8'
@@ -2492,7 +2494,7 @@
   status: closed
   category: dessert
   notes: >-
-    New ice cream shop coming this summer from the creators of Ample Hills.
+    New ice cream shop coming this summer from the founders of Ample Hills.
   social:
     instagram: 'https://www.instagram.com/thebrooklynicecreamsocial/'
   
