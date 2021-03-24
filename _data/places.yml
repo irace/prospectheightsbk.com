@@ -1023,7 +1023,7 @@
   url: 'https://faun.nyc'
 
 - name: Fausto
-  last_updated: 1/6
+  last_updated: 3/24
   category: food-drink
   address: 348 Flatbush Ave.
   phone: (917) 909-1427
@@ -1037,6 +1037,7 @@
     - days: Sun
       hours: 5:30 - 8PM
   supports:
+    - Indoor Dining
     - Pickup
     - Delivery
   links:
@@ -2009,6 +2010,21 @@
     facebook: 'https://www.facebook.com/283358058777333'
   url: 'https://www.nourishthai.com'
 
+- name: The Nuaa Table
+  last_updated: 3/24
+  category: food-drink
+  address: 638 Bergen St.
+  phone: (718) 623-6395
+  notes: >-
+    New Thai restaurant at the corner of Bergen and Vanderbilt.
+  services:
+    doordash: 'https://www.doordash.com/store/the-nuaa-table-brooklyn-1528637'
+    seamless: 'https://www.seamless.com/menu/the-nuaa-table-638-bergen-st-brooklyn/2569456'
+    grubhub: 'https://www.grubhub.com/restaurant/the-nuaa-table-638-bergen-st-brooklyn/2569456'
+  social:
+    instagram: 'https://www.instagram.com/thenuaatable/'
+    facebook: 'https://www.facebook.com/thenuaatable/'
+
 - name: Nûrish
   last_updated: 1/6
   category: food-drink
@@ -2046,18 +2062,18 @@
   url: 'https://www.oceans8ny.com'
 
 - name: Ode to Babel
-  last_updated: 1/10
+  last_updated: 3/24
   category: food-drink
   address: 772 Dean St.
   hours: 
-    - days: Mon - Wed
+    - days: Mon - Tue
       hours: Closed
-      span: 3
-    - days: Thu - Sun
-      hours: 4 - 10PM
+      span: 2
+    - days: Wed - Sat
+      hours: 4 - 11PM
       span: 4
-  notes: >-
-    Offering co-working space in pre-booked slots weekdays from 10AM - 5PM.
+    - days: Sun
+      hours: 2 - 9PM
   links:
     - title: Donate
       url: 'https://www.odetobabel.com/checkout/donate?donatePageId=5fc954f6c0364528a362a6ef'
@@ -2658,6 +2674,23 @@
     instagram: 'https://www.instagram.com/tomsbrooklyn/'
   url: 'https://tomsbrooklyn.com'
 
+- name: Tooker Alley
+  last_updated: 3/24
+  category: food-drink
+  address: 793 Washington Ave.
+  supports:
+    - Pickup
+    - Outdoor Dining
+  hours:
+    - days: Mon - Wed
+      hours: Closed
+      span: 3
+    - days: Thu - Sun
+      hours: 5 - 10PM
+      span: 4
+  social:
+    instagram: 'https://www.instagram.com/tookeralley/'
+  
 - name: Udom Thai
   last_updated: 1/6
   category: food-drink
