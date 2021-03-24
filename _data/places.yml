@@ -1077,6 +1077,17 @@
     instagram: 'https://www.instagram.com/fermentedgrapesbk/'
   url: 'http://www.fermentedgrapes.net'
 
+- name: Flatbush Counter
+  last_updated: 3/24
+  category: food-drink
+  address: 295 Flatbush Ave.
+  status: closed
+  notes: >-
+    Coming soon in the former Rose’s space.
+  social:
+    instagram: 'https://www.instagram.com/flatbushcounter/'
+  url: 'https://www.flatbushcounter.com'
+
 - name: 'Four & Twenty Blackbirds'
   last_updated: 1/6
   category: dessert
@@ -2196,22 +2207,19 @@
   url: 'https://www.oven.ly'
 
 - name: Oxalis
-  last_updated: 1/10
-  status: closed
-  category: food-drink
+  last_updated: 3/24
   address: 791 Washington Ave.
   phone: (347) 627-8298
+  category: food-drink
   hours:
-    - days: Mon - Thu
+    - days: Mon - Tue
       hours: Closed
-      span: 4
-    - days: Fri
-      hours: 4 - 9PM
-    - days: Sat - Sun
-      hours: 12 - 9PM
       span: 2
+    - days: Wed - Sun
+      hours: 5:30 - 10PM
+      span: 5
   notes: >-
-    Temporarily closed winter pause starting Jan. 10.
+    Reopened as of March 24.
   links:
     - title: Oxalis Pantry
       url: 'https://www.oxalispantry.com/'
@@ -2219,10 +2227,13 @@
       url: 'https://www.gofundme.com/f/oxalis-employee-relief-fund'
     - title: Gift Cards
       url: 'https://www.oxalisnyc.com/store/gift-cards/'
+  supports:
+    - Indoor Dining
+    - Outdoor Dining
   services:
-    seamless: 'https://www.seamless.com/menu/oxalis-pantry-791-washington-ave-brooklyn/2454842'
-    grubhub: 'https://www.grubhub.com/restaurant/oxalis-pantry-791-washington-ave-brooklyn/2454842'
-    caviar: 'https://www.trycaviar.com/store/OxalisPantry-524932/en-US'
+    # seamless: 'https://www.seamless.com/menu/oxalis-pantry-791-washington-ave-brooklyn/2454842'
+    # grubhub: 'https://www.grubhub.com/restaurant/oxalis-pantry-791-washington-ave-brooklyn/2454842'
+    # caviar: 'https://www.trycaviar.com/store/OxalisPantry-524932/en-US'
     resy: 'https://resy.com/cities/ny/oxalisnyc'
   social:
     instagram: 'https://www.instagram.com/oxalisnyc/'
@@ -2487,6 +2498,29 @@
   social:
     instagram: 'https://www.instagram.com/sitandwondercoffeeshop/'
   url: 'http://sitandwonder.net/index.html'
+
+- name: The Sly Rose
+  last_updated: 3/24
+  address: 663 Washington Ave.
+  phone: (929) 554-3064
+  category: food-drink
+  notes: >-
+    New Italian restaurant run by the folks at Stocked.
+  hours:
+    - days: Mon - Tue
+      hours: Closed
+      span: 2
+    - days: Wed - Sun
+      hours: 5 - 9PM
+      span: 5
+  supports:
+    - Pickup
+    - Delivery
+  services:
+    toast: 'https://www.toasttab.com/theslyrose/v3'
+  social:
+    instagram: 'https://www.instagram.com/theslyrose/'
+  url: 'https://www.theslyrose.com'
 
 - name: The Social
   last_updated: 3/24
