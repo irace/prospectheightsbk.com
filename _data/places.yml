@@ -402,17 +402,20 @@
   url: 'https://www.bierwaxnyc.com'
 
 - name: Bilt Bar
-  last_updated: 1/6
+  last_updated: 3/24
   category: food-drink
   address: 583 Vanderbilt Ave.
   phone: (347) 295-3579
   hours: 
-    - days: Mon - Thu
+    - days: Mon - Tue
       hours: Closed
-      span: 4
-    - days: Fri - Sun
-      hours: 3 - 8PM
+      span: 2
+    - days: Wed - Fri
+      hours: 4 - 11PM
       span: 3
+    - days: Sat - Sun
+      hours: 12 - 11PM
+      span: 2
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/bilt-bar-bartenders-relief-fund'
@@ -1633,7 +1636,7 @@
   url: 'https://www.plantlovehouse.com/look'
 
 - name: Lowerline
-  last_updated: 1/6
+  last_updated: 3/24
   category: food-drink
   address: 794 Washington Ave.
   phone: (347) 533-7110
@@ -1641,11 +1644,12 @@
     - days: Mon
       hours: Closed
     - days: Tue - Fri
-      hours: 4 - 9PM
+      hours: 5 - 10PM
       span: 4
-    - days: Sat - Sun
-      hours: 12 - 9PM
-      span: 2
+    - days: Sat
+      hours: 12 - 10PM
+    - days: Sun
+      hours: 12 - 6PM
   supports:
     - Outdoor Dining
     - Pickup
@@ -1660,6 +1664,7 @@
     doordash: 'https://www.doordash.com/store/lowerline-brooklyn-524902/en-US'
   social:
     instagram: 'https://www.instagram.com/lowerline/'
+    facebook: 'https://www.facebook.com/lowerlinebk'
   url: 'https://www.lowerlinebk.com'
 
 - name: Maison Yaki
@@ -2024,6 +2029,22 @@
     instagram: 'https://www.instagram.com/nurishbk/'
   url: 'https://www.nurishbk.com'
 
+- name: 'Ocean’s 8'
+  last_updated: 3/24
+  category: food-drink
+  address: 308 Flatbush Ave.
+  phone: (718) 857-5555
+  hours:
+    - days: Mon - Sun
+      hours: 12 - 10PM
+      span: 7
+  supports:
+    - Indoor Dining
+  social:
+    instagram: 'https://www.instagram.com/oceans8billiards/'
+    facebook: 'https://www.facebook.com/Oceans8'
+  url: 'https://www.oceans8ny.com'
+
 - name: Ode to Babel
   last_updated: 1/10
   category: food-drink
@@ -2234,7 +2255,7 @@
   url: 'http://www.pennyhousecafe.com'
 
 - name: Piquant
-  last_updated: 1/6
+  last_updated: 3/24
   category: food-drink
   address: 259 Flatbush Ave.
   phone: (718) 484-4114
