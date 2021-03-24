@@ -1683,8 +1683,6 @@
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund'
-  notes: >-
-    Reopened as of 2/10
   services:
     doordash: 'https://www.doordash.com/store/maison-yaki-brooklyn-993219/en-US'
     caviar: 'https://www.trycaviar.com/store/maison-yaki-brooklyn-993219/en-US'
@@ -2487,6 +2485,17 @@
   social:
     instagram: 'https://www.instagram.com/sitandwondercoffeeshop/'
   url: 'http://sitandwonder.net/index.html'
+
+- name: The Social
+  last_updated: 3/24
+  address: 816 Washington Ave.
+  status: closed
+  category: dessert
+  notes: >-
+    New ice cream shop coming this summer from the creators of Ample Hills.
+  social:
+    instagram: 'https://www.instagram.com/thebrooklynicecreamsocial/'
+  
 
 - name: Sofreh
   last_updated: 1/6
