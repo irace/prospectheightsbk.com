@@ -34,8 +34,6 @@
   supports:
     - Curbside Pickup
     - Delivery
-  notes: >-
-    The neighborhood pet supply store, open for more than 35 years.
   social:
     instagram: 'https://www.instagram.com/acmepetfood/'
 
@@ -52,8 +50,6 @@
       span: 2
     - days: Sun
       hours: 11:30AM - 9:30PM
-  notes: >-
-    A modern Mexican restaurant at the corner of Dean and Vanderbilt.
   supports:
     - Outdoor Seating
     - Pickup
@@ -73,8 +69,7 @@
   url: 'https://altacalidadbk.com'
 
 - name: Amorina Pizza
-  last_updated: 1/10
-  status: closed
+  last_updated: 3/12
   category: food-drink
   address: 624 Vanderbilt Ave.
   phone: (718) 230-3030
@@ -90,8 +85,6 @@
       span: 2
     - days: Sun
       hours: 4 - 9PM
-  notes: >-
-    Temporarily closed — “hibernation, if you will” — until the weather warms up.
   supports:
     - Outdoor Seating
     - Pickup
@@ -378,7 +371,7 @@
   url: 'http://www.bergenbagels.com/'
 
 - name: Bierwax
-  last_updated: 1/6
+  last_updated: 3/24
   category: food-drink
   address: 556 Vanderbilt Ave.
   phone: (347) 533-8449
@@ -401,6 +394,7 @@
     - Delivery
   services:
     direct: 'https://my-site-100819-102620.square.site'
+    resy: 'https://resy.com/cities/ny/bierwax'
   social:
     instagram: 'https://www.instagram.com/bierwax/'
     facebook: 'https://www.facebook.com/BierWax/'
@@ -2577,20 +2571,22 @@
   url: 'https://www.sweetchick.com'
 
 - name: Sweet Polly
-  last_updated: 1/13
+  last_updated: 3/24
   category: food-drink
   address: 71 Sixth Ave.
   phone: (718) 484-9600
   hours:
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Fri
+    - days: Mon
+      hours: closed
+    - days: Tue - Thu
       hours: 4 - 10PM
       span: 3
-    - days: Sat - Sun
+    - days: Fri
+      hours: 2 - 11PM
+    - days: Sat
+      hours: 12 - 11PM
+    - days: Sun
       hours: 12 - 10PM
-      span: 2
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/sweet-polly-team-relief-fund'
@@ -2601,6 +2597,7 @@
     - Pickup
   services:
     upserve: 'https://app.upserve.com/s/sweet-polly-brooklyn'
+    resy: 'https://resy.com/cities/ny/sweet-polly'
   social:
     instagram: 'https://www.instagram.com/sweetpollynyc/'
     facebook: 'https://www.facebook.com/sweetpollynyc/'
