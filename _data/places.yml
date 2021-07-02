@@ -772,29 +772,6 @@
     facebook: 'https://www.facebook.com/CherylsGlobalSoul'
   url: 'https://www.cherylsglobalsoul.com'
 
-- name: Chick-P
-  last_updated: 1/6
-  category: food-drink
-  address: 490 Bergen St.
-  phone: (718) 783-1525
-  hours:
-    - days: Mon - Sat
-      hours: 11AM - 10PM
-      span: 6
-    - days: Sun
-      hours: 11AM - 9PM
-  notes: >-
-    Get 10% off when ordering directly from their website.
-  services:
-    direct: 'https://eat.9fold.me/index.html#/10955'
-    doordash: 'https://www.doordash.com/store/chick-p-brooklyn-28639/en-US'
-    postmates: 'https://postmates.com/merchant/chick-p-brooklyn'
-    seamless: 'https://www.seamless.com/menu/chick-p-490-bergen-st-brooklyn/262480'
-    grubhub: 'https://www.grubhub.com/restaurant/chick-p-490-bergen-st-brooklyn/262480'
-  social:
-    instagram: 'https://www.instagram.com/chickpbrooklyn/'
-  url: 'https://www.chick-p.com'
-
 - name: Chuko
   last_updated: 1/6
   category: food-drink
@@ -928,17 +905,15 @@
     instagram: 'https://www.instagram.com/dickeys.bk/'
   url: 'https://www.dickeys.com/locations/New-York/Brooklyn/1683-brooklyn'
 
-- name: Dough Studio
-  last_updated: 5/13
-  category: dessert
+- name: Dough
+  last_updated: 7/2
+  category: cafe
+  address: 646 Vanderbilt Ave.
   notes: >-
-    “I started this business to pay for grad school!
-    So if you love cinnamon rolls or pizza, you better try ours.
-    Delivery in Brooklyn 🧡”
+    Recently opened cafe in the former Jocye Bakeshop space.
   social:
-    instagram: 'https://www.instagram.com/doughstudio_/'
-    facebook: 'https://www.facebook.com/Dough-Studio-105988981103219'
-
+    instagram: https://www.instagram.com/doughdoughnuts/
+  
 - name: Doughnut Plant
   last_updated: 1/6
   category: cafe
@@ -1077,13 +1052,23 @@
     instagram: 'https://www.instagram.com/fermentedgrapesbk/'
   url: 'http://www.fermentedgrapes.net'
 
+- name: 'Finn’s Corner'
+  last_updated: 7/2
+  category: food-drink
+  address: 660 Washington Ave.
+  phone: (347) 663-9316
+  social:
+    instagram: 'https://www.instagram.com/finnscornernyc/'
+  url: 'http://www.finnscornernyc.com'
+
 - name: Flatbush Counter
-  last_updated: 3/24
+  last_updated: 7/2
   category: food-drink
   address: 295 Flatbush Ave.
-  status: closed
   notes: >-
-    Coming soon in the former Rose’s space.
+    New fast-casual concept from a former
+    Flabush Farm and Bar(n) chef
+    in the former Rose’s space.
   social:
     instagram: 'https://www.instagram.com/flatbushcounter/'
   url: 'https://www.flatbushcounter.com'
@@ -1431,6 +1416,18 @@
     instagram: 'https://www.instagram.com/kimchigrill/'
   url: 'https://www.kimchigrill.com'
 
+- name: Kit
+  last_updated: 7/2
+  category: food-drink
+  address: 657 Washington Ave.
+  notes: >-
+    New queer-focused cafe and shop in the former MeMe’s Diner space.
+  social:
+    instagram: 'https://www.instagram.com/kit_bklyn/'
+  services:
+    toast: 'https://www.toasttab.com/kitbklyn/v3'
+
+
 - name: Kombit Bar and Restaurant
   last_updated: 1/23
   category: food-drink
@@ -1471,30 +1468,6 @@
   social:
     instagram: 'https://www.instagram.com/konditori/'
   url: https://konditori.com/our-locations/prospect-heights/
-
-- name: Kulushkat
-  last_updated: 1/6
-  category: food-drink
-  address: 446C Dean St.
-  phone: (347) 799-1972
-  hours:
-    - days: Mon
-      hours: Closed
-    - days: Tue - Fri
-      hours: 11AM - 10PM
-      span: 4
-    - days: Sat - Sun
-      hours: 12 - 10PM
-      span: 2
-  supports:
-    - Outdoor Dining
-    - Pickup
-    - Delivery
-  services:
-    chownow: 'https://direct.chownow.com/order/8549/locations/11540'
-  social:
-    instagram: 'https://www.instagram.com/kulushkat/'
-  url: 'https://kulushkat.com'
 
 - name: LaLou
   last_updated: 2/13
