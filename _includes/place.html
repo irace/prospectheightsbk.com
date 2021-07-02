@@ -23,6 +23,7 @@
     </div>
 
     {% unless place.status == 'closed' %}
+    
     {% if place.hours %}
     <div class="place-section">
       <h4 class="heading-4">Hours</h4>
@@ -74,8 +75,8 @@
     </div>
     {% endif %}
 
-    {% if place.last_updated %}
+    <!-- {% if place.last_updated %}
     <div class="f7 lh-copy black-40" style="margin-top: auto;">Last updated: {{ place.last_updated }}</div>
-    {% endif %}
+    {% endif %} -->
   </div>
 </div>

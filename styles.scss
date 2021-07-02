@@ -149,10 +149,12 @@ a {
     @extend .flex, .justify-between;
   }
   .place-notes {
+    
     @extend .fw5, .mt3, .mb2;
   }
 
   .place-section {
+    display: none;
     @extend .mt1, .pt1, .mv2, .bt, .b--black-10;
 
     .heading-4 {
