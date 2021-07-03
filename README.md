@@ -1,6 +1,6 @@
 # Help Prospect Heights!
 
-**CONTRIBUTIONS WELCOME**, both in terms of content and design/features.
+**CONTRIBUTIONS WELCOME**, both in terms of content and design/features. Start a pull request or create an [issue](https://github.com/irace/prospectheightsbk.com/issues) to help keep this up to date.
 
 This website is built using [Jekyll](https://jekyllrb.com) and [Tachyons](http://tachyons.io) and served using GitHub Pages.
 
