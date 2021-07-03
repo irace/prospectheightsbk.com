@@ -1,3 +1,32 @@
+- name: Prospect Heights Neighborhood Development Council
+  category: a1
+  notes: >-
+    “The Prospect Heights Neighborhood Development Council (PHNDC) brings Prospect Heights community members together to build a safer, more just and sustainable neighborhood.”
+  social:
+    instagram: 'https://www.instagram.com/phndc_brooklyn/'
+    facebook: 'https://www.facebook.com/phndc/'
+  url: 'https://www.phndc.org'
+- name: Underhill Open Streets
+  category: a1
+  notes: >-
+    Updates from the organizers of weekday traffic-free Underhill Avenue, supported by PHNDC.
+  social:
+    instagram: 'https://www.instagram.com/underhilloscc/'
+- name: Vanderbilt Open Streets
+  category: a1
+  notes: >-
+    The official website of the traffic-free weekends on Vanderbilt Avenue, supported by PHNDC and NYC DOT’s Open Streets initiative.
+  social:
+    instagram: 'https://www.instagram.com/vanderbiltopenstreets/'
+  url: 'https://vanderbiltavenue.org'
+- name: 'North Flatbush Business Improvement District'
+  category: a1
+  notes: >-
+    A BID that supports the corridor of Flatbush Avenue from Atlantic Avenue to Grand Army Plaza.
+  social:
+    instagram: 'https://www.instagram.com/northflatbushbk/'
+    facebook: 'https://www.facebook.com/northflatbushbk/'
+  url: 'http://www.northflatbushbid.nyc'
 - name: 333 Lounge
   last_updated: 1/6
   category: food-drink

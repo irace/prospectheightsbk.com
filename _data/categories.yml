@@ -1,21 +1,27 @@
+- name: a1
+  heading: 'Neighborhood Organizations'
+  order: 1
 - name: food-drink
   heading: 'Bars & Restaurants'
-  order: 1
+  order: 2
 - name: cafe
   heading: Cafes
-  order: 2
+  order: 3
+- name: deli-bodega
+  heading: Bodegas
+  order: 4
 - name: dessert
   heading: Desserts
-  order: 3
+  order: 5
 - name: grocery
   heading: Grocers
-  order: 4
+  order: 6
 - name: service
   heading: Services
-  order: 5
+  order: 7
 - name: store
   heading: Stores
-  order: 6
+  order: 8
 - name: wine-liquor
   heading: 'Wine & Liquor Stores'
-  order: 7
+  order: 9

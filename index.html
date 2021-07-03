@@ -14,7 +14,6 @@ layout: default
   {% endfor %}
     <li class="dib mr2"><a href="#directory">Full Directory</a></li>
   </ul>
-  
 </nav>
 
 {% for category in categories %}
@@ -38,6 +37,8 @@ layout: default
     <a href="#top" class="back-to-top">↑</a>
   </div>
   {% for place in places %}
+    {% unless place.category == "a1" %}
     {% include place_mini.html %}
+    {% endunless %}
   {% endfor %}
 </section>
