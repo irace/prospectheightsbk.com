@@ -2469,7 +2469,6 @@
     instagram: 'https://www.instagram.com/shanes_brooklyn/'
 
 - name: Sharlene’s Bar
-  last_updated: 2/13
   address: 353 Flatbush Ave.
   category: food-drink
   hours:
@@ -2502,12 +2501,12 @@
   url: 'http://sitandwonder.net/index.html'
 
 - name: The Sly Rose
-  last_updated: 3/24
+  status: closed
   address: 663 Washington Ave.
   phone: (929) 554-3064
   category: food-drink
   notes: >-
-    New Italian restaurant run by the folks at Stocked.
+    New Italian restaurant run by the folks at Stocked, currently on a summer hiatus.
   hours:
     - days: Mon - Tue
       hours: Closed
@@ -2629,7 +2628,6 @@
   url: 'http://www.sunshinecobk.com'
 
 - name: Sweet Chick
-  last_updated: 1/6
   category: food-drink
   address: 341 Flatbush Ave.
   phone: (718) 484-7724
@@ -2637,9 +2635,6 @@
     - days: Mon - Sun
       hours: 12 - 10PM
       span: 7
-  notes: >-
-    Serving fried chicken sandwiches and more as
-    <a href="https://www.instagram.com/LILSWEETCHICK/">Lil’ Sweet Chick</a>.
   supports:
     - Outdoor Dining
     - Pickup
@@ -2691,9 +2686,8 @@
   last_updated: 2/12
   category: food-drink
   address: 229 Flatbush Ave.
-  status: closed
   notes: >-
-    New restaurant coming soon by the Morgan's BBQ team in the former Shorty’s space.
+    New restaurant by the Morgan's BBQ team in the former Shorty’s space.
   social:
     instagram: 'https://instagram.com/tinyscantina'
   url: 'https://www.tinyscantina.com/'
@@ -2847,22 +2841,6 @@
     instagram: 'https://instagram.com/vanderbiltwine'
     facebook: 'https://www.facebook.com/VanderbiltWine'
   url: 'https://vanderbilt.wine'
-
-- name: Washington Ave. Cafe
-  last_updated: 1/6
-  category: cafe
-  address: 621 Washington Ave.
-  phone: (718) 230-3734
-  hours:
-    - days: Mon - Sun
-      hours: 5:30AM - 4:00PM
-      span: 7
-  supports:
-    - Pickup
-    - Delivery
-  services:
-    seamless: 'https://www.seamless.com/menu/washington-avenue-cafe-621-washington-ave-brooklyn/900005'
-    grubhub: 'https://www.grubhub.com/restaurant/washington-avenue-cafe-621-washington-ave-brooklyn/900005'
 
 - name: Weather Up
   last_updated: 1/10
