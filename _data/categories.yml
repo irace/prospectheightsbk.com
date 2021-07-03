@@ -7,7 +7,7 @@
 - name: cafe
   heading: Cafes
   order: 3
-- name: deli-bodega
+- name: deli
   heading: Bodegas
   order: 4
 - name: dessert
