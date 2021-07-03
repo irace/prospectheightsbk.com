@@ -9,8 +9,11 @@ layout: default
 <nav>
   <span class="heading-4">Jump to: </span>
   <ul class="list pl0 mv2">
-    {% for category in categories %}
-    <li class="dib mr2"><a href="#{{category.name}}">{{category.heading}}</a></li>
+  {% for category in categories %}
+    {% assign category_places = places | where: "category", category.name %}
+    {% unless category_places == empty %}
+      <li class="dib mr2"><a href="#{{category.name}}">{{category.heading}}</a></li>
+    {% endunless %}
   {% endfor %}
     <li class="dib mr2"><a href="#directory">Full Directory</a></li>
   </ul>
@@ -19,7 +22,7 @@ layout: default
 {% for category in categories %}
 <section id="{{ category.name }}" class="section">
   {% assign category_places = places | where: "category", category.name %}
-
+  {% unless category_places == empty %}
   <div class="section-heading">
     <h2 class="heading-2">{{ category.heading }}</h2>
     <a href="#top" class="back-to-top">↑</a>
@@ -27,6 +30,7 @@ layout: default
   {% for place in category_places %}
     {% include place.html %}
   {% endfor %}
+  {% endunless %}
 
 </section>
 {% endfor %}
