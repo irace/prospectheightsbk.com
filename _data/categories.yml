@@ -13,7 +13,7 @@
 - name: dessert
   heading: Desserts
   order: 5
-- name: grocery
+- name: grocer
   heading: Grocers
   order: 6
 - name: service

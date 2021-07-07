@@ -524,7 +524,7 @@
 
 - name: BKLYN Larder
   last_updated: 1/6
-  category: grocery
+  category: grocer
   address: 228 Flatbush Ave.
   phone: (718) 783-1250
   hours:
@@ -1766,7 +1766,7 @@
 
 - name: Mermaid’s Garden
   last_updated: 1/6
-  category: grocery
+  category: grocer
   address: 644 Vanderbilt Ave.
   phone: (718) 638-1910
   hours: 
@@ -2383,7 +2383,7 @@
 
 - name: Prospect Butcher Co.
   last_updated: 1/6
-  category: grocery
+  category: grocer
   address: 665 Vanderbilt Ave.
   phone: (347) 763-9500
   hours:
@@ -2399,7 +2399,7 @@
 
 - name: R&D Foods
   last_updated: 1/10
-  category: grocery
+  category: grocer
   address: 602 Vanderbilt Ave.
   phone: (347) 915-1196
   hours:
