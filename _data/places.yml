@@ -52,17 +52,8 @@
   category: store
   address: 628 Vanderbilt Ave.
   phone: (718) 789-8062
-  hours:
-    - days: Mon - Fri
-      hours: 10AM - 7PM
-      span: 5
-    - days: Sat
-      hours: 10AM - 5PM
-    - days: Sun
-      hours: 11AM - 5PM
-  supports:
-    - Curbside Pickup
-    - Delivery
+  notes: >-
+    Local pet food store, in business for more than 30 years. Offers local delivery.
   social:
     instagram: 'https://www.instagram.com/acmepetfood/'
 
@@ -2523,6 +2514,16 @@
     instagram: 'https://www.instagram.com/theslyrose/'
   url: 'https://www.theslyrose.com'
 
+- name: Smokey Vale
+  address: 575 Vanderbilt Ave.
+  phone: (347) 240-1133
+  category: store
+  notes: >-
+    Black-owned botique, barber shop and gallery space.
+  social:
+    instagram: 'https://www.instagram.com/smokey_vale/'
+  url: 'http://smokeyvale.com'
+
 - name: The Social
   last_updated: 3/24
   address: 816 Washington Ave.
@@ -2532,7 +2533,6 @@
     New ice cream shop coming this summer from the founders of Ample Hills.
   social:
     instagram: 'https://www.instagram.com/thebrooklynicecreamsocial/'
-  
 
 - name: Sofreh
   last_updated: 1/6
