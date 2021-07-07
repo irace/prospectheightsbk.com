@@ -447,6 +447,14 @@
     instagram: 'https://www.instagram.com/biltbar/'
     facebook: 'https://www.facebook.com/pages/category/Lounge/Bilt-Bar-100153434688553/'
 
+- name: BK Lobster
+  category: food-drink
+  address: 643 Vanderbilt Ave.
+  notes: >-
+    Coming soon.
+  social:
+    instagram: 'https://www.instagram.com/bklobsterprospectheights/'
+
 - name: BKLYN Clay
   last_updated: 1/6
   category: service
@@ -926,7 +934,6 @@
   url: 'https://www.dickeys.com/locations/New-York/Brooklyn/1683-brooklyn'
 
 - name: Dough
-  last_updated: 7/2
   category: cafe
   address: 646 Vanderbilt Ave.
   notes: >-
@@ -935,21 +942,9 @@
     instagram: https://www.instagram.com/doughdoughnuts/
   
 - name: Doughnut Plant
-  last_updated: 1/6
   category: cafe
   address: 245 Flatbush Ave.
   phone: (212) 505-3700,245
-  hours:
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Sun
-      hours: 8AM - 4PM
-      span: 5
-  supports:
-    - Pickup
-    - Delivery
-    - Nationwide Shipping
   links:
     - title: Gift Cards
       url: 'https://www.doughnutplant.com/store/gift-cards/'
@@ -1171,11 +1166,20 @@
       hours: 12 - 9PM (Coffee & Pastries 8AM - 12PM)
       span: 7
   notes: >-
-    Beer to-go window and outdoor seating available. Check website and Untappd for inventory.
+    Beer to-go window along with seating indoors and outdoors. Check website and Untappd for inventory.
   social:
     instagram: 'https://www.instagram.com/goldstarbeercounter/'
     untappd: 'https://untappd.com/v/gold-star-beer-counter/3171446'
   url: 'http://goldstarbeercounter.com'
+
+- name: Good Reps
+  category: service
+  address: 639 Vanderbilt Ave.
+  notes: >-
+    Physical therapy by appointment.
+  social:
+    instagram: https://www.instagram.com/goodrepsphysicaltherapy/
+  url: 'https://goodrepspt.janeapp.com'
 
 - name: Gorilla Coffee
   last_updated: 1/6
@@ -1194,13 +1198,6 @@
   social:
     instagram: 'https://www.instagram.com/gorillacoffee/'
   url: 'https://gorillacoffee.com'
-
-# hidden due to lack of updates
-# - name: Good Life
-#   last_updated: 1/6
-#   category: food-drink
-#   social:
-#     instagram: 'https://www.instagram.com/goodlifebk/'
 
 - name: Gran Caffe De Martini
   last_updated: 1/6
@@ -1351,6 +1348,15 @@
     facebook: 'https://www.facebook.com/jamesrestaurant'
   url: 'http://www.jamesrestaurantny.com'
 
+- name: Jono Pandolfi Designs
+  category: shop
+  address: 631 Vanderbilt Ave.
+  notes: >-
+    Summer pop-up shop for this ceramics maker.
+  social:
+    instagram: 'https://www.instagram.com/jonopandolfi/'
+  url: 'https://www.jonopandolfi.com/brooklyn-popup'
+
 - name: Joy Indian
   last_updated: 1/6
   category: food-drink
@@ -1435,6 +1441,16 @@
   social:
     instagram: 'https://www.instagram.com/kimchigrill/'
   url: 'https://www.kimchigrill.com'
+
+- name: King David Tacos
+  category: food-drink
+  address: 611 Bergen Ave.
+  notes: >-
+    First brick-and-mortar retail location for King David Tacos, serving Austin-style breakfast tacos. Check their Instagram for early sell-outs.
+  social:
+    instagram: 'https://www.instagram.com/kingdavidtacos/'
+    facebook: 'https://www.facebook.com/kingdavidtacos'
+  url: 'http://kingdavidtacos.com/'
 
 - name: Kit
   last_updated: 7/2
@@ -2015,12 +2031,11 @@
   url: 'https://www.nourishthai.com'
 
 - name: The Nuaa Table
-  last_updated: 3/24
   category: food-drink
   address: 638 Bergen St.
   phone: (718) 623-6395
   notes: >-
-    New Thai restaurant at the corner of Bergen and Vanderbilt.
+    Recently opened royal Thai restaurant with a slow-food focus at the corner of Bergen and Vanderbilt.
   services:
     doordash: 'https://www.doordash.com/store/the-nuaa-table-brooklyn-1528637'
     seamless: 'https://www.seamless.com/menu/the-nuaa-table-638-bergen-st-brooklyn/2569456'
@@ -2028,6 +2043,7 @@
   social:
     instagram: 'https://www.instagram.com/thenuaatable/'
     facebook: 'https://www.facebook.com/thenuaatable/'
+  url: 'https://www.thenuaatable.com'
 
 - name: Nûrish
   last_updated: 1/6
@@ -2211,8 +2227,7 @@
     - days: Wed - Sun
       hours: 5:30 - 10PM
       span: 5
-  notes: >-
-    Reopened as of March 24.
+  # notes: >-
   links:
     - title: Oxalis Pantry
       url: 'https://www.oxalispantry.com/'
@@ -2232,6 +2247,13 @@
     instagram: 'https://www.instagram.com/oxalisnyc/'
     facebook: 'https://www.facebook.com/oxalisnyc'
   url: 'https://www.oxalisnyc.com'
+
+- name: Ozakaya
+  category: food-drink
+  notes: >-
+    Coming soon.
+  social:
+    instagram: 'https://www.instagram.com/ozakaya_nyc/'
 
 - name: Patsy’s Pizzeria
   last_updated: 1/6
@@ -2476,12 +2498,8 @@
     instagram: 'https://www.instagram.com/sharlenesbar/'
 
 - name: Sit & Wonder
-  last_updated: 1/6
+  address: 688 Washington Ave.
   category: cafe
-  hours:
-    - days: Mon - Sun
-      hours: 7:30AM - 2PM
-      span: 7
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/for-our-amazing-baristas'
@@ -2525,14 +2543,15 @@
   url: 'http://smokeyvale.com'
 
 - name: The Social
-  last_updated: 3/24
   address: 816 Washington Ave.
   status: closed
   category: dessert
   notes: >-
-    New ice cream shop coming this summer from the founders of Ample Hills.
+    New ice cream and doughnut shop coming this summer from the founders of Ample Hills.
   social:
-    instagram: 'https://www.instagram.com/thebrooklynicecreamsocial/'
+    instagram: 'https://www.instagram.com/thesocialbrooklyn/'
+    facebook: 'https://www.facebook.com/theSocialBrooklyn/'
+  url: 'https://www.thesocialbrooklyn.com'
 
 - name: Sofreh
   last_updated: 1/6
@@ -2776,24 +2795,14 @@
   url: 'https://underhillbrooklyn.com/'
 
 - name: Unnameable Books
-  last_updated: 1/6
   category: store
   address: 600 Vanderbilt Ave.
   phone: (718) 789-1534
-  hours:
-    - days: Mon - Thu
-      hours: 11AM - 7PM
-      span: 5
-    - days: Fri - Sat
-      hours: 11 - 9PM
-      span: 2
-    - days: Sun
-      hours: 11AM - 7PM
   links:
     - title: Online Store
       url: 'https://unnameablebooks.square.site'
   notes: >-
-    Two at a time inside.
+    Local shop that buys and sells secondhand books.
   social:
     instagram: 'https://www.instagram.com/unnameablebooks/'
     facebook: 'https://www.facebook.com/unnameable'
@@ -2804,16 +2813,9 @@
   category: dessert
   address: 550 Vanderbilt Ave
   phone: (347) 240-7453
-  hours:
-    - days: Mon - Sat
-      hours: 12 - 10PM
-      span: 7
   links:
     - title: Gift Cards
       url: 'https://squareup.com/gift/FR6ZMQGP6CJ1S/order'
-  supports:
-      - Pickup 
-      - Delivery
   services:
     caviar: 'https://www.trycaviar.com/store/van-leeuwen-ice-cream-brooklyn-773893/en-US'
     doordash: 'https://www.doordash.com/store/van-leeuwen-ice-cream-brooklyn-773893/en-US'
