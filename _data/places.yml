@@ -1088,6 +1088,12 @@
     instagram: 'https://www.instagram.com/flatbushcounter/'
   url: 'https://www.flatbushcounter.com'
 
+- name: Foodtown
+  category: grocer
+  address: 632 Vanderbilt Ave.
+  phone: (718) 783-1887
+  url: 'https://www.foodtown.com'
+
 - name: 'Four & Twenty Blackbirds'
   last_updated: 1/6
   category: dessert
@@ -2793,6 +2799,15 @@
     instagram: 'https://www.instagram.com/underhillgreekeatery/'
     facebook: 'https://www.facebook.com/underhillbrooklyn/'
   url: 'https://underhillbrooklyn.com/'
+
+- name: Union Market
+  category: grocer
+  address: 342 Flatbush Ave.
+  phone: (718) 663-6560
+  social:
+    instagram: 'https://www.instagram.com/unionmarket/'
+    facebook: 'https://www.facebook.com/unionmarketNYC/'
+  url: 'https://unionmarket.com'
 
 - name: Unnameable Books
   category: store
