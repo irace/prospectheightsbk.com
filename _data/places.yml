@@ -6,6 +6,7 @@
     instagram: 'https://www.instagram.com/phndc_brooklyn/'
     facebook: 'https://www.facebook.com/phndc/'
   url: 'https://www.phndc.org'
+
 - name: Underhill Open Streets
   category: a1
   notes: >-
@@ -1452,7 +1453,7 @@
   category: food-drink
   address: 611 Bergen Ave.
   notes: >-
-    First brick-and-mortar retail location for King David Tacos, serving Austin-style breakfast tacos. Check their Instagram for early sell-outs.
+    First brick-and-mortar retail location serving Austin-style breakfast tacos. Check their Instagram in case of early sell-outs.
   social:
     instagram: 'https://www.instagram.com/kingdavidtacos/'
     facebook: 'https://www.facebook.com/kingdavidtacos'
@@ -2162,22 +2163,11 @@
   url: 'http://www.oldebrooklynbagelshop.com'
 
 - name: Olmsted
-  last_updated: 1/13
   category: food-drink
   address: 659 Vanderbilt Ave.
   phone: (718) 552-2610
-  hours:
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Fri
-      hours: 5 - 10PM
-      span: 3
-    - days: Sat - Sun
-      hours: 12 - 10PM
-      span: 2
   notes: >-
-    Trading Post and Cozy Cottage have reopened. Sat & Sun lunch until 3PM, dinner at 5PM
+    Trading Post is closing in a few short weeks to make way for restarting their private dining room.
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund'
@@ -2613,7 +2603,7 @@
     - Pickup
     - Delivery
   services:
-    chownow: 'https://direct.chownow.com/order/18160/locations/26048'
+    toast: 'https://www.toasttab.com/stocked-cafe-burgers/v3'
   social:
     instagram: 'https://www.instagram.com/stockedbrooklyn/'
   url: 'https://www.stockedbrooklyn.com'
