@@ -19,7 +19,7 @@ body {
 }
 
 .heading-3 {
-  @extend .f3, .fw8, .lh-title, .ma0, .black;
+  @extend .f3, .fw8, .ma0, .black;
 }
 
 .heading-4 {
@@ -39,7 +39,7 @@ body {
 }
 
 .text-small {
-  @extend .f7;
+  @extend .f6;
 }
 
 // Basics
@@ -62,6 +62,9 @@ a {
   &:hover {
     @extend .underline;
   }
+}
+.service-section {
+  @extend .mv2;
 }
 
 .service-icon {
@@ -147,40 +150,19 @@ a {
 
   .key-info {
     @extend .flex, .justify-between;
+
+    min-height: 32px;
   }
+
   .place-notes {
-    
     @extend .fw5, .mt3, .mb2;
   }
 
   .place-section {
     @extend .mt1, .pt1, .mv2, .bt, .b--black-10;
 
-    .heading-4 {
-      @extend .mt0, .mb1;
-    }
-  }
-
-  .classic-hours {
-    @extend .mv1;
-  }
-
-  .hours-block {
-    @extend .mid-gray, .bg-navy-12, .pa1, .flex, .flex-column, .justify-center, .items-center, .tc, .fw7;
-    // flex-shrink: 0;
-    min-height: 2rem;
-    margin: -2px;
-    border: 2px solid white;
-
-    &.closed {
-      @extend .fw4, .bg-white;
-    }
-
-    &--days {
-      @extend .f8, .fw4, .ttu, .tracked, .black-40;
-    }
-    &--hours {
-      @extend .pa1, .f7, .black-60;
+    .heading {
+      @extend .mt0, .mb2, .near-black;
     }
   }
 
