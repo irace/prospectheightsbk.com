@@ -19,7 +19,7 @@ body {
 }
 
 .heading-3 {
-  @extend .f3, .fw8, .ma0, .black;
+  @extend .f3, .fw8, .lh-title, .ma0, .black;
 }
 
 .heading-4 {
