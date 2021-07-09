@@ -60,7 +60,7 @@ function setModifiedDate() {
       })
       .then((commits) => {
         var modified = new Date(commits[0]['commit']['committer']['date']);
-        var updateString = `Last Update: ${months[modified.getMonth()]} ${modified.getDate()}, ${modified.getFullYear()}`;
+        var updateString = `Last Updated: ${months[modified.getMonth()]} ${modified.getDate()}, ${modified.getFullYear()}`;
         document.getElementById('last-modified').textContent = updateString;
       });
   }
