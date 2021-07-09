@@ -20,6 +20,7 @@
   social:
     instagram: 'https://www.instagram.com/vanderbiltopenstreets/'
   url: 'https://vanderbiltavenue.org'
+
 - name: 'North Flatbush Business Improvement District'
   category: a1
   notes: >-
@@ -28,17 +29,11 @@
     instagram: 'https://www.instagram.com/northflatbushbk/'
     facebook: 'https://www.facebook.com/northflatbushbk/'
   url: 'http://www.northflatbushbid.nyc'
+
 - name: 333 Lounge
-  last_updated: 1/6
   category: food-drink
   address: 333 Flatbush Ave.
   phone: (718) 399-8008
-  hours:
-    - days: Mon - Sat
-      hours: 4 - 10PM
-      span: 6
-    - days: Sun
-      hours: 2 - 10PM
   supports:
     - Pickup
   notes: >-
@@ -49,28 +44,20 @@
   url: 'https://www.333lounge.com'
 
 - name: Acme Pet Food Inc
-  last_updated: 1/6
   category: store
   address: 628 Vanderbilt Ave.
   phone: (718) 789-8062
+  supports:
+    - Pickup
+    - Local Delivery
   notes: >-
-    Local pet food store, in business for more than 30 years. Offers local delivery.
+    Local pet food store, in business for more than 30 years.
   social:
     instagram: 'https://www.instagram.com/acmepetfood/'
 
 - name: Alta Calidad
-  last_updated: 1/6
   category: food-drink
   address: 552 Vanderbilt Ave.
-  hours:
-    - days: Mon - Thu
-      hours: 11:30AM - 9:30PM
-      span: 4
-    - days: Fri - Sat
-      hours: 11:30AM - 10PM
-      span: 2
-    - days: Sun
-      hours: 11:30AM - 9:30PM
   supports:
     - Outdoor Seating
     - Pickup
@@ -90,22 +77,9 @@
   url: 'https://altacalidadbk.com'
 
 - name: Amorina Pizza
-  last_updated: 3/12
   category: food-drink
   address: 624 Vanderbilt Ave.
   phone: (718) 230-3030
-  hours:
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Thu
-      hours: 4 - 9PM
-      span: 2
-    - days: Fri - Sat
-      hours: 4 - 10PM
-      span: 2
-    - days: Sun
-      hours: 4 - 9PM
   supports:
     - Outdoor Seating
     - Pickup
@@ -119,19 +93,9 @@
   url: 'http://www.amorinapizza.com/'
 
 - name: Ample Hills
-  last_updated: 1/6
   category: dessert
   address: 623 Vanderbilt Ave.
   phone: (718) 483-8199
-  hours:
-    - days: Mon - Thu
-      hours: 1 - 9PM
-      span: 4
-    - days: Fri - Sat
-      hours: 1 - 10PM
-      span: 2
-    - days: Sun
-      hours: 1 - 9PM
   notes: >-
     The original Prospect Heights scoop shop, under new ownership.
   social:
@@ -140,14 +104,9 @@
   url: 'https://www.amplehills.com/location/prospect-heights'
 
 - name: Antonio’s Pizza
-  last_updated: 1/6
   category: food-drink
   address: 318 Flatbush Ave.
   phone: ‭(718) 398-2300‬
-  hours:
-    - days: Mon - Sun
-      hours: 11AM - 9PM
-      span: 7
   supports:
     - Pickup
     - Delivery
@@ -160,22 +119,9 @@
   url: 'https://www.antoniosbrooklyn.com'
 
 - name: Art Cafe & Bar
-  last_updated: 1/6
   category: food-drink
   address: 884-886 Pacific St.
   phone: (718) 857-2522
-  hours:
-    - days: Mon
-      hours: 12PM - 12AM
-    - days: Tue - Thu
-      hours: 10AM - 1AM
-      span: 3
-    - days: Fri - Sat
-      hours: 10AM - 2AM
-      span: 2
-    - days: Sun - Mon
-      hours: 12PM - 12AM
-      span: 2
   supports:
     - Outdoor Seating
     - Pickup
@@ -187,16 +133,9 @@
     facebook: 'https://www.facebook.com/pages/Art-Cafe/527841370624131'
 
 - name: The Bakery on Bergen
-  last_updated: 1/6
   category: cafe
   address: 740 Bergen St.
   phone: (917) 519-6549
-  hours:
-    - days: Mon
-      hours: Closed
-    - days: Tue - Sun
-      hours: 12 - 7PM
-      span: 6
   supports:
     - Outdoor Seating
   services:
@@ -208,19 +147,9 @@
   url: 'https://www.bakeryonbergen.com/'
 
 - name: Banh Mi Place
-  last_updated: 1/6
   category: food-drink
   address: 824 Washington Ave.
   phone: (718) 552-2660
-  hours:
-    - days: Mon - Thu
-      hours: 11:30AM - 9:30PM
-      span: 4
-    - days: Fri - Sat
-      hours: 11:30AM - 10PM
-      span: 2
-    - days: Sun
-      hours: 11:30AM - 9PM
   supports:
     - Pickup
     - Delivery
@@ -233,19 +162,9 @@
   url: 'https://banhmiplacebklyn.com/'
 
 - name: Bar Goto Niban
-  last_updated: 1/23
   category: food-drink
   address: 474 Bergen St.
   phone: (718) 629-8986
-  hours: 
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Fri
-      hours: 5 - 10PM
-      span: 3
-    - days: Sat - Sun
-      hours: 3 - 8:30PM
   supports:
     - Outdoor Dining
     - Pickup
@@ -257,24 +176,14 @@
   url: 'https://www.bargoto.com/location/bar-goto-niban/'
 
 - name: Bar Meridian
-  last_updated: 1/6
   category: food-drink
   address: 406 Prospect Pl.
-  hours:
-    - days: Mon - Wed
-      hours: Closed
-      span: 3
-    - days: Thu
-      hours: 4 - 10PM
-    - days: Fri - Sun
-      hours: 2 - 10PM
-      span: 3
-  links:
-    - title: Gift Cards
-      url: 'https://www.toasttab.com/bar-meridian/giftcards'
   supports:
     - Outdoor Dining
     - Pickup
+  links:
+    - title: Gift Cards
+      url: 'https://www.toasttab.com/bar-meridian/giftcards'
   services:
     resy: https://resy.com/cities/ny/bar-meridian
   social:
@@ -283,37 +192,19 @@
   url: 'https://www.barmeridian.com'
 
 - name: BCakeNY
-  last_updated: 1/6
   category: dessert
   phone: (347) 787-7199
   notes: >-
     Serving cake jars, cupcakes, and inventive custom cakes.
-  hours:
-    - days: Mon
-      hours: 10AM - 6PM
-    - days: Tue - Fri
-      hours: 12 - 7PM
-      span: 4
-    - days: Sat - Sun
-      hours: 10AM - 5PM
-      span: 2
   social:
     instagram: 'https://www.instagram.com/bcakeny/'
     facebook: 'https://www.facebook.com/BCakeNY/'
   url: 'https://www.bcakeny.com/bcakenyshop/'
 
 - name: The Bearded Lady
-  last_updated: 1/25
   category: food-drink
   address: 686A Washington Ave.
   phone: (718) 230-7600
-  hours:
-    - days: Mon - Fri
-      hours: 2 - 10PM
-      span: 5
-    - days: Sat - Sun
-      hours: 12 - 10PM
-      span: 2
   notes: Open for outdoor dining and pickup.
   links:
     - title: Staff Relief Fund
@@ -327,16 +218,8 @@
   url: 'http://www.beardedladybrooklyn.com'
 
 - name: Beer Street South
-  last_updated: 1/6
   category: food-drink
   address: 550 Vanderbilt Ave.
-  hours:
-    - days: Mon - Fri
-      hours: 4 - 8PM
-      span: 5
-    - days: Sat - Sun
-      hours: 2 - 8PM
-      span: 2
   supports:
     - Outdoor Seating
     - Pickup
@@ -352,19 +235,11 @@
   url: 'https://beerstreetsouth550.com'
 
 - name: Beer Witch
-  last_updated: 1/6
   category: food-drink
   address: 460 Bergen St.
-  hours:
-    - days: Mon - Thu
-      hours: 2 - 8PM
-      span: 4
-    - days: Fri
-      hours: 12 - 9PM
-    - days: Sat
-      hours: 10AM - 9PM
-    - days: Sun
-      hours: 10AM - 7PM
+  supports:
+    - Outdoor Seating
+    - Pickup
   notes: >-
     New craft beer store just over the border in Park Slope.
   services:
@@ -372,14 +247,9 @@
   url: https://www.beerwitchbrooklyn.com/
 
 - name: Bergen Bagels
-  last_updated: 1/6
   category: food-drink
   address: 473 Bergen Ave.
   phones: (718) 789-7600
-  hours:
-    - days: Mon - Sun
-      hours: 6AM - 10PM
-      span: 7
   supports:
     - Pickup
     - Delivery
@@ -392,28 +262,19 @@
   url: 'http://www.bergenbagels.com/'
 
 - name: Bierwax
-  last_updated: 3/24
   category: food-drink
   address: 556 Vanderbilt Ave.
   phone: (347) 533-8449
-  hours: 
-    - days: Mon - Fri
-      hours: 4 - 10PM
-      span: 5
-    - days: Sat
-      hours: 12 - 10PM
-    - days: Sun
-      hours: 12 - 9PM
-  links:
-    - title: Staff Relief Fund
-      url: 'https://www.gofundme.com/f/covid19-relief-fund-for-bierwax-staff'
-    - title: Gift Cards
-      url: 'https://squareup.com/gift/MY2KY2405T5NT/order'
   supports:
     - Indoor Seating
     - Outdoor Seating
     - Pickup
     - Delivery
+  links:
+    - title: Staff Relief Fund
+      url: 'https://www.gofundme.com/f/covid19-relief-fund-for-bierwax-staff'
+    - title: Gift Cards
+      url: 'https://squareup.com/gift/MY2KY2405T5NT/order'
   services:
     direct: 'https://my-site-100819-102620.square.site'
     resy: 'https://resy.com/cities/ny/bierwax'
@@ -424,26 +285,15 @@
   url: 'https://www.bierwaxnyc.com'
 
 - name: Bilt Bar
-  last_updated: 3/24
   category: food-drink
   address: 583 Vanderbilt Ave.
   phone: (347) 295-3579
-  hours: 
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Fri
-      hours: 4 - 11PM
-      span: 3
-    - days: Sat - Sun
-      hours: 12 - 11PM
-      span: 2
-  links:
-    - title: Staff Relief Fund
-      url: 'https://www.gofundme.com/f/bilt-bar-bartenders-relief-fund'
   supports:
     - Outdoor Dining
     - Pickup
+  links:
+    - title: Staff Relief Fund
+      url: 'https://www.gofundme.com/f/bilt-bar-bartenders-relief-fund'
   social:
     instagram: 'https://www.instagram.com/biltbar/'
     facebook: 'https://www.facebook.com/pages/category/Lounge/Bilt-Bar-100153434688553/'
@@ -457,14 +307,9 @@
     instagram: 'https://www.instagram.com/bklobsterprospectheights/'
 
 - name: BKLYN Clay
-  last_updated: 1/6
   category: service
   address: 535 Carlton Ave.
   phone: (845) 481-3842
-  hours:
-    - days: Mon - Sun
-      hours: 9AM - 9PM
-      span: 7
   links:
     - title: Staff Relief Fund
       url: 'https://www.bklynclay.com/checkout/donate?donatePageId=5e795b6604497b59a692c207'
@@ -478,18 +323,8 @@
   url: 'https://bklynclay.com'
 
 - name: BKLYN Cream
-  last_updated: 1/6
   category: dessert
   address: 459 Bergen St.
-  hours:
-    - days: Mon - Thu
-      hours: 2 - 9PM
-      span: 4
-    - days: Fri - Sat
-      hours: 2 - 10PM
-      span: 2
-    - days: Sun
-      hours: 2 - 9PM
   notes: >-
     New scoop shop with old-school charm in the former Snowdays space behind BKLYN Crepe.
   services:
@@ -500,14 +335,9 @@
   url: 'https://www.bklyncream.com/'
 
 - name: BKLYN Crepe & Juice
-  last_updated: 1/6
   category: cafe
   address: 214 Flatbush Ave.
   phone: (718) 638-1023
-  hours:
-    - days: Mon - Sun
-      hours: 8AM - 8PM
-      span: 7
   supports:
     - Pickup
     - Delivery
@@ -524,24 +354,17 @@
   url: 'http://brooklyncrepe.com'
 
 - name: BKLYN Larder
-  last_updated: 1/6
   category: grocer
   address: 228 Flatbush Ave.
   phone: (718) 783-1250
-  hours:
-    - days: Mon
-      hours: Closed
-    - days: Tue - Sat
-      hours: 10 - 6PM
-      span: 6
+  supports:
+    - Pickup
+    - Delivery
   links:
     - title: Gift Cards
       url: 'https://www.bklynlarder.com/gift-cards/'
   services:
     direct: 'https://bklynlarder.square.site/'
-  supports:
-    - Pickup
-    - Delivery
   social:
     instagram: 'https://www.instagram.com/bklynlarder/'
     facebook: 'https://www.facebook.com/BKLYN-LARDER-115860655123816/'
@@ -549,27 +372,18 @@
 
 
 - name: Black Iron Burger
-  last_updated: 1/6
   category: food-drink
   address: 234 Flatbush Ave.
   phone: (929) 419-6888
-  hours:
-    - days: Mon - Fri
-      hours: 2 - 9:30PM
-      span: 5
-    - days: Sat
-      hours: 12 - 9:30PM
-    - days: Sun
-      hours: 12 - 9PM
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/1xwz41clg0'
     - title: Gift Cards
       url: 'https://www.blackironburger.com/gift-cards/'
-  supports:
-    - Outdoor Dining
-    - Pickup
-    - Delivery
   services:
     seamless: 'https://www.seamless.com/menu/black-iron-burger-234-flatbush-ave-brooklyn/1452872'
     grubhub: 'https://www.grubhub.com/restaurant/black-iron-burger-234-flatbush-ave-brooklyn/1452872'
@@ -579,7 +393,6 @@
   url: 'https://www.blackironburger.com/location/black-iron-burger-park-slope/'
 
 - name: Bleachers Sports Bar & Grill
-  last_updated: 1/6
   category: food-drink
   address: 240 Flatbush Ave.
   phone: (718) 857-1111
@@ -596,17 +409,9 @@
     facebook: 'https://www.facebook.com/240bleachers/'
 
 - name: Blue Marble
-  last_updated: 1/6
   category: dessert
   address: 186 Underhill Ave.
   phone: (718) 399-6926
-  hours:
-    - days: Mon - Thu
-      hours: 8AM - 9PM
-      span: 4
-    - days: Fri - Sat
-      hours: 9AM - 9PM
-      span: 3
   notes: >-
     Coffee, pastries, pints, and cups available from the take-out window
     or for delivery via Postmates. “Our hours and offerings may vary, but we will post daily.”'
@@ -619,14 +424,9 @@
   url: 'https://www.bluemarbleicecream.com'
 
 - name: Born Thai
-  last_updated: 1/6
   category: food-drink
   address: 293 Flatbush Ave.
   phone: (347) 663-3674
-  hours:
-    - days: Mon - Sun
-      hours: 12:30 - 10PM
-      span: 7
   supports:
     - Outdoor Dining
     - Pickup
@@ -643,24 +443,16 @@
   url: 'https://www.bornbklyn.com/'
 
 - name: Branded Saloon
-  last_updated: 1/6
   category: food-drink
   address: 603 Vanderbilt Ave.
   phone: (718) 484-8704
-  hours:
-    - days: Mon - Fri
-      hours: 5 - 10PM
-      span: 5
-    - days: Sat - Sun
-      hours: 12 - 10PM
-      span: 2
-  links:
-    - title: Staff Relief Fund
-      url: 'https://www.gofundme.com/f/relief-fund-for-branded-saloon'
   supports:
     - Outdoor Dining
     - Pickup
     - Delivery
+  links:
+    - title: Staff Relief Fund
+      url: 'https://www.gofundme.com/f/relief-fund-for-branded-saloon'
   services:
     direct: 'https://branded.revelup.com/weborder/?establishment=1'
     doordash: 'https://www.doordash.com/store/branded-cattle-saloon-inc-brooklyn-893199/1318299/en-US'
@@ -671,7 +463,6 @@
   url: 'https://www.brandedsaloon.com'
 
 - name: Broccolino
-  last_updated: 1/6
   category: food-drink
   address: 446A Dean St.
   phone: (718) 678-4200
@@ -687,17 +478,9 @@
   url: 'https://www.broccolinonyc.com'
 
 - name: Brooklyn High Low
-  last_updated: 1/6
   category: cafe
   address: 611 Vanderbilt Ave.
   phone: (347) 295-3968
-  hours:
-    - days: Mon - Thu
-      hours: Closed
-      span: 4
-    - days: Fri - Sun
-      hours: 10AM - 3:30PM
-      span: 3
   notes: >-
     New afternoon tea spot on Vanderbilt Ave. DM or call for availability.
   links:
@@ -708,7 +491,6 @@
   url: 'https://www.brooklynhighlow.com/'
 
 - name: Brooklyn Metal Works
-  last_updated: 1/6
   category: service
   address: 640 Dean St.
   phone: (347) 762-4757
@@ -721,14 +503,9 @@
   url: 'http://bkmetalworks.com'
 
 - name: Burrito Bar & Kitchen
-  last_updated: 1/6
   category: food-drink
   address: 307 Flatbush Ave.
   phone: (718) 230-8646
-  hours:
-    - days: Mon - Sun
-      hours: 4 - 9PM
-      span: 7
   supports:
     - Outdoor Dining
     - Pickup
@@ -741,35 +518,22 @@
   url: 'https://www.burritobarbrooklyn.com/'
 
 - name: Cataldo’s
-  last_updated: 1/6
   category: food-drink
   address: 554 Vanderbilt Ave.
   phone: (718) 857-6700
-  hours:
-    - days: Mon - Sun
-      hours: 11AM - 10PM
-      span: 7
-  notes: >-
-    Family owned & operated Italian restaurant.
   supports:
     - Outdoor Dining
     - Pickup
+  notes: >-
+    Family owned & operated Italian restaurant.
   social:
     instagram: 'https://www.instagram.com/cataldosbk/'
   url: 'http://www.cataldos54.com'
 
 - name: Charm Bar
-  last_updated: 1/6
   category: food-drink
   address: 448 Dean St.
   phone: (347) 799-2345
-  hours: 
-    - days: Mon - Fri
-      hours: 3 - 10PM
-      span: 5
-    - days: Sat - Sun
-      hours: 12 - 10PM
-      span: 2
   supports:
     - Outdoor Dining
     - Pickup
@@ -784,14 +548,9 @@
   url: 'http://www.charmbarrestaurant.com/'
 
 - name: Cheryl’s Global Soul
-  last_updated: 1/6
   category: food-drink
   address: 236 Underhill Ave.
   phone: (347) 529-2855
-  hours:
-    - days: Mon - Sun
-      hours: 10AM - 8PM (Delivery 12 - 7:30PM)
-      span: 7  
   supports:
     - Outdoor Dining
     - Pickup
@@ -802,25 +561,15 @@
   url: 'https://www.cherylsglobalsoul.com'
 
 - name: Chuko
-  last_updated: 1/6
   category: food-drink
   address: 565 Vanderbilt Ave.
   phone: (347) 425-9570
-  hours:
-    - days: Mon - Thu
-      hours: 5:30 - 9PM
-      span: 5
-    - days: Fri - Sat
-      hours: 5:30 - 10PM
-      span: 2
-    - days: Sun
-      hours: 5:30 - 9PM
-  notes: >-
-    The neighborhood ramen spot. Also open for weekend lunch 12 - 3PM.
   supports:
     - Outdoor Dining
     - Pickup
     - Delivery
+  notes: >-
+    The neighborhood ramen spot.
   services:
     caviar: 'https://www.trycaviar.com/m/chuko-ramen-3843'
     doordash: 'https://www.doordash.com/store/chuko-ramen-brooklyn-22335/en-US'
@@ -829,26 +578,18 @@
   url: 'http://www.chukobk.com'
 
 - name: 'Ciao, Gloria'
-  last_updated: 1/6
   category: cafe
   address: 550 Vanderbilt Ave.
   phone: (716) 666-2426
-  hours:
-    - days: Mon - Fri
-      hours: 8:30AM - 4PM
-      span: 5
-    - days: Sat - Sun
-      hours: 9AM - 5PM
-      span: 2
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/ciao-gloria-employee-fund'
     - title: Gift Cards
       url: 'https://squareup.com/gift/0TSZB8YWYDFH0/order'
-  supports:
-    - Outdoor Dining
-    - Pickup
-    - Delivery
   services:
     direct: 'https://ciaogloria.square.site'
     caviar: 'https://www.trycaviar.com/store/ciao--gloria-brooklyn-975195/en-US'
@@ -858,29 +599,16 @@
   url: 'https://www.ciaogloria.com'
 
 - name: Cinnamon Girl
-  last_updated: 1/6
   category: cafe
   address: 80 Sixth Ave.
-  hours:
-    - days: Mon - Sun
-      hours: 8AM - 8PM
-      span: 7
   notes: 'Bakery that specializes vegan and gluten-free options in addition to traditional pastries.'
   social:
     instagram: 'https://www.instagram.com/cinnamon_girl_bk/'
 
 - name: Citrico
-  last_updated: 1/6
   category: food-drink
   address: 681 Washington Ave.
   phone: (347) 955-4519
-  hours:
-    - days: Mon - Fri
-      hours: 4 - 10PM
-      span: 5
-    - days: Sat - Sun
-      hours: 9AM - 10PM
-      span: 2
   supports:
     - Outdoor Dining
     - Pickup
@@ -894,17 +622,9 @@
   url: 'http://citricobrooklyn.com/'
 
 - name: Covenhoven
-  last_updated: 1/6
   category: food-drink
   address: 730 Classon Ave.
   phone: (718) 483-9950
-  hours:
-    - days: Mon - Fri
-      hours: 2 - 10PM
-      span: 5
-    - days: Sat - Sun
-      hours: 12 - 10PM
-      span: 2
   supports: 
     - Outdoor Seating
     - Pickup
@@ -915,14 +635,9 @@
   url: 'https://www.covenhovennyc.com'
 
 - name: Dickey’s BBQ Pit
-  last_updated: 1/6
   category: food-drink
   address: 196A Flatbush Ave
   phone: (347) 889-5400
-  hours:
-    - days: Mon - Sun
-      hours: 11AM - 9PM
-      span: 7
   supports:
     - Pickup
     - Delivery
@@ -938,7 +653,7 @@
   category: cafe
   address: 646 Vanderbilt Ave.
   notes: >-
-    Recently opened cafe in the former Jocye Bakeshop space.
+    The doughnut shop is back open in Brooklyn with its cafe in the former Jocye Bakeshop space.
   social:
     instagram: https://www.instagram.com/doughdoughnuts/
   
@@ -957,7 +672,6 @@
   url: 'https://www.doughnutplant.com/location/brooklyn/'
 
 - name: El Paso Mexican Grill
-  last_updated: 1/6
   category: food-drink
   address: 387 Flatbush Ave.
   phone: (201) 482-7247
@@ -968,14 +682,9 @@
     instagram: 'https://www.instagram.com/elpasomexgrill/'
 
 - name: Eve’s Lounge
-  last_updated: 1/6
   category: food-drink
   address: 769 Washington Ave.
   phone: (347) 442-5959
-  hours:
-    - days: Mon - Sun
-      hours: 5 - 10PM
-      span: 7
   supports:
     - Outdoor Dining
     - Pickup
@@ -984,26 +693,18 @@
   url: 'https://eves769.com'
 
 - name: Faun
-  last_updated: 1/6
   category: food-drink
   address: 606 Vanderbilt Ave.
   phone: (718) 576-6120
-  hours: 
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Sun
-      hours: 5 - 10PM
-      span: 5
+  supports:
+    - Outdoor Dining
+    - Pickup
+    - Delivery
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/faun-staff-relief-fund'
     - title: Gift Cards (25% Off)
       url: 'https://faun.nyc/gift-cards'
-  supports:
-    - Outdoor Dining
-    - Pickup
-    - Delivery
   services:
     seamless: 'https://www.seamless.com/menu/faun-606-vanderbilt-ave-brooklyn/2423917'
     grubhub: 'https://www.grubhub.com/restaurant/faun-606-vanderbilt-ave-brooklyn/2423917'
@@ -1015,19 +716,9 @@
   url: 'https://faun.nyc'
 
 - name: Fausto
-  last_updated: 3/24
   category: food-drink
   address: 348 Flatbush Ave.
   phone: (917) 909-1427
-  hours:
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Sat
-      hours: 5:30 - 9PM
-      span: 4
-    - days: Sun
-      hours: 5:30 - 8PM
   supports:
     - Indoor Dining
     - Pickup
@@ -1045,31 +736,21 @@
   url: 'https://www.faustobrooklyn.com'
 
 - name: Fermented Grapes
-  last_updated: 1/6
   category: wine-liquor
   address: 651 Vanderbilt Ave.
   phone: (718) 230-3216
-  hours:
-    - days: Mon
-      hours: Closed
-    - days: Tue - Sat
-      hours: 12 - 8PM
-      span: 5
-    - days: Sun
-      hours: Closed
+  supports:
+    - Pickup
+    - Delivery
   notes: >-
     Call or email 
     <a href="mailto:customerservice@fermentedgrapes.net">customerservice@fermentedgrapes.net</a>
     with what you’re looking for and a phone number to pre-order.
-  supports:
-    - Pickup
-    - Delivery
   social:
     instagram: 'https://www.instagram.com/fermentedgrapesbk/'
   url: 'http://www.fermentedgrapes.net'
 
 - name: 'Finn’s Corner'
-  last_updated: 7/2
   category: food-drink
   address: 660 Washington Ave.
   phone: (347) 663-9316
@@ -1078,13 +759,10 @@
   url: 'http://www.finnscornernyc.com'
 
 - name: Flatbush Counter
-  last_updated: 7/2
   category: food-drink
   address: 295 Flatbush Ave.
   notes: >-
-    New fast-casual concept from a former
-    Flabush Farm and Bar(n) chef
-    in the former Rose’s space.
+    New fast-casual concept from a former Flabush Farm and Bar(n) chef in the former Rose’s space.
   social:
     instagram: 'https://www.instagram.com/flatbushcounter/'
   url: 'https://www.flatbushcounter.com'
@@ -1096,17 +774,9 @@
   url: 'https://www.foodtown.com'
 
 - name: 'Four & Twenty Blackbirds'
-  last_updated: 1/6
   category: dessert
   address: 634 Dean St.
   phone: (347) 350-5110
-  hours:
-    - days: Mon - Fri
-      hours: 8AM - 7PM
-      span: 5
-    - days: Sat - Sun
-      hours: 9AM - 7PM
-      span: 2
   services:
     caviar: 'https://www.trycaviar.com/store/four-and-twenty-blackbirds-brooklyn-313450/en-US'
     doordash: 'https://www.doordash.com/store/four-and-twenty-blackbirds-brooklyn-313450/'
@@ -1118,17 +788,9 @@
   url: 'https://birdsblack.com/'
 
 - name: Geido
-  last_updated: 1/6
   category: food-drink
   address: 331 Flatbush Ave.
   phone: (718) 638-8866
-  hours:
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Sun
-      hours: 4:30 - 9PM
-      span: 5
   supports:
     - Pickup
     - Delivery
@@ -1137,26 +799,16 @@
   url: 'https://geido.nyc'
 
 - name: Gen Sushi
-  last_updated: 1/6
   category: food-drink
   address: 659 Washington Ave.
   phone: (718) 398-3550
-  hours:
-    - days: Monday
-      hours: Closed
-    - days: Tue - Fri
-      hours: 5 - 10PM
-      span: 4
-    - days: Sat - Sun
-      hours: 1 - 10PM
-      span: 2
-  links:
-    - title: Staff Relief Fund
-      url: 'https://www.gofundme.com/f/gen-restaurant-employee-fund'
   supports:
     - Outdoor Dining
     - Pickup
     - Delivery
+  links:
+    - title: Staff Relief Fund
+      url: 'https://www.gofundme.com/f/gen-restaurant-employee-fund'
   services:
     upserve: 'https://app.upserve.com/s/gen-brooklyn'
   social:
@@ -1164,14 +816,9 @@
   url: 'http://www.genbrooklyn.com'
 
 - name: Gold Star Beer Counter
-  last_updated: 1/6
   category: food-drink
   address: 176 Underhill Ave.
   phone: (347) 955-5031
-  hours: 
-    - days: Mon - Sun
-      hours: 12 - 9PM (Coffee & Pastries 8AM - 12PM)
-      span: 7
   notes: >-
     Beer to-go window along with seating indoors and outdoors. Check website and Untappd for inventory.
   social:
@@ -1189,14 +836,9 @@
   url: 'https://goodrepspt.janeapp.com'
 
 - name: Gorilla Coffee
-  last_updated: 1/6
   address: 472 Bergen St.
   phone: (347) 987-3765
   category: cafe
-  hours:
-    - days: Mon - Sun
-      hours: 7AM - 9PM
-      span: 7
   supports:
     - Outdoor Seating
     - Pickup
@@ -1207,17 +849,9 @@
   url: 'https://gorillacoffee.com'
 
 - name: Gran Caffe De Martini
-  last_updated: 1/6
   category: cafe
   address: 609 Vanderbilt Ave.
   phone: (929) 306-8332
-  hours:
-    - days: Mon - Fri
-      hours: 8AM - 5PM
-      span: 5
-    - days: Sat - Sun
-      hours: 9AM - 6PM
-      span: 2
   supports:
     - Outdoor Dining 
     - Pickup
@@ -1235,28 +869,18 @@
   url: 'https://www.caffedemartini.com'
 
 - name: El Gran Castillo de Jagua
-  last_updated: 1/6
   category: food-drink
   address: 355 Flatbush Ave.
   phone: (718) 622-8700
-  hours:
-    - days: Mon - Sun
-      hours: 7AM - 9PM
-      span: 7
   supports:
     - Pickup
     - Delivery
   url: 'https://www.elgrancastillo.com'
 
 - name: Homeslice Pizzeria
-  last_updated: 1/6
   category: food-drink
   address: 567 Vanderbilt Ave.
   phone: (347) 632-9824
-  hours:
-    - days: Mon - Sun
-      hours: 11:30 - 10:00PM
-      span: 7
   services:
     slice: 'https://slicelife.com/restaurants/ny/brooklyn/11238/brooklyn-s-homeslice-pizzeria/menu'
   social:
@@ -1264,17 +888,12 @@
   url: 'https://www.brooklynshomeslicepizza.com'
 
 - name: Hungry Ghost
-  last_updated: 1/6
   category: cafe
   address: '253 Flatbush Ave. · 183 Sterling Pl.'
-  hours:
-    - days: Mon - Sun
-      hours: 7AM - 5PM
-      span: 7
-  notes: >-
-    Two locations in the neighborhood.
   supports:
     - Pickup
+  notes: >-
+    The local coffee chain has two locations in the neighborhood.
   links:
     - title: Gift Cards (20% Off)
       url: 'https://squareup.com/gift/86HHGQC7C1RMH/order'
@@ -1285,19 +904,9 @@
   url: 'https://www.hungryghostcoffee.com/'
 
 - name: Inaka Asian Cuisine
-  last_updated: 1/6
   category: food-drink
   address: 597 Vanderbilt Ave.
   phone: (718) 398-8168
-  hours:
-    - days: Mon
-      hours: Closed
-    - days: Tue - Fri
-      hours: 11:30AM - 10PM
-      span: 4
-    - days: Sat - Sun
-      hours: 12:30 - 10PM
-      span: 2
   supports: 
     - Pickup
     - Delivery
@@ -1306,19 +915,9 @@
   url: 'http://inakany.com'
 
 - name: The Islands
-  last_updated: 1/6
   category: food-drink
   address: 671 Washington Ave.
   phone: (718) 398-3575
-  hours:
-    - days: Mon
-      hours: Closed
-    - days: Tue - Thu
-      hours: 1 - 10PM
-      span: 3
-    - days: Fri - Sun
-      hours: 12 - 10PM
-      span: 3
   supports:
     - Outdoor Dining
     - Pickup
@@ -1328,26 +927,16 @@
     uber_eats: 'https://www.ubereats.com/new-york/food-delivery/the-islands/9jFnKcjVRBuUOpsVlzSgsg'
 
 - name: James
-  last_updated: 1/12
   category: food-drink
   address: 605 Carlton Ave.
   phone: (718) 942-4255
-  hours:
-    - days: Mon
-      hours: 4 - 9PM
-    - days: Tue - Wed
-      hours: Closed
-      span: 2
-    - days: Thu - Sun
-      hours: 4 - 9PM (Brunch 12 - 4PM Sun)
-      span: 4
-  links:
-    - title: Staff Relief Fund
-      url: 'https://www.gofundme.com/f/james-staff-emergency-relief-fund'
   supports:
     - Outdoor Dining
     - Pickup 
     - Delivery
+  links:
+    - title: Staff Relief Fund
+      url: 'https://www.gofundme.com/f/james-staff-emergency-relief-fund'
   services:
     chownow: 'https://direct.chownow.com/order/21833/locations/31667'
   social:
@@ -1365,19 +954,9 @@
   url: 'https://www.jonopandolfi.com/brooklyn-popup'
 
 - name: Joy Indian
-  last_updated: 1/6
   category: food-drink
   address: 301 Flatbush Ave.
   phone: (718) 230-1165
-  hours:
-    - days: Mon - Thu
-      hours: 11:30AM - 3PM, 5-10PM
-      span: 4
-    - days: Fri - Sat
-      hours: 11:30 - 10PM
-      span: 2
-    - days: Sun
-      hours: 11:30AM - 3PM, 5-10PM
   supports:
     - Pickup
     - Delivery
@@ -1386,21 +965,9 @@
   url: 'http://joyindianrestaurant.com'
 
 - name: Kami Asian
-  last_updated: 1/6
   category: food-drink
   address: 385 Flatbush Ave.
   phone: (718) 398-3888
-  hours:
-    - days: Mon
-      hours: 5 - 11PM
-    - days: Tue - Thurs
-      hours: 11AM - 10PM
-      span: 3
-    - days: Fri - Sat
-      hours: 11AM - 11:30PM
-      span: 2
-    - days: Sun
-      hours: 5 - 11PM
   services:
     direct: 'https://kamiasian.menucities.com/catalog.aspx?cid=66'
   social:
@@ -1408,16 +975,9 @@
   url: 'http://kamiasian.com'
 
 - name: Ki Sushi
-  last_updated: 1/6
   category: food-drink
   address: 282 Flatbush Ave.
   phone: (718) 230-1381
-  hours:
-    - days: Mon - Sat
-      hours: 4:30 - 9:30PM (Lunch 12:30 - 2:30PM)
-      span: 6
-    - days: Sun
-      hours: 5 - 9:30PM
   supports: 
     - Outdoor Dining
     - Pickup
@@ -1429,17 +989,9 @@
   url: 'http://www.kisushigroup.com'
 
 - name: Kimchi Grill
-  last_updated: 1/6
   category: food-drink
   address: 766 Washington Ave.
   phone: (718) 360-1839
-  hours:
-    - days: Mon - Fri
-      hours: 12 - 10PM
-      span: 5
-    - days: Sat - Sun
-      hours: 11:30AM - 10PM
-      span: 2
   supports:
     - Pickup
     - Delivery
@@ -1460,7 +1012,6 @@
   url: 'http://kingdavidtacos.com/'
 
 - name: Kit
-  last_updated: 7/2
   category: food-drink
   address: 657 Washington Ave.
   notes: >-
@@ -1472,17 +1023,9 @@
 
 
 - name: Kombit Bar and Restaurant
-  last_updated: 1/23
   category: food-drink
   address: 279 Flatbush Ave.
   phone: (718) 399-2000
-  hours:
-    - days: Mon - Wed
-      hours: Closed
-      span: 3
-    - days: Thu - Sun
-      hours: 5 - 10PM
-      span: 4
   supports:
     - Outdoor Dining
     - Pickup
@@ -1498,39 +1041,28 @@
   url: 'https://www.kombitrestaurant.com/'
 
 - name: Konditori
-  last_updated: 1/6
   category: cafe
   address: 696 Washington Ave.
   phone: (347) 689-8471
-  links:
-    - title: Staff Relief Fund
-      url: 'https://www.gofundme.com/f/help-our-staff-at-konditori'
   supports:
     - Outdoor Seating 
     - Pickup
+  links:
+    - title: Staff Relief Fund
+      url: 'https://www.gofundme.com/f/help-our-staff-at-konditori'
   social:
     instagram: 'https://www.instagram.com/konditori/'
   url: https://konditori.com/our-locations/prospect-heights/
 
 - name: LaLou
-  last_updated: 2/13
   category: food-drink
   address: 581 Vanderbilt Ave.
-  hours:
-    - days: Mon
-      hours: Closed
-    - days: Tues - Thu
-      hours: 5:30 - 10PM
-      span: 3
-    - days: Fri - Sun
-      hours: 5 - 10PM (Lunch 12 - 4PM)
-      span: 3
-  links:
-    - title: Staff Relief Fund
-      url: 'https://www.gofundme.com/f/lalou-employee-fund'
   supports:
     - Outdoor Dining
     - Delivery
+  links:
+    - title: Staff Relief Fund
+      url: 'https://www.gofundme.com/f/lalou-employee-fund'
   services:
     resy: 'https://resy.com/cities/ny/lalou'
     tock: 'https://www.exploretock.com/lalou/'
@@ -1543,22 +1075,14 @@
 
 - name: Leland Eating and Drinking House
   category: food-drink
-  last_updated: 1/6
   address: 755 Dean St.
   phone: (646) 470-7008
-  hours:
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Sun
-      hours: 1 - 8PM
-      span: 5
-  notes: >-
-    Newly opened neighborhood restaurant. “We are booking private cozy cabins and adding heaters outside. We have gift cards too now!”
   supports:
     - Indoor Dining
     - Outdoor Dining
     - Pickup
+  notes: >-
+    Recently opened neighborhood restaurant in the former Dean Street space.
   social:
     instagram: https://www.instagram.com/lelandbrooklyn/
     facebook: https://www.facebook.com/LelandBrooklyn
@@ -1580,17 +1104,9 @@
   url: 'https://www.getmylifereorganized.com'
 
 - name: Lincoln Station
-  last_updated: 1/6
   category: food-drink
   address: 409 Lincoln Pl.
   phone: (718) 399-2211
-  hours:
-    - days: Mon - Fri
-      hours: 7:30AM - 8PM
-      span: 5
-    - days: Sat - Sun
-      hours: 8AM - 8PM
-      span: 2
   supports:
     - Outdoor Dining
     - Pickup
@@ -1605,19 +1121,9 @@
   url: 'https://www.stationfoods.com'
 
 - name: Little Cupcake Bakeshop
-  last_updated: 1/6
   category: cafe
   address: 598 Vanderbilt Ave.
   phone: (718) 783-0770
-  hours:
-    - days: Mon - Thu
-      hours: 8AM - 10PM
-      span: 4
-    - days: Fri - Sat
-      hours: 8AM - 11PM
-      span: 2
-    - days: Sun
-      hours: 8AM - 10PM
   supports:
     - Pickup
   links:
@@ -1638,23 +1144,16 @@
     instagram: 'https://www.instagram.com/littlemissmuffinny/'
 
 - name: LOOK by Plant Love House
-  last_updated: 1/6
   category: food-drink
   address: 622 Washington Ave.
   phone: (718) 622-0026
-  hours:
-    - days: Mon
-      hours: Closed
-    - days: Tue - Sun
-      hours: 12 - 10PM
-      span: 6
-  links:
-    - title: Gift Cards
-      url: 'https://squareup.com/gift/C8B77ATQE673H/order'
   supports:
     - Outdoor Dining
     - Pickup
     - Delivery
+  links:
+    - title: Gift Cards
+      url: 'https://squareup.com/gift/C8B77ATQE673H/order'
   services:
     caviar: 'https://www.trycaviar.com/store/look-by-plant-love-house-brooklyn-132880/en-US'
     doordash: 'https://www.doordash.com/store/look-by-plant-love-house-brooklyn-132880/en-US'
@@ -1666,20 +1165,9 @@
   url: 'https://www.plantlovehouse.com/look'
 
 - name: Lowerline
-  last_updated: 3/24
   category: food-drink
   address: 794 Washington Ave.
   phone: (347) 533-7110
-  hours: 
-    - days: Mon
-      hours: Closed
-    - days: Tue - Fri
-      hours: 5 - 10PM
-      span: 4
-    - days: Sat
-      hours: 12 - 10PM
-    - days: Sun
-      hours: 12 - 6PM
   supports:
     - Outdoor Dining
     - Pickup
@@ -1698,17 +1186,9 @@
   url: 'https://www.lowerlinebk.com'
 
 - name: Maison Yaki
-  last_updated: 2/13
   category: food-drink
   address: 626 Vanderbilt Ave.
   phone: (718) 552-2609
-  hours:
-    - days : Mon - Fri
-      hours: 5 - 10PM
-      span: 5
-    - days: Sat - Sun
-      hours: 3 - 10PM
-      span: 2
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund'
@@ -1718,20 +1198,14 @@
     seamless: 'https://www.seamless.com/menu/maison-yaki-626-vanderbilt-ave-brooklyn/2569903'
     grubhub: 'https://www.grubhub.com/restaurant/maison-yaki-626-vanderbilt-ave-brooklyn/2569903'
     resy: 'https://resy.com/cities/ny/maison-yaki'
-    
   social:
     instagram: 'https://www.instagram.com/maisonyaki/'
   url: 'http://www.maisonyaki.com/'
 
 - name: Maya Taqueria
-  last_updated: 1/6
   category: food-drink
   address: 637 Vanderbilt Ave.
   phone: (718) 638-6292
-  hours:
-    - days: Mon - Sun
-      hours: 11AM - 10PM
-      span: 7
   supports:
     - Outdoor Dining
     - Pickup
@@ -1745,19 +1219,9 @@
   url: 'https://www.mayataqueria.com'
 
 - name: Mei Chi Liquors
-  last_updated: 1/6
   category: wine-liquor
   address: 391 Flatbush Ave.
   phone: (718) 622-1403
-  hours: 
-    - days: Mon - Thu
-      hours: 10:30AM - 8PM
-      span: 4
-    - days: Fri - Sat
-      hours: 10:30AM - 9PM
-      span: 2
-    - days: Sun
-      hours: 10:30AM - 8PM
   supports:
     - Pickup
     - Delivery
@@ -1766,17 +1230,9 @@
   url: 'https://www.brooklyncellars.com'
 
 - name: Mermaid’s Garden
-  last_updated: 1/6
   category: grocer
   address: 644 Vanderbilt Ave.
   phone: (718) 638-1910
-  hours: 
-    - days: Mon - Fri
-      hours: 12 - 7PM
-      span: 5
-    - days: Sat - Sun
-      hours: 11AM - 6PM
-      span: 2
   supports:
     - Pickup
     - Delivery
@@ -1787,18 +1243,9 @@
   url: 'https://www.mermaidsgardennyc.com'
 
 - name: Mexicocina Agaveria
-  last_updated: 1/6
   category: food-drink
   address: 708 Washington Ave.
   phone: (347) 663-2951
-  hours:
-    - days: Mon
-      hours: 12 - 9PM
-    - days: Tue - Sat
-      hours: 12 - 10PM
-      span: 5
-    - days: Sun
-      hours: 12 - 9PM
   supports:
     - Outdoor Dining
     - Pickup
@@ -1816,17 +1263,9 @@
   url: 'https://mexicocinanyc.com/brooklyn-agaveria/'
 
 - name: Milk Bar
-  last_updated: 1/6
   category: cafe
   address: 620 Vanderbilt Ave.
   phone: (718) 230-0844
-  hours: 
-    - days: Mon - Fri
-      hours: 8AM - 2PM
-      span: 5
-    - days: Sat - Sun
-      hours: 8AM - 4PM
-      span: 2
   supports:
     - Outdoor Dining
     - Pickup
@@ -1843,14 +1282,9 @@
   url: 'https://www.milkbarbrooklyn.com'
 
 - name: Mille-Feuille
-  last_updated: 1/6
   category: cafe
   address: 622 Vanderbilt Ave.
   phone: (347) 350-8838
-  hours:
-    - days: Mon - Sun
-      hours: 8AM - 5PM
-      span: 7
   supports:
     - Pickup
     - Delivery
@@ -1864,7 +1298,6 @@
   url: 'https://www.millefeuille-nyc.com'
 
 - name: Mitchell’s Soul Food
-  last_updated: 1/6
   category: food-drink
   address: 617 Vanderbilt Ave.
   phone: (718) 789-3212
@@ -1872,17 +1305,9 @@
     - Pickup
 
 - name: Mokbar
-  last_updated: 1/6
   category: food-drink
   address: 212 Flatbush Ave.
   phone: (347) 987-3042
-  hours:
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Sun
-      hours: 12 - 9PM
-      span: 5
   supports:
     - Pickup
     - Delivery
@@ -1901,20 +1326,16 @@
   url: 'https://www.mokbar.com'
 
 - name: Morgan’s BBQ
-  last_updated: 2/13
   category: food-drink
   address: 267 Flatbush Ave.
   phone: (718) 622-2224
   status: closed
-  hours:
-    - days: Mon - Sun
-      hours: 12 - 10PM (Delivery until 11PM)
-      span: 7
-  notes: 'Temporarily closed after a kitchen fire.'
   supports:
     - Outdoor Dining
     - Pickup
     - Delivery
+  notes: >-
+    Temporarily closed after a kitchen fire.
   links:
     - title: GoFundMe for Morgan’s and neighbors
       url: 'https://www.gofundme.com/f/emergency-fire-response-fund'
@@ -1934,14 +1355,9 @@
   url: 'https://www.morgansbrooklynbarbecue.com'
 
 - name: Mumbai Place
-  last_updated: 1/6
   category: food-drink
   address: 655 Vanderbilt Ave.
   phone: (718) 398-7776
-  hours:
-    - days: Mon - Sun
-      hours: 12 - 10PM
-      span: 7
   supports:
     - Outdoor Dining
     - Pickup
@@ -1953,18 +1369,9 @@
   url: 'https://www.mumbaiplaceny.com/'
 
 - name: Muse
-  last_updated: 1/6
   category: food-drink
   address: 689 Washington Ave.
   phone: (347) 442-0443
-  hours:
-    - days: Mon
-      hours: 4 - 10PM
-    - days: Tue
-      hours: Closed
-    - days: Wed - Sun
-      hours: 4 - 10PM
-      span: 5
   services:
     direct: 'https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=62edb62e-e0ac-4440-986d-1ac991199229'
   social:
@@ -1973,14 +1380,9 @@
   url: 'https://musebklyn.com'
 
 - name: Nacho Macho Taco
-  last_updated: 1/6
   category: food-drink
   address: 417 Prospect Pl.
   phone: (718) 622-2727
-  hours:
-    - days: Mon - Sun
-      hours: 11AM - 10PM
-      span: 7
   supports:
     - Pickup
     - Delivery
@@ -1993,19 +1395,9 @@
   url: 'http://www.nachomachotaco.net'
 
 - name: Nimbooda
-  last_updated: 1/10
   category: food-drink
   address: 664 Washington Ave.
   phone: (718) 622-4616
-  hours:
-    - days: Mon - Thu
-      hours: 11:30AM - 10:30PM
-      span: 4
-    - days: Fri - Sat
-      hours: 11:30AM - 11PM
-      span: 2
-    - days: Sun
-      hours: 11:30AM - 10:30PM
   services:
     direct: 'https://www.ezcater.com/catering/pvt/nimbooda-3'
   social:
@@ -2014,14 +1406,9 @@
   url: 'https://nimboodanyc.com/'
 
 - name: Nourish Thai
-  last_updated: 1/6
   category: food-drink
   address: 637A Vanderbilt Ave.
   phone: (718) 789-3981
-  hours:
-    - days: Mon - Sun
-      hours: 12 - 10PM
-      span: 7
   supports:
     - Outdoor Dining
     - Pickup
@@ -2053,15 +1440,9 @@
   url: 'https://www.thenuaatable.com'
 
 - name: Nûrish
-  last_updated: 1/6
   category: food-drink
   address: 637 Washington Ave.
   phone: (718) 484-1122
-  hours:
-    - days: Mon - Sat
-      hours: 7AM - 8PM
-    - days: Sun
-      hours: 7AM - 6PM
   supports:
     - Pickup
     - Delivery
@@ -2073,14 +1454,9 @@
   url: 'https://www.nurishbk.com'
 
 - name: 'Ocean’s 8'
-  last_updated: 3/24
   category: food-drink
   address: 308 Flatbush Ave.
   phone: (718) 857-5555
-  hours:
-    - days: Mon - Sun
-      hours: 12 - 10PM
-      span: 7
   supports:
     - Indoor Seating
   social:
@@ -2089,27 +1465,17 @@
   url: 'https://www.oceans8ny.com'
 
 - name: Ode to Babel
-  last_updated: 3/24
   category: food-drink
   address: 772 Dean St.
-  hours: 
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Sat
-      hours: 4 - 11PM
-      span: 4
-    - days: Sun
-      hours: 2 - 9PM
+  supports:
+    - Outdoor Seating
+    - Pickup
+   # - Delivery
   links:
     - title: Donate
       url: 'https://www.odetobabel.com/checkout/donate?donatePageId=5fc954f6c0364528a362a6ef'
     - title: Staff relief fund
       url: 'https://www.gofundme.com/f/ode-to-babel-team'
-  supports:
-    - Outdoor Seating
-    - Pickup
-  #   - Delivery
   # services:
   #   seamless: 'https://www.seamless.com/menu/ode-to-babel-706-washington-ave-new-york/2250322'
   #   grubhub: 'https://www.grubhub.com/restaurant/ode-to-babel-706-washington-ave-new-york/2250322'
@@ -2118,14 +1484,9 @@
   url: 'https://www.odetobabel.com/'
 
 - name: Ogliastro Pizza Bar
-  last_updated: 1/6
   category: food-drink
   address: 784 Washington Ave.
   phone: (718) 789-3700
-  hours:
-    - days: Mon - Sun
-      hours: 5 - 10PM
-      span: 7
   supports:
     - Outdoor Dining
     - Pickup
@@ -2142,14 +1503,9 @@
   url: 'https://www.ogliastropizzabar.com'
 
 - name: Olde Brooklyn Bagel Shoppe
-  last_updated: 1/6
   category: cafe
   address: 645 Vanderbilt Ave.
   phone: (718) 622-6227
-  hours:
-    - days: Mon - Sun
-      hours: 8AM - 6PM (Delivery 7:30AM - 4PM)
-      span: 7
   supports:
     - Outdoor Dining
     - Pickup
@@ -2184,16 +1540,8 @@
   url: 'http://olmstednyc.com/'
 
 - name: Ovenly
-  last_updated: 1/6
   category: cafe
   address: 210 Flatbush Ave.
-  hours:
-    - days: Mon - Fri
-      hours: 7:30AM - 6PM
-      span: 5
-    - days: Sat - Sun
-      hours: 8AM - 6PM
-      span: 2
   supports:
     - Outdoor Seating
     - Pickup
@@ -2212,17 +1560,9 @@
   url: 'https://www.oven.ly'
 
 - name: Oxalis
-  last_updated: 3/24
   address: 791 Washington Ave.
   phone: (347) 627-8298
   category: food-drink
-  hours:
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Sun
-      hours: 5:30 - 10PM
-      span: 5
   # notes: >-
   links:
     - title: Oxalis Pantry
@@ -2252,17 +1592,9 @@
     instagram: 'https://www.instagram.com/ozakaya_nyc/'
 
 - name: Patsy’s Pizzeria
-  last_updated: 1/6
   address: 450 Dean St.
   phone: (718) 622-2268
   category: food-drink
-  hours:
-    - days: Mon - Thu
-      hours: 4 - 10PM
-      span: 4
-    - days: Fri - Sun
-      hours: 12 - 10PM
-      span: 3
   supports:
     - Outdoor Dining
     - Pickup
@@ -2277,14 +1609,9 @@
   url: 'https://parkslope.patsyspizza.nyc'
 
 - name: Penny House Cafe
-  last_updated: 1/6
   category: cafe
   address: 732 Washington Ave.
   phone: (347) 240-7281
-  hours:
-    - days: Mon - Sun
-      hours: 6AM - 6PM
-      span: 7
   supports:
     - Pickup
   social:
@@ -2293,17 +1620,9 @@
   url: 'http://www.pennyhousecafe.com'
 
 - name: Piquant
-  last_updated: 3/24
   category: food-drink
   address: 259 Flatbush Ave.
   phone: (718) 484-4114
-  hours:
-    - days: Mon - Fri
-      hours: 2 - 9:30PM
-      span: 5
-    - days: Sat - Sun
-      hours: 10AM - 9:30PM
-      span: 2
   supports:
     - Outdoor Dining
     - Pickup
@@ -2313,21 +1632,9 @@
   url: 'https://www.piquantnyc.com'
 
 - name: Poke Tiky
-  last_updated: 1/6
   category: food-drink
   address: 564 Vanderbilt Ave.
   phone: (347) 365-5214
-  hours:
-    - days: Mon - Wed
-      hours: 11AM - 8PM
-      span: 3
-    - days: Thu - Fri
-      hours: 11AM - 9PM
-      span: 2
-    - days: Sat
-      hours: 10AM - 8:30PM
-    - days: Sun
-      hours: 10AM - 8PM
   supports:
     - Outdoor Dining
     - Pickup
@@ -2338,16 +1645,9 @@
   url: 'https://poketikybar.com/'
 
 - name: Puerto Viejo
-  last_updated: 1/6
   category: food-drink
   address: 564 Grand Ave.
   phone: (718) 398-3758
-  hours:
-    - days: Mon - Sat
-      hours: 11AM - 10PM
-      span: 6
-    - days: Sun
-      hours: Closed
   notes: >-
     Call to order for local delivery.
   supports:
@@ -2372,14 +1672,9 @@
   url: 'https://www.privateyogasoho.com'
 
 - name: Prospect Butcher Co.
-  last_updated: 1/6
   category: grocer
   address: 665 Vanderbilt Ave.
   phone: (347) 763-9500
-  hours:
-    - days: Mon - Sun
-      hours: 11AM - 5PM
-      span: 7 
   notes: >-
     Newly opened local butcher in the former Daly Pie space.
   links:
@@ -2388,21 +1683,16 @@
   url: 'https://prospectbutcher.co/'
 
 - name: R&D Foods
-  last_updated: 1/10
   category: grocer
   address: 602 Vanderbilt Ave.
   phone: (347) 915-1196
-  hours:
-    - days: Mon - Sun
-      hours: 8AM - 7PM
-      span: 7
-  links:
-    - title: 'Gift Cards & Merch'
-      url: 'https://www.rdfoodsbklyn.com/swag-shop'
   supports:
     - Outdoor Seating
     - Pickup
     - Delivery
+  links:
+    - title: 'Gift Cards & Merch'
+      url: 'https://www.rdfoodsbklyn.com/swag-shop'
   services:
     chownow: 'https://ordering.chownow.com/order/11145/locations'
   social:
@@ -2411,19 +1701,9 @@
   url: 'https://www.rdfoodsbklyn.com/'
 
 - name: Ruby Kitchen
-  last_updated: 1/6
   category: food-drink
   address: 162 Park Pl.
   phone: (718) 789-4633
-  hours:
-    - days: Mon - Thu
-      hours: 11AM - 10:30PM
-      span: 4
-    - days: Fri - Sat
-      hours: 11AM - 11:30PM
-      span: 2
-    - days: Sun
-      hours: 12 - 10:30PM
   supports:
     - Pickup
     - Delivery
@@ -2433,15 +1713,9 @@
     postmates: 'https://postmates.com/merchant/ruby-kitchen-brooklyn'
 
 - name: Shaka Shaka Tiki/Companion Cafe
-  last_updated: 1/6
   category: food-drink
   address: 64 Sixth Ave.
   phone: (347) 689-3184
-  hours:
-    - days: Mon - Sun
-      hours: 8AM - 10PM
-      span: 7
-  notes: 
   links:
     - title: 'Online Orders: Companion&nbsp;Cafe'
       url: 'https://www.companioncafeordering.com/'
@@ -2454,18 +1728,8 @@
   url: 'https://www.companioncafebk.com'
 
 - name: Shane’s Brooklyn
-  last_updated: 1/6
   category: food-drink
   address: 794 Washington Ave.
-  hours:
-    - days: Mon - Wed
-      hours: 9AM - 6PM
-      span: 3
-    - days: Thu - Sat
-      hours: 9AM - 10PM
-      span: 3
-    - days: Sun
-      hours: 9AM - 6PM
   supports:
     - Outdoor Dining
     - Pickup
@@ -2478,12 +1742,8 @@
     instagram: 'https://www.instagram.com/shanes_brooklyn/'
 
 - name: Sharlene’s Bar
-  address: 353 Flatbush Ave.
   category: food-drink
-  hours:
-    - days: Mon - Sun
-      hours: 2 - 10PM
-      span: 7
+  address: 353 Flatbush Ave.
   supports:
     - Outdoor Seating
     - Takeout
@@ -2494,8 +1754,8 @@
     instagram: 'https://www.instagram.com/sharlenesbar/'
 
 - name: Sit & Wonder
-  address: 688 Washington Ave.
   category: cafe
+  address: 688 Washington Ave.
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/for-our-amazing-baristas'
@@ -2507,21 +1767,14 @@
 
 - name: The Sly Rose
   status: closed
+  category: food-drink
   address: 663 Washington Ave.
   phone: (929) 554-3064
-  category: food-drink
-  notes: >-
-    New Italian restaurant run by the folks at Stocked, currently on a summer hiatus.
-  hours:
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Sun
-      hours: 5 - 9PM
-      span: 5
   supports:
     - Pickup
     - Delivery
+  notes: >-
+    New Italian restaurant run by the folks at Stocked, currently on a summer hiatus.
   services:
     toast: 'https://www.toasttab.com/theslyrose/v3'
   social:
@@ -2529,9 +1782,9 @@
   url: 'https://www.theslyrose.com'
 
 - name: Smokey Vale
+  category: store
   address: 575 Vanderbilt Ave.
   phone: (347) 240-1133
-  category: store
   notes: >-
     Black-owned botique, barber shop and gallery space.
   social:
@@ -2539,9 +1792,9 @@
   url: 'http://smokeyvale.com'
 
 - name: The Social
-  address: 816 Washington Ave.
   status: closed
   category: dessert
+  address: 816 Washington Ave.
   notes: >-
     New ice cream and doughnut shop coming this summer from the founders of Ample Hills.
   social:
@@ -2550,15 +1803,8 @@
   url: 'https://www.thesocialbrooklyn.com'
 
 - name: Sofreh
-  last_updated: 1/6
   category: food-drink
   address: 75 St. Marks Ave
-  hours:
-    - days: Mon
-      hours: Closed
-    - days: Tue - Sun
-      hours: 5:30 - 9PM
-      span: 6
   supports:
     - Outdoor Dining
     - Pickup
@@ -2576,7 +1822,6 @@
   url: 'https://www.sofrehnyc.com'
 
 - name: Specific Gravity
-  last_updated: 1/6
   category: store
   address: 613 Vanderbilt Ave.
   phone: (347) 291-1766
@@ -2592,16 +1837,15 @@
   url: 'https://specificgravitynyc.com'
 
 - name: Stocked Cafe & Burgers
-  last_updated: 1/6
   category: food-drink
   address: 663 Washington Ave.
   phone: (718) 872-5304
-  notes: >-
-    The cafe and burger spot has conslidated on Washington Ave.
   supports:
     - Outdoor Dining
     - Pickup
     - Delivery
+  notes: >-
+    The cafe and burger spot has conslidated on Washington Ave.
   services:
     toast: 'https://www.toasttab.com/stocked-cafe-burgers/v3'
   social:
@@ -2609,7 +1853,6 @@
   url: 'https://www.stockedbrooklyn.com'
 
 - name: Sugarcane
-  last_updated: 1/6
   category: food-drink
   address: 238 Flatbush Ave.
   phone: (718) 230-3954
@@ -2618,21 +1861,9 @@
     instagram: 'https://www.instagram.com/sugarcane_restaurant/'
 
 - name: Sunshine & Co.
-  last_updated: 1/6
   category: food-drink
   address: 780 Washington Ave.
   phone: (347) 750-5275
-  hours: 
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Fri
-      hours: 4 - 10PM
-      span: 3
-    - days: Sat
-      hours: 11AM-4PM / 5-9PM
-    - days: Sun
-      hours: 11AM-4PM / 5-10PM
   supports:
     - Outdoor Dining
   links:
@@ -2646,10 +1877,6 @@
   category: food-drink
   address: 341 Flatbush Ave.
   phone: (718) 484-7724
-  hours:
-    - days: Mon - Sun
-      hours: 12 - 10PM
-      span: 7
   supports:
     - Outdoor Dining
     - Pickup
@@ -2665,30 +1892,17 @@
   url: 'https://www.sweetchick.com'
 
 - name: Sweet Polly
-  last_updated: 3/24
   category: food-drink
   address: 71 Sixth Ave.
   phone: (718) 484-9600
-  hours:
-    - days: Mon
-      hours: closed
-    - days: Tue - Thu
-      hours: 4 - 10PM
-      span: 3
-    - days: Fri
-      hours: 2 - 11PM
-    - days: Sat
-      hours: 12 - 11PM
-    - days: Sun
-      hours: 12 - 10PM
+  supports:
+    - Outdoor Seating
+    - Pickup
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/sweet-polly-team-relief-fund'
     - title: Gift Cards
       url: 'https://squareup.com/gift/89TMFJQFPZE0N/order'
-  supports:
-    - Outdoor Seating
-    - Pickup
   services:
     upserve: 'https://app.upserve.com/s/sweet-polly-brooklyn'
     resy: 'https://resy.com/cities/ny/sweet-polly'
@@ -2698,7 +1912,6 @@
   url: 'http://www.sweetpollynyc.com'
 
 - name: Tiny’s Cantina
-  last_updated: 2/12
   category: food-drink
   address: 229 Flatbush Ave.
   notes: >-
@@ -2708,18 +1921,9 @@
   url: 'https://www.tinyscantina.com/'
 
 - name: Tom’s Restaurant
-  last_updated: 1/6
   category: food-drink
   address: 782 Washington Ave.
   phone: (718) 636-9738
-  hours:
-    - days: Mon - Fri
-      hours: 7AM - 5PM
-      span: 5
-    - days: Sat
-      hours: 7AM - 9PM
-    - days: Sun
-      hours: 8AM - 8PM
   supports: 
     - Pickup
     - Delivery
@@ -2731,31 +1935,18 @@
   url: 'https://tomsbrooklyn.com'
 
 - name: Tooker Alley
-  last_updated: 3/24
   category: food-drink
   address: 793 Washington Ave.
   supports:
     - Pickup
     - Outdoor Dining
-  hours:
-    - days: Mon - Wed
-      hours: Closed
-      span: 3
-    - days: Thu - Sun
-      hours: 5 - 10PM
-      span: 4
   social:
     instagram: 'https://www.instagram.com/tookeralley/'
   
 - name: Udom Thai
-  last_updated: 1/6
   category: food-drink
   address: 661 Washington Ave.
   phone: (718) 622-8424
-  hours:
-    - days: Mon - Sun
-      hours: 11:15AM - 10PM
-      span: 7
   services:
     direct: 'https://www.opendining.net/menu/4fd8ca07000d972008000172'
   supports:
@@ -2767,14 +1958,9 @@
   url: 'https://www.udomthai.com'
 
 - name: Underhill Greek Eatery
-  last_updated: 1/6
   category: food-drink
   address: 760 Dean St.
   phone: (718) 484-3744
-  hours:
-    - days: Mon - Sun
-      hours: 2:30 - 9PM
-      span: 7
   supports:
     - Pickup
     - Delivery
@@ -2814,7 +2000,6 @@
   url: 'http://unnameablebooks.blogspot.com'
 
 - name: Van Leeuwen Ice Cream
-  last_updated: 1/6
   category: dessert
   address: 550 Vanderbilt Ave
   phone: (347) 240-7453
@@ -2833,14 +2018,9 @@
   url: 'https://vanleeuwenicecream.com/location/prospect-heights/'
 
 - name: Vanderbilt Wine Merchants
-  last_updated: 1/6
   category: wine-liquor
   address: 573 Vanderbilt Ave.
   phone: (718) 398-1800
-  hours:
-    - days: Mon - Sun
-      hours: 12 - 7PM
-      span: 7
   notes: >-
     Free neighborhood delivery within a one-mile radius
     Monday through Saturday (3pm cutoff for same day delivery).
@@ -2850,28 +2030,17 @@
   url: 'https://vanderbilt.wine'
 
 - name: Weather Up
-  last_updated: 1/10
   category: food-drink
   address: 589 Vanderbilt Ave.
-  hours:
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Fri
-      hours: 4 - 10PM
-      span: 3
-    - days: Sat - Sun
-      hours: 2 - 10PM
-      span: 2
+  supports:
+    - Outdoor Seating
+    - Pickup
+    - Delivery
   notes: >-
     Classic craft cocktails, now offering delivery.
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/weather-up-staff-relief'    
-  supports:
-    - Outdoor Seating
-    - Pickup
-    - Delivery
   services:
     seamless: 'https://www.seamless.com/menu/weather-up-589-vanderbilt-ave-brooklyn/2486038'
     grubhub: 'https://www.grubhub.com/restaurant/weather-up-589-vanderbilt-ave-brooklyn/2486038'
@@ -2880,23 +2049,9 @@
   url: 'http://www.weatherupnyc.com/'
 
 - name: White Tiger
-  last_updated: 1/6
   category: food-drink
   address: 601 Vanderbilt Ave.
   phone: (718) 552-2272
-  hours:
-    - days: Sun
-      hours: 1 - 9PM
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Thu
-      hours: 5 - 9PM
-      span: 2
-    - days: Fri
-      hours: 5 - 10PM
-    - days: Sat
-      hours: 1 - 9PM
   services:
     toast: 'https://www.toasttab.com/white-tiger/v3'
     doordash: 'https://www.doordash.com/store/white-tiger-brooklyn-132915/en-US'
@@ -2908,7 +2063,6 @@
   url: 'http://www.whitetiger.nyc'
 
 - name: Wine Exchange
-  last_updated: 1/6
   category: wine-liquor
   address: 595 Vanderbilt Ave.
   phone: (718) 783-7500
@@ -2924,45 +2078,20 @@
   url: 'https://wineexchangebkn.com/'
 
 - name: The Winey Neighbor
-  last_updated: 1/6
   category: wine-liquor
   address: 679 Washington Ave.
   phone: (347) 715-6693
-  hours:
-    - days: Mon - Wed
-      hours: 1 - 8PM
-      span: 3
-    - days: Thu - Fri
-      hours: 1 - 9PM
-      span: 2
-    - days: Sat
-      hours: 11AM - 9PM
-    - days: Sun
-      hours: 12 - 9PM
   services:
     direct: 'https://wineyneighbor.com/#&StoreFrontLocationHash=%23%2Fwidget%2F5a6f49faf4a6613ee3696dbb%2Fcontainers'
-  supports:
-    - Pickup
-    - Delivery
   social:
     instagram: 'https://www.instagram.com/wineyneighbor/'
     facebook: 'https://www.facebook.com/wineyneighbor'
   url: 'https://wineyneighbor.com'
 
 - name: Zaytoons
-  last_updated: 1/6
   category: food-drink
   address: 594 Vanderbilt Ave.
   phone: (718) 230-3200
-  hours:
-    - days: Mon - Sat
-      hours: 11:30 AM - 10PM
-      span: 6
-    - days: Sun
-      hours: 11:30AM - 9:30PM
-  supports:
-    - Pickup
-    - Delivery
   services:
     direct: 'https://zaytoons.foodieordersecure.com/'
     caviar: 'https://www.trycaviar.com/store/zaytoons-brooklyn-1048506/en-US'
@@ -2971,3 +2100,4 @@
     instagram: 'https://www.instagram.com/zaytoonsrestaurant/'
     facebook: 'https://www.facebook.com/zaytoonsrestaurant/'
   url: 'https://zaytoons.com'
+  
