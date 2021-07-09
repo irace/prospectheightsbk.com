@@ -12,70 +12,31 @@
     {% endif %}
   </div>
 
-    {% if place.phone or place.address %}
-      <div class="text-small gray">
-        {% if place.address %}{{ place.address }}{% if place.address and place.phone %} · {% endif %}{% endif%}
-        {% if place.phone %}<a class="hover-link" href="tel:{{ place.phone }}">{{ place.phone }}</a>{% endif%}
-      </div>
-      {% endif %}
-      {% if place.services %}
-      <div class="mt2">
-      {% for service in place.services %}
-      <a href="{{service[1]}}"><img class="service-icon" src="icons/{{service[0]}}.png" alt="{{service[0]}}" /></a>
-      {% endfor %}
-      </div>
-      {% endif %}
-    <div>
-      <p class="place-notes">{{ place.notes }}</p>
-    </div>
-
-    {% comment %}
-    {% if place.hours %}
-    <div class="place-section">
-      <h4 class="heading-4">Hours</h4>
-        <div class="flex">
-          {% for block in place.hours %}
-          <div class="hours-block {% if block.hours == 'Closed'%}closed{% endif %}"{% if block.span %} style="flex-grow: {{block.span}};"{% endif %}>
-            <div class="hours-block--days">
-              {{block.days}}
-            </div>
-            <div class="hours-block--hours">
-              {{block.hours}}
-            </div>
-          </div>
-          {% endfor %}
-        </div>
-    </div>
-    {% endif %}
-
-    {% if place.services or place.supports %}
-    <div class="place-section">
-      <h4 class="heading-4">How to Support</h4>
-      {% if place.supports %}
-      <ul class="place-list">
-        {% for item in place.supports %}
-        <li><img style="width: 16px; vertical-align: baseline;" src="icons/check.svg"> {{item}}</li>
-        {% endfor %}
-      </ul>
-      {% endif %}
-    </div>
-    {% endif %}
-    {% endcomment %}
-
-    {% if place.links %}
-    <div class="place-section">
-      <h4 class="heading-4">Links</h4>
-
-      <ul class="place-list">
-        {% for link in place.links %}
-        <li><a class="link dim dark-green" href="{{ link.url }}">{{ link.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
-    {% endif %}
-
-    <!-- {% if place.last_updated %}
-    <div class="f7 lh-copy black-40" style="margin-top: auto;">Last updated: {{ place.last_updated }}</div>
-    {% endif %} -->
+  {% if place.phone or place.address %}
+  <div class="text-small gray">
+    {% if place.address %}{{ place.address }}{% if place.address and place.phone %} · {% endif %}{% endif %}
+    {% if place.phone %}<a class="hover-link" href="tel:{{ place.phone }}">{{ place.phone }}</a>{% endif %}
   </div>
+  {% endif %}
+  {% if place.services %}
+  <div class="mt2">
+    {% for service in place.services %}
+    <a href="{{service[1]}}"><img class="service-icon" src="icons/{{service[0]}}.png" alt="{{service[0]}}" /></a>
+    {% endfor %}
+  </div>
+  {% endif %}
+  <div>
+    <p class="place-notes">{{ place.notes }}</p>
+  </div>
+
+  {% if place.links %}
+  <div class="place-section">
+    <h4 class="heading-4">Links</h4>
+    <ul class="place-list">
+      {% for link in place.links %}
+      <li><a class="link dim dark-green" href="{{ link.url }}">{{ link.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
 </div>

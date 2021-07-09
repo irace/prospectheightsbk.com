@@ -16,12 +16,15 @@
 - name: grocer
   heading: Grocers
   order: 6
+- name: gym
+  heading: Gyms
+  order: 7
 - name: service
   heading: Services
-  order: 7
+  order: 8
 - name: store
   heading: Stores
-  order: 8
+  order: 9
 - name: wine-liquor
   heading: 'Wine & Liquor Stores'
-  order: 9
+  order: 10
