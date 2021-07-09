@@ -12,7 +12,7 @@ layout: default
   {% for category in categories %}
     {% assign category_places = places | where: "category", category.name %}
     {% unless category_places == empty %}
-      <li class="dib mr2"><a href="#{{category.name}}">{{category.heading}}</a></li>
+    <li class="dib mr2"><a href="#{{category.name}}">{{category.heading}}</a></li>
     {% endunless %}
   {% endfor %}
     <li class="dib mr2"><a href="#directory">Full Directory</a></li>
