@@ -227,7 +227,7 @@
     - title: Gift Cards
       url: 'https://squareup.com/gift/C3K54BY60YNAP/order'
   services:
-    direct: 'https://beerstreetsouth550.com' 
+    direct: 'https://beerstreetsouth550.com'
   social:
     instagram: 'https://www.instagram.com/beerstreetsouth/'
     facebook: 'http://www.facebook.com/beerstreetny'
@@ -625,7 +625,7 @@
   category: food-drink
   address: 730 Classon Ave.
   phone: (718) 483-9950
-  supports: 
+  supports:
     - Outdoor Seating
     - Pickup
   social:
@@ -656,7 +656,7 @@
     The doughnut shop is back open in Brooklyn with its cafe in the former Jocye Bakeshop space.
   social:
     instagram: https://www.instagram.com/doughdoughnuts/
-  
+
 - name: Doughnut Plant
   category: cafe
   address: 245 Flatbush Ave.
@@ -743,7 +743,7 @@
     - Pickup
     - Delivery
   notes: >-
-    Call or email 
+    Call or email
     <a href="mailto:customerservice@fermentedgrapes.net">customerservice@fermentedgrapes.net</a>
     with what you’re looking for and a phone number to pre-order.
   social:
@@ -853,7 +853,7 @@
   address: 609 Vanderbilt Ave.
   phone: (929) 306-8332
   supports:
-    - Outdoor Dining 
+    - Outdoor Dining
     - Pickup
   links:
     - title: Staff Relief Fund
@@ -907,7 +907,7 @@
   category: food-drink
   address: 597 Vanderbilt Ave.
   phone: (718) 398-8168
-  supports: 
+  supports:
     - Pickup
     - Delivery
   services:
@@ -932,7 +932,7 @@
   phone: (718) 942-4255
   supports:
     - Outdoor Dining
-    - Pickup 
+    - Pickup
     - Delivery
   links:
     - title: Staff Relief Fund
@@ -961,7 +961,7 @@
     - Pickup
     - Delivery
   services:
-    direct: 'https://joyindianrestaurant.com/order' 
+    direct: 'https://joyindianrestaurant.com/order'
   url: 'http://joyindianrestaurant.com'
 
 - name: Kami Asian
@@ -978,7 +978,7 @@
   category: food-drink
   address: 282 Flatbush Ave.
   phone: (718) 230-1381
-  supports: 
+  supports:
     - Outdoor Dining
     - Pickup
     - Delivery
@@ -1045,7 +1045,7 @@
   address: 696 Washington Ave.
   phone: (347) 689-8471
   supports:
-    - Outdoor Seating 
+    - Outdoor Seating
     - Pickup
   links:
     - title: Staff Relief Fund
@@ -1666,8 +1666,7 @@
   category: service
   phone: (740) 221-3048
   notes: >-
-    Offering virtual private yoga and meditation lessons 
-    via FaceTime, Zoom, and Google Hangouts.
+    Offering virtual private yoga and meditation lessons via FaceTime, Zoom, and Google Hangouts.
     <a href="mailto:alli@privateyogasoho.com">alli@privateyogasoho.com</a>
   url: 'https://www.privateyogasoho.com'
 
@@ -1924,7 +1923,7 @@
   category: food-drink
   address: 782 Washington Ave.
   phone: (718) 636-9738
-  supports: 
+  supports:
     - Pickup
     - Delivery
   services:
@@ -1942,7 +1941,7 @@
     - Outdoor Dining
   social:
     instagram: 'https://www.instagram.com/tookeralley/'
-  
+
 - name: Udom Thai
   category: food-drink
   address: 661 Washington Ave.
@@ -2040,7 +2039,7 @@
     Classic craft cocktails, now offering delivery.
   links:
     - title: Staff Relief Fund
-      url: 'https://www.gofundme.com/f/weather-up-staff-relief'    
+      url: 'https://www.gofundme.com/f/weather-up-staff-relief'
   services:
     seamless: 'https://www.seamless.com/menu/weather-up-589-vanderbilt-ave-brooklyn/2486038'
     grubhub: 'https://www.grubhub.com/restaurant/weather-up-589-vanderbilt-ave-brooklyn/2486038'
@@ -2100,4 +2099,3 @@
     instagram: 'https://www.instagram.com/zaytoonsrestaurant/'
     facebook: 'https://www.facebook.com/zaytoonsrestaurant/'
   url: 'https://zaytoons.com'
-  
