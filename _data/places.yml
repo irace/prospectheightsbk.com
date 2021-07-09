@@ -1,3 +1,33 @@
+- name: Prospect Heights Neighborhood Development Council
+  category: a1
+  notes: >-
+    “The Prospect Heights Neighborhood Development Council (PHNDC) brings Prospect Heights community members together to build a safer, more just and sustainable neighborhood.”
+  social:
+    instagram: 'https://www.instagram.com/phndc_brooklyn/'
+    facebook: 'https://www.facebook.com/phndc/'
+  url: 'https://www.phndc.org'
+
+- name: Underhill Open Streets
+  category: a1
+  notes: >-
+    Updates from the organizers of weekday traffic-free Underhill Avenue, supported by PHNDC.
+  social:
+    instagram: 'https://www.instagram.com/underhilloscc/'
+- name: Vanderbilt Open Streets
+  category: a1
+  notes: >-
+    The official website of the traffic-free weekends on Vanderbilt Avenue, supported by PHNDC and NYC DOT’s Open Streets initiative.
+  social:
+    instagram: 'https://www.instagram.com/vanderbiltopenstreets/'
+  url: 'https://vanderbiltavenue.org'
+- name: 'North Flatbush Business Improvement District'
+  category: a1
+  notes: >-
+    A BID that supports the corridor of Flatbush Avenue from Atlantic Avenue to Grand Army Plaza.
+  social:
+    instagram: 'https://www.instagram.com/northflatbushbk/'
+    facebook: 'https://www.facebook.com/northflatbushbk/'
+  url: 'http://www.northflatbushbid.nyc'
 - name: 333 Lounge
   last_updated: 1/6
   category: food-drink
@@ -23,17 +53,8 @@
   category: store
   address: 628 Vanderbilt Ave.
   phone: (718) 789-8062
-  hours:
-    - days: Mon - Fri
-      hours: 10AM - 7PM
-      span: 5
-    - days: Sat
-      hours: 10AM - 5PM
-    - days: Sun
-      hours: 11AM - 5PM
-  supports:
-    - Curbside Pickup
-    - Delivery
+  notes: >-
+    Local pet food store, in business for more than 30 years. Offers local delivery.
   social:
     instagram: 'https://www.instagram.com/acmepetfood/'
 
@@ -427,6 +448,14 @@
     instagram: 'https://www.instagram.com/biltbar/'
     facebook: 'https://www.facebook.com/pages/category/Lounge/Bilt-Bar-100153434688553/'
 
+- name: BK Lobster
+  category: food-drink
+  address: 643 Vanderbilt Ave.
+  notes: >-
+    Coming soon.
+  social:
+    instagram: 'https://www.instagram.com/bklobsterprospectheights/'
+
 - name: BKLYN Clay
   last_updated: 1/6
   category: service
@@ -496,7 +525,7 @@
 
 - name: BKLYN Larder
   last_updated: 1/6
-  category: grocery
+  category: grocer
   address: 228 Flatbush Ave.
   phone: (718) 783-1250
   hours:
@@ -772,29 +801,6 @@
     facebook: 'https://www.facebook.com/CherylsGlobalSoul'
   url: 'https://www.cherylsglobalsoul.com'
 
-- name: Chick-P
-  last_updated: 1/6
-  category: food-drink
-  address: 490 Bergen St.
-  phone: (718) 783-1525
-  hours:
-    - days: Mon - Sat
-      hours: 11AM - 10PM
-      span: 6
-    - days: Sun
-      hours: 11AM - 9PM
-  notes: >-
-    Get 10% off when ordering directly from their website.
-  services:
-    direct: 'https://eat.9fold.me/index.html#/10955'
-    doordash: 'https://www.doordash.com/store/chick-p-brooklyn-28639/en-US'
-    postmates: 'https://postmates.com/merchant/chick-p-brooklyn'
-    seamless: 'https://www.seamless.com/menu/chick-p-490-bergen-st-brooklyn/262480'
-    grubhub: 'https://www.grubhub.com/restaurant/chick-p-490-bergen-st-brooklyn/262480'
-  social:
-    instagram: 'https://www.instagram.com/chickpbrooklyn/'
-  url: 'https://www.chick-p.com'
-
 - name: Chuko
   last_updated: 1/6
   category: food-drink
@@ -928,33 +934,18 @@
     instagram: 'https://www.instagram.com/dickeys.bk/'
   url: 'https://www.dickeys.com/locations/New-York/Brooklyn/1683-brooklyn'
 
-- name: Dough Studio
-  last_updated: 5/13
-  category: dessert
+- name: Dough
+  category: cafe
+  address: 646 Vanderbilt Ave.
   notes: >-
-    “I started this business to pay for grad school!
-    So if you love cinnamon rolls or pizza, you better try ours.
-    Delivery in Brooklyn 🧡”
+    Recently opened cafe in the former Jocye Bakeshop space.
   social:
-    instagram: 'https://www.instagram.com/doughstudio_/'
-    facebook: 'https://www.facebook.com/Dough-Studio-105988981103219'
-
+    instagram: https://www.instagram.com/doughdoughnuts/
+  
 - name: Doughnut Plant
-  last_updated: 1/6
   category: cafe
   address: 245 Flatbush Ave.
   phone: (212) 505-3700,245
-  hours:
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Sun
-      hours: 8AM - 4PM
-      span: 5
-  supports:
-    - Pickup
-    - Delivery
-    - Nationwide Shipping
   links:
     - title: Gift Cards
       url: 'https://www.doughnutplant.com/store/gift-cards/'
@@ -1077,16 +1068,32 @@
     instagram: 'https://www.instagram.com/fermentedgrapesbk/'
   url: 'http://www.fermentedgrapes.net'
 
+- name: 'Finn’s Corner'
+  last_updated: 7/2
+  category: food-drink
+  address: 660 Washington Ave.
+  phone: (347) 663-9316
+  social:
+    instagram: 'https://www.instagram.com/finnscornernyc/'
+  url: 'http://www.finnscornernyc.com'
+
 - name: Flatbush Counter
-  last_updated: 3/24
+  last_updated: 7/2
   category: food-drink
   address: 295 Flatbush Ave.
-  status: closed
   notes: >-
-    Coming soon in the former Rose’s space.
+    New fast-casual concept from a former
+    Flabush Farm and Bar(n) chef
+    in the former Rose’s space.
   social:
     instagram: 'https://www.instagram.com/flatbushcounter/'
   url: 'https://www.flatbushcounter.com'
+
+- name: Foodtown
+  category: grocer
+  address: 632 Vanderbilt Ave.
+  phone: (718) 783-1887
+  url: 'https://www.foodtown.com'
 
 - name: 'Four & Twenty Blackbirds'
   last_updated: 1/6
@@ -1166,11 +1173,20 @@
       hours: 12 - 9PM (Coffee & Pastries 8AM - 12PM)
       span: 7
   notes: >-
-    Beer to-go window and outdoor seating available. Check website and Untappd for inventory.
+    Beer to-go window along with seating indoors and outdoors. Check website and Untappd for inventory.
   social:
     instagram: 'https://www.instagram.com/goldstarbeercounter/'
     untappd: 'https://untappd.com/v/gold-star-beer-counter/3171446'
   url: 'http://goldstarbeercounter.com'
+
+- name: Good Reps
+  category: service
+  address: 639 Vanderbilt Ave.
+  notes: >-
+    Physical therapy by appointment.
+  social:
+    instagram: https://www.instagram.com/goodrepsphysicaltherapy/
+  url: 'https://goodrepspt.janeapp.com'
 
 - name: Gorilla Coffee
   last_updated: 1/6
@@ -1189,13 +1205,6 @@
   social:
     instagram: 'https://www.instagram.com/gorillacoffee/'
   url: 'https://gorillacoffee.com'
-
-# hidden due to lack of updates
-# - name: Good Life
-#   last_updated: 1/6
-#   category: food-drink
-#   social:
-#     instagram: 'https://www.instagram.com/goodlifebk/'
 
 - name: Gran Caffe De Martini
   last_updated: 1/6
@@ -1346,6 +1355,15 @@
     facebook: 'https://www.facebook.com/jamesrestaurant'
   url: 'http://www.jamesrestaurantny.com'
 
+- name: Jono Pandolfi Designs
+  category: shop
+  address: 631 Vanderbilt Ave.
+  notes: >-
+    Summer pop-up shop for this ceramics maker.
+  social:
+    instagram: 'https://www.instagram.com/jonopandolfi/'
+  url: 'https://www.jonopandolfi.com/brooklyn-popup'
+
 - name: Joy Indian
   last_updated: 1/6
   category: food-drink
@@ -1431,6 +1449,28 @@
     instagram: 'https://www.instagram.com/kimchigrill/'
   url: 'https://www.kimchigrill.com'
 
+- name: King David Tacos
+  category: food-drink
+  address: 611 Bergen Ave.
+  notes: >-
+    First brick-and-mortar retail location serving Austin-style breakfast tacos. Check their Instagram in case of early sell-outs.
+  social:
+    instagram: 'https://www.instagram.com/kingdavidtacos/'
+    facebook: 'https://www.facebook.com/kingdavidtacos'
+  url: 'http://kingdavidtacos.com/'
+
+- name: Kit
+  last_updated: 7/2
+  category: food-drink
+  address: 657 Washington Ave.
+  notes: >-
+    New queer-focused cafe and shop in the former MeMe’s Diner space.
+  social:
+    instagram: 'https://www.instagram.com/kit_bklyn/'
+  services:
+    toast: 'https://www.toasttab.com/kitbklyn/v3'
+
+
 - name: Kombit Bar and Restaurant
   last_updated: 1/23
   category: food-drink
@@ -1471,30 +1511,6 @@
   social:
     instagram: 'https://www.instagram.com/konditori/'
   url: https://konditori.com/our-locations/prospect-heights/
-
-- name: Kulushkat
-  last_updated: 1/6
-  category: food-drink
-  address: 446C Dean St.
-  phone: (347) 799-1972
-  hours:
-    - days: Mon
-      hours: Closed
-    - days: Tue - Fri
-      hours: 11AM - 10PM
-      span: 4
-    - days: Sat - Sun
-      hours: 12 - 10PM
-      span: 2
-  supports:
-    - Outdoor Dining
-    - Pickup
-    - Delivery
-  services:
-    chownow: 'https://direct.chownow.com/order/8549/locations/11540'
-  social:
-    instagram: 'https://www.instagram.com/kulushkat/'
-  url: 'https://kulushkat.com'
 
 - name: LaLou
   last_updated: 2/13
@@ -1751,7 +1767,7 @@
 
 - name: Mermaid’s Garden
   last_updated: 1/6
-  category: grocery
+  category: grocer
   address: 644 Vanderbilt Ave.
   phone: (718) 638-1910
   hours: 
@@ -2022,12 +2038,11 @@
   url: 'https://www.nourishthai.com'
 
 - name: The Nuaa Table
-  last_updated: 3/24
   category: food-drink
   address: 638 Bergen St.
   phone: (718) 623-6395
   notes: >-
-    New Thai restaurant at the corner of Bergen and Vanderbilt.
+    Recently opened royal Thai restaurant with a slow-food focus at the corner of Bergen and Vanderbilt.
   services:
     doordash: 'https://www.doordash.com/store/the-nuaa-table-brooklyn-1528637'
     seamless: 'https://www.seamless.com/menu/the-nuaa-table-638-bergen-st-brooklyn/2569456'
@@ -2035,6 +2050,7 @@
   social:
     instagram: 'https://www.instagram.com/thenuaatable/'
     facebook: 'https://www.facebook.com/thenuaatable/'
+  url: 'https://www.thenuaatable.com'
 
 - name: Nûrish
   last_updated: 1/6
@@ -2147,22 +2163,11 @@
   url: 'http://www.oldebrooklynbagelshop.com'
 
 - name: Olmsted
-  last_updated: 1/13
   category: food-drink
   address: 659 Vanderbilt Ave.
   phone: (718) 552-2610
-  hours:
-    - days: Mon - Tue
-      hours: Closed
-      span: 2
-    - days: Wed - Fri
-      hours: 5 - 10PM
-      span: 3
-    - days: Sat - Sun
-      hours: 12 - 10PM
-      span: 2
   notes: >-
-    Trading Post and Cozy Cottage have reopened. Sat & Sun lunch until 3PM, dinner at 5PM
+    Trading Post is closing in a few short weeks to make way for restarting their private dining room.
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund'
@@ -2218,8 +2223,7 @@
     - days: Wed - Sun
       hours: 5:30 - 10PM
       span: 5
-  notes: >-
-    Reopened as of March 24.
+  # notes: >-
   links:
     - title: Oxalis Pantry
       url: 'https://www.oxalispantry.com/'
@@ -2239,6 +2243,13 @@
     instagram: 'https://www.instagram.com/oxalisnyc/'
     facebook: 'https://www.facebook.com/oxalisnyc'
   url: 'https://www.oxalisnyc.com'
+
+- name: Ozakaya
+  category: food-drink
+  notes: >-
+    Coming soon.
+  social:
+    instagram: 'https://www.instagram.com/ozakaya_nyc/'
 
 - name: Patsy’s Pizzeria
   last_updated: 1/6
@@ -2362,7 +2373,7 @@
 
 - name: Prospect Butcher Co.
   last_updated: 1/6
-  category: grocery
+  category: grocer
   address: 665 Vanderbilt Ave.
   phone: (347) 763-9500
   hours:
@@ -2378,7 +2389,7 @@
 
 - name: R&D Foods
   last_updated: 1/10
-  category: grocery
+  category: grocer
   address: 602 Vanderbilt Ave.
   phone: (347) 915-1196
   hours:
@@ -2467,7 +2478,6 @@
     instagram: 'https://www.instagram.com/shanes_brooklyn/'
 
 - name: Sharlene’s Bar
-  last_updated: 2/13
   address: 353 Flatbush Ave.
   category: food-drink
   hours:
@@ -2484,12 +2494,8 @@
     instagram: 'https://www.instagram.com/sharlenesbar/'
 
 - name: Sit & Wonder
-  last_updated: 1/6
+  address: 688 Washington Ave.
   category: cafe
-  hours:
-    - days: Mon - Sun
-      hours: 7:30AM - 2PM
-      span: 7
   links:
     - title: Staff Relief Fund
       url: 'https://www.gofundme.com/f/for-our-amazing-baristas'
@@ -2500,12 +2506,12 @@
   url: 'http://sitandwonder.net/index.html'
 
 - name: The Sly Rose
-  last_updated: 3/24
+  status: closed
   address: 663 Washington Ave.
   phone: (929) 554-3064
   category: food-drink
   notes: >-
-    New Italian restaurant run by the folks at Stocked.
+    New Italian restaurant run by the folks at Stocked, currently on a summer hiatus.
   hours:
     - days: Mon - Tue
       hours: Closed
@@ -2522,16 +2528,26 @@
     instagram: 'https://www.instagram.com/theslyrose/'
   url: 'https://www.theslyrose.com'
 
+- name: Smokey Vale
+  address: 575 Vanderbilt Ave.
+  phone: (347) 240-1133
+  category: store
+  notes: >-
+    Black-owned botique, barber shop and gallery space.
+  social:
+    instagram: 'https://www.instagram.com/smokey_vale/'
+  url: 'http://smokeyvale.com'
+
 - name: The Social
-  last_updated: 3/24
   address: 816 Washington Ave.
   status: closed
   category: dessert
   notes: >-
-    New ice cream shop coming this summer from the founders of Ample Hills.
+    New ice cream and doughnut shop coming this summer from the founders of Ample Hills.
   social:
-    instagram: 'https://www.instagram.com/thebrooklynicecreamsocial/'
-  
+    instagram: 'https://www.instagram.com/thesocialbrooklyn/'
+    facebook: 'https://www.facebook.com/theSocialBrooklyn/'
+  url: 'https://www.thesocialbrooklyn.com'
 
 - name: Sofreh
   last_updated: 1/6
@@ -2587,7 +2603,7 @@
     - Pickup
     - Delivery
   services:
-    chownow: 'https://direct.chownow.com/order/18160/locations/26048'
+    toast: 'https://www.toasttab.com/stocked-cafe-burgers/v3'
   social:
     instagram: 'https://www.instagram.com/stockedbrooklyn/'
   url: 'https://www.stockedbrooklyn.com'
@@ -2627,7 +2643,6 @@
   url: 'http://www.sunshinecobk.com'
 
 - name: Sweet Chick
-  last_updated: 1/6
   category: food-drink
   address: 341 Flatbush Ave.
   phone: (718) 484-7724
@@ -2635,9 +2650,6 @@
     - days: Mon - Sun
       hours: 12 - 10PM
       span: 7
-  notes: >-
-    Serving fried chicken sandwiches and more as
-    <a href="https://www.instagram.com/LILSWEETCHICK/">Lil’ Sweet Chick</a>.
   supports:
     - Outdoor Dining
     - Pickup
@@ -2689,9 +2701,8 @@
   last_updated: 2/12
   category: food-drink
   address: 229 Flatbush Ave.
-  status: closed
   notes: >-
-    New restaurant coming soon by the Morgan's BBQ team in the former Shorty’s space.
+    New restaurant by the Morgan's BBQ team in the former Shorty’s space.
   social:
     instagram: 'https://instagram.com/tinyscantina'
   url: 'https://www.tinyscantina.com/'
@@ -2779,25 +2790,24 @@
     facebook: 'https://www.facebook.com/underhillbrooklyn/'
   url: 'https://underhillbrooklyn.com/'
 
+- name: Union Market
+  category: grocer
+  address: 342 Flatbush Ave.
+  phone: (718) 663-6560
+  social:
+    instagram: 'https://www.instagram.com/unionmarket/'
+    facebook: 'https://www.facebook.com/unionmarketNYC/'
+  url: 'https://unionmarket.com'
+
 - name: Unnameable Books
-  last_updated: 1/6
   category: store
   address: 600 Vanderbilt Ave.
   phone: (718) 789-1534
-  hours:
-    - days: Mon - Thu
-      hours: 11AM - 7PM
-      span: 5
-    - days: Fri - Sat
-      hours: 11 - 9PM
-      span: 2
-    - days: Sun
-      hours: 11AM - 7PM
   links:
     - title: Online Store
       url: 'https://unnameablebooks.square.site'
   notes: >-
-    Two at a time inside.
+    Local shop that buys and sells secondhand books.
   social:
     instagram: 'https://www.instagram.com/unnameablebooks/'
     facebook: 'https://www.facebook.com/unnameable'
@@ -2808,16 +2818,9 @@
   category: dessert
   address: 550 Vanderbilt Ave
   phone: (347) 240-7453
-  hours:
-    - days: Mon - Sat
-      hours: 12 - 10PM
-      span: 7
   links:
     - title: Gift Cards
       url: 'https://squareup.com/gift/FR6ZMQGP6CJ1S/order'
-  supports:
-      - Pickup 
-      - Delivery
   services:
     caviar: 'https://www.trycaviar.com/store/van-leeuwen-ice-cream-brooklyn-773893/en-US'
     doordash: 'https://www.doordash.com/store/van-leeuwen-ice-cream-brooklyn-773893/en-US'
@@ -2845,22 +2848,6 @@
     instagram: 'https://instagram.com/vanderbiltwine'
     facebook: 'https://www.facebook.com/VanderbiltWine'
   url: 'https://vanderbilt.wine'
-
-- name: Washington Ave. Cafe
-  last_updated: 1/6
-  category: cafe
-  address: 621 Washington Ave.
-  phone: (718) 230-3734
-  hours:
-    - days: Mon - Sun
-      hours: 5:30AM - 4:00PM
-      span: 7
-  supports:
-    - Pickup
-    - Delivery
-  services:
-    seamless: 'https://www.seamless.com/menu/washington-avenue-cafe-621-washington-ave-brooklyn/900005'
-    grubhub: 'https://www.grubhub.com/restaurant/washington-avenue-cafe-621-washington-ave-brooklyn/900005'
 
 - name: Weather Up
   last_updated: 1/10

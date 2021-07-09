@@ -18,11 +18,18 @@
         {% if place.phone %}<a class="hover-link" href="tel:{{ place.phone }}">{{ place.phone }}</a>{% endif%}
       </div>
       {% endif %}
+      {% if place.services %}
+      <div class="mt2">
+      {% for service in place.services %}
+      <a href="{{service[1]}}"><img class="service-icon" src="icons/{{service[0]}}.png" alt="{{service[0]}}" /></a>
+      {% endfor %}
+      </div>
+      {% endif %}
     <div>
       <p class="place-notes">{{ place.notes }}</p>
     </div>
 
-    {% unless place.status == 'closed' %}
+    {% comment %}
     {% if place.hours %}
     <div class="place-section">
       <h4 class="heading-4">Hours</h4>
@@ -51,16 +58,9 @@
         {% endfor %}
       </ul>
       {% endif %}
-      
-      {% if place.services %}
-      <h5 class="heading-5">Online Ordering</h5>
-      {% for service in place.services %}
-      <a href="{{service[1]}}"><img class="service-icon" src="icons/{{service[0]}}.png" alt="{{service[0]}}" /></a>
-      {% endfor %}
-      {% endif %}
     </div>
     {% endif %}
-    {% endunless %}
+    {% endcomment %}
 
     {% if place.links %}
     <div class="place-section">
@@ -74,8 +74,8 @@
     </div>
     {% endif %}
 
-    {% if place.last_updated %}
+    <!-- {% if place.last_updated %}
     <div class="f7 lh-copy black-40" style="margin-top: auto;">Last updated: {{ place.last_updated }}</div>
-    {% endif %}
+    {% endif %} -->
   </div>
 </div>
